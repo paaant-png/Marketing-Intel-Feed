@@ -1,63 +1,86 @@
 {
     "date": "14 Feb, 2026",
-    "video": null,
-    "quiz": {
-        "q": "What is 'CAC' in marketing?",
-        "options": [
-            "Customer Acquisition Cost",
-            "Click Analysis Chart",
-            "Content Ad Campaign"
-        ],
-        "a": 0
+    "story": {
+        "brand": "Cred",
+        "campaign": "The 'Indiranagar Ka Gunda' Effect",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
+        "lesson": "Disruption happens when you break a celebrity's established archetype."
     },
-    "news_feed": [
+    "news": [
         {
-            "title": "Roku says it\u2019s growing video advertising faster than broader OTT market",
-            "link": "https://www.marketingdive.com/news/roku-says-its-growing-video-advertising-faster-than-broader-ott-market/812191/",
-            "summary": "The platform&rsquo;s Ads Manager expects to see a boost from AI tools while a major partnership with Amazon Ads is still only in t...",
-            "category": "Brand News"
+            "title": "Nothing opens first flagship store in Bengaluru, bets bigger on offline India push - Moneycontrol",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcDA5WF8xb3RfMGN2NWFHWjVvZGNDOHByd29LLVFpYVhsaEhlVS1Uc0lXeE5OTWZvbWZqa0pjTjhwM3NaVlFKZmVGX21SVTdTUFFpMVR1NURnWmxqeWpBNVpySURuS1pfdXlFQlpPRmMtU1lyOGxRZmJCaFZpWFV1cHg2WnctTjUwVVU3ZHRkbGFyRjkwV0R2VVBwd3NleXBQbUppbHduUGJUeGJWaWV0TjN5bHRZUm9Yb1QwTm90WUhHNl9lV25uU1JfZTFHTnRfY1RoLTlyYTBVNjRuSXp2TUdn0gHnAUFVX3lxTFBXTEtJcWpHSFpWTDU0ajJid0lCQm9BWm9iVUhWN3UxbWtOejQ2eGpNeEZIczVXMHdIZDZVYnFMcHJsSjVmSU4ycmtUUmdieEVvUTZVak1hbk5KUHV1YmhxYkxydVRTS2xIQklpeVpJX2twUkM0ODFkSnFmSkFIakJkY0o5LThsWEZlTjctWEV2cVZmRjFaTU5NSDF3WExUTzU3YTAzYVpkU1lGVkVHb2lVMjRYS2VMUk1DbVA0SXlIVEZRc29HNVNjX1JaV1ExUnM5VDRSeTRMVHFIYVdMbGpheXpMM1R0cw?oc=5",
+            "source": "Moneycontrol",
+            "date": "Sat, 14 Feb 2026 06:29:01 GMT",
+            "category": "Strategy"
         },
         {
-            "title": "Campaign Trail: Squarespace turns domain names into a noir nightmare",
-            "link": "https://www.marketingdive.com/news/campaign-trail-squarespace-turns-domain-names-into-a-noir-nightmare/811958/",
-            "summary": "The brand enlisted Hollywood duo Emma Stone and Yorgos Lanthimos to break out of the &ldquo;sea of sameness&rdquo; in Super Bowl a...",
-            "category": "Brand News"
+            "title": "Colgate-Palmolive India Launches Star-Studded Campaign for Visible White Purple Toothpaste - scanx.trade",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmF6ejhiNExYWkt0Y2JxUE1zVWpLZWEzamVKbjdjY3VEQUwwazUwN1hXSVlNa0VldUR2ZzdxRWJlT0Y3SXFuNkQ3aEhvU0FIS2dsakpENld2MW41V1dGR1pyN0FIR19PS18xMVVEalpUdUU3Uy10NWM2LUVESGtzaXhobzB2U1JqUXVCblVqVFlyQTBmbkp3WkZ4UE9ZdlppZkZLWldqN00tcjBxRHVXcGh4cGFzZFdVejZaM2U3V0tneDgzZV8tRTRPNEVFRDhKWUZPMnlHc0pEUlJu?oc=5",
+            "source": "scanx.trade",
+            "date": "Fri, 13 Feb 2026 17:47:15 GMT",
+            "category": "Strategy"
         },
         {
-            "title": "Why brands need to optimize their mobile apps and websites for AI",
-            "link": "https://www.marketingdive.com/news/why-brands-optimize-mobile-apps-websites-ai/812192/",
-            "summary": "Brands have built their digital experiences on Google&rsquo;s search algorithm, but that needs to change as consumer behavior evol...",
-            "category": "Brand News"
-        }
-    ],
-    "ecom_feed": [
-        {
-            "title": "Unilever ice cream unit seeks to tap big India opportunity amid a turnaround mode",
-            "link": "https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/unilever-ice-cream-unit-seeks-to-tap-big-india-opportunity-amid-a-turnaround-mode/128333642",
-            "summary": "India is poised to become the world&#039;s largest ice cream market within twenty years. Unilever&#039;s demerged ice cream busine...",
-            "category": "Retail Tech"
+            "title": "Pernod Ricard India shines with 11 metals at IMA 2025 - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3o1VW45Nmt3X295MmJxWGRUc0dreGpUcUhscmtJeG1ZaTFIMV9XT3NlTE01XzNIblZDS3kxZFB3LUhmbU5Bay00RzVuSDRWa3NyckZVakx5R2lUTUlDYXdnX0V0SUt1aWlzVjZudWljdzYzYVpOal9sMUNMazNBZ2pINTVZblZ6VnNzS2NFdDJMYndiODdManpDclM5NWFqal9NdUsyRXVialkwTzJlVg?oc=5",
+            "source": "Exchange4Media",
+            "date": "Wed, 11 Feb 2026 16:28:21 GMT",
+            "category": "Strategy"
         },
         {
-            "title": "Brace for a bigger bar tab in UP from April \u2014 here\u2019s how much liquor prices will rise, and why",
-            "link": "https://retail.economictimes.indiatimes.com/news/food-entertainment/grocery/brace-for-a-bigger-bar-tab-in-up-from-april-heres-how-much-liquor-prices-will-rise-and-why/128333970",
-            "summary": "UP alcohol price hike: Uttar Pradesh liquor prices will increase by approximately 7.5 percent starting April. The state government...",
-            "category": "Retail Tech"
+            "title": "Versuni India appoints Amlan Pati as marketing director and business head \u2013 kitchen appliances - Brand Equity",
+            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPN1FmRS1pTlRLNkFESGFIUVZLM3FldkppNFB4QUx1VUxCdlNzSktFUUFER2laRGNQTHpwYTM0dTBTdlVGenE4MlR6dUdOckdTVDZvbFY2MEREQVAwM0MwNzAtRE1fTER1LUtrZHN3aVNpLTFpVWdNdkJnSU1NdjdRemZYd1FMYTc3cElQUGU5WmNwUUJwUlBKS1kxS3NFT3kxTmJLWS1pZ1ZhcjVJZFJMc3FYSjJjSmJnVE5QYWJEeS1LYkgtdUR4NHdzYlNwcUp4NlBHLTR4LXFGbmZGSFJWTVNIMjhnYkRCOUV6WVA5YXZzU0wweDBzV0h0QnpJMU9tOVFpYjZFdU7SAY4CQVVfeXFMTy1XMmpvWUIzYVRVb09RbC1ZYllWWi02cGxNZUZLcVhGM3lnMHZ1dnIyemZKR01XWnJxRGVTV0lQQWxJQ2k2Q3UyM0xlOTZFR1phLU9FMElKNWVTTzU3SGlZMmUwck93eUNScldhTVIxUFkyS2I5X1ByQnp6THI4eVhsWjgyTzZmU1dsUzhLYng1UlVlVmZqaDNuOWJDdVF0R1EzWGRFRlNsLWVLYXBxaHVHZkNJeEY2dW9jSFZieVlqbVFBd2FwdjhDSV9DU285VGU5SGJlM3BOVWJmVWJmWnZhNmdXR2o3TjF6aE5yRXV4eTBtUzQwTVRyLVQ2N25XVWhwOW9DMkE3YlNDdlpR?oc=5",
+            "source": "Brand Equity",
+            "date": "Wed, 11 Feb 2026 14:19:43 GMT",
+            "category": "Strategy"
         },
         {
-            "title": "FirstCry Q3 net loss widens to Rs 38 crore, revenue up 11.6%",
-            "link": "https://retail.economictimes.indiatimes.com/news/toys-kids-and-baby/firstcry-q3-net-loss-widens-to-rs-38-crore-revenue-up-11-6/128334234",
-            "summary": "However, Brainbees Solutions, the parent of the mother and baby care products retailer FirstCry, registered an 11.6% YoY rise in o...",
-            "category": "Retail Tech"
+            "title": "DHL\u2019s E-Commerce Trends Report 2025: AI and Social Media Reshaping Online Shopping in Asia Pacific - DHL",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM19xR0pEM2x2R1JwSWVWcm9hY2pHNThKMHY5NlZlSUZPVk1QeDRxdDRRdWRXNG14WDUxLXY3Ti1IbnJaUk05NUZPUC1vN3hhWnNWbUtVak82YnBCcWJYZGNxS09TZER3TmVLcFBSQXVVMVNLMjFJYUJadUhWSEZOZVJTNFhIWTFnVGtTZWVsdW5QMk1mODhMYzVrbWlDbHkxU1ZFdzFWVWFoRjloYXdYc0h1TFNuenZpYlU3VDlMM3FySWUyWTVNdlJSenVRYkl2dEZLMldIQXdJNXNFeFNnTzljaUFoa19HZVUzcGFB?oc=5",
+            "source": "DHL",
+            "date": "Mon, 23 Jun 2025 07:00:00 GMT",
+            "category": "Retail"
+        },
+        {
+            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
+            "source": "Inc42",
+            "date": "Wed, 10 Dec 2025 08:00:00 GMT",
+            "category": "Retail"
+        },
+        {
+            "title": "E-commerce trends: Online buyers delay big-ticket purchases before GST 2.0, festive season seen as strong - Times of India",
+            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYV91ZElDLUliTFJuMFpkMmZQTWhuNENZNXBwQ0Z4ejVhVGk1VkFULW5KR2lBaHBzSWNraS1UREgtQU41Ukp1NlEwQzlxVTNkV0NMamdlTWtsZGxkODhjVk1MVnR6dkVHTmstenZZZ3FOUmdtRUNlalY2RjMxRnROZEZUOUVVaFUzMHJIYXJjbWFWQ2NxNWFfaXAwaUJPNXpGX1ItMm1XTWg3ZlZaTDE1bktjTWlZZzhLa29xLTh6YTZsc3owa3h0RDFsMkxYYU9uZDdnNzdzU0NtdU5kbUJraFJ6SnVoTDBVNUhITHBlQW1yZTl4dzh6WGxNMTZxc0pSMTB5UWxUSHlxVlNwZHJtdm41V09Tdy1jZmllaEw5RGN1d1hIZWY1cEF6MWpEQdIBswJBVV95cUxNYWpGbFE3UmQ0QTAydno3WGJadS0ydmdLWUotT1o1OW9wUVBRV2wzSDVhZWh3OGlmMU5uN2M5b3NSYW5Fa09GdjNyb0UtU292OWpOZG95bXFOU1RrNnZVS0xmZVNZRE9CVVBpZlAxUUdTR2dseWtHSlBpTm9FLUYzcUs3TGRIZk1MaTBlM29RdnhtVUFGY0pKX1NMU3hCSkJXYmNVb2RkbkZ2T2xGSHhZRG9aLTcwRGI2TU9mSl9TNjBPaE9VZGZKaUh6ZERWOXJ0Rk9iamdrSzZHYW1nNGF4STU0MlRkVy1RRWRta29xMnhIUGZYMmNmenVuV1JCUlk5SFNNeUxodUJoUHNRRGJ5SFBSYURaT1hpM2YwTkt6bkQtSmowa1dfczlIZGtGTnIxQ3hj?oc=5",
+            "source": "Times of India",
+            "date": "Sun, 31 Aug 2025 07:00:00 GMT",
+            "category": "Retail"
+        },
+        {
+            "title": "Hyper-value And New Trends Driving E-commerce Growth In India - thecore.in",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HckcxZFZocWhJZzdDYnVhNVBxUDdnNFZYdF9yWGQ5elBvZXFleThQajFONWZQVVdZWFpoeTRyS0N6N0NUdWdoeklscVkxc2doYnB0VWhEUzFBeWJYVHlSU3ZYR293S2l3Q2JxczRvMVEtQ0t6?oc=5",
+            "source": "thecore.in",
+            "date": "Mon, 22 Sep 2025 07:00:00 GMT",
+            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "The 'Doom Loop'",
-            "desc": "A 2026 trend where CMOs lose influence by failing to prove brand ROI. Fix: Connect brand metrics to cash flow."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Zero-Click Search",
-            "desc": "With AI answers (SearchGPT/Gemini), users don't click links. Brands must optimize for 'Answer Engine Optimization' (AEO)."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
+    },
+    "quiz": {
+        "q": "What is 'Share of Voice' (SOV)?",
+        "options": [
+            "Your brand's visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
+        ],
+        "a": 0
     }
 }
