@@ -2,11 +2,11 @@
     "date": "14 Feb, 2026",
     "video": null,
     "quiz": {
-        "q": "What is the 2026 trend 'Zero-Click'?",
+        "q": "What is 'CAC' in marketing?",
         "options": [
-            "Users get answers without clicking websites",
-            "Buying without checkout",
-            "Ads with no links"
+            "Customer Acquisition Cost",
+            "Click Analysis Chart",
+            "Content Ad Campaign"
         ],
         "a": 0
     },
@@ -56,8 +56,8 @@
             "desc": "A 2026 trend where CMOs lose influence by failing to prove brand ROI. Fix: Connect brand metrics to cash flow."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI Agents (not humans) are starting to make buying decisions. Optimization must now target AI bots, not just people."
+            "topic": "Zero-Click Search",
+            "desc": "With AI answers (SearchGPT/Gemini), users don't click links. Brands must optimize for 'Answer Engine Optimization' (AEO)."
         }
     }
 }
