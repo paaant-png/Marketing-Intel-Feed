@@ -1,100 +1,85 @@
 import feedparser
 import json
 import random
-from datetime import datetime
 import re
+from datetime import datetime
 
-# --- PART 1: RELIABLE SOURCES (That provide summaries) ---
-# We use Bing News and Industry Feeds because they include the 'description' text in the feed itself.
-RSS_SOURCES = [
-    {
-        "tag": "Digital Marketing",
-        "url": "https://www.marketingdive.com/feeds/news/",
-        "source": "Marketing Dive"
-    },
-    {
-        "tag": "SEO & Trends",
-        "url": "https://searchengineland.com/feed",
-        "source": "Search Engine Land"
-    },
-    {
-        "tag": "Brand Strategy",
-        "url": "https://www.bing.com/news/search?q=Brand+Strategy+India&format=rss",
-        "source": "Bing News"
-    }
+# --- CONFIGURATION: RELIABLE RSS SOURCES ---
+FEEDS = {
+    "GENERAL": "https://www.marketingdive.com/feeds/news/",
+    "ECOMMERCE": "https://www.retaildive.com/feeds/news/",
+    "CONTENT": "https://contentmarketinginstitute.com/feed/",
+    # YouTube RSS for 'Ads of the World' or similar creative channel
+    "BRAND_FILMS": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBNQC2_gtsQ3X_V-MvF3u1Q" 
+}
+
+# --- QUIZ BANK (Static for reliability) ---
+QUIZ_BANK = [
+    {"q": "What does SEO stand for?", "options": ["Search Engine Optimization", "Sales Engine Output", "Site Efficiency Order"], "a": 0},
+    {"q": "Which metric measures the percentage of visitors who leave after one page?", "options": ["Bounce Rate", "Churn Rate", "Exit Velocity"], "a": 0},
+    {"q": "In A/B testing, how many variables should you change at once?", "options": ["One", "Two", "As many as possible"], "a": 0},
+    {"q": "What is the '4 P's' of marketing?", "options": ["Product, Price, Place, Promotion", "Plan, People, Process, Profit", "Power, Pitch, Play, Performance"], "a": 0},
+    {"q": "Which platform is known for B2B marketing?", "options": ["LinkedIn", "TikTok", "Snapchat"], "a": 0}
 ]
 
-# Evergreen Facts for the Sidebar
-marketing_facts = [
-    "Video content is 50x more likely to drive organic search results than plain text.",
-    "70% of marketers are actively investing in content marketing.",
-    "Email marketing has an average ROI of $36 for every $1 spent.",
-    "93% of online experiences begin with a search engine.",
-    "Consistent brand presentation increases revenue by 33%."
-]
+def clean_summary(html_text):
+    """Removes HTML tags to give clean text summaries."""
+    clean = re.compile('<.*?>')
+    text = re.sub(clean, '', html_text)
+    return text[:150] + "..." if len(text) > 150 else text
 
-def clean_html(raw_html):
-    """Removes HTML tags (like <p>, <a>) from the summary text."""
-    cleanr = re.compile('<.*?>')
-    cleantext = re.sub(cleanr, '', raw_html)
-    return cleantext[:250] + "..." if len(cleantext) > 250 else cleantext
+def fetch_news(url, category):
+    print(f"Fetching {category}...")
+    feed = feedparser.parse(url)
+    articles = []
+    for entry in feed.entries[:3]: # Top 3 per category
+        articles.append({
+            "title": entry.title,
+            "link": entry.link,
+            "summary": clean_summary(entry.summary) if hasattr(entry, 'summary') else "",
+            "category": category,
+            "type": "NEWS"
+        })
+    return articles
 
-def fetch_feed(source_config):
-    print(f"Fetching from {source_config['source']}...")
-    try:
-        feed = feedparser.parse(source_config['url'])
-        articles = []
-        
-        # Get top 2 articles from each source
-        for entry in feed.entries[:2]:
-            # 1. Try to find the summary in different common RSS fields
-            raw_summary = ""
-            if hasattr(entry, 'summary'):
-                raw_summary = entry.summary
-            elif hasattr(entry, 'description'):
-                raw_summary = entry.description
-            
-            # 2. Clean it up
-            clean_summary = clean_html(raw_summary)
-            
-            # 3. Fallback if empty
-            if len(clean_summary) < 20:
-                clean_summary = "Click to read the full market analysis."
-
-            articles.append({
-                "title": entry.title,
-                "link": entry.link,
-                "source": source_config['source'],
-                "summary": clean_summary,
-                "type": "NEWS"
-            })
-        return articles
-    except Exception as e:
-        print(f"Error fetching {source_config['source']}: {e}")
-        return []
+def fetch_videos(url):
+    print("Fetching Brand Films...")
+    feed = feedparser.parse(url)
+    videos = []
+    for entry in feed.entries[:1]: # Latest 1 Video
+        # Extract YouTube ID
+        video_id = entry.yt_videoid if hasattr(entry, 'yt_videoid') else entry.link.split('=')[-1]
+        videos.append({
+            "title": entry.title,
+            "video_id": video_id,
+            "link": entry.link,
+            "type": "VIDEO"
+        })
+    return videos
 
 def main():
-    # 1. Sidebar Fact
-    daily_fact = {
-        "title": random.choice(marketing_facts),
-        "source": "Stat of the Day",
-        "summary": "Key insight for your strategy.",
-        "type": "FACT"
+    # 1. Fetch All Data
+    general = fetch_news(FEEDS["GENERAL"], "Marketing")
+    ecom = fetch_news(FEEDS["ECOMMERCE"], "E-Commerce")
+    content = fetch_news(FEEDS["CONTENT"], "Content Strategy")
+    films = fetch_videos(FEEDS["BRAND_FILMS"])
+    
+    # 2. Get Daily Quiz
+    daily_quiz = random.choice(QUIZ_BANK)
+    daily_quiz["type"] = "QUIZ"
+
+    # 3. Combine Data
+    final_data = {
+        "date": datetime.now().strftime("%d %b, %Y"),
+        "quiz": daily_quiz,
+        "video": films[0] if films else None,
+        "news": general + ecom + content
     }
-    
-    # 2. Fetch All News
-    all_news = []
-    for source in RSS_SOURCES:
-        news_items = fetch_feed(source)
-        all_news.extend(news_items)
-        
-    # 3. Combine (Fact first)
-    final_feed = [daily_fact] + all_news
-    
+
     # 4. Save
     with open('news.json', 'w') as f:
-        json.dump(final_feed, f, indent=4)
-    print(f"Success! Generated {len(final_feed)} unique insights.")
+        json.dump(final_data, f, indent=4)
+    print("Dashboard Updated Successfully.")
 
 if __name__ == "__main__":
     main()
