@@ -1,16 +1,13 @@
 import feedparser
 import json
 import random
+import requests
+from bs4 import BeautifulSoup
 from datetime import datetime
+import time
 
-# --- PART 1: THE BACKUP DATABASE (Guaranteed Content) ---
-# If Google blocks us, show these instead of an empty screen.
-backup_news = [
-    {"title": "The Ultimate Guide to SEO in 2026", "source": "Search Engine Land", "link": "https://searchengineland.com", "type": "NEWS"},
-    {"title": "How AI is Reshaping Digital Marketing", "source": "HubSpot Blog", "link": "https://blog.hubspot.com/marketing", "type": "NEWS"},
-    {"title": "10 Trends in Brand Strategy for India", "source": "Campaign India", "link": "https://www.campaignindia.in", "type": "NEWS"},
-    {"title": "Why Video Content dominates Social Media", "source": "Social Media Today", "link": "https://www.socialmediatoday.com", "type": "NEWS"}
-]
+# --- CONSTANTS ---
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 marketing_facts = [
     "Did you know? Video content is 50x more likely to drive organic search results than plain text.",
@@ -20,55 +17,82 @@ marketing_facts = [
     "Branding: Consistent presentation of a brand has been seen to increase revenue by 33%."
 ]
 
-def fetch_rss(url, tag):
-    print(f"Attempting to fetch {tag}...")
+def get_meta_summary(url):
+    """
+    Visits the article URL and extracts the 'Description' meta tag.
+    This acts as a perfect 1-sentence summary.
+    """
     try:
-        # standard feedparser call
-        feed = feedparser.parse(url)
-        articles = []
-        if feed.entries:
-            for entry in feed.entries[:3]:
-                articles.append({
-                    "title": entry.title,
-                    "link": entry.link,
-                    "source": entry.source.title if hasattr(entry, 'source') else "Google News",
-                    "date": "Today",
-                    "type": "NEWS"
-                })
-            print(f"Success: Found {len(articles)} items for {tag}")
-            return articles
-        else:
-            print(f"Warning: No entries found for {tag}")
-            return []
-    except Exception as e:
-        print(f"Error fetching {tag}: {e}")
-        return []
+        # We need a headers dict to look like a real browser, otherwise sites block us
+        headers = {'User-Agent': USER_AGENT}
+        
+        # Timeout is short (3s) so we don't get stuck if a site is slow
+        response = requests.get(url, headers=headers, timeout=3, allow_redirects=True)
+        
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.text, 'html.parser')
+            
+            # Try to find standard description or OpenGraph description
+            meta = soup.find('meta', attrs={'name': 'description'}) or \
+                   soup.find('meta', attrs={'property': 'og:description'}) or \
+                   soup.find('meta', attrs={'name': 'twitter:description'})
+            
+            if meta and meta.get('content'):
+                summary = meta.get('content').strip()
+                # Keep it short (max 200 chars)
+                return summary[:200] + "..." if len(summary) > 200 else summary
+                
+    except Exception:
+        pass # If we fail, just return None
+    
+    return "Click to read the full story on the publisher's website."
+
+def fetch_rss(url, tag):
+    print(f"Fetching {tag}...")
+    feed = feedparser.parse(url)
+    articles = []
+    
+    # Limit to top 2 articles per topic to keep the script fast
+    for entry in feed.entries[:2]:
+        # Fetch the real summary from the website
+        print(f"  - Summarizing: {entry.title[:30]}...")
+        summary_text = get_meta_summary(entry.link)
+        
+        articles.append({
+            "title": entry.title,
+            "link": entry.link,
+            "source": entry.source.title if hasattr(entry, 'source') else "News",
+            "date": "Today",
+            "summary": summary_text,
+            "type": "NEWS"
+        })
+        # Be polite to servers
+        time.sleep(1)
+        
+    return articles
 
 def main():
-    # 1. Generate Daily Fact
+    # 1. Daily Fact
     daily_fact = {
         "title": random.choice(marketing_facts),
         "link": "#",
         "source": "Marketing Insight",
         "date": datetime.now().strftime("%d %b"),
+        "summary": "Daily knowledge bite for smarter marketing.",
         "type": "FACT"
     }
     
-    # 2. Try Fetching Live News (Digital Marketing & Branding)
-    # We use a broader search query to ensure results
-    news_items = fetch_rss("https://news.google.com/rss/search?q=Digital+Marketing+Trends&hl=en-IN&gl=IN&ceid=IN:en", "Digital Marketing")
+    # 2. Fetch News (Using a broader search to ensure hits)
+    digital_news = fetch_rss("https://news.google.com/rss/search?q=Digital+Marketing+Trends+India&hl=en-IN&gl=IN&ceid=IN:en", "Digital Marketing")
+    brand_news = fetch_rss("https://news.google.com/rss/search?q=Brand+Strategy+Innovation&hl=en-IN&gl=IN&ceid=IN:en", "Branding")
     
-    # 3. Fail-Safe Logic
-    if len(news_items) == 0:
-        print("Live fetch failed. Using Backup Database.")
-        final_feed = [daily_fact] + backup_news
-    else:
-        final_feed = [daily_fact] + news_items
+    # 3. Combine
+    final_feed = [daily_fact] + digital_news + brand_news
 
-    # 4. Save to JSON
+    # 4. Save
     with open('news.json', 'w') as f:
         json.dump(final_feed, f, indent=4)
-    print("Job Complete. news.json updated.")
+    print("Done. Summaries generated.")
 
 if __name__ == "__main__":
     main()
