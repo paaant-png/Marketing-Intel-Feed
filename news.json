@@ -1,22 +1,15 @@
-[
-    {
-        "title": "Video content is 50x more likely to drive organic search results than plain text.",
-        "source": "Stat of the Day",
-        "summary": "Key insight for your strategy.",
-        "type": "FACT"
+{
+    "date": "14 Feb, 2026",
+    "quiz": {
+        "q": "Which platform is known for B2B marketing?",
+        "options": [
+            "LinkedIn",
+            "TikTok",
+            "Snapchat"
+        ],
+        "a": 0,
+        "type": "QUIZ"
     },
-    {
-        "title": "Top 10 Branding Agencies in India You Should Know (2026)",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=69905d8e9a0846a68c84cd119085c4e2&url=https%3a%2f%2fwww.analyticsinsight.net%2fdigital-marketing%2ftop-10-branding-agencies-in-india-you-should-know-2026&c=17231775566059710140&mkt=en-us",
-        "source": "Bing News",
-        "summary": "Overview Top branding agencies in India now operate as strategic growth partners, shining a spotlight on businesses.Branding agencies in India that prioritise m ...",
-        "type": "NEWS"
-    },
-    {
-        "title": "WhizCrow Appoints Neidhi Kumaar as Vice President of Operations and AI Strategy to Lead Next Phase of Growth",
-        "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=69905d8e9a0846a68c84cd119085c4e2&url=https%3a%2f%2fwww.desmoinesregister.com%2fpress-release%2fstory%2f31029%2fwhizcrow-appoints-neidhi-kumaar-as-vice-president-of-operations-and-ai-strategy-to-lead-next-phase-of-growth%2f&c=8062093075947007917&mkt=en-us",
-        "source": "Bing News",
-        "summary": "Seasoned Technology Executive from Google, Uber, and Meta Joins to Strengthen Reputation Management and Operational ...",
-        "type": "NEWS"
-    }
-]
+    "video": null,
+    "news": []
+}
