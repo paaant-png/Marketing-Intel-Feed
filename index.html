@@ -5,43 +5,43 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Marketing Command Center</title>
     <style>
-        :root { --dark: #111; --light: #f4f4f4; --accent: #e63946; --blue: #1d3557; }
-        body { font-family: -apple-system, sans-serif; background: var(--light); color: var(--dark); margin: 0; padding: 20px; }
-        .container { max-width: 1000px; margin: 0 auto; }
+        :root { --dark: #0f172a; --light: #f1f5f9; --accent: #ef4444; --blue: #3b82f6; --card: #ffffff; }
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--light); color: var(--dark); margin: 0; padding: 20px; }
+        .container { max-width: 1100px; margin: 0 auto; }
 
         /* HEADER */
-        header { display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 3px solid var(--dark); padding-bottom: 15px; margin-bottom: 30px; }
-        h1 { font-size: 2rem; font-weight: 900; text-transform: uppercase; margin: 0; }
-        .date { font-weight: 600; color: #555; }
+        header { border-bottom: 3px solid var(--dark); padding-bottom: 15px; margin-bottom: 30px; display: flex; justify-content: space-between; align-items: baseline; }
+        h1 { font-size: 1.8rem; font-weight: 900; text-transform: uppercase; margin: 0; letter-spacing: -1px; }
+        .date { font-weight: 700; color: #64748b; }
 
-        /* GRID LAYOUT */
-        .dashboard { display: grid; grid-template-columns: 2fr 1fr; gap: 30px; }
-        
+        /* GRID */
+        .dashboard { display: grid; grid-template-columns: 2fr 1fr; gap: 25px; }
+
         /* CARDS */
-        .card { background: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); margin-bottom: 25px; }
-        .card-header { font-size: 0.85rem; font-weight: 800; color: var(--accent); text-transform: uppercase; margin-bottom: 15px; letter-spacing: 1px; }
+        .card { background: var(--card); padding: 20px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); margin-bottom: 25px; border: 1px solid #e2e8f0; }
+        .card-header { font-size: 0.75rem; font-weight: 800; color: var(--accent); text-transform: uppercase; margin-bottom: 15px; letter-spacing: 1px; display: block; }
 
         /* VIDEO */
-        .video-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 6px; }
-        .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+        .video-wrapper { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; background: #000; }
+        .video-wrapper iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
-        /* NEWS ITEMS */
-        .news-item { margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid #eee; }
-        .news-item:last-child { border: none; padding-bottom: 0; }
-        .tag { background: var(--blue); color: #fff; font-size: 0.6rem; padding: 2px 6px; border-radius: 3px; font-weight: bold; text-transform: uppercase; }
-        .headline { font-size: 1.1rem; font-weight: 700; margin: 5px 0; display: block; text-decoration: none; color: var(--dark); }
-        .headline:hover { color: var(--accent); }
-        .summary { font-size: 0.9rem; color: #666; line-height: 1.5; }
+        /* NEWS */
+        .news-item { padding-bottom: 15px; margin-bottom: 15px; border-bottom: 1px solid #f1f5f9; }
+        .news-item:last-child { border: none; margin-bottom: 0; }
+        .tag { background: #dbeafe; color: #1e40af; font-size: 0.65rem; padding: 2px 8px; border-radius: 4px; font-weight: 700; text-transform: uppercase; margin-right: 8px; }
+        .headline { font-size: 1.05rem; font-weight: 700; color: var(--dark); text-decoration: none; display: block; margin: 6px 0; line-height: 1.4; }
+        .headline:hover { color: var(--blue); }
+        .summary { font-size: 0.9rem; color: #64748b; margin: 0; line-height: 1.5; }
 
-        /* QUIZ WIDGET */
-        .quiz-box { text-align: center; }
-        .question { font-size: 1.1rem; font-weight: 700; margin-bottom: 15px; }
-        .option-btn { display: block; width: 100%; padding: 10px; margin: 5px 0; background: #eee; border: none; border-radius: 4px; cursor: pointer; font-weight: 600; transition: 0.2s; }
-        .option-btn:hover { background: #ddd; }
-        .correct { background: #d4edda !important; color: #155724; }
-        .wrong { background: #f8d7da !important; color: #721c24; }
+        /* QUIZ */
+        .question { font-size: 1.1rem; font-weight: 700; margin-bottom: 15px; line-height: 1.4; }
+        .opt-btn { display: block; width: 100%; padding: 12px; margin: 8px 0; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 6px; cursor: pointer; font-weight: 600; text-align: left; transition: 0.2s; }
+        .opt-btn:hover { background: #f1f5f9; border-color: #cbd5e1; }
+        .correct { background: #dcfce7 !important; border-color: #86efac !important; color: #166534; }
+        .wrong { background: #fee2e2 !important; border-color: #fca5a5 !important; color: #991b1b; }
 
-        @media (max-width: 768px) { .dashboard { grid-template-columns: 1fr; } }
+        /* RESPONSIVE */
+        @media (max-width: 800px) { .dashboard { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
@@ -55,30 +55,32 @@
     <div class="dashboard">
         <div class="main-col">
             <div class="card">
-                <div class="card-header">🎬 Latest Brand Film</div>
-                <div id="videoContainer"></div>
-                <h3 id="videoTitle" style="margin-top:10px; font-size:1rem;">Loading Film...</h3>
+                <span class="card-header">🎬 Campaign of the Day</span>
+                <div id="videoContainer" class="video-wrapper">
+                    <div style="display:flex; align-items:center; justify-content:center; height:100%; color:#fff;">Fetching latest film...</div>
+                </div>
+                <h3 id="videoTitle" style="margin-top:15px; font-size:1rem; margin-bottom:0;"></h3>
             </div>
 
             <div class="card">
-                <div class="card-header">📰 Industry Briefing</div>
-                <div id="newsFeed"></div>
+                <span class="card-header">📰 Industry Briefing</span>
+                <div id="newsFeed">Loading news...</div>
             </div>
         </div>
 
         <div class="side-col">
-            <div class="card quiz-box">
-                <div class="card-header">🧠 Daily Quiz</div>
-                <div id="quizContainer">Loading...</div>
-            </div>
-
             <div class="card">
-                <div class="card-header">🔥 Trending Topics</div>
-                <div style="display:flex; flex-wrap:wrap; gap:5px;">
-                    <span class="tag">#AI_Marketing</span>
-                    <span class="tag">#QuickCommerce</span>
+                <span class="card-header">🧠 Daily Challenge</span>
+                <div id="quizContainer">Loading quiz...</div>
+            </div>
+            
+            <div class="card">
+                <span class="card-header">🔥 Trending Now</span>
+                <div style="display:flex; gap:8px; flex-wrap:wrap;">
+                    <span class="tag">#AI</span>
+                    <span class="tag">#RetailMedia</span>
+                    <span class="tag">#GenZ</span>
                     <span class="tag">#Sustainability</span>
-                    <span class="tag">#ShortFormVideo</span>
                 </div>
             </div>
         </div>
@@ -88,58 +90,67 @@
 <script>
     async function init() {
         try {
-            const res = await fetch('./news.json');
+            // Add a cache buster to force fresh data load
+            const res = await fetch('./news.json?v=' + new Date().getTime());
+            if (!res.ok) throw new Error("File not found");
             const data = await res.json();
             
             // 1. Date
             document.getElementById('dateDisplay').innerText = data.date;
 
-            // 2. Video
-            if(data.video) {
+            // 2. Video Logic
+            if(data.video && data.video.video_id) {
                 document.getElementById('videoContainer').innerHTML = `
-                    <div class="video-container">
-                        <iframe src="https://www.youtube.com/embed/${data.video.video_id}" frameborder="0" allowfullscreen></iframe>
-                    </div>`;
+                    <iframe src="https://www.youtube.com/embed/${data.video.video_id}" frameborder="0" allowfullscreen></iframe>
+                `;
                 document.getElementById('videoTitle').innerText = data.video.title;
+            } else {
+                document.getElementById('videoContainer').innerHTML = `<div style="display:flex; align-items:center; justify-content:center; height:100%; background:#eee; color:#555;">No New Films Found Today</div>`;
             }
 
             // 3. News Feed
-            const newsHTML = data.news.map(item => `
-                <div class="news-item">
-                    <span class="tag">${item.category}</span>
-                    <a href="${item.link}" target="_blank" class="headline">${item.title}</a>
-                    <p class="summary">${item.summary}</p>
-                </div>
-            `).join('');
-            document.getElementById('newsFeed').innerHTML = newsHTML;
+            if (data.news && data.news.length > 0) {
+                document.getElementById('newsFeed').innerHTML = data.news.map(item => `
+                    <div class="news-item">
+                        <div style="display:flex; align-items:center; margin-bottom:5px;">
+                            <span class="tag">${item.category}</span>
+                        </div>
+                        <a href="${item.link}" target="_blank" class="headline">${item.title}</a>
+                        <p class="summary">${item.summary}</p>
+                    </div>
+                `).join('');
+            } else {
+                document.getElementById('newsFeed').innerHTML = "<p>No news available. Check back later.</p>";
+            }
 
-            // 4. Quiz
+            // 4. Quiz Logic
             const quiz = data.quiz;
             let optionsHTML = quiz.options.map((opt, index) => 
-                `<button class="option-btn" onclick="checkAnswer(this, ${index}, ${quiz.a})">${opt}</button>`
+                `<button class="opt-btn" onclick="check(this, ${index}, ${quiz.a})">${opt}</button>`
             ).join('');
             
             document.getElementById('quizContainer').innerHTML = `
                 <div class="question">${quiz.q}</div>
                 ${optionsHTML}
-                <div id="quizResult" style="margin-top:10px; font-weight:bold;"></div>
+                <div id="qResult" style="margin-top:10px; font-weight:bold; height:20px;"></div>
             `;
 
         } catch (e) {
-            console.log("Loading error");
+            console.error(e);
+            document.getElementById('newsFeed').innerHTML = "<p style='color:red'>System Error: Run the GitHub Action to generate data.</p>";
         }
     }
 
-    function checkAnswer(btn, index, correctIndex) {
-        const result = document.getElementById('quizResult');
-        if(index === correctIndex) {
+    function check(btn, idx, correct) {
+        const res = document.getElementById('qResult');
+        if(idx === correct) {
             btn.classList.add('correct');
-            result.innerText = "Correct! 🎉";
-            result.style.color = "green";
+            res.innerText = "Correct! +10 Points";
+            res.style.color = "green";
         } else {
             btn.classList.add('wrong');
-            result.innerText = "Wrong! Try again.";
-            result.style.color = "red";
+            res.innerText = "Wrong answer.";
+            res.style.color = "red";
         }
     }
 
