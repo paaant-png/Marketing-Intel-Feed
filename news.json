@@ -1,15 +1,63 @@
 {
     "date": "14 Feb, 2026",
-    "quiz": {
-        "q": "Which platform is known for B2B marketing?",
-        "options": [
-            "LinkedIn",
-            "TikTok",
-            "Snapchat"
-        ],
-        "a": 0,
-        "type": "QUIZ"
-    },
     "video": null,
-    "news": []
+    "quiz": {
+        "q": "What is the 2026 trend 'Zero-Click'?",
+        "options": [
+            "Users get answers without clicking websites",
+            "Buying without checkout",
+            "Ads with no links"
+        ],
+        "a": 0
+    },
+    "news_feed": [
+        {
+            "title": "Roku says it\u2019s growing video advertising faster than broader OTT market",
+            "link": "https://www.marketingdive.com/news/roku-says-its-growing-video-advertising-faster-than-broader-ott-market/812191/",
+            "summary": "The platform&rsquo;s Ads Manager expects to see a boost from AI tools while a major partnership with Amazon Ads is still only in t...",
+            "category": "Brand News"
+        },
+        {
+            "title": "Campaign Trail: Squarespace turns domain names into a noir nightmare",
+            "link": "https://www.marketingdive.com/news/campaign-trail-squarespace-turns-domain-names-into-a-noir-nightmare/811958/",
+            "summary": "The brand enlisted Hollywood duo Emma Stone and Yorgos Lanthimos to break out of the &ldquo;sea of sameness&rdquo; in Super Bowl a...",
+            "category": "Brand News"
+        },
+        {
+            "title": "Why brands need to optimize their mobile apps and websites for AI",
+            "link": "https://www.marketingdive.com/news/why-brands-optimize-mobile-apps-websites-ai/812192/",
+            "summary": "Brands have built their digital experiences on Google&rsquo;s search algorithm, but that needs to change as consumer behavior evol...",
+            "category": "Brand News"
+        }
+    ],
+    "ecom_feed": [
+        {
+            "title": "Unilever ice cream unit seeks to tap big India opportunity amid a turnaround mode",
+            "link": "https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/unilever-ice-cream-unit-seeks-to-tap-big-india-opportunity-amid-a-turnaround-mode/128333642",
+            "summary": "India is poised to become the world&#039;s largest ice cream market within twenty years. Unilever&#039;s demerged ice cream busine...",
+            "category": "Retail Tech"
+        },
+        {
+            "title": "Brace for a bigger bar tab in UP from April \u2014 here\u2019s how much liquor prices will rise, and why",
+            "link": "https://retail.economictimes.indiatimes.com/news/food-entertainment/grocery/brace-for-a-bigger-bar-tab-in-up-from-april-heres-how-much-liquor-prices-will-rise-and-why/128333970",
+            "summary": "UP alcohol price hike: Uttar Pradesh liquor prices will increase by approximately 7.5 percent starting April. The state government...",
+            "category": "Retail Tech"
+        },
+        {
+            "title": "FirstCry Q3 net loss widens to Rs 38 crore, revenue up 11.6%",
+            "link": "https://retail.economictimes.indiatimes.com/news/toys-kids-and-baby/firstcry-q3-net-loss-widens-to-rs-38-crore-revenue-up-11-6/128334234",
+            "summary": "However, Brainbees Solutions, the parent of the mother and baby care products retailer FirstCry, registered an 11.6% YoY rise in o...",
+            "category": "Retail Tech"
+        }
+    ],
+    "learning": {
+        "brand": {
+            "topic": "The 'Doom Loop'",
+            "desc": "A 2026 trend where CMOs lose influence by failing to prove brand ROI. Fix: Connect brand metrics to cash flow."
+        },
+        "ecom": {
+            "topic": "Agentic Commerce",
+            "desc": "AI Agents (not humans) are starting to make buying decisions. Optimization must now target AI bots, not just people."
+        }
+    }
 }
