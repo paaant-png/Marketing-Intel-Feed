@@ -5,45 +5,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Marketing Command Center</title>
     <style>
-        :root { --bg: #f8f9fa; --text: #212529; --accent: #c00; --blue: #0056b3; --card: #fff; }
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; }
-        .container { max-width: 1200px; margin: 0 auto; }
+        :root { --bg: #f3f4f6; --text: #1f2937; --accent: #dc2626; --blue: #2563eb; --card: #ffffff; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 25px; }
+        .container { max-width: 1000px; margin: 0 auto; }
 
-        /* Header */
-        header { display: flex; justify-content: space-between; border-bottom: 3px solid #000; padding-bottom: 15px; margin-bottom: 30px; }
-        h1 { margin: 0; font-weight: 900; letter-spacing: -1px; text-transform: uppercase; }
-        
-        /* Layout Grid */
+        /* HEADER */
+        header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #e5e7eb; padding-bottom: 20px; margin-bottom: 30px; }
+        h1 { margin: 0; font-weight: 900; font-size: 1.8rem; text-transform: uppercase; letter-spacing: -1px; }
+        .date-badge { background: #e5e7eb; padding: 5px 12px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; color: #4b5563; }
+
+        /* GRID */
         .grid { display: grid; grid-template-columns: 2fr 1fr; gap: 25px; }
 
-        /* Card Styles */
-        .card { background: var(--card); padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); margin-bottom: 25px; }
-        .label { font-size: 0.7rem; font-weight: 800; color: var(--accent); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; display: block; }
-        
-        /* Video */
-        .video-box { position: relative; padding-bottom: 56.25%; height: 0; background: #000; border-radius: 6px; overflow: hidden; }
-        .video-box iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+        /* CARDS */
+        .card { background: var(--card); padding: 24px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); margin-bottom: 25px; border: 1px solid #f3f4f6; }
+        .label { font-size: 0.75rem; font-weight: 800; color: var(--accent); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 15px; display: block; }
 
-        /* News List */
-        .news-row { padding: 15px 0; border-bottom: 1px solid #eee; }
-        .news-row:last-child { border: none; }
-        .news-tag { background: #eef; color: var(--blue); font-size: 0.6rem; padding: 3px 6px; border-radius: 3px; font-weight: 700; margin-right: 5px; }
-        .headline { font-weight: 700; text-decoration: none; color: var(--text); display: block; margin: 4px 0; }
-        .headline:hover { color: var(--blue); }
+        /* BRAND STORY (New Style) */
+        .story-title { font-size: 1.5rem; font-weight: 800; margin: 0 0 10px 0; color: #111; line-height: 1.2; }
+        .story-brand { color: var(--blue); font-weight: 700; }
+        .story-text { font-size: 1rem; line-height: 1.6; color: #4b5563; margin-bottom: 15px; }
+        .story-lesson { background: #eff6ff; border-left: 4px solid var(--blue); padding: 15px; font-weight: 600; font-style: italic; color: #1e40af; border-radius: 0 4px 4px 0; }
 
-        /* Learning Zone (New) */
-        .learn-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-top: 10px; }
-        .learn-card { background: #fffbe6; padding: 15px; border-left: 4px solid #ffd700; border-radius: 4px; }
-        .learn-title { font-weight: 800; font-size: 0.9rem; margin-bottom: 5px; display: block; }
-        .learn-desc { font-size: 0.85rem; line-height: 1.4; color: #555; margin: 0; }
+        /* NEWS LIST */
+        .news-item { padding-bottom: 15px; margin-bottom: 15px; border-bottom: 1px solid #f3f4f6; }
+        .news-item:last-child { border: none; margin-bottom: 0; }
+        .news-meta { font-size: 0.7rem; font-weight: 700; color: #9ca3af; text-transform: uppercase; margin-bottom: 4px; }
+        .news-link { font-size: 1.05rem; font-weight: 700; color: var(--text); text-decoration: none; line-height: 1.4; display: block; }
+        .news-link:hover { color: var(--blue); }
 
-        /* Quiz */
-        .opt-btn { display: block; width: 100%; padding: 10px; margin: 5px 0; border: 1px solid #ddd; background: #fff; cursor: pointer; text-align: left; border-radius: 4px; }
-        .opt-btn:hover { background: #f0f0f0; }
-        .correct { background: #d4edda !important; border-color: green; }
-        .wrong { background: #f8d7da !important; border-color: red; }
+        /* LEARNING ZONE */
+        .learn-box { background: #fffbe6; border: 1px solid #ffe58f; padding: 15px; border-radius: 8px; margin-bottom: 15px; }
+        .learn-head { font-weight: 800; font-size: 0.85rem; display: block; margin-bottom: 5px; color: #d48806; }
 
-        @media (max-width: 800px) { .grid, .learn-grid { grid-template-columns: 1fr; } }
+        /* QUIZ */
+        .opt-btn { width: 100%; padding: 12px; margin: 6px 0; background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; cursor: pointer; text-align: left; font-weight: 600; transition: 0.2s; }
+        .opt-btn:hover { background: #f3f4f6; border-color: #d1d5db; }
+        .correct { background: #ecfdf5 !important; border-color: #10b981 !important; color: #047857; }
+        .wrong { background: #fef2f2 !important; border-color: #ef4444 !important; color: #b91c1c; }
+
+        @media (max-width: 800px) { .grid { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
@@ -51,46 +52,33 @@
 <div class="container">
     <header>
         <h1>Marketing<span style="color:var(--accent)">Intel</span></h1>
-        <span id="dateDisplay" style="font-weight:700; color:#666;">Loading...</span>
+        <span class="date-badge" id="dateDisplay">Loading...</span>
     </header>
 
     <div class="grid">
         <div class="main-col">
             <div class="card">
-                <span class="label">🎬 Campaign Spotlight</span>
-                <div id="videoContainer" class="video-box"></div>
-                <h3 id="videoTitle" style="margin: 10px 0 0 0; font-size: 1rem;"></h3>
-            </div>
-
-            <div class="card">
-                <span class="label">🎓 The Learning Zone (2026 Trends)</span>
-                <div class="learn-grid">
-                    <div class="learn-card">
-                        <span class="learn-title">📢 Brand Strategy</span>
-                        <p id="learnBrand" class="learn-desc">Loading topic...</p>
-                    </div>
-                    <div class="learn-card" style="background:#e6f7ff; border-color:#1890ff;">
-                        <span class="learn-title">🛒 E-Commerce Tech</span>
-                        <p id="learnEcom" class="learn-desc">Loading topic...</p>
-                    </div>
+                <span class="label">🔥 Brand Story of the Day</span>
+                <div id="storyBox">
+                    <h2 class="story-title"><span class="story-brand">Loading...</span></h2>
                 </div>
             </div>
 
             <div class="card">
                 <span class="label">📰 Industry Briefing</span>
-                <div id="genNews">Loading...</div>
+                <div id="newsFeed">Loading News...</div>
             </div>
         </div>
 
         <div class="side-col">
             <div class="card">
-                <span class="label">🧠 Daily Challenge</span>
-                <div id="quizBox">Loading...</div>
+                <span class="label">🎓 Learning Zone</span>
+                <div id="learnContainer">Loading...</div>
             </div>
 
             <div class="card">
-                <span class="label">🛍️ E-Commerce Updates</span>
-                <div id="ecomNews">Loading...</div>
+                <span class="label">🧠 Daily Quiz</span>
+                <div id="quizContainer">Loading...</div>
             </div>
         </div>
     </div>
@@ -99,33 +87,67 @@
 <script>
     async function init() {
         try {
+            // Force fresh load
             const res = await fetch('./news.json?v=' + Date.now());
+            if (!res.ok) throw new Error("Data not ready");
             const data = await res.json();
             
+            // Date
             document.getElementById('dateDisplay').innerText = data.date;
 
-            // Video
-            if(data.video) {
-                document.getElementById('videoContainer').innerHTML = `<iframe src="https://www.youtube.com/embed/${data.video.id}" allowfullscreen frameborder="0"></iframe>`;
-                document.getElementById('videoTitle').innerText = data.video.title;
-            }
+            // 1. Brand Story
+            const s = data.story;
+            document.getElementById('storyBox').innerHTML = `
+                <h2 class="story-title"><span class="story-brand">${s.brand}:</span> ${s.campaign}</h2>
+                <p class="story-text">${s.story}</p>
+                <div class="story-lesson">💡 Lesson: ${s.lesson}</div>
+            `;
 
-            // Learning Zone
-            if(data.learning) {
-                document.getElementById('learnBrand').innerHTML = `<strong>${data.learning.brand.topic}:</strong> ${data.learning.brand.desc}`;
-                document.getElementById('learnEcom').innerHTML = `<strong>${data.learning.ecom.topic}:</strong> ${data.learning.ecom.desc}`;
-            }
+            // 2. News Feed
+            document.getElementById('newsFeed').innerHTML = data.news.map(n => `
+                <div class="news-item">
+                    <div class="news-meta">${n.source} • ${n.category}</div>
+                    <a href="${n.link}" target="_blank" class="news-link">${n.title}</a>
+                </div>
+            `).join('');
 
-            // Quiz
-            const quiz = data.quiz;
-            document.getElementById('quizBox').innerHTML = `
-                <div style="font-weight:700; margin-bottom:10px;">${quiz.q}</div>
-                ${quiz.options.map((o, i) => `<button class="opt-btn" onclick="check(this, ${i}, ${quiz.a})">${o}</button>`).join('')}
+            // 3. Learning Zone
+            const l = data.learning;
+            document.getElementById('learnContainer').innerHTML = `
+                <div class="learn-box">
+                    <span class="learn-head">📢 Brand Strategy</span>
+                    <strong>${l.brand.topic}:</strong> ${l.brand.desc}
+                </div>
+                <div class="learn-box" style="background:#e6f7ff; border-color:#91d5ff;">
+                    <span class="learn-head" style="color:#096dd9;">🛒 E-Commerce</span>
+                    <strong>${l.ecom.topic}:</strong> ${l.ecom.desc}
+                </div>
+            `;
+
+            // 4. Quiz
+            const q = data.quiz;
+            document.getElementById('quizContainer').innerHTML = `
+                <div style="font-weight:700; margin-bottom:10px;">${q.q}</div>
+                ${q.options.map((opt, i) => `<button class="opt-btn" onclick="check(this, ${i}, ${q.a})">${opt}</button>`).join('')}
                 <div id="qRes" style="margin-top:10px; font-weight:bold;"></div>
             `;
 
-            // News Renderer
-            const renderNews = (items) => items.map(i => `
-                <div class="news-row">
-                    <span class="news-tag">${i.category}</span>
-                    <a href="${i.link}" target="_blank
+        } catch (e) {
+            document.getElementById('newsFeed').innerHTML = "System updating... run GitHub Action.";
+        }
+    }
+
+    function check(btn, idx, ans) {
+        const res = document.getElementById('qRes');
+        if(idx === ans) {
+            btn.classList.add('correct');
+            res.innerText = "Correct! 🎯"; res.style.color = "green";
+        } else {
+            btn.classList.add('wrong');
+            res.innerText = "Try again."; res.style.color = "red";
+        }
+    }
+    init();
+</script>
+</body>
+</html>
