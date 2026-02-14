@@ -3,88 +3,229 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Marketing Intel</title>
+    <title>The Marketing Daily</title>
     <style>
-        :root { --bg: #ffffff; --text: #111; --accent: #2563eb; --sub: #555; --border: #eee; }
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 20px; line-height: 1.5; }
-        .container { max-width: 700px; margin: 0 auto; }
-        
-        /* Header */
-        .header { border-bottom: 2px solid #000; padding-bottom: 15px; margin-bottom: 30px; display: flex; justify-content: space-between; align-items: flex-end; }
-        .header h1 { font-size: 1.4rem; font-weight: 800; text-transform: uppercase; margin: 0; }
-        .date-label { font-size: 0.8rem; color: var(--sub); font-weight: 600; text-transform: uppercase; }
+        :root {
+            --paper-bg: #fdfbf7; /* Slightly off-white paper color */
+            --ink: #1a1a1a;
+            --accent: #8b0000; /* Dark Red */
+            --border: #2c2c2c;
+        }
 
-        /* Fact Card */
-        .fact-card { background: #f8fafc; padding: 20px; border-left: 4px solid var(--accent); margin-bottom: 40px; border-radius: 4px; }
-        .fact-label { font-size: 0.7rem; font-weight: 800; color: var(--accent); text-transform: uppercase; margin-bottom: 8px; display: block; }
-        .fact-text { font-size: 1.1rem; font-weight: 500; font-family: Georgia, serif; color: #334155; margin: 0; font-style: italic; }
+        body {
+            font-family: "Times New Roman", Times, serif;
+            background-color: var(--paper-bg);
+            color: var(--ink);
+            margin: 0;
+            padding: 20px;
+            line-height: 1.5;
+        }
 
-        /* News List */
-        .news-item { padding: 25px 0; border-bottom: 1px solid var(--border); display: flex; flex-direction: column; gap: 6px; }
-        
-        .news-meta { display: flex; justify-content: space-between; font-size: 0.7rem; font-weight: 700; color: #94a3b8; text-transform: uppercase; }
-        
-        .news-title { font-size: 1.15rem; font-weight: 700; text-decoration: none; color: var(--text); display: block; line-height: 1.3; }
-        .news-title:hover { color: var(--accent); text-decoration: underline; }
-        
-        /* NEW: Summary Style */
-        .news-summary { font-size: 0.9rem; color: var(--sub); line-height: 1.5; margin: 4px 0 0 0; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            border: 1px solid #ddd;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
 
-        @media (max-width: 600px) { body { padding: 15px; } }
+        /* MASTHEAD (The Newspaper Title) */
+        .masthead {
+            text-align: center;
+            border-bottom: 4px double var(--border);
+            padding-bottom: 15px;
+            margin-bottom: 25px;
+        }
+
+        .brand {
+            font-family: "Playfair Display", serif; /* Or Times New Roman */
+            font-size: 3rem;
+            font-weight: 900;
+            text-transform: uppercase;
+            letter-spacing: -1px;
+            margin: 0;
+            line-height: 1;
+        }
+
+        .subhead {
+            font-style: italic;
+            font-size: 1rem;
+            margin-top: 5px;
+            color: #555;
+        }
+
+        .meta-bar {
+            display: flex;
+            justify-content: space-between;
+            border-bottom: 1px solid var(--border);
+            padding: 5px 0;
+            font-family: sans-serif;
+            font-size: 0.75rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            margin-bottom: 30px;
+        }
+
+        /* GRID LAYOUT (The Columns) */
+        .grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr; /* Main story takes 2/3, Sidebar 1/3 */
+            gap: 30px;
+        }
+
+        /* MAIN COLUMN */
+        .main-col {
+            padding-right: 20px;
+            border-right: 1px solid #ddd;
+        }
+
+        /* ARTICLE STYLING */
+        .article {
+            margin-bottom: 35px;
+            padding-bottom: 25px;
+            border-bottom: 1px solid #eee;
+        }
+        .article:last-child { border: none; }
+
+        .tag {
+            font-family: sans-serif;
+            font-size: 0.7rem;
+            font-weight: 800;
+            color: var(--accent);
+            text-transform: uppercase;
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .headline {
+            font-size: 1.8rem;
+            font-weight: 700;
+            line-height: 1.1;
+            margin: 0 0 10px 0;
+        }
+        .headline a {
+            text-decoration: none;
+            color: var(--ink);
+        }
+        .headline a:hover {
+            text-decoration: underline;
+            color: var(--accent);
+        }
+
+        .summary {
+            font-size: 1.05rem;
+            text-align: justify;
+            margin-bottom: 10px;
+        }
+
+        /* SIDEBAR (The "Fact" Column) */
+        .sidebar {
+            background: #f4f4f4;
+            padding: 20px;
+            height: fit-content;
+        }
+
+        .fact-box {
+            border: 2px solid var(--ink);
+            padding: 15px;
+            text-align: center;
+        }
+
+        .fact-title {
+            font-family: sans-serif;
+            font-weight: 900;
+            text-transform: uppercase;
+            font-size: 0.8rem;
+            border-bottom: 1px solid var(--ink);
+            padding-bottom: 8px;
+            margin-bottom: 15px;
+        }
+
+        .fact-text {
+            font-size: 1.2rem;
+            font-weight: 600;
+            font-style: italic;
+            line-height: 1.4;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 700px) {
+            .grid { grid-template-columns: 1fr; }
+            .main-col { border-right: none; padding-right: 0; }
+            .brand { font-size: 2rem; }
+        }
     </style>
 </head>
 <body>
 
 <div class="container">
-    <div class="header">
-        <h1>Marketing Intel</h1>
-        <span class="date-label" id="todayDate">Loading...</span>
+    <header class="masthead">
+        <h1 class="brand">The Marketing Daily</h1>
+        <div class="subhead">Intelligence for the Modern Brand Manager</div>
+    </header>
+
+    <div class="meta-bar">
+        <span id="dateDisplay">Loading Date...</span>
+        <span>Vol. 1, Issue 2026</span>
+        <span>New Delhi Edition</span>
     </div>
-    <div id="feedContent"></div>
+
+    <div class="grid">
+        <div class="main-col" id="newsFeed">
+            </div>
+
+        <aside class="sidebar" id="sidebarFeed">
+            </aside>
+    </div>
 </div>
 
 <script>
-    async function loadNews() {
-        const options = { weekday: 'long', month: 'long', day: 'numeric' };
-        document.getElementById('todayDate').innerText = new Date().toLocaleDateString('en-IN', options);
+    async function loadPaper() {
+        // Set Date
+        const dateOpt = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+        document.getElementById('dateDisplay').innerText = new Date().toLocaleDateString('en-GB', dateOpt).toUpperCase();
 
         try {
             const res = await fetch('./news.json');
             const data = await res.json();
             
-            const container = document.getElementById('feedContent');
-            const fact = data.find(item => item.type === "FACT");
-            const news = data.filter(item => item.type === "NEWS");
+            const newsContainer = document.getElementById('newsFeed');
+            const sideContainer = document.getElementById('sidebarFeed');
+            
+            let newsHTML = '';
+            let factHTML = '';
 
-            let html = '';
-            
-            // Fact Section
-            if (fact) {
-                html += `
-                <div class="fact-card">
-                    <span class="fact-label">💡 Insight of the Day</span>
-                    <p class="fact-text">“${fact.title}”</p>
-                </div>`;
-            }
-            
-            // News Section
-            html += news.map(item => `
-                <div class="news-item">
-                    <div class="news-meta">
-                        <span>${item.source}</span>
-                        <span>${item.date}</span>
-                    </div>
-                    <a href="${item.link}" target="_blank" class="news-title">${item.title}</a>
-                    <p class="news-summary">${item.summary}</p>
-                </div>
-            `).join('');
-            
-            container.innerHTML = html;
+            data.forEach(item => {
+                if (item.type === 'FACT') {
+                    // Sidebar Content
+                    factHTML = `
+                        <div class="fact-box">
+                            <div class="fact-title">Stat of the Day</div>
+                            <p class="fact-text">“${item.title}”</p>
+                        </div>
+                    `;
+                } else {
+                    // Main News Content
+                    newsHTML += `
+                        <article class="article">
+                            <span class="tag">${item.source || 'Breaking News'}</span>
+                            <h2 class="headline"><a href="${item.link}" target="_blank">${item.title}</a></h2>
+                            <p class="summary">${item.summary || 'Click to read full coverage on the source website.'}</p>
+                        </article>
+                    `;
+                }
+            });
+
+            newsContainer.innerHTML = newsHTML;
+            sideContainer.innerHTML = factHTML;
+
         } catch (e) {
-            document.getElementById('feedContent').innerHTML = "<p>Feed updating...</p>";
+            document.getElementById('newsFeed').innerHTML = "<p><i>The printing press is warming up... (Run your scraper!)</i></p>";
         }
     }
-    loadNews();
+    loadPaper();
 </script>
+
 </body>
 </html>
