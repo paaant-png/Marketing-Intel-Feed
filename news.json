@@ -1,10 +1,10 @@
 {
-    "date": "14 Feb, 2026",
+    "date": "15 Feb, 2026",
     "story": {
-        "brand": "Cred",
-        "campaign": "The 'Indiranagar Ka Gunda' Effect",
-        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
-        "lesson": "Disruption happens when you break a celebrity's established archetype."
+        "brand": "Spotify",
+        "campaign": "Wrapped 2025: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
+        "lesson": "Data is boring. Data identity is viral."
     },
     "news": [
         {
@@ -15,24 +15,24 @@
             "category": "Strategy"
         },
         {
+            "title": "Rural India reshapes marketing strategies as 45% digital budgets move beyond Metros - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOHR2X0lvLUJzTUZkanAwZXpQN3ZmSjRBaFd6UUhKRjkyZUlkeEdtcC1sRm0yUmdSSUJHaVdDemxyZUpaLUxSU0I4MjdGV2dOMEFwNFpGQXBsQ1NmeWFvaFFGZllEUHRuTm9YSGFhdElqSXZFYnVZMnRBUm5JUGg3VXRyMjBQbHZaQmRBdVN4dTk5RTBrZXdOcG5wRHRDV3dzc2U2QWgyRUp3X3RYVE5vTWxIeVZiSVg5NEg4VWhsWFhRVmFwc2hZbGZ2eEdnVnFHR2N1RUZIOA?oc=5",
+            "source": "Exchange4Media",
+            "date": "Tue, 27 Jan 2026 08:00:00 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Marriott\u2019s winning formula: Merging culture, loyalty, and personalisation in its marketing strategy - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEgyeGcyMzVac015NXpGVHVjR1kyejNoYU05VG5NR2NvNmdMUGZtVGVqaHdWS3RoZnBWNW1ZaXhYSEp5ck1YaTItZUstWlByZHZ3UVdhRzFHNm1aMVNISnV1Yzg2c2FpMVFNd2RFMlpGa1hJZVRmeE51QXZZRzlTYkc1RF9xM2xLcGwxN1BtVXVRcEZWZHhGWnR1Yzd6cEJRbVRvMmZkcnF5UnRxQi1TX0RxN0JWUG5GMzVGX3N1S3hfcHZpWXhiSk5VQ3hYNERGdGphZlpFYw?oc=5",
+            "source": "Campaign India",
+            "date": "Wed, 14 Jan 2026 15:55:40 GMT",
+            "category": "Strategy"
+        },
+        {
             "title": "Colgate-Palmolive India Launches Star-Studded Campaign for Visible White Purple Toothpaste - scanx.trade",
             "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmF6ejhiNExYWkt0Y2JxUE1zVWpLZWEzamVKbjdjY3VEQUwwazUwN1hXSVlNa0VldUR2ZzdxRWJlT0Y3SXFuNkQ3aEhvU0FIS2dsakpENld2MW41V1dGR1pyN0FIR19PS18xMVVEalpUdUU3Uy10NWM2LUVESGtzaXhobzB2U1JqUXVCblVqVFlyQTBmbkp3WkZ4UE9ZdlppZkZLWldqN00tcjBxRHVXcGh4cGFzZFdVejZaM2U3V0tneDgzZV8tRTRPNEVFRDhKWUZPMnlHc0pEUlJu?oc=5",
             "source": "scanx.trade",
             "date": "Fri, 13 Feb 2026 17:47:15 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Pernod Ricard India shines with 11 metals at IMA 2025 - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT3o1VW45Nmt3X295MmJxWGRUc0dreGpUcUhscmtJeG1ZaTFIMV9XT3NlTE01XzNIblZDS3kxZFB3LUhmbU5Bay00RzVuSDRWa3NyckZVakx5R2lUTUlDYXdnX0V0SUt1aWlzVjZudWljdzYzYVpOal9sMUNMazNBZ2pINTVZblZ6VnNzS2NFdDJMYndiODdManpDclM5NWFqal9NdUsyRXVialkwTzJlVg?oc=5",
-            "source": "Exchange4Media",
-            "date": "Wed, 11 Feb 2026 16:28:21 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Versuni India appoints Amlan Pati as marketing director and business head \u2013 kitchen appliances - Brand Equity",
-            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPN1FmRS1pTlRLNkFESGFIUVZLM3FldkppNFB4QUx1VUxCdlNzSktFUUFER2laRGNQTHpwYTM0dTBTdlVGenE4MlR6dUdOckdTVDZvbFY2MEREQVAwM0MwNzAtRE1fTER1LUtrZHN3aVNpLTFpVWdNdkJnSU1NdjdRemZYd1FMYTc3cElQUGU5WmNwUUJwUlBKS1kxS3NFT3kxTmJLWS1pZ1ZhcjVJZFJMc3FYSjJjSmJnVE5QYWJEeS1LYkgtdUR4NHdzYlNwcUp4NlBHLTR4LXFGbmZGSFJWTVNIMjhnYkRCOUV6WVA5YXZzU0wweDBzV0h0QnpJMU9tOVFpYjZFdU7SAY4CQVVfeXFMTy1XMmpvWUIzYVRVb09RbC1ZYllWWi02cGxNZUZLcVhGM3lnMHZ1dnIyemZKR01XWnJxRGVTV0lQQWxJQ2k2Q3UyM0xlOTZFR1phLU9FMElKNWVTTzU3SGlZMmUwck93eUNScldhTVIxUFkyS2I5X1ByQnp6THI4eVhsWjgyTzZmU1dsUzhLYng1UlVlVmZqaDNuOWJDdVF0R1EzWGRFRlNsLWVLYXBxaHVHZkNJeEY2dW9jSFZieVlqbVFBd2FwdjhDSV9DU285VGU5SGJlM3BOVWJmVWJmWnZhNmdXR2o3TjF6aE5yRXV4eTBtUzQwTVRyLVQ2N25XVWhwOW9DMkE3YlNDdlpR?oc=5",
-            "source": "Brand Equity",
-            "date": "Wed, 11 Feb 2026 14:19:43 GMT",
             "category": "Strategy"
         },
         {
@@ -50,17 +50,17 @@
             "category": "Retail"
         },
         {
+            "title": "Revenue growth of ecommerce market in India from 2018 to 2029 - Statista",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUVNEY3JSQXJtWllDcUljc05FaWR6cEpaeWR6WHJpS3JxUUtza3lRc29MY1VhdWRMSnl3LWw1UmxtX0RPcmV1bXliOVQ3QldZMkxKNUtXMEFwUElEUTJVc1hHUkdUc2x3QTZ0Z2tsWGZScTduTG1uRGlhMzZDSXhyb1c2cXJUdw?oc=5",
+            "source": "Statista",
+            "date": "Fri, 28 Nov 2025 08:00:00 GMT",
+            "category": "Retail"
+        },
+        {
             "title": "E-commerce trends: Online buyers delay big-ticket purchases before GST 2.0, festive season seen as strong - Times of India",
             "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYV91ZElDLUliTFJuMFpkMmZQTWhuNENZNXBwQ0Z4ejVhVGk1VkFULW5KR2lBaHBzSWNraS1UREgtQU41Ukp1NlEwQzlxVTNkV0NMamdlTWtsZGxkODhjVk1MVnR6dkVHTmstenZZZ3FOUmdtRUNlalY2RjMxRnROZEZUOUVVaFUzMHJIYXJjbWFWQ2NxNWFfaXAwaUJPNXpGX1ItMm1XTWg3ZlZaTDE1bktjTWlZZzhLa29xLTh6YTZsc3owa3h0RDFsMkxYYU9uZDdnNzdzU0NtdU5kbUJraFJ6SnVoTDBVNUhITHBlQW1yZTl4dzh6WGxNMTZxc0pSMTB5UWxUSHlxVlNwZHJtdm41V09Tdy1jZmllaEw5RGN1d1hIZWY1cEF6MWpEQdIBswJBVV95cUxNYWpGbFE3UmQ0QTAydno3WGJadS0ydmdLWUotT1o1OW9wUVBRV2wzSDVhZWh3OGlmMU5uN2M5b3NSYW5Fa09GdjNyb0UtU292OWpOZG95bXFOU1RrNnZVS0xmZVNZRE9CVVBpZlAxUUdTR2dseWtHSlBpTm9FLUYzcUs3TGRIZk1MaTBlM29RdnhtVUFGY0pKX1NMU3hCSkJXYmNVb2RkbkZ2T2xGSHhZRG9aLTcwRGI2TU9mSl9TNjBPaE9VZGZKaUh6ZERWOXJ0Rk9iamdrSzZHYW1nNGF4STU0MlRkVy1RRWRta29xMnhIUGZYMmNmenVuV1JCUlk5SFNNeUxodUJoUHNRRGJ5SFBSYURaT1hpM2YwTkt6bkQtSmowa1dfczlIZGtGTnIxQ3hj?oc=5",
             "source": "Times of India",
             "date": "Sun, 31 Aug 2025 07:00:00 GMT",
-            "category": "Retail"
-        },
-        {
-            "title": "Hyper-value And New Trends Driving E-commerce Growth In India - thecore.in",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HckcxZFZocWhJZzdDYnVhNVBxUDdnNFZYdF9yWGQ5elBvZXFleThQajFONWZQVVdZWFpoeTRyS0N6N0NUdWdoeklscVkxc2doYnB0VWhEUzFBeWJYVHlSU3ZYR293S2l3Q2JxczRvMVEtQ0t6?oc=5",
-            "source": "thecore.in",
-            "date": "Mon, 22 Sep 2025 07:00:00 GMT",
             "category": "Retail"
         }
     ],
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Your brand's visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Unpublished social ad",
+            "Negative review",
+            "Night-mode content"
         ],
         "a": 0
     }
