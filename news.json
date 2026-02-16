@@ -1,10 +1,10 @@
 {
-    "date": "15 Feb, 2026",
+    "date": "16 Feb, 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped 2025: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
-        "lesson": "Data is boring. Data identity is viral."
+        "brand": "Cred",
+        "campaign": "The 'Indiranagar Ka Gunda' Effect",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
+        "lesson": "Disruption happens when you break a celebrity's established archetype."
     },
     "news": [
         {
@@ -15,10 +15,10 @@
             "category": "Strategy"
         },
         {
-            "title": "Rural India reshapes marketing strategies as 45% digital budgets move beyond Metros - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOHR2X0lvLUJzTUZkanAwZXpQN3ZmSjRBaFd6UUhKRjkyZUlkeEdtcC1sRm0yUmdSSUJHaVdDemxyZUpaLUxSU0I4MjdGV2dOMEFwNFpGQXBsQ1NmeWFvaFFGZllEUHRuTm9YSGFhdElqSXZFYnVZMnRBUm5JUGg3VXRyMjBQbHZaQmRBdVN4dTk5RTBrZXdOcG5wRHRDV3dzc2U2QWgyRUp3X3RYVE5vTWxIeVZiSVg5NEg4VWhsWFhRVmFwc2hZbGZ2eEdnVnFHR2N1RUZIOA?oc=5",
-            "source": "Exchange4Media",
-            "date": "Tue, 27 Jan 2026 08:00:00 GMT",
+            "title": "Shoe racks outside: Inside IKEA's 'Scandi-Indian' marketing strategy - afaqs!",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmRuZEFUeFBVSGpXbHZEMnROb0ZWdDlpWEJfRUNTaG9mVFJ3ZmNfWkIwZ3hMdmhzNkNjekllSmpXUUJjbWY2c2duNnI5N3cwanJXRmVuOV9oeFhQNzJkM01MRlFDSUIyMk9IY2pyUVFvMTFFQ0Y2X3pObHBDaF9zQzdWWGVmX2dLZ3YyNVRubFl3aVBPcEZTaldtZVpTU3J1OXBMcTkzOHU?oc=5",
+            "source": "afaqs!",
+            "date": "Sun, 08 Feb 2026 23:50:37 GMT",
             "category": "Strategy"
         },
         {
@@ -29,10 +29,10 @@
             "category": "Strategy"
         },
         {
-            "title": "Colgate-Palmolive India Launches Star-Studded Campaign for Visible White Purple Toothpaste - scanx.trade",
-            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdmF6ejhiNExYWkt0Y2JxUE1zVWpLZWEzamVKbjdjY3VEQUwwazUwN1hXSVlNa0VldUR2ZzdxRWJlT0Y3SXFuNkQ3aEhvU0FIS2dsakpENld2MW41V1dGR1pyN0FIR19PS18xMVVEalpUdUU3Uy10NWM2LUVESGtzaXhobzB2U1JqUXVCblVqVFlyQTBmbkp3WkZ4UE9ZdlppZkZLWldqN00tcjBxRHVXcGh4cGFzZFdVejZaM2U3V0tneDgzZV8tRTRPNEVFRDhKWUZPMnlHc0pEUlJu?oc=5",
-            "source": "scanx.trade",
-            "date": "Fri, 13 Feb 2026 17:47:15 GMT",
+            "title": "Branch International appoints Sricheta Das as Head of Marketing for India - Social Samosa",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0dmdjlQNlRGd0tJNlNabU1vUE40NUdzRldDbjNuWFdITXNFWG9FcEtCNS1BMnlWLW9hUmwwVkZJZlY4R1I1S2RLaXltanpiTGN3SXpkeEtCeGlYZHdNS1o2VVBUeWdVaTROWDJBVHBnVUFrNzhxc2FzcVlqaktwOC1jWXhic0RaZnhOQnZmSG9PU3ZaN0tMLWE1REUzN3JGZmVuRzIxekZ4NWhYdkHSAa4BQVVfeXFMT29HZnY5UDZURndLSTZTWm1Nb1BONDVHc0ZXQ24zblhXSE1zRVhvRXBLQjUtQTJ5Vi1vYVJsMFZGSWZWOEdSNUtkS2l5bWp6Ykxjd0l6ZHhLQnhpWGR3TUtaNlVQVHlnVWk0TlgyQVRwZ1VBazc4cXNhc3FZampLcDgtY1l4YnNEWmZ4TkJ2ZkhvT1N2WjdLTC1hNURFMzdyRmZlbkcyMXpGeDVoWHZB?oc=5",
+            "source": "Social Samosa",
+            "date": "Thu, 29 Jan 2026 08:00:00 GMT",
             "category": "Strategy"
         },
         {
@@ -66,8 +66,8 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
             "topic": "Returnless Refunds",
