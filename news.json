@@ -1,12 +1,19 @@
 {
-    "date": "17 Feb, 2026",
+    "date": "18 Feb, 2026",
     "story": {
-        "brand": "Cred",
-        "campaign": "The 'Indiranagar Ka Gunda' Effect",
-        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
-        "lesson": "Disruption happens when you break a celebrity's established archetype."
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification Strategy",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization."
     },
     "news": [
+        {
+            "title": "Beyond Impressions: How measurable business results are redefining FMCG\u2019s digital strategy - PitchOnnet",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUUczODdXQTJaazhlaHlVTXpmbFRoQnFHOFVMQ1dRSkV1U25SQ3JrYWI3YWJJM1ZiQ3Utc2xZR254TUliVHNZeHdzRnNsbFpvSEdjUlJFTjI3YzdxQzNpOG1HZHg5eU5jSWltSlpKamc4aXFVcDZ1UlFRemJvZHQ5UndFaGFWdkY0a3VYNG5QNE54Q0NqYVBlc1FHWDI2OUdRREV2US1tVlVtQTVLY2dueFhjdDlwbmE5S3dia254eU1Zc1dhYXlOTjVMVWlhaGZqR3RLRXBITQ?oc=5",
+            "source": "PitchOnnet",
+            "date": "Tue, 17 Feb 2026 08:59:53 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "Shamal Chavan takes over as Lords Hotels\u2019 Marketing General Manager - Hotelier India",
             "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUWllLTJqdU15azhXRWFIa1J5UDBwTDRvWHlWSTRseG5iUWNvVDNUYVVFWDFVU04zLTlTaTVZUlFMYTM4NTRHeFVvTFRWZHRTUEZDc0tNQXVZNTl1NmpkM1BMUUt6RmNFSzJmZjF0aEFCNXJ3UFFiMDN1dEc1OFpRYmM5aER0WjV1TG56V1JnejF3WEFjRDRnY1RxYnp0N2tYY25zMUxwTEdJZEE?oc=5",
@@ -15,17 +22,10 @@
             "category": "Strategy"
         },
         {
-            "title": "TotalEnergies Marketing India Hosts Annual Distributor Convention to Unveil Future Growth Strategy - TheWire.in",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQY3F4dDgxSV9QNVZwUzdLUkt5N20zVkhsNG5oWE9kb0dIdFhoSU5mT012R2cxQU5ZbUZPelhBalFfQ3BJOGtvUXN5Vlgzc2ljSk80TlIxMkxpOUxTZGt5ZGFXSWMyZVdGamFSRkhkY2huU2JjejZlTmc1N2c5UVVCZTVNcmRGLUxSaUNTNEZkd0FPOXFRTllZOU05V1ItQmdHRWFlUk92SWJwaWMzZE5SVi11NzBsUGFSTGVuczNIQzgwNExJMWdJcWYtaUZxWXFFNnVKazdzeEvSAdgBQVVfeXFMUGNxeHQ4MUlfUDVWcFM3S1JLeTdtM1ZIbDRuaFhPZG9HSHRYaElOZk9NdkdnMUFOWW1GT3pYQWpRX0NwSThrb1FzeVZYM3NpY0pPNE5SMTJMaTlMU2RreWRhV0ljMmVXRmphUkZIZGNoblNiY3o2ZU5nNTdnOVFVQmU1TXJkRi1MUmlDUzRGZHdBTzlxUU5ZWTlNOVdSLUJnR0VhZVJPdklicGljM2ROUlYtdTcwbFBhUkxlbnMzSEM4MDRMSTFnSXFmLWlGcVlxRTZ1Sms3c3hL?oc=5",
-            "source": "TheWire.in",
-            "date": "Mon, 16 Feb 2026 11:51:13 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Nilesh P joins Abbott India as Head of Marketing \u2013 Vaccines - MediaNews4U",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVjJoM1BxWUhuODk2MzFzSHpMWHEzRWxVN1FzMS1FLWZidnRTdm5kUktrNWpXenlBaGFCVmgzaktaUnF3QVpUZTB1V1VyX0R3TDQ1YzRTblM0LUFYNmRaZTlJcDBUczhjTVZWZmVXUUktYU4wS0tfeVU0UUIwUlVOa2FQRFVwQ25RWmhpM2plWQ?oc=5",
-            "source": "MediaNews4U",
-            "date": "Mon, 16 Feb 2026 09:48:03 GMT",
+            "title": "Dabur India Appoints Herjit S. Bhalla As CEO, India Business - BW People",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVmNweVA2eXMzdzBYMGZrczRUYkMwZ0N5ampjWEdkZ0hCd2Mwb0VFcjU5LTcwYktmRzEtZnlyTnFFYVVESWpHNmM2LXhqbTVjN1dqRzBQaF9CQW9PNU9MaFNnS21rVG1vTTNuaEdCTkRtRzZrajJ6dFBiaXBhbW5NYy1UNjlHSGZsWmRpbm50SFRzZzcyYWd3eVk5OU1ydw?oc=5",
+            "source": "BW People",
+            "date": "Tue, 17 Feb 2026 16:26:56 GMT",
             "category": "Strategy"
         },
         {
@@ -34,13 +34,6 @@
             "source": "Exchange4Media",
             "date": "Tue, 27 Jan 2026 08:00:00 GMT",
             "category": "Strategy"
-        },
-        {
-            "title": "DHL\u2019s E-Commerce Trends Report 2025: AI and Social Media Reshaping Online Shopping in Asia Pacific - DHL",
-            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM19xR0pEM2x2R1JwSWVWcm9hY2pHNThKMHY5NlZlSUZPVk1QeDRxdDRRdWRXNG14WDUxLXY3Ti1IbnJaUk05NUZPUC1vN3hhWnNWbUtVak82YnBCcWJYZGNxS09TZER3TmVLcFBSQXVVMVNLMjFJYUJadUhWSEZOZVJTNFhIWTFnVGtTZWVsdW5QMk1mODhMYzVrbWlDbHkxU1ZFdzFWVWFoRjloYXdYc0h1TFNuenZpYlU3VDlMM3FySWUyWTVNdlJSenVRYkl2dEZLMldIQXdJNXNFeFNnTzljaUFoa19HZVUzcGFB?oc=5",
-            "source": "DHL",
-            "date": "Mon, 23 Jun 2025 07:00:00 GMT",
-            "category": "Retail"
         },
         {
             "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
@@ -62,24 +55,31 @@
             "source": "thecore.in",
             "date": "Mon, 22 Sep 2025 07:00:00 GMT",
             "category": "Retail"
+        },
+        {
+            "title": "Topic: E-commerce worldwide - Statista",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82aXp3bFMwRm5pOHVDaThxMVY1MFdqQXJ5R0Z3bjFaMEFkRFVLZGxsYnNYX05XMkVzTlJxNUhVTG5ISVBReWdiQlM5RzJqVUNrY2l5a1JySzFIdFBpSVotaHR3?oc=5",
+            "source": "Statista",
+            "date": "Thu, 11 Dec 2025 08:00:00 GMT",
+            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Your brand's visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Unpublished social ad",
+            "Negative review",
+            "Night-mode content"
         ],
         "a": 0
     }
