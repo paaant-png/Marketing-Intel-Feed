@@ -1,10 +1,10 @@
 {
-    "date": "18 Feb, 2026",
+    "date": "19 Feb, 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification Strategy",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization."
+        "brand": "Spotify",
+        "campaign": "Wrapped 2025: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
+        "lesson": "Data is boring. Data identity is viral."
     },
     "news": [
         {
@@ -15,17 +15,10 @@
             "category": "Strategy"
         },
         {
-            "title": "Shamal Chavan takes over as Lords Hotels\u2019 Marketing General Manager - Hotelier India",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUWllLTJqdU15azhXRWFIa1J5UDBwTDRvWHlWSTRseG5iUWNvVDNUYVVFWDFVU04zLTlTaTVZUlFMYTM4NTRHeFVvTFRWZHRTUEZDc0tNQXVZNTl1NmpkM1BMUUt6RmNFSzJmZjF0aEFCNXJ3UFFiMDN1dEc1OFpRYmM5aER0WjV1TG56V1JnejF3WEFjRDRnY1RxYnp0N2tYY25zMUxwTEdJZEE?oc=5",
-            "source": "Hotelier India",
-            "date": "Mon, 16 Feb 2026 05:05:00 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Dabur India Appoints Herjit S. Bhalla As CEO, India Business - BW People",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVmNweVA2eXMzdzBYMGZrczRUYkMwZ0N5ampjWEdkZ0hCd2Mwb0VFcjU5LTcwYktmRzEtZnlyTnFFYVVESWpHNmM2LXhqbTVjN1dqRzBQaF9CQW9PNU9MaFNnS21rVG1vTTNuaEdCTkRtRzZrajJ6dFBiaXBhbW5NYy1UNjlHSGZsWmRpbm50SFRzZzcyYWd3eVk5OU1ydw?oc=5",
-            "source": "BW People",
-            "date": "Tue, 17 Feb 2026 16:26:56 GMT",
+            "title": "Kausik Misra Joins BigTrunk Communications as Senior Vice President- Strategy - Passionate In Marketing",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXNjUEhZb3p1dmxYQVRhdWRBREdoS3kteFNSdWZLN01peVNYeXNJeUZOU3Zacmt4ejdFSXJVd0plSzFLN19HMG4tbERlM0JpQ3J6emNlTEFlN0VCRGh3c2VWbWRpSEVnZC1NVWM1eGpwc282ZnFsbndZX2l6aDZWTS1VV3BiSWJwazRTSE41aG8wZWR2aXExcTEtX0JKM0dpX3RHOUlmaFQ1bzZrY1pqRTBUT2I1QQ?oc=5",
+            "source": "Passionate In Marketing",
+            "date": "Wed, 18 Feb 2026 11:37:11 GMT",
             "category": "Strategy"
         },
         {
@@ -33,6 +26,13 @@
             "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOHR2X0lvLUJzTUZkanAwZXpQN3ZmSjRBaFd6UUhKRjkyZUlkeEdtcC1sRm0yUmdSSUJHaVdDemxyZUpaLUxSU0I4MjdGV2dOMEFwNFpGQXBsQ1NmeWFvaFFGZllEUHRuTm9YSGFhdElqSXZFYnVZMnRBUm5JUGg3VXRyMjBQbHZaQmRBdVN4dTk5RTBrZXdOcG5wRHRDV3dzc2U2QWgyRUp3X3RYVE5vTWxIeVZiSVg5NEg4VWhsWFhRVmFwc2hZbGZ2eEdnVnFHR2N1RUZIOA?oc=5",
             "source": "Exchange4Media",
             "date": "Tue, 27 Jan 2026 08:00:00 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Marriott\u2019s winning formula: Merging culture, loyalty, and personalisation in its marketing strategy - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEgyeGcyMzVac015NXpGVHVjR1kyejNoYU05VG5NR2NvNmdMUGZtVGVqaHdWS3RoZnBWNW1ZaXhYSEp5ck1YaTItZUstWlByZHZ3UVdhRzFHNm1aMVNISnV1Yzg2c2FpMVFNd2RFMlpGa1hJZVRmeE51QXZZRzlTYkc1RF9xM2xLcGwxN1BtVXVRcEZWZHhGWnR1Yzd6cEJRbVRvMmZkcnF5UnRxQi1TX0RxN0JWUG5GMzVGX3N1S3hfcHZpWXhiSk5VQ3hYNERGdGphZlpFYw?oc=5",
+            "source": "Campaign India",
+            "date": "Wed, 14 Jan 2026 15:55:40 GMT",
             "category": "Strategy"
         },
         {
@@ -57,10 +57,10 @@
             "category": "Retail"
         },
         {
-            "title": "Topic: E-commerce worldwide - Statista",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82aXp3bFMwRm5pOHVDaThxMVY1MFdqQXJ5R0Z3bjFaMEFkRFVLZGxsYnNYX05XMkVzTlJxNUhVTG5ISVBReWdiQlM5RzJqVUNrY2l5a1JySzFIdFBpSVotaHR3?oc=5",
-            "source": "Statista",
-            "date": "Thu, 11 Dec 2025 08:00:00 GMT",
+            "title": "Top E-commerce Platforms for India Exporters - DHL",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVNPa1BfbXE4QmJmclpqRVNQamk1NmYxR0gyZUhrcGVENmJTNlVPVUd4Y1kyZzRva3BQcnNzUWRMMkhaTnBBSmtNV2MtcXZrNldYY3hQYy0tVUM5WWVBdkNiU0ZKYTJNaXNIQ2RNUGcwWFJqd0lXWnpqVXp6TUtlbUtQRXhoWHE3clpmZkE1WDRRY3YxaktDOU4wY3JXenNsN3AxOGZaZlQzUlBWOTRwYnh5OEQ?oc=5",
+            "source": "DHL",
+            "date": "Tue, 02 Dec 2025 08:00:00 GMT",
             "category": "Retail"
         }
     ],
