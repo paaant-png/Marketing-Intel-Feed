@@ -1,24 +1,24 @@
 {
-    "date": "19 Feb, 2026",
+    "date": "20 Feb, 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped 2025: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
-        "lesson": "Data is boring. Data identity is viral."
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
     },
     "news": [
+        {
+            "title": "Abbott India Appoints Nilesh P. as Head of Marketing - CXO Digitalpulse",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLU5TcHFmZlR5VFlRR1NlaHhPdlF1VUVoVHhtN1lXeXp1RmZVcEZ5d2VBR211MXZIZ3lKU3F4ajU0X3NSWFY5cExHMWhra3pRTE9UN2p6VG5FY1ZYOGRGUndRYlZhTklQanM1bnZRZmhjVWFRTlIzcUFQSWFXeThuSHpLbVNoY2tQUlA5NQ?oc=5",
+            "source": "CXO Digitalpulse",
+            "date": "Thu, 19 Feb 2026 07:52:10 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "Beyond Impressions: How measurable business results are redefining FMCG\u2019s digital strategy - PitchOnnet",
             "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUUczODdXQTJaazhlaHlVTXpmbFRoQnFHOFVMQ1dRSkV1U25SQ3JrYWI3YWJJM1ZiQ3Utc2xZR254TUliVHNZeHdzRnNsbFpvSEdjUlJFTjI3YzdxQzNpOG1HZHg5eU5jSWltSlpKamc4aXFVcDZ1UlFRemJvZHQ5UndFaGFWdkY0a3VYNG5QNE54Q0NqYVBlc1FHWDI2OUdRREV2US1tVlVtQTVLY2dueFhjdDlwbmE5S3dia254eU1Zc1dhYXlOTjVMVWlhaGZqR3RLRXBITQ?oc=5",
             "source": "PitchOnnet",
             "date": "Tue, 17 Feb 2026 08:59:53 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Kausik Misra Joins BigTrunk Communications as Senior Vice President- Strategy - Passionate In Marketing",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXNjUEhZb3p1dmxYQVRhdWRBREdoS3kteFNSdWZLN01peVNYeXNJeUZOU3Zacmt4ejdFSXJVd0plSzFLN19HMG4tbERlM0JpQ3J6emNlTEFlN0VCRGh3c2VWbWRpSEVnZC1NVWM1eGpwc282ZnFsbndZX2l6aDZWTS1VV3BiSWJwazRTSE41aG8wZWR2aXExcTEtX0JKM0dpX3RHOUlmaFQ1bzZrY1pqRTBUT2I1QQ?oc=5",
-            "source": "Passionate In Marketing",
-            "date": "Wed, 18 Feb 2026 11:37:11 GMT",
             "category": "Strategy"
         },
         {
@@ -29,11 +29,18 @@
             "category": "Strategy"
         },
         {
-            "title": "Marriott\u2019s winning formula: Merging culture, loyalty, and personalisation in its marketing strategy - Campaign India",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEgyeGcyMzVac015NXpGVHVjR1kyejNoYU05VG5NR2NvNmdMUGZtVGVqaHdWS3RoZnBWNW1ZaXhYSEp5ck1YaTItZUstWlByZHZ3UVdhRzFHNm1aMVNISnV1Yzg2c2FpMVFNd2RFMlpGa1hJZVRmeE51QXZZRzlTYkc1RF9xM2xLcGwxN1BtVXVRcEZWZHhGWnR1Yzd6cEJRbVRvMmZkcnF5UnRxQi1TX0RxN0JWUG5GMzVGX3N1S3hfcHZpWXhiSk5VQ3hYNERGdGphZlpFYw?oc=5",
-            "source": "Campaign India",
-            "date": "Wed, 14 Jan 2026 15:55:40 GMT",
+            "title": "Top Influencer Marketing Companies in India - Programming Insider",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN3hmekxTU21UejBES2hQdXBDQTJrRE0yS3lEaVcyVjNqMGlyb1M3b3FpSUpNb1k1N2xmekJKTC04RERkTmRXWmRCWnRDOU01UXFEX3RUXzFZZXdPXzVUODZ1S1luVXNLVXJtNTdTM1NTR2xEdHVsd3pJSnlkcGxvbA?oc=5",
+            "source": "Programming Insider",
+            "date": "Thu, 19 Feb 2026 13:17:48 GMT",
             "category": "Strategy"
+        },
+        {
+            "title": "India: e-commerce revenue 2029 - Statista",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU2xCQ0xxdVpCUU4tU0FJdTVMZ2tOLUVDTTNYYVdNYmo5WVdhWFN0NG1zRGM3WkpzWi0yd0YwSlBUX1BjNUNscTgzUkJodFlYUzFCWm5NVXpLX3ZVYV92VjNmaGFOQnM4dmF5QlRXUUNQUWxkV2xsRS11Y0RDRVBpeEtfTzFTQQ?oc=5",
+            "source": "Statista",
+            "date": "Tue, 03 Feb 2026 08:00:00 GMT",
+            "category": "Retail"
         },
         {
             "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
@@ -43,9 +50,9 @@
             "category": "Retail"
         },
         {
-            "title": "E-commerce trends: Online buyers delay big-ticket purchases before GST 2.0, festive season seen as strong - Times of India",
+            "title": "E-commerce trends: Online buyers delay big-ticket purchases before GST 2.0, festive season seen as strong - The Times of India",
             "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYV91ZElDLUliTFJuMFpkMmZQTWhuNENZNXBwQ0Z4ejVhVGk1VkFULW5KR2lBaHBzSWNraS1UREgtQU41Ukp1NlEwQzlxVTNkV0NMamdlTWtsZGxkODhjVk1MVnR6dkVHTmstenZZZ3FOUmdtRUNlalY2RjMxRnROZEZUOUVVaFUzMHJIYXJjbWFWQ2NxNWFfaXAwaUJPNXpGX1ItMm1XTWg3ZlZaTDE1bktjTWlZZzhLa29xLTh6YTZsc3owa3h0RDFsMkxYYU9uZDdnNzdzU0NtdU5kbUJraFJ6SnVoTDBVNUhITHBlQW1yZTl4dzh6WGxNMTZxc0pSMTB5UWxUSHlxVlNwZHJtdm41V09Tdy1jZmllaEw5RGN1d1hIZWY1cEF6MWpEQdIBswJBVV95cUxNYWpGbFE3UmQ0QTAydno3WGJadS0ydmdLWUotT1o1OW9wUVBRV2wzSDVhZWh3OGlmMU5uN2M5b3NSYW5Fa09GdjNyb0UtU292OWpOZG95bXFOU1RrNnZVS0xmZVNZRE9CVVBpZlAxUUdTR2dseWtHSlBpTm9FLUYzcUs3TGRIZk1MaTBlM29RdnhtVUFGY0pKX1NMU3hCSkJXYmNVb2RkbkZ2T2xGSHhZRG9aLTcwRGI2TU9mSl9TNjBPaE9VZGZKaUh6ZERWOXJ0Rk9iamdrSzZHYW1nNGF4STU0MlRkVy1RRWRta29xMnhIUGZYMmNmenVuV1JCUlk5SFNNeUxodUJoUHNRRGJ5SFBSYURaT1hpM2YwTkt6bkQtSmowa1dfczlIZGtGTnIxQ3hj?oc=5",
-            "source": "Times of India",
+            "source": "The Times of India",
             "date": "Sun, 31 Aug 2025 07:00:00 GMT",
             "category": "Retail"
         },
@@ -55,13 +62,6 @@
             "source": "thecore.in",
             "date": "Mon, 22 Sep 2025 07:00:00 GMT",
             "category": "Retail"
-        },
-        {
-            "title": "Top E-commerce Platforms for India Exporters - DHL",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVNPa1BfbXE4QmJmclpqRVNQamk1NmYxR0gyZUhrcGVENmJTNlVPVUd4Y1kyZzRva3BQcnNzUWRMMkhaTnBBSmtNV2MtcXZrNldYY3hQYy0tVUM5WWVBdkNiU0ZKYTJNaXNIQ2RNUGcwWFJqd0lXWnpqVXp6TUtlbUtQRXhoWHE3clpmZkE1WDRRY3YxaktDOU4wY3JXenNsN3AxOGZaZlQzUlBWOTRwYnh5OEQ?oc=5",
-            "source": "DHL",
-            "date": "Tue, 02 Dec 2025 08:00:00 GMT",
-            "category": "Retail"
         }
     ],
     "learning": {
@@ -70,16 +70,16 @@
             "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "Your brand's visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
