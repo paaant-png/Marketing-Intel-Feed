@@ -1,5 +1,5 @@
 {
-    "date": "20 Feb, 2026",
+    "date": "21 Feb, 2026",
     "story": {
         "brand": "Nike",
         "campaign": "Winning Isn't For Everyone",
@@ -8,17 +8,17 @@
     },
     "news": [
         {
+            "title": "Best Digital Marketing Agency in India - Kirnani Technologies",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Idl9PUXpHdzhqNGV0MVA5d1VaMEY3TkhjQ2JJM3N0eXR3VFFQM0JKcldJeGRSeGprNGs4RmFkY3BucnkyUnpaRmNkYXBJU0NrRUZDWTV1MV9Xb2I5cVNMdjlyOVp2SzktczliX09wejJseFVVaXdJ?oc=5",
+            "source": "Kirnani Technologies",
+            "date": "Fri, 20 Feb 2026 12:05:14 GMT",
+            "category": "Strategy"
+        },
+        {
             "title": "Abbott India Appoints Nilesh P. as Head of Marketing - CXO Digitalpulse",
             "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLU5TcHFmZlR5VFlRR1NlaHhPdlF1VUVoVHhtN1lXeXp1RmZVcEZ5d2VBR211MXZIZ3lKU3F4ajU0X3NSWFY5cExHMWhra3pRTE9UN2p6VG5FY1ZYOGRGUndRYlZhTklQanM1bnZRZmhjVWFRTlIzcUFQSWFXeThuSHpLbVNoY2tQUlA5NQ?oc=5",
             "source": "CXO Digitalpulse",
             "date": "Thu, 19 Feb 2026 07:52:10 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Beyond Impressions: How measurable business results are redefining FMCG\u2019s digital strategy - PitchOnnet",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUUczODdXQTJaazhlaHlVTXpmbFRoQnFHOFVMQ1dRSkV1U25SQ3JrYWI3YWJJM1ZiQ3Utc2xZR254TUliVHNZeHdzRnNsbFpvSEdjUlJFTjI3YzdxQzNpOG1HZHg5eU5jSWltSlpKamc4aXFVcDZ1UlFRemJvZHQ5UndFaGFWdkY0a3VYNG5QNE54Q0NqYVBlc1FHWDI2OUdRREV2US1tVlVtQTVLY2dueFhjdDlwbmE5S3dia254eU1Zc1dhYXlOTjVMVWlhaGZqR3RLRXBITQ?oc=5",
-            "source": "PitchOnnet",
-            "date": "Tue, 17 Feb 2026 08:59:53 GMT",
             "category": "Strategy"
         },
         {
@@ -29,10 +29,10 @@
             "category": "Strategy"
         },
         {
-            "title": "Top Influencer Marketing Companies in India - Programming Insider",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPN3hmekxTU21UejBES2hQdXBDQTJrRE0yS3lEaVcyVjNqMGlyb1M3b3FpSUpNb1k1N2xmekJKTC04RERkTmRXWmRCWnRDOU01UXFEX3RUXzFZZXdPXzVUODZ1S1luVXNLVXJtNTdTM1NTR2xEdHVsd3pJSnlkcGxvbA?oc=5",
-            "source": "Programming Insider",
-            "date": "Thu, 19 Feb 2026 13:17:48 GMT",
+            "title": "Marriott\u2019s winning formula: Merging culture, loyalty, and personalisation in its marketing strategy - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEgyeGcyMzVac015NXpGVHVjR1kyejNoYU05VG5NR2NvNmdMUGZtVGVqaHdWS3RoZnBWNW1ZaXhYSEp5ck1YaTItZUstWlByZHZ3UVdhRzFHNm1aMVNISnV1Yzg2c2FpMVFNd2RFMlpGa1hJZVRmeE51QXZZRzlTYkc1RF9xM2xLcGwxN1BtVXVRcEZWZHhGWnR1Yzd6cEJRbVRvMmZkcnF5UnRxQi1TX0RxN0JWUG5GMzVGX3N1S3hfcHZpWXhiSk5VQ3hYNERGdGphZlpFYw?oc=5",
+            "source": "Campaign India",
+            "date": "Wed, 14 Jan 2026 15:55:40 GMT",
             "category": "Strategy"
         },
         {
@@ -66,8 +66,8 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
             "topic": "Visual Search",
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "In 2026, 'Cookie-less' marketing relies on?",
         "options": [
-            "Your brand's visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "First-Party Data",
+            "Third-Party Data",
+            "Spyware"
         ],
         "a": 0
     }
