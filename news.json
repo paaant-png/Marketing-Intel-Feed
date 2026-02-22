@@ -1,5 +1,5 @@
 {
-    "date": "21 Feb, 2026",
+    "date": "22 Feb, 2026",
     "story": {
         "brand": "Nike",
         "campaign": "Winning Isn't For Everyone",
@@ -8,6 +8,13 @@
     },
     "news": [
         {
+            "title": "Hyderabad\u2019s digital shift pushes brands toward AI-driven marketing strategies - The Hans India",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYmRTTHZBYXA1RUplNGtuVlROM0xhcmxLOUtIdzBOTVVfU3JqQWpULU1fbHFxdl95MGg5V1AyQm5rTnRzc2dwaGpQVVZBY3g5T1BzenpVNzZ1RFlXN0lpaG5TZ0E2WUpBRUNaVTlNZUNFRHdoYTAyOGhnNlV2eTI4aDNsbzlPb0FLRmh5ZE1RTEt4bC1TOE1zaWFHdlRGU24wLVZJUGQ5alZHaTZmRUp4QUtyZlhYUHlzZ09mN0Jzb9IBxAFBVV95cUxPNDM4cE93MHdtc0NhVjBxNVQtR0RGbVh0RXNfLWFpTk84bHF6OTBxVnZlR1Q1dkxsNnJVRkltMlNQN3E2MlktSkNTTmJEOVlRdXRkejB2eF9ZNDA2SlhlWkxIVURPQ29sMGRhZXgwMm9EclFRcmxRSUo5R3phNkNsZFJWN1lVZWlmQU9vVzF3ZHVVdzktV0psS3Z2X0g4RkwtQnNPeGFhamdxa2dubFF4NGFOaTR5bDZ4MzR2Q0FlLXNwZkhM?oc=5",
+            "source": "The Hans India",
+            "date": "Sat, 21 Feb 2026 12:11:01 GMT",
+            "category": "Strategy"
+        },
+        {
             "title": "Best Digital Marketing Agency in India - Kirnani Technologies",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Idl9PUXpHdzhqNGV0MVA5d1VaMEY3TkhjQ2JJM3N0eXR3VFFQM0JKcldJeGRSeGprNGs4RmFkY3BucnkyUnpaRmNkYXBJU0NrRUZDWTV1MV9Xb2I5cVNMdjlyOVp2SzktczliX09wejJseFVVaXdJ?oc=5",
             "source": "Kirnani Technologies",
@@ -15,10 +22,10 @@
             "category": "Strategy"
         },
         {
-            "title": "Abbott India Appoints Nilesh P. as Head of Marketing - CXO Digitalpulse",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLU5TcHFmZlR5VFlRR1NlaHhPdlF1VUVoVHhtN1lXeXp1RmZVcEZ5d2VBR211MXZIZ3lKU3F4ajU0X3NSWFY5cExHMWhra3pRTE9UN2p6VG5FY1ZYOGRGUndRYlZhTklQanM1bnZRZmhjVWFRTlIzcUFQSWFXeThuSHpLbVNoY2tQUlA5NQ?oc=5",
-            "source": "CXO Digitalpulse",
-            "date": "Thu, 19 Feb 2026 07:52:10 GMT",
+            "title": "EXCLUSIVE: Shubhika Jain on how India\u2019s scale is driving Canva\u2019s premium push - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSm1idENKcVV6ZFJ4RWxCRl9HVlVMbEY2RlhJdEdMc1kyeF9FMjBOSVh2NDlGUXdsS2thU2ppVmxOZ1l2TWJIU1BELUF1Zk44aGo2eEZaakhiQ2ZacnZIX1JfamRYcmxkblYxMHdueDA4LXJGem5sN3pMRWVzemY3c1JncFhSQnZlUFlneXd3YW5IaDhhUDNWX3hIUTNzYjdVODJOa1Azd0MzQlRhcGxQRkVfWUNfOVZuUklRV0diMkRVcHZyS1ZjVnJ30gHKAUFVX3lxTFBKbWJ0Q0pxVXpkUnhFbEJGX0dWVUxsRjZGWEl0R0xzWTJ4X0UyME5JWHY0OUZRd2xLa2FTamlWbE5nWXZNYkhTUEQtQXVmTjhoajZ4RlpqSGJDZlpydkhfUl9qZFhybGRuVjEwd254MDgtckZ6bmw3ekxFZXN6ZjdzUmdwWFJCdmVQWWd5d3dhbkhoOGFQM1ZfeEhRM3NiN1U4Mk5rUDN3QzNCVGFwbFBGRV9ZQ185Vm5SSVFXR2IyRFVwdnJLVmNWcnc?oc=5",
+            "source": "Storyboard18",
+            "date": "Sat, 21 Feb 2026 23:31:01 GMT",
             "category": "Strategy"
         },
         {
@@ -26,13 +33,6 @@
             "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOHR2X0lvLUJzTUZkanAwZXpQN3ZmSjRBaFd6UUhKRjkyZUlkeEdtcC1sRm0yUmdSSUJHaVdDemxyZUpaLUxSU0I4MjdGV2dOMEFwNFpGQXBsQ1NmeWFvaFFGZllEUHRuTm9YSGFhdElqSXZFYnVZMnRBUm5JUGg3VXRyMjBQbHZaQmRBdVN4dTk5RTBrZXdOcG5wRHRDV3dzc2U2QWgyRUp3X3RYVE5vTWxIeVZiSVg5NEg4VWhsWFhRVmFwc2hZbGZ2eEdnVnFHR2N1RUZIOA?oc=5",
             "source": "Exchange4Media",
             "date": "Tue, 27 Jan 2026 08:00:00 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Marriott\u2019s winning formula: Merging culture, loyalty, and personalisation in its marketing strategy - Campaign India",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEgyeGcyMzVac015NXpGVHVjR1kyejNoYU05VG5NR2NvNmdMUGZtVGVqaHdWS3RoZnBWNW1ZaXhYSEp5ck1YaTItZUstWlByZHZ3UVdhRzFHNm1aMVNISnV1Yzg2c2FpMVFNd2RFMlpGa1hJZVRmeE51QXZZRzlTYkc1RF9xM2xLcGwxN1BtVXVRcEZWZHhGWnR1Yzd6cEJRbVRvMmZkcnF5UnRxQi1TX0RxN0JWUG5GMzVGX3N1S3hfcHZpWXhiSk5VQ3hYNERGdGphZlpFYw?oc=5",
-            "source": "Campaign India",
-            "date": "Wed, 14 Jan 2026 15:55:40 GMT",
             "category": "Strategy"
         },
         {
@@ -66,12 +66,12 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
