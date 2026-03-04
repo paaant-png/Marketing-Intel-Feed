@@ -1,12 +1,26 @@
 {
-    "date": "03 Mar, 2026",
+    "date": "04 Mar, 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification Strategy",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization."
     },
     "news": [
+        {
+            "title": "#e4mExclusive: Gaurav Rajput joins DBS Bank as MD & Head of Group Marketing and Communications for India - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORFJyZHFYMjg5ZzNLNHZ2RTRVbWNneGhwbHlTV09WdmxmaGt1OHhnOHFqQVE4ajdHMEVnVElrbGVpQ1FKWmpVYmpoUlNtN2VsUmpmM0lKbjlSWV9HRldOWFR3NzZ4LVdpenpVM3pSQmxNZFlneUl5Z3hMcWZ1NlJxZlRkVXc2c0lEV0VseVJaZ05fRHZETC1xbWxoYUdscmxUaVFiRURLcmoybVJPUTIwWWJJVkxoeGhnU05xLUNaNjEtQ0JrcjBFNFhweDVFRGFzU2dHT21XeWdObGlfRVFSTVplV01Ddw?oc=5",
+            "source": "Exchange4Media",
+            "date": "Wed, 04 Mar 2026 03:01:40 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Gaurav Rajput Joins DBS Bank As MD & Head Of Group Marketing & Communications \u2013 India - BW Marketing World",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb3M0YncySk5sZlRhVmFXRjVFX2FXaF96Y2ZFR3p2VzVMdnYwZFltZm1QM19LWVZHd1J2ZkZ4M3JOQl9BR3lsN2p6aTQ3QzE1eEFUMDFkbS1ueDNuM0h5RVVoNERfT3BsTGI2U1F3M0Q5QWFiY1VhMFE1cWlJUkd5MUg2TTFRQnlwTHBqNlRKSXFPUEg4TTdoNXViY0V4bzM4X3RfakcwMU5qel9UeEpuZllDa2xhaWVJcFpCWThEQW9oRmFIeHc?oc=5",
+            "source": "BW Marketing World",
+            "date": "Wed, 04 Mar 2026 05:11:03 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "Motorola India appoints Ipshita Chowdhury Marketing Head; elevates Gagandeep Bedi to APAC Marketing Strategy Lead - bestmediainfo.com",
             "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVTRweDN1cGlIcjVHbFhPMU1NTkprVVpSWUlST0V2Z2lBM2dmSzlRMnNCWVF0X1gxcTF2TmJWSklUR2p2N09WMDBkVWh2ejAtNjFfVXlNeUo5OXRZODZXcGpMcDZGNkhnM3d6UnRuVmdLbWRpc2FPdU5WZHJIclZGVG91cU02bzNFWUNzY0I4amlaSHN6Q08yNVdiMnp3bmtYQXYtR25kWFBfc1Zjb2VaZlBPV2JjeWM2ZXFRMVlndmxyNy1YVGpMUmpYbUZDcnV2eGJPU2xsRGYxT2U4WTNnLURJRk5Wa0dsWkZ5andabUw3c0swMTZQenozLUotcjl1ZlNZWkM4VUTSAYgCQVVfeXFMTVU0cHgzdXBpSHI1R2xYTzFNTU5Ka1VaUllJUk9FdmdpQTNnZks5UTJzQllRdF9YMXExdk5iVkpJVEdqdjdPVjAwZFVodnowLTYxX1V5TXlKOTl0WTg2V3BqTHA2RjZIZzN3elJ0blZnS21kaXNhT3VOVmRySHJWRlRvdXFNNm8zRVlDc2NCOGppWkhzekNPMjVXYjJ6d25rWEF2LUduZFhQX3NWY29lWmZQT1diY3ljNmVxUTFZZ3ZscjctWFRqTFJqWG1GQ3J1dnhiT1NsbERmMU9lOFkzZy1ESUZOVmtHbFpGeWp3Wm1MN3NLMDE2UHp6My1KLXI5dWZTWVpDOFVE?oc=5",
@@ -15,31 +29,17 @@
             "category": "Strategy"
         },
         {
-            "title": "Motorola India Appoints Ipshita Chowdhury As Marketing Head, Elevates Gagandeep Bedi To APAC Strategy Lead - BW Marketing World",
-            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaVRkZEs1WjhvVldtYklWbFZRWUdCbWdpZGJYZnJJWUV3THMtRURqYlpzZDE0SDlVNTRkSWFUYWk5U2xFR2hBeTJ3RFlvSmJLaTdiWVRoZmxUNXh4akVNdGNZbGV6dldmNllmMW1EbU80UGxoeFY4YkpwdE9QTnpPdERSMkh1UmxaVVVieDdkeVczLW44Ym1rcGg1RHduUUdaYUJReWtPS1NvbG52b1NjbmNTTkdpcENXNHg1Y0t0M0pLRzQ4YjJnSldGY1lNUHZIelNkZk1tdDhZSVVDZU5qWEZYUXBid2xi?oc=5",
-            "source": "BW Marketing World",
-            "date": "Mon, 02 Mar 2026 09:22:11 GMT",
+            "title": "Motorola India appoints Ipshita Chowdhury as Marketing Head - Social Samosa",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTE5LdDBzOGY1MFNkSnN3T2xpS2xCQnhuX05uclR2RlZWUEtBbjZZZGFLUjc1dkFadW1Fc0liUktuQng2T1ppTE5IS2dYQnpxaHdvNHFMT0kxaHQxVzY3bU9MUjVRWTU5RUVHbzd5NGRiQzhJeXZJWmZSTk01Rm9QcG95TzBNM2VIYTNBblA0UHp2Zl9PazQwNllKa0JnMW9KckpmRNIBpAFBVV95cUxQTE5LdDBzOGY1MFNkSnN3T2xpS2xCQnhuX05uclR2RlZWUEtBbjZZZGFLUjc1dkFadW1Fc0liUktuQng2T1ppTE5IS2dYQnpxaHdvNHFMT0kxaHQxVzY3bU9MUjVRWTU5RUVHbzd5NGRiQzhJeXZJWmZSTk01Rm9QcG95TzBNM2VIYTNBblA0UHp2Zl9PazQwNllKa0JnMW9KckpmRA?oc=5",
+            "source": "Social Samosa",
+            "date": "Mon, 02 Mar 2026 07:12:36 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Motorola Appoints Ipshita Chowdhury as India Marketing Head - Siliconindia",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0NnU1JndnZteTRLTTJCUTVpSjlYNkJpVE5SaUEtNDdvZVd0am43R0doWnppaThqSmY4M0MxNU0tWkZKNXZYTVNCYmJWYzlneGFSNkZwdVNCNW9McGFUTnFlSzdLbDBSUmZsRkpsNTVUaEh2NWVobWF1OVkzNkhKWkJZWG1YYjZzVzhSNnc5VVo3YlRFQi1wVDRMNVdoc3lBeXVVRGRVUlV6Ml82QkFhVjdGRkpyM0ItY2ZUa3A2NU0?oc=5",
-            "source": "Siliconindia",
-            "date": "Mon, 02 Mar 2026 14:57:31 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Motorola Appoints Ipshita Chowdhury As India Marketing Head - BW People",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU2FEWDBWVmRuV1V6eGVyWFhyNEpLNjJnTnhxS1hYTnJ5NE9nY0dROC1sQ1l4dTVfZENmWnVBdmMxMkVzOENRaGl1NDRvVnVqZmJiakdKUW10OEtuanV1VW51TURqazUweVp3U2ZzTG1UV0dxc01RQkIwZS1CN09jMVlqMXVTc2RCanM3UVNEdU9CNTdSbVhNODNUd1RFcDg?oc=5",
-            "source": "BW People",
-            "date": "Mon, 02 Mar 2026 12:21:48 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "E-commerce market size India 2014-2035 - Statista",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alUxbnNDRk5fVmZNMUJ1OERjVlhYckdjTFoxYlJUTTZEdWhyRFVQaV9aLXZaLXRKQjd5MXhQdnFidFJoWHgzU0g1Nl9wVHFKc1pxbGZCMUptYVMtOG1xdG1Ec2Zna3FpQ2RrMUM4SVFoX0pjcFA0M1F6Z2w?oc=5",
-            "source": "Statista",
-            "date": "Wed, 19 Nov 2025 08:00:00 GMT",
+            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
+            "source": "Inc42",
+            "date": "Wed, 10 Dec 2025 08:00:00 GMT",
             "category": "Retail"
         },
         {
@@ -57,17 +57,17 @@
             "category": "Retail"
         },
         {
-            "title": "DHL\u2019s E-Commerce Trends Report 2025: AI and Social Media Reshaping Online Shopping in Asia Pacific - DHL",
-            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM19xR0pEM2x2R1JwSWVWcm9hY2pHNThKMHY5NlZlSUZPVk1QeDRxdDRRdWRXNG14WDUxLXY3Ti1IbnJaUk05NUZPUC1vN3hhWnNWbUtVak82YnBCcWJYZGNxS09TZER3TmVLcFBSQXVVMVNLMjFJYUJadUhWSEZOZVJTNFhIWTFnVGtTZWVsdW5QMk1mODhMYzVrbWlDbHkxU1ZFdzFWVWFoRjloYXdYc0h1TFNuenZpYlU3VDlMM3FySWUyWTVNdlJSenVRYkl2dEZLMldIQXdJNXNFeFNnTzljaUFoa19HZVUzcGFB?oc=5",
+            "title": "Top E-commerce Platforms for India Exporters - DHL",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVNPa1BfbXE4QmJmclpqRVNQamk1NmYxR0gyZUhrcGVENmJTNlVPVUd4Y1kyZzRva3BQcnNzUWRMMkhaTnBBSmtNV2MtcXZrNldYY3hQYy0tVUM5WWVBdkNiU0ZKYTJNaXNIQ2RNUGcwWFJqd0lXWnpqVXp6TUtlbUtQRXhoWHE3clpmZkE1WDRRY3YxaktDOU4wY3JXenNsN3AxOGZaZlQzUlBWOTRwYnh5OEQ?oc=5",
             "source": "DHL",
-            "date": "Mon, 23 Jun 2025 07:00:00 GMT",
+            "date": "Tue, 02 Dec 2025 08:00:00 GMT",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
             "topic": "Returnless Refunds",
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "Your brand's visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
