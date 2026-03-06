@@ -1,19 +1,12 @@
 {
-    "date": "05 Mar, 2026",
+    "date": "06 Mar, 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification Strategy",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization."
+        "brand": "Cred",
+        "campaign": "The 'Indiranagar Ka Gunda' Effect",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
+        "lesson": "Disruption happens when you break a celebrity's established archetype."
     },
     "news": [
-        {
-            "title": "Motorola India appoints Ipshita Chowdhury Marketing Head; elevates Gagandeep Bedi to APAC Marketing Strategy Lead - bestmediainfo.com",
-            "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVTRweDN1cGlIcjVHbFhPMU1NTkprVVpSWUlST0V2Z2lBM2dmSzlRMnNCWVF0X1gxcTF2TmJWSklUR2p2N09WMDBkVWh2ejAtNjFfVXlNeUo5OXRZODZXcGpMcDZGNkhnM3d6UnRuVmdLbWRpc2FPdU5WZHJIclZGVG91cU02bzNFWUNzY0I4amlaSHN6Q08yNVdiMnp3bmtYQXYtR25kWFBfc1Zjb2VaZlBPV2JjeWM2ZXFRMVlndmxyNy1YVGpMUmpYbUZDcnV2eGJPU2xsRGYxT2U4WTNnLURJRk5Wa0dsWkZ5andabUw3c0swMTZQenozLUotcjl1ZlNZWkM4VUTSAYgCQVVfeXFMTVU0cHgzdXBpSHI1R2xYTzFNTU5Ka1VaUllJUk9FdmdpQTNnZks5UTJzQllRdF9YMXExdk5iVkpJVEdqdjdPVjAwZFVodnowLTYxX1V5TXlKOTl0WTg2V3BqTHA2RjZIZzN3elJ0blZnS21kaXNhT3VOVmRySHJWRlRvdXFNNm8zRVlDc2NCOGppWkhzekNPMjVXYjJ6d25rWEF2LUduZFhQX3NWY29lWmZQT1diY3ljNmVxUTFZZ3ZscjctWFRqTFJqWG1GQ3J1dnhiT1NsbERmMU9lOFkzZy1ESUZOVmtHbFpGeWp3Wm1MN3NLMDE2UHp6My1KLXI5dWZTWVpDOFVE?oc=5",
-            "source": "bestmediainfo.com",
-            "date": "Mon, 02 Mar 2026 06:26:11 GMT",
-            "category": "Strategy"
-        },
         {
             "title": "Motorola India appoints Ipshita Chowdhury as new marketing head | Media4Growth - Media4Growth",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnN1ODdsNzFPYUwzN0dhVmtwNE5xZXNHYWU4SHpwOHZNVldRdTNxdVZXVTdPVll2bW9vSDRHSHQxOVJtV0VmTS1VWVJYSzFDenhybEJ0alRSaVJFRWhXMUVSNmk2d3gxSDRtRkh2S3FaRTNCQmU2Z2VLc1ptYjhRWks5bkF1TTljZTF1bS1HZ2d1QlVvbXBUNFFvRWQ1b1hoNVdrMzhXenZzTFVHWEhUQVBB0gG6AUFVX3lxTE02TVdOSXhQT1J4WnJyVF9iQms2Ul92bDFBS0lnRVFyc3NSNXBTdUUzNFdOZmlSYnhUSFdJWkNYaGZua2JTblpKU3ZEUjNCLWhhQkNOZXdRT2VBQTFPaGMzbHk2TmdiMzdjQ1BqWnZPajBnVnotU3BDUWZ5Z0w3bXIyd0ZGZW9waXFmNlBzSVhUWVB6S2Jtd0VSM25oWk1ranliazE4NmZNZHdvTEVKc2lqNFVXY0ptdXV4dw?oc=5",
@@ -22,18 +15,32 @@
             "category": "Strategy"
         },
         {
-            "title": "Motorola names Ipshita Chowdhury as India Marketing Head - PitchOnnet",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNnB1S2ZzTzl5YXdJWUdMWjVjX2FQVUdjXzRZSXltYWVIQWNHdVlsYmlqX0s5dGwyTHl5YVNGZy1iYk9aNkNfTjlweUNnbjB5aTA3YjR4RVFna3IyMVVYLTNON1BWUlMwQ2RuUFNzRFNMNjFHM0tLNVNNenN5LTZzYllhY1hXS0tPamR6cFVicE1KOVdIODNabmtvS0tSR1NFTk9qOUllQ2JVQQ?oc=5",
+            "title": "Zoher Kapuswala: Smaller towns are chocolate market innovators - PitchOnnet",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2pWLVNVaDRuUFFXUnpjd2JlNl96cDFocWFqWksxZ2tOY3picm5lOFBwSVNWSFZQTTRfSzQwRXNBMldiYmc2blBFMVhHWFVvdVl6MTBtZkRtc2NwTGFfemp6LTlIOGU3SXVkVThkQXl6SFV2QThYVF9GMFZDQ0NTWmhoZ0NyMERqZkNBZ0RhVEJOeUotbThkVGpiY1hCYkRycjNtOWxFWDZma0VWblE?oc=5",
             "source": "PitchOnnet",
-            "date": "Mon, 02 Mar 2026 10:42:28 GMT",
+            "date": "Thu, 05 Mar 2026 06:49:29 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Motorola appoints Ipshita Chowdhury as Marketing Head for India - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWHYwMlZJUWgwa0pRR0I2cThkYlI0d0JKaVFGcHVNU3JjTXZlcU5sMEN5NXRuMDZHNGYxZGtMaUs0bEQ2dEZFUDZHSDlIc0JTTWl1SjlNWXFtZkVfRUk5MTRlczMyM051ZTZFUVpqR1NGcE5QUUtVT0ZYNVZGVUtGLURsbUFlSk1QRHBfc2RHWWNmTG1MQUROc2NVMWFYeVpuMVN4MUxpSmtuVHpVbktXODhFOXJFd0liUXdZT2lxT1pxWjNDLXc?oc=5",
-            "source": "Exchange4Media",
-            "date": "Mon, 02 Mar 2026 06:28:15 GMT",
+            "title": "Exclusive | Purpose, performance, and presence: Inside KidZania\u2019s B2B marketing strategy - Mediabrief.com",
+            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQlhYRGZFZkRtbDQ4aHg2OE13aFd1VEd5TWhuTEtZWGNCbktkUm5STWNudnZzaXhEVW40N0tYY1RhaHBsVjlfdXFnV0hNQk1PUHctenRlTllFTlhILWtLV3pkVHZVSUQySjBGY2V6a1ZVY3REdklLdGZ0Wm9YaWs4Zw?oc=5",
+            "source": "Mediabrief.com",
+            "date": "Thu, 05 Mar 2026 05:01:09 GMT",
             "category": "Strategy"
+        },
+        {
+            "title": "Ikea Marketing Strategy: A Case Study - Simplilearn.com",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWDd4dDMxWUZsREExdHFIYWY3eXF2d3hJa1VidzV5amdQTElrTzJKZ0p6MDI3dEJaNDJHUHZCTFR5Z25iRjVmb2Fzek5tZTg1bnpIRGR4dDBReGdvLW0zc2F4dTNvaXVuT2pQMmp3SV9jVjVsTXNsY0RhTmZGUThHTmE3eXE0V212U2RDQUpyaHhHa0x1OXZNLTJiOXBNbzJ3cmljVTRyQQ?oc=5",
+            "source": "Simplilearn.com",
+            "date": "Sun, 22 Feb 2026 08:00:00 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "35 Top E-Commerce Statistics - Forbes",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTVYyNGZGNXE3VjRVbVQ0bzlhU1JZa1FVU1B1b0JZQXU1SExDaFp5ZEtxZ1pUeU1iRDU3Mlg0M09UdEdsM3l0ZktvM3haamw5WmVvWGpOU3ZEeDZaeHpVam5FVGo5cGs0UDU0bTFn?oc=5",
+            "source": "Forbes",
+            "date": "Mon, 02 Mar 2026 11:28:00 GMT",
+            "category": "Retail"
         },
         {
             "title": "E-commerce trends: Online buyers delay big-ticket purchases before GST 2.0, festive season seen as strong - The Times of India",
@@ -43,10 +50,10 @@
             "category": "Retail"
         },
         {
-            "title": "Hyper-value And New Trends Driving E-commerce Growth In India - thecore.in",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HckcxZFZocWhJZzdDYnVhNVBxUDdnNFZYdF9yWGQ5elBvZXFleThQajFONWZQVVdZWFpoeTRyS0N6N0NUdWdoeklscVkxc2doYnB0VWhEUzFBeWJYVHlSU3ZYR293S2l3Q2JxczRvMVEtQ0t6?oc=5",
-            "source": "thecore.in",
-            "date": "Mon, 22 Sep 2025 07:00:00 GMT",
+            "title": "Topic: E-commerce worldwide - Statista",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82aXp3bFMwRm5pOHVDaThxMVY1MFdqQXJ5R0Z3bjFaMEFkRFVLZGxsYnNYX05XMkVzTlJxNUhVTG5ISVBReWdiQlM5RzJqVUNrY2l5a1JySzFIdFBpSVotaHR3?oc=5",
+            "source": "Statista",
+            "date": "Thu, 11 Dec 2025 08:00:00 GMT",
             "category": "Retail"
         },
         {
@@ -55,19 +62,12 @@
             "source": "DHL",
             "date": "Tue, 02 Dec 2025 08:00:00 GMT",
             "category": "Retail"
-        },
-        {
-            "title": "Topic: E-commerce worldwide - Statista",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82aXp3bFMwRm5pOHVDaThxMVY1MFdqQXJ5R0Z3bjFaMEFkRFVLZGxsYnNYX05XMkVzTlJxNUhVTG5ISVBReWdiQlM5RzJqVUNrY2l5a1JySzFIdFBpSVotaHR3?oc=5",
-            "source": "Statista",
-            "date": "Thu, 11 Dec 2025 08:00:00 GMT",
-            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
             "topic": "Visual Search",
