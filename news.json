@@ -1,10 +1,10 @@
 {
-    "date": "06 Mar, 2026",
+    "date": "07 Mar, 2026",
     "story": {
-        "brand": "Cred",
-        "campaign": "The 'Indiranagar Ka Gunda' Effect",
-        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
-        "lesson": "Disruption happens when you break a celebrity's established archetype."
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification Strategy",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization."
     },
     "news": [
         {
@@ -29,10 +29,10 @@
             "category": "Strategy"
         },
         {
-            "title": "Ikea Marketing Strategy: A Case Study - Simplilearn.com",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWDd4dDMxWUZsREExdHFIYWY3eXF2d3hJa1VidzV5amdQTElrTzJKZ0p6MDI3dEJaNDJHUHZCTFR5Z25iRjVmb2Fzek5tZTg1bnpIRGR4dDBReGdvLW0zc2F4dTNvaXVuT2pQMmp3SV9jVjVsTXNsY0RhTmZGUThHTmE3eXE0V212U2RDQUpyaHhHa0x1OXZNLTJiOXBNbzJ3cmljVTRyQQ?oc=5",
-            "source": "Simplilearn.com",
-            "date": "Sun, 22 Feb 2026 08:00:00 GMT",
+            "title": "How Global Beauty Brands Balance Local Relevance With Core Identity In India - BW Marketing World",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOVd6Uk9weW9OOXJWWVIyem51LTJvZHg3Z2hDSkFQRlpXdXExNG9sM0cwS1FYWTBveVlvM3VXNGdscl9XTDlzVi1vRkZwRHcwMVQ2NElST3JrbE9kYlVGZ29wWUI5bkdVSmVDbVNaZkVoY3FCR0V5ZkpyMmtBUHhFaWIyT1hqeG9LN3FGWjFBMl8yRXk0bWIxb2RObGQwRmU0VmFQZ1Q0eUZBSWhXWHhIVTBkVDF4dmQ0NFNQTTYwTHhQQQ?oc=5",
+            "source": "BW Marketing World",
+            "date": "Fri, 06 Mar 2026 05:35:40 GMT",
             "category": "Strategy"
         },
         {
@@ -43,13 +43,6 @@
             "category": "Retail"
         },
         {
-            "title": "E-commerce trends: Online buyers delay big-ticket purchases before GST 2.0, festive season seen as strong - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYV91ZElDLUliTFJuMFpkMmZQTWhuNENZNXBwQ0Z4ejVhVGk1VkFULW5KR2lBaHBzSWNraS1UREgtQU41Ukp1NlEwQzlxVTNkV0NMamdlTWtsZGxkODhjVk1MVnR6dkVHTmstenZZZ3FOUmdtRUNlalY2RjMxRnROZEZUOUVVaFUzMHJIYXJjbWFWQ2NxNWFfaXAwaUJPNXpGX1ItMm1XTWg3ZlZaTDE1bktjTWlZZzhLa29xLTh6YTZsc3owa3h0RDFsMkxYYU9uZDdnNzdzU0NtdU5kbUJraFJ6SnVoTDBVNUhITHBlQW1yZTl4dzh6WGxNMTZxc0pSMTB5UWxUSHlxVlNwZHJtdm41V09Tdy1jZmllaEw5RGN1d1hIZWY1cEF6MWpEQdIBswJBVV95cUxNYWpGbFE3UmQ0QTAydno3WGJadS0ydmdLWUotT1o1OW9wUVBRV2wzSDVhZWh3OGlmMU5uN2M5b3NSYW5Fa09GdjNyb0UtU292OWpOZG95bXFOU1RrNnZVS0xmZVNZRE9CVVBpZlAxUUdTR2dseWtHSlBpTm9FLUYzcUs3TGRIZk1MaTBlM29RdnhtVUFGY0pKX1NMU3hCSkJXYmNVb2RkbkZ2T2xGSHhZRG9aLTcwRGI2TU9mSl9TNjBPaE9VZGZKaUh6ZERWOXJ0Rk9iamdrSzZHYW1nNGF4STU0MlRkVy1RRWRta29xMnhIUGZYMmNmenVuV1JCUlk5SFNNeUxodUJoUHNRRGJ5SFBSYURaT1hpM2YwTkt6bkQtSmowa1dfczlIZGtGTnIxQ3hj?oc=5",
-            "source": "The Times of India",
-            "date": "Sun, 31 Aug 2025 07:00:00 GMT",
-            "category": "Retail"
-        },
-        {
             "title": "Topic: E-commerce worldwide - Statista",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82aXp3bFMwRm5pOHVDaThxMVY1MFdqQXJ5R0Z3bjFaMEFkRFVLZGxsYnNYX05XMkVzTlJxNUhVTG5ISVBReWdiQlM5RzJqVUNrY2l5a1JySzFIdFBpSVotaHR3?oc=5",
             "source": "Statista",
@@ -57,10 +50,17 @@
             "category": "Retail"
         },
         {
-            "title": "Top E-commerce Platforms for India Exporters - DHL",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVNPa1BfbXE4QmJmclpqRVNQamk1NmYxR0gyZUhrcGVENmJTNlVPVUd4Y1kyZzRva3BQcnNzUWRMMkhaTnBBSmtNV2MtcXZrNldYY3hQYy0tVUM5WWVBdkNiU0ZKYTJNaXNIQ2RNUGcwWFJqd0lXWnpqVXp6TUtlbUtQRXhoWHE3clpmZkE1WDRRY3YxaktDOU4wY3JXenNsN3AxOGZaZlQzUlBWOTRwYnh5OEQ?oc=5",
+            "title": "DHL\u2019s E-Commerce Trends Report 2025: AI and Social Media Reshaping Online Shopping in Asia Pacific - DHL",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM19xR0pEM2x2R1JwSWVWcm9hY2pHNThKMHY5NlZlSUZPVk1QeDRxdDRRdWRXNG14WDUxLXY3Ti1IbnJaUk05NUZPUC1vN3hhWnNWbUtVak82YnBCcWJYZGNxS09TZER3TmVLcFBSQXVVMVNLMjFJYUJadUhWSEZOZVJTNFhIWTFnVGtTZWVsdW5QMk1mODhMYzVrbWlDbHkxU1ZFdzFWVWFoRjloYXdYc0h1TFNuenZpYlU3VDlMM3FySWUyWTVNdlJSenVRYkl2dEZLMldIQXdJNXNFeFNnTzljaUFoa19HZVUzcGFB?oc=5",
             "source": "DHL",
-            "date": "Tue, 02 Dec 2025 08:00:00 GMT",
+            "date": "Mon, 23 Jun 2025 07:00:00 GMT",
+            "category": "Retail"
+        },
+        {
+            "title": "Hyper-value And New Trends Driving E-commerce Growth In India - thecore.in",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HckcxZFZocWhJZzdDYnVhNVBxUDdnNFZYdF9yWGQ5elBvZXFleThQajFONWZQVVdZWFpoeTRyS0N6N0NUdWdoeklscVkxc2doYnB0VWhEUzFBeWJYVHlSU3ZYR293S2l3Q2JxczRvMVEtQ0t6?oc=5",
+            "source": "thecore.in",
+            "date": "Mon, 22 Sep 2025 07:00:00 GMT",
             "category": "Retail"
         }
     ],
