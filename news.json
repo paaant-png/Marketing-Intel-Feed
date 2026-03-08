@@ -1,10 +1,10 @@
 {
-    "date": "07 Mar, 2026",
+    "date": "08 Mar, 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification Strategy",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization."
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
     },
     "news": [
         {
@@ -12,13 +12,6 @@
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnN1ODdsNzFPYUwzN0dhVmtwNE5xZXNHYWU4SHpwOHZNVldRdTNxdVZXVTdPVll2bW9vSDRHSHQxOVJtV0VmTS1VWVJYSzFDenhybEJ0alRSaVJFRWhXMUVSNmk2d3gxSDRtRkh2S3FaRTNCQmU2Z2VLc1ptYjhRWks5bkF1TTljZTF1bS1HZ2d1QlVvbXBUNFFvRWQ1b1hoNVdrMzhXenZzTFVHWEhUQVBB0gG6AUFVX3lxTE02TVdOSXhQT1J4WnJyVF9iQms2Ul92bDFBS0lnRVFyc3NSNXBTdUUzNFdOZmlSYnhUSFdJWkNYaGZua2JTblpKU3ZEUjNCLWhhQkNOZXdRT2VBQTFPaGMzbHk2TmdiMzdjQ1BqWnZPajBnVnotU3BDUWZ5Z0w3bXIyd0ZGZW9waXFmNlBzSVhUWVB6S2Jtd0VSM25oWk1ranliazE4NmZNZHdvTEVKc2lqNFVXY0ptdXV4dw?oc=5",
             "source": "Media4Growth",
             "date": "Mon, 02 Mar 2026 10:48:08 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Zoher Kapuswala: Smaller towns are chocolate market innovators - PitchOnnet",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2pWLVNVaDRuUFFXUnpjd2JlNl96cDFocWFqWksxZ2tOY3picm5lOFBwSVNWSFZQTTRfSzQwRXNBMldiYmc2blBFMVhHWFVvdVl6MTBtZkRtc2NwTGFfemp6LTlIOGU3SXVkVThkQXl6SFV2QThYVF9GMFZDQ0NTWmhoZ0NyMERqZkNBZ0RhVEJOeUotbThkVGpiY1hCYkRycjNtOWxFWDZma0VWblE?oc=5",
-            "source": "PitchOnnet",
-            "date": "Thu, 05 Mar 2026 06:49:29 GMT",
             "category": "Strategy"
         },
         {
@@ -33,6 +26,13 @@
             "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOVd6Uk9weW9OOXJWWVIyem51LTJvZHg3Z2hDSkFQRlpXdXExNG9sM0cwS1FYWTBveVlvM3VXNGdscl9XTDlzVi1vRkZwRHcwMVQ2NElST3JrbE9kYlVGZ29wWUI5bkdVSmVDbVNaZkVoY3FCR0V5ZkpyMmtBUHhFaWIyT1hqeG9LN3FGWjFBMl8yRXk0bWIxb2RObGQwRmU0VmFQZ1Q0eUZBSWhXWHhIVTBkVDF4dmQ0NFNQTTYwTHhQQQ?oc=5",
             "source": "BW Marketing World",
             "date": "Fri, 06 Mar 2026 05:35:40 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Ikea Marketing Strategy: A Case Study - Simplilearn.com",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWDd4dDMxWUZsREExdHFIYWY3eXF2d3hJa1VidzV5amdQTElrTzJKZ0p6MDI3dEJaNDJHUHZCTFR5Z25iRjVmb2Fzek5tZTg1bnpIRGR4dDBReGdvLW0zc2F4dTNvaXVuT2pQMmp3SV9jVjVsTXNsY0RhTmZGUThHTmE3eXE0V212U2RDQUpyaHhHa0x1OXZNLTJiOXBNbzJ3cmljVTRyQQ?oc=5",
+            "source": "Simplilearn.com",
+            "date": "Sun, 22 Feb 2026 08:00:00 GMT",
             "category": "Strategy"
         },
         {
@@ -66,8 +66,8 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
             "topic": "Visual Search",
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "In 2026, 'Cookie-less' marketing relies on?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "First-Party Data",
+            "Third-Party Data",
+            "Spyware"
         ],
         "a": 0
     }
