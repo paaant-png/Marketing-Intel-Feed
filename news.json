@@ -1,52 +1,45 @@
 {
-    "date": "11 Mar, 2026",
+    "date": "12 Mar, 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped 2025: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
-        "lesson": "Data is boring. Data identity is viral."
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
     },
     "news": [
         {
-            "title": "Concept Group launches Puzzle Media influencer marketing vertical - Campaign India",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaThZeGZNUEo4NTEzTHBDQVl6ay1yWXhnalE0NmFDcXQ3bWx3MTdMUmdqakJzT3IycVdNZjhqNVd1ajI3blNpWXhOd0VEV3dtWFhZN3dBd3dMcGlCc2ViZm1XNFA3VHpacVJHbTM0YW5tOHYxQVNLTU1mZkhtUHJOVlRZZk1HUXhfTklyZTZ5R2RxUXlkZnVVMld2MjZnYWJrcExVb19DbXBLckpXblZQYllTeEQwVUZzbFMtQ045cDZrcWxTRFpyYw?oc=5",
-            "source": "Campaign India",
-            "date": "Tue, 10 Mar 2026 17:15:59 GMT",
+            "title": "PeopleStrong appoints Adishri Charla as Senior Vice President \u2013 Marketing to Drive Global Brand and Growth Strategy - Adgully.com",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR194OEYzUnFXM054NkU3TnVpWTRjdGZYdWdDTUlWc3BNRmlxZW50dHlTVlpUTUwwd1o1Vm1NQU9vZzQ0SlN0cDZTc3dTQzRodlduSDhoajFHbHVEa0s4UnppVGpRTmZNMW1pajRfT2QzSmxEMWhWUkF4RUNVQm81djJzS3FzZHJsT0FzbU5rTEM5Zng3WHFFOEw5bndkd2ZhVEg3WXc4VE5Hc2k3NVluOVhRSWltbXl6VEFvQ3Z2cUM3Y3p5dk1reWRJMV9MYmxjeGlBY1JGeTV3V3g1ZFlBb3pB?oc=5",
+            "source": "Adgully.com",
+            "date": "Thu, 12 Mar 2026 02:30:11 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Agencies Redefining Brand Strategy and Growth in 2026 - Passionate In Marketing",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMlJIZnhOUk5SQzA0Z3ZFUXpIb2ZCMl9KeWRkUDlkRE1JR2g1eXBsY1NuRTBoczJuMXR0NmlycndqT1ZEX2p2bWhyRVFDTi1mWWFiQVdXTktsLVVzT3Fkc3djZkNpc1FqbnZZZHF2RTc2LUlSUDRwVnVXOWE4WElsMHc3b2xyWXBJUElhbThQM1hEZ0tuUWRv?oc=5",
-            "source": "Passionate In Marketing",
-            "date": "Tue, 10 Mar 2026 11:02:05 GMT",
+            "title": "Aerem Solutions Appoints Nilesh Malani as Executive Director to Lead Consumer Business, Marketing and D2C Expansion - Energetica India Magazine",
+            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON01CWlJzcEY0bDFzR0lIcWtSdHRjZEk2bXVOQkxaekxnLXNKNHZIWnBnZ2w1dVFxTzZXalpGUTJBUFo5VTJlQkU3OVFNSDNEZ3NKX2twNlFZbG1HWS12SGQ5Y0hjMFFpeXlFdmdjc3h5TGZpSXB3Z0tCRHBUN09uMmp5SkpIa0E4WHJmeUpIUkN5aFJDTi10UHI0Y2lyazQwSjZydlRjZFJ4dFAzbWM4ZjJ5X3JKTnREcnZmYmFZRS1JZkxaTWZrUFRsSTRoa3NVWG5peWcyZU5teTdWcHRoaFlqRHFzeXM?oc=5",
+            "source": "Energetica India Magazine",
+            "date": "Thu, 12 Mar 2026 01:47:24 GMT",
             "category": "Strategy"
         },
         {
-            "title": "London-based Komerz buys Glassbox as it targets India\u2019s growing digital commerce market - Storyboard18",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc1R2VTBHMXdtRjZpQWdkRUNnQk1yTVhRLVZ3alAzb2hpTHdHNC1zb0ExV0thaWx3bmh0LWJzLV9HVzBvTWpkR2Q5ZzU4MnBKU0lVZTFqcjN0Wk1WaU9IZG9GSzUyRjA2WjJPNmdZcFVGTlNadTRrQ01BOGY2NEt1M1JVclVPVHFvNHdjb0NieDNXT3dzOFpkWUR0clhKS1BycTlkYV9FTTZ5RlNia2g1YURfWHE0ZE9JTlA2VHBSZmk0akU4MTF2VU8xeTdyWTFrdmxJ0gHYAUFVX3lxTE4wYTRSRzRhX3FUbFFlYklrTUNoN25jUGdUMDlFY0tmblZwN1QzdzF0VUlUMDFKM25KeE5TQU1XNmEzVjJDSWR2eUkwemxtTjRmRWZtVHozcldzY1dyQzVDMkR3TG1qYzlJYUhaTlQwaE1CaEZLRF9FRTA0UzRjam1VVnNUbjVrdGgzV0lHel9tY0Y4WXlUTnJzRTJPV3V1NkFZbEhKckkzYlVHWjFLcE1ubjE4Rll4aHF0S1A3b052dDNDcGZvWGE3ajJaVEJLQlk0RUI5NC13dg?oc=5",
-            "source": "Storyboard18",
-            "date": "Tue, 10 Mar 2026 06:35:02 GMT",
+            "title": "PeopleStrong names Adishri Charla as Senior Vice President - Marketing - Social Samosa",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYU5SOTh6VkhHSkxNZjVObUk2aDB5ZWViUVFQOV9Ia19qQ0RSVWN0UzMxSzhHSjlobzNDUndSN2lLX0htelJNTW5kZ2hxTld3emc2R3hseWp5cHM2N3RqekNHa1djbW9VWFFMZjJLTkd1UC1mRzZ4MWRPMFhmelRNX1BMdEZUS1ZrTEtabnJXVXE1VW1JOW9rRDRaR1VZUkFIUVlrdUpKTms3N21GbVVNMnhlcEzSAbQBQVVfeXFMUGFOUjk4elZIR0pMTWY1Tm1JNmgweWVlYlFRUDlfSGtfakNEUlVjdFMzMUs4R0o5aG8zQ1J3UjdpS19IbXpSTU1uZGdocU5Xd3pnNkd4bHlqeXBzNjd0anpDR2tXY21vVVhRTGYyS05HdVAtZkc2eDFkTzBYZnpUTV9QTHRGVEtWa0xLWm5yV1VxNVVtSTlva0Q0WkdVWVJBSFFZa3VKSk5rNzdtRm1VTTJ4ZXBM?oc=5",
+            "source": "Social Samosa",
+            "date": "Wed, 11 Mar 2026 11:41:04 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Zee Live Brings Onboard Cherish Nair to Shape Brand Narratives and Marketing Strategy - EventFAQs",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcGhINXQtVjExRFl1cDZORWJYUVE4cERnaGltRkpQRWZJNWx1VTdUdEc2VWVQaFp1aUd5WC1aSEtGMHhNSjlHd3pJaXhjb3FreG1uYy1GeTRwcUtvenJQVGRFbGp3ajVNajU4bnJ3Rm5LWHRtZUNwSWxFVzRHQzBMZXc0bmlNVlJRbjhhRm1JRzBaSnZQbG5TNXJmek1MSmtOVXBpMnpwbUtvaTVMNU1NZWs5c3RBWDlNMVRfeTBzVQ?oc=5",
-            "source": "EventFAQs",
-            "date": "Mon, 09 Mar 2026 06:58:59 GMT",
+            "title": "Aviva India names Harshit Agrawal as Head of Marketing - PitchOnnet",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeGZ0N09ONHJWTE5BM0FGNmRGSERDNkNGV1VNQlhjelU5cVVyNV9RQkhPS3NHWXVGX2lRbnhCV0s1c0QzdElNWGhJT3Yyckxnb3ZpenNPeXdpcV8zcmN0OHdEWmZOZDJkV3E2Q2ltWHVLNV9BMDFqS0pQdC1WWC1UYnJvN0hHcGRrTXF3QlYtVHFJWWJtYlRFRXBFYlJsVEN4LVFQemczVQ?oc=5",
+            "source": "PitchOnnet",
+            "date": "Wed, 11 Mar 2026 14:14:07 GMT",
             "category": "Strategy"
         },
         {
-            "title": "India Online Retail Market Outlook 2025-2033: Size, Share, Trends, E-Commerce Growth Analysis & Forecast - openPR.com",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONmNDTzA4ZHNvRGJqRGNPNFVBRWs3elVUbmxVejJPcmxISENmMXEyc2ltTTVmS0VkR3VYWVNLU2hyNWJkNl8tU041ZndxRXhBM1daN1c1aGdOMEF2X3hkbnpqMXdfRzZCZVlZUDhFelRSckZvNllCNmFlWk5iOGEwRTdtdGJtdXpqR1RUUlZPNHdxdEVOQnc?oc=5",
+            "title": "India E-Commerce Market: Size, Growth Trends, Top Companies & Opportunities 2026-2034 - openPR.com",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnZmQlpNcXlfUklmQWZFWVA3bGhLbG1XODlZTmlaTkhsc3FSVDJSUEFvSlZHUExfMG5XUXdMdFdCVG91ejU5Sm9MaXg2Q3Z4Q1Rua0JWelpINEFsUVg1NnFaVWxsQkpTbEc2aGpFWXY0dTFFNWx6VUI0ZTl5anpFYmQtSFRuOVk4UmJ2enpkVnlORkpPR1lR?oc=5",
             "source": "openPR.com",
-            "date": "Tue, 10 Mar 2026 05:53:13 GMT",
-            "category": "Retail"
-        },
-        {
-            "title": "35 Top E-Commerce Statistics - Forbes",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTVYyNGZGNXE3VjRVbVQ0bzlhU1JZa1FVU1B1b0JZQXU1SExDaFp5ZEtxZ1pUeU1iRDU3Mlg0M09UdEdsM3l0ZktvM3haamw5WmVvWGpOU3ZEeDZaeHpVam5FVGo5cGs0UDU0bTFn?oc=5",
-            "source": "Forbes",
-            "date": "Mon, 02 Mar 2026 11:28:00 GMT",
+            "date": "Wed, 11 Mar 2026 09:36:08 GMT",
             "category": "Retail"
         },
         {
@@ -57,10 +50,17 @@
             "category": "Retail"
         },
         {
-            "title": "DHL\u2019s E-Commerce Trends Report 2025: AI and Social Media Reshaping Online Shopping in Asia Pacific - DHL",
-            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM19xR0pEM2x2R1JwSWVWcm9hY2pHNThKMHY5NlZlSUZPVk1QeDRxdDRRdWRXNG14WDUxLXY3Ti1IbnJaUk05NUZPUC1vN3hhWnNWbUtVak82YnBCcWJYZGNxS09TZER3TmVLcFBSQXVVMVNLMjFJYUJadUhWSEZOZVJTNFhIWTFnVGtTZWVsdW5QMk1mODhMYzVrbWlDbHkxU1ZFdzFWVWFoRjloYXdYc0h1TFNuenZpYlU3VDlMM3FySWUyWTVNdlJSenVRYkl2dEZLMldIQXdJNXNFeFNnTzljaUFoa19HZVUzcGFB?oc=5",
-            "source": "DHL",
-            "date": "Mon, 23 Jun 2025 07:00:00 GMT",
+            "title": "35 Top E-Commerce Statistics - Forbes",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTVYyNGZGNXE3VjRVbVQ0bzlhU1JZa1FVU1B1b0JZQXU1SExDaFp5ZEtxZ1pUeU1iRDU3Mlg0M09UdEdsM3l0ZktvM3haamw5WmVvWGpOU3ZEeDZaeHpVam5FVGo5cGs0UDU0bTFn?oc=5",
+            "source": "Forbes",
+            "date": "Mon, 02 Mar 2026 11:28:00 GMT",
+            "category": "Retail"
+        },
+        {
+            "title": "Tier 3 Cities Drive Women\u2019s Day Ecommerce Surge - Passionate In Marketing",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNnFoUjJOTlFJRUNudEJpTU1pdGtsaGUxNFZpd254T2taUlJiNTRiQnNHVHM3MWRBYzBEbFhjLTBRVEtlRGVrLVY5c1IyUXB5elRNZjRoNy1zV3R1cjh1MGdxRXN4OWhOMy01d2JuQ0VyUnUta3U4eVdIWl8xdjFGYmI3NC1GMXlRanFKTktXS1hkVThmd3gyaUpRNjRTbVBFbHpTaHVUQ3RqRHItZFE?oc=5",
+            "source": "Passionate In Marketing",
+            "date": "Mon, 09 Mar 2026 09:28:53 GMT",
             "category": "Retail"
         }
     ],
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "In 2026, 'Cookie-less' marketing relies on?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "First-Party Data",
+            "Third-Party Data",
+            "Spyware"
         ],
         "a": 0
     }
