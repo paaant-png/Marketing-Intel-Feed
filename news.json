@@ -1,12 +1,19 @@
 {
-    "date": "14 Mar, 2026",
+    "date": "15 Mar, 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
+        "brand": "Spotify",
+        "campaign": "Wrapped 2025: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
+        "lesson": "Data is boring. Data identity is viral."
     },
     "news": [
+        {
+            "title": "Complete Guide to Digital Marketing for Small Businesses in India (2026) - Kirnani Technologies",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWldfVi1hSGRQUlBaR2dqd3F4TWYtTjZvWnV3eUx1TkJrOFoyQkl4TGxkS1JkTE9NTEJSWUlvYm5NOGpZWGtkNUZyS1Q5SE1LcnZPS2dOMUNwdkg3M1pyTmp6OWFTQjNhVmlxeTJORkg4V3Rsdk1UWjJwdldtNUdyajBLZkpMbldTcXhrcXNCSlBTMUJTRktSc0NydTljb21WUU0wWlNqUEVSTmdu?oc=5",
+            "source": "Kirnani Technologies",
+            "date": "Sat, 14 Mar 2026 10:50:12 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "Adishri Charla Joins PeopleStrong To Lead Global Marketing Strategy - BW Marketing World",
             "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcE5QRFppS1BOeGVQUTFMYkFvUjVQYS0zbjdkT19vSnJhNzV4eGMxN3dTQ2pkZXJlbkRqU0lUYU5NRFg2NlMzQWc4ckNpb2pac2dwVVF3NG4taXkzYnRibXR6YmZZM0J5Vk83OHY3ZTJmc19yVm1OdFRlbWNjdkkyWGt3NVByR0dSSXdObVdXc2c2YmVzNUxwSkNNa2x2dUpxUVZqaU1SbzJRSGlZUDhQOWpDSzk2UQ?oc=5",
@@ -15,24 +22,17 @@
             "category": "Strategy"
         },
         {
-            "title": "Aviva India appoints Harshit Agrawal as Head of Marketing - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcTBoUzREdWFZaEFocW9DYXFLSEl4NGVZOXZUTTdKSmVuWnhzOWZfZjVvM25yN1QxWkZCU1l6eGdUNlRDeU9lR1Zhem9vMEl0T3pPTnp5eldDb2tkaWk5NEFkb3VIZXZqMGEwbnlOdDB6ZUw3cEhqdDJyZjJZSXdSTzREMXhObW84RWVUX29NSjhRVVljV2RaUWhBY19WbXhBRy0wdUEzZ01GSDRXbXhxeEV6ajFpZFhJdEJTME5R?oc=5",
+            "title": "From Influence To Impact: HerKey \u2013 Havas Report Calls For Deeper Engagement With Women Consumers - Everything Experiential",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYXh5dkZZSmluWHdVdUhGVGU3WGR2dnNOQ3lLblg5RVVPWW43N2JpSDIwMk1UcTZnUVlsTndNUURhY2xBVTJMdGM3SFVUUmlSYm90ZG4wMlp2RktQdFpDQk9DQVBKdy1DSlNxOTByeGZObFdaM0t1NDNzNDlhQ1RPVk5vV1JaVkZfbHNORVdfWEJhZ3RfaFh2Q3FHcDh4QVNud1RZRERSMTdzd244YWpmNXVrVUVMYURTS29hb0hkWkhMR2NVUVJUYjE3MnEzbUNoWGstREhuaFlkbWM?oc=5",
+            "source": "Everything Experiential",
+            "date": "Sat, 14 Mar 2026 08:17:42 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "e4m Video Story: In India, the running community is growing faster: Milind Soman - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaVhDTFl1aFlRWjNoWHUya3VlYUk5ckthTDFNRENFcGhpLVJFOWVBRS1UVnJGTU14eWw2VC1OSzNMWV9zRTFUWGNNYWpOTWk4SmRQcXpoTWtEWnFrOGJ3QkdYNEVRZmdpcll6NFQtUDdxM056VzRIbUp2VmFUbmN5Y29EY2ZuMmZPS256UW81OGFIMUFsemZzRE9mZ2ZsTzlMR0NMS3Z1SEdqUVY4U0xsc0FOZUhZTTBvM0Nnemk4MnU5eUxFYUVraU1ONU94a2thMkE?oc=5",
             "source": "Exchange4Media",
-            "date": "Wed, 11 Mar 2026 06:54:43 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "True measure of marketing campaign is how well it drives conversations: Kunal Sharma, KRBL - PitchOnnet",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXBCb2N0NFFsX1RITVp5bkE3VmdCNnIzZ1Nnb0QzcEI0NF91d1JsTE5vLUFvaEhiUjQwc01vVkgwd2RnRVdNMlNrSzRMNU9fT216d202WGZyOGY1Qm9aNjNDNUJIbTJMMi03eXh3ZnNINmlSTTVnVDdzQzVCTkN1TmFEczFaUXRhZXU4NW5FUm44Wm8teGpva1BMbDNEbzR5UEMtaGpzLVdsUWJVcHJud08wc0dvT3lsTWZIWWo1OHc5ZEJkZW9ZUzVIdGxtNFpHZmc?oc=5",
-            "source": "PitchOnnet",
-            "date": "Thu, 12 Mar 2026 05:19:36 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Aviva India appoints Harshit Agrawal as head of marketing - Indian Television Dot Com",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMnRYaHlJY3oxRkhraXIzSHNEN2d1NlBKX2V5Z2tXcHZYS1BsSzlGa2llSVBBWEFYTHB2MWk5emxUVU43bUwwaTBrWnk2U05xcnJELWhiSVhLM3lEXzc1UlBXTnZiNXlsSThKZGx1aFFLOXF4eXlST2NuelhScG5Hc1N0ZWtXemttTWR4Vl9aY2NUblpFTnc?oc=5",
-            "source": "Indian Television Dot Com",
-            "date": "Wed, 11 Mar 2026 10:01:32 GMT",
+            "date": "Sat, 14 Mar 2026 03:15:29 GMT",
             "category": "Strategy"
         },
         {
@@ -40,13 +40,6 @@
             "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGpEYWJ3clpFX05TSG9mdGowby1BZUFfWmVWNzM5d2hVM09oUzRxeTYzT0h2ME1NVlFQbThCNl9YS01EMmRMVXVLMTZDZUsxQlJnbU5sSWVNSHFmekJJV0lNTUhpZXJqUFNmbFNDSDBOVXZaSU9MN0RqTjVyX2pzMW1hUDFkYzNzZ21INHNpaHpCWDJhSVBtNk1QRGZLbmhyYXhfeVNsemhXeEJHRmI2NVU0dXhubTk2?oc=5",
             "source": "DHL",
             "date": "Tue, 10 Mar 2026 07:00:00 GMT",
-            "category": "Retail"
-        },
-        {
-            "title": "India E-Commerce Market: Size, Growth Trends, Top Companies & Opportunities 2026-2034 - openPR.com",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnZmQlpNcXlfUklmQWZFWVA3bGhLbG1XODlZTmlaTkhsc3FSVDJSUEFvSlZHUExfMG5XUXdMdFdCVG91ejU5Sm9MaXg2Q3Z4Q1Rua0JWelpINEFsUVg1NnFaVWxsQkpTbEc2aGpFWXY0dTFFNWx6VUI0ZTl5anpFYmQtSFRuOVk4UmJ2enpkVnlORkpPR1lR?oc=5",
-            "source": "openPR.com",
-            "date": "Wed, 11 Mar 2026 09:36:08 GMT",
             "category": "Retail"
         },
         {
@@ -62,6 +55,13 @@
             "source": "The Times of India",
             "date": "Sun, 31 Aug 2025 07:00:00 GMT",
             "category": "Retail"
+        },
+        {
+            "title": "Hyper-value And New Trends Driving E-commerce Growth In India - thecore.in",
+            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HckcxZFZocWhJZzdDYnVhNVBxUDdnNFZYdF9yWGQ5elBvZXFleThQajFONWZQVVdZWFpoeTRyS0N6N0NUdWdoeklscVkxc2doYnB0VWhEUzFBeWJYVHlSU3ZYR293S2l3Q2JxczRvMVEtQ0t6?oc=5",
+            "source": "thecore.in",
+            "date": "Mon, 22 Sep 2025 07:00:00 GMT",
+            "category": "Retail"
         }
     ],
     "learning": {
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "In 2026, 'Cookie-less' marketing relies on?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "First-Party Data",
-            "Third-Party Data",
-            "Spyware"
+            "Unpublished social ad",
+            "Negative review",
+            "Night-mode content"
         ],
         "a": 0
     }
