@@ -1,12 +1,19 @@
 {
-    "date": "15 Mar, 2026",
+    "date": "16 Mar, 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped 2025: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
-        "lesson": "Data is boring. Data identity is viral."
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification Strategy",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization."
     },
     "news": [
+        {
+            "title": "Brands still lag in marketing to women despite their purchasing influence - bestmediainfo.com",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUDNFMmo2eXBpZnlWN0w5QVZoMjlBUjlnQUFxQ3FPby0xTk85NFpyeWgtd1FBSmFMbEVnWmlHQ1NaT09LRTFwN3lUeWFyUVdXMkRLeFdDUE8zamtMR1d4cnFRZnBlWFc5UEJ2UVVhcUVPSnVfaG8xWUZScjNBcDZHQXZCZnJWckhNTUl3VDNZNHUyWU9pWHpSaWN4Q1l2RFRXcGs0Q0pfaHJORlhuU0FORFZzVFgtQlNP0gG4AUFVX3lxTE9QM0UyajZ5cGlmeVY3TDlBVmgyOUFSOWdBQXFDcU9vLTFOTzk0WnJ5aC13UUFKYUxsRWdaaUdDU1pPT0tFMXA3eVR5YXJRV1cyREt4V0NQTzNqa0xHV3hycVFmcGVYVzlQQnZRVWFxRU9KdV9obzFZRlJyM0FwNkdBdkJmclZySE1NSXdUM1k0dTJZT2lYelJpY3hDWXZEVFdwazRDSl9ock5GWG5TQU5EVnNUWC1CU08?oc=5",
+            "source": "bestmediainfo.com",
+            "date": "Mon, 16 Mar 2026 01:31:15 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "Complete Guide to Digital Marketing for Small Businesses in India (2026) - Kirnani Technologies",
             "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWldfVi1hSGRQUlBaR2dqd3F4TWYtTjZvWnV3eUx1TkJrOFoyQkl4TGxkS1JkTE9NTEJSWUlvYm5NOGpZWGtkNUZyS1Q5SE1LcnZPS2dOMUNwdkg3M1pyTmp6OWFTQjNhVmlxeTJORkg4V3Rsdk1UWjJwdldtNUdyajBLZkpMbldTcXhrcXNCSlBTMUJTRktSc0NydTljb21WUU0wWlNqUEVSTmdu?oc=5",
@@ -22,17 +29,10 @@
             "category": "Strategy"
         },
         {
-            "title": "From Influence To Impact: HerKey \u2013 Havas Report Calls For Deeper Engagement With Women Consumers - Everything Experiential",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYXh5dkZZSmluWHdVdUhGVGU3WGR2dnNOQ3lLblg5RVVPWW43N2JpSDIwMk1UcTZnUVlsTndNUURhY2xBVTJMdGM3SFVUUmlSYm90ZG4wMlp2RktQdFpDQk9DQVBKdy1DSlNxOTByeGZObFdaM0t1NDNzNDlhQ1RPVk5vV1JaVkZfbHNORVdfWEJhZ3RfaFh2Q3FHcDh4QVNud1RZRERSMTdzd244YWpmNXVrVUVMYURTS29hb0hkWkhMR2NVUVJUYjE3MnEzbUNoWGstREhuaFlkbWM?oc=5",
-            "source": "Everything Experiential",
-            "date": "Sat, 14 Mar 2026 08:17:42 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "e4m Video Story: In India, the running community is growing faster: Milind Soman - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaVhDTFl1aFlRWjNoWHUya3VlYUk5ckthTDFNRENFcGhpLVJFOWVBRS1UVnJGTU14eWw2VC1OSzNMWV9zRTFUWGNNYWpOTWk4SmRQcXpoTWtEWnFrOGJ3QkdYNEVRZmdpcll6NFQtUDdxM056VzRIbUp2VmFUbmN5Y29EY2ZuMmZPS256UW81OGFIMUFsemZzRE9mZ2ZsTzlMR0NMS3Z1SEdqUVY4U0xsc0FOZUhZTTBvM0Nnemk4MnU5eUxFYUVraU1ONU94a2thMkE?oc=5",
+            "title": "Harshit Agrawal Takes Charge as Head of Marketing at Aviva India - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcTBoUzREdWFZaEFocW9DYXFLSEl4NGVZOXZUTTdKSmVuWnhzOWZfZjVvM25yN1QxWkZCU1l6eGdUNlRDeU9lR1Zhem9vMEl0T3pPTnp5eldDb2tkaWk5NEFkb3VIZXZqMGEwbnlOdDB6ZUw3cEhqdDJyZjJZSXdSTzREMXhObW84RWVUX29NSjhRVVljV2RaUWhBY19WbXhBRy0wdUEzZ01GSDRXbXhxeEV6ajFpZFhJdEJTME5R?oc=5",
             "source": "Exchange4Media",
-            "date": "Sat, 14 Mar 2026 03:15:29 GMT",
+            "date": "Wed, 11 Mar 2026 06:54:43 GMT",
             "category": "Strategy"
         },
         {
@@ -43,17 +43,17 @@
             "category": "Retail"
         },
         {
+            "title": "India E-Commerce Market: Size, Growth Trends, Top Companies & Opportunities 2026-2034 - openPR.com",
+            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnZmQlpNcXlfUklmQWZFWVA3bGhLbG1XODlZTmlaTkhsc3FSVDJSUEFvSlZHUExfMG5XUXdMdFdCVG91ejU5Sm9MaXg2Q3Z4Q1Rua0JWelpINEFsUVg1NnFaVWxsQkpTbEc2aGpFWXY0dTFFNWx6VUI0ZTl5anpFYmQtSFRuOVk4UmJ2enpkVnlORkpPR1lR?oc=5",
+            "source": "openPR.com",
+            "date": "Wed, 11 Mar 2026 09:36:08 GMT",
+            "category": "Retail"
+        },
+        {
             "title": "Topic: E-commerce worldwide - Statista",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82aXp3bFMwRm5pOHVDaThxMVY1MFdqQXJ5R0Z3bjFaMEFkRFVLZGxsYnNYX05XMkVzTlJxNUhVTG5ISVBReWdiQlM5RzJqVUNrY2l5a1JySzFIdFBpSVotaHR3?oc=5",
             "source": "Statista",
             "date": "Thu, 11 Dec 2025 08:00:00 GMT",
-            "category": "Retail"
-        },
-        {
-            "title": "E-commerce trends: Online buyers delay big-ticket purchases before GST 2.0, festive season seen as strong - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYV91ZElDLUliTFJuMFpkMmZQTWhuNENZNXBwQ0Z4ejVhVGk1VkFULW5KR2lBaHBzSWNraS1UREgtQU41Ukp1NlEwQzlxVTNkV0NMamdlTWtsZGxkODhjVk1MVnR6dkVHTmstenZZZ3FOUmdtRUNlalY2RjMxRnROZEZUOUVVaFUzMHJIYXJjbWFWQ2NxNWFfaXAwaUJPNXpGX1ItMm1XTWg3ZlZaTDE1bktjTWlZZzhLa29xLTh6YTZsc3owa3h0RDFsMkxYYU9uZDdnNzdzU0NtdU5kbUJraFJ6SnVoTDBVNUhITHBlQW1yZTl4dzh6WGxNMTZxc0pSMTB5UWxUSHlxVlNwZHJtdm41V09Tdy1jZmllaEw5RGN1d1hIZWY1cEF6MWpEQdIBswJBVV95cUxNYWpGbFE3UmQ0QTAydno3WGJadS0ydmdLWUotT1o1OW9wUVBRV2wzSDVhZWh3OGlmMU5uN2M5b3NSYW5Fa09GdjNyb0UtU292OWpOZG95bXFOU1RrNnZVS0xmZVNZRE9CVVBpZlAxUUdTR2dseWtHSlBpTm9FLUYzcUs3TGRIZk1MaTBlM29RdnhtVUFGY0pKX1NMU3hCSkJXYmNVb2RkbkZ2T2xGSHhZRG9aLTcwRGI2TU9mSl9TNjBPaE9VZGZKaUh6ZERWOXJ0Rk9iamdrSzZHYW1nNGF4STU0MlRkVy1RRWRta29xMnhIUGZYMmNmenVuV1JCUlk5SFNNeUxodUJoUHNRRGJ5SFBSYURaT1hpM2YwTkt6bkQtSmowa1dfczlIZGtGTnIxQ3hj?oc=5",
-            "source": "The Times of India",
-            "date": "Sun, 31 Aug 2025 07:00:00 GMT",
             "category": "Retail"
         },
         {
@@ -66,12 +66,12 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
