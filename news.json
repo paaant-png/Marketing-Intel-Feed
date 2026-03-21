@@ -1,17 +1,31 @@
 {
-    "date": "20 Mar, 2026",
+    "date": "21 Mar, 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification Strategy",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization."
     },
     "news": [
         {
-            "title": "Why most marketing metrics in India are misleading - afaqs!",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWw3RjBzWDNYRldhZ0lhYnQ2M2thTDZUQU9qcU54OVB5RHhVRGZNTkptSWtxSE9FUURKV3pWeGJVYV9sOXBjVWpYa25ZVC1udjM3aVVQTkxUUEFJNHZWa0RRRnFwcWFRQ3djSXRaVkZRcGJRTWJxeEtHaFNidERYaVd5TXNGVUpGWkJjQ3p1eUNFTEF3Y1htUkRiTVJHNXBRSUE?oc=5",
-            "source": "afaqs!",
-            "date": "Tue, 17 Mar 2026 23:30:37 GMT",
+            "title": "Kyoorius, The Clios partner to launch Marketing Awards in India and South Asia - Social Samosa",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUEt0QVduckJ2LTNZMEZRWHgyZnBFdDZZRWFTbWx0a0ZzeUpnd2hVZjRweS1vRzA3VGpBVmZtOFJDMU5ITzBIOGl1ZU9YNGxwSjNKX1dNbW1wSjd1VkRyNkxsQ3duTm01NF9SdjJlNGY5MW96ZUhBSXc4X05SWExXSF9jQ2Utd1dQSkdHVGVHRG9ydG55aUVnZkxkNVJDb1pfbzBvVzRPVGxRcUx1YlFhaHdRek5uMTdVRVlFWVhjMNIBvwFBVV95cUxQUEt0QVduckJ2LTNZMEZRWHgyZnBFdDZZRWFTbWx0a0ZzeUpnd2hVZjRweS1vRzA3VGpBVmZtOFJDMU5ITzBIOGl1ZU9YNGxwSjNKX1dNbW1wSjd1VkRyNkxsQ3duTm01NF9SdjJlNGY5MW96ZUhBSXc4X05SWExXSF9jQ2Utd1dQSkdHVGVHRG9ydG55aUVnZkxkNVJDb1pfbzBvVzRPVGxRcUx1YlFhaHdRek5uMTdVRVlFWVhjMA?oc=5",
+            "source": "Social Samosa",
+            "date": "Fri, 20 Mar 2026 12:47:14 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "India's Kyoorius awards expands creative awards and introduces Marketing Awards to recognise strategy and business impact - Campaign Brief Asia",
+            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMHRubzltNEZHMHlHN1ZJQUJrRzNJRFBtYjZFV2duUnM5UXpMWV96T3dhWUFsRHg1ODdoTjZCQzV4Skx6Tm45QTBzOWZHYzVjYWNaY0ZDNE16WTFibk14eTNpMzc0bE1kZ0c2bnNiSGZ0cjBqaFk5ZWZBc3Z4bmJ6U2pHSWpzRDM5OF9fN2pDQmJaVXFFWDJNeHJkUkR1VnRmOGd3UWc5T0JGT1dZNjEzVUtlYm5IMTJoUHpZdndZS1RZeEQ2Q1llWm9zSjVWdjE3ZmdWQlE5REd2bkFPSHVIOV94OGdnRDZFR1JUTXVXWmdxWlJf?oc=5",
+            "source": "Campaign Brief Asia",
+            "date": "Wed, 18 Mar 2026 06:24:58 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Kyoorius launches Marketing Awards in collaboration with The Clios - bestmediainfo.com",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOTlLbFZXMW1rcHlXajRtb2h5TEpwZHYyVEZ5dEU4UHM2SHlqSlFXLWY2VGNUWkszODh5bEViU296MTlLNkRsWXhvY0pDcFl0SDZYMUFXYWVxUXdzNzdNb3hJSmRsR090V2c2SXczN1dTTllxdWNqaEl4c1hCSE1BMnJmQUFjWXFGaGxGM0M0eTVEVU8xTVkwN041RVpabldzMGdXZU9Yd3dJSVplenE3a3JyZURIRk5aWnB4eWFPLWhsbHFUUFQ3NjJ5WdIBywFBVV95cUxPOTlLbFZXMW1rcHlXajRtb2h5TEpwZHYyVEZ5dEU4UHM2SHlqSlFXLWY2VGNUWkszODh5bEViU296MTlLNkRsWXhvY0pDcFl0SDZYMUFXYWVxUXdzNzdNb3hJSmRsR090V2c2SXczN1dTTllxdWNqaEl4c1hCSE1BMnJmQUFjWXFGaGxGM0M0eTVEVU8xTVkwN041RVpabldzMGdXZU9Yd3dJSVplenE3a3JyZURIRk5aWnB4eWFPLWhsbHFUUFQ3NjJ5WQ?oc=5",
+            "source": "bestmediainfo.com",
+            "date": "Fri, 20 Mar 2026 10:47:45 GMT",
             "category": "Strategy"
         },
         {
@@ -22,27 +36,6 @@
             "category": "Strategy"
         },
         {
-            "title": "Bhavya Singh Appointed Head of B2B and Enterprise Marketing, India at AMD - Veloxx media",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM083MmpZRkwxUjYyR0EtWlR4aDlaeEtJZm1EcmVXdE9EcEkwcEN4T0E1RzdlNnVhTEVpMG1BanZjY281cTYzdDQ3VGc2Z2I3R2dNOVM1TDVzQ1pGYlc0ZmdGcV9Ea2FNbFF0LXdDaUYzQ0daSmpkZUhyZmV0RHJBbnVFeE5hTWJRMGhLWUFvNE85NzRtYlJQN2phVVRudw?oc=5",
-            "source": "Veloxx media",
-            "date": "Wed, 18 Mar 2026 12:33:58 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Zydus Lifesciences Strengthens Semaglutide Market Strategy with Torrent Partnership - scanx.trade",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQWdadTZKd0JfVjAtMmRjSlVCODRlbzJZOU9sSml4emlObmtOZi1yd0NKUWFEQk5vWUJGTkJMMFZyNEIzcUNQZVk5SmJWX2VWc2NRd2xXc0RiSEFiMDRqY1Mzd3JwS3NsenVFNVluM0ttN2s1S3VGS0J0MHQxalpTWklUTTFvcmRWQXhNYVUzSUFkemVibjF2REZqM0djQUp4R0FTcTlCWVVxTHM0X241TmI2enpFWDN4S0t6eUtPOExfM0QtSmdHd3VscnYtWC15d0NBRFhPN3Y4cEU?oc=5",
-            "source": "scanx.trade",
-            "date": "Thu, 19 Mar 2026 10:07:34 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "E-commerce trends: Online buyers delay big-ticket purchases before GST 2.0, festive season seen as strong revival trigger - MSN",
-            "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNWlZlT2VscElLWm9vLVBHR1hDM3BTSDlPXzZGVUlHaGQwZ1cyZ0d6dDk4eEhXaHhheEpLRks5ZV9mZmptUC1pU1ZZYTB3SHZQanZldVZtZHdna29PaWJQcmp1Yl9nV0ZkR3ZEcUVIcGNmWHhiNnBXOVZfQUZVNUZ6SExobWJ5VTdvSEZqaE1MVVdvVEpTWFZvTE5UdmhEcGE0VmpFajhNMTFFS2V4SHE0a1BHb0J0UzI1TERRaVptS0JRa1pNZVRKLTJzMmMzVDVsU3Jidi1UOV9FY1BYVElfVWQ1X2UyQ09RRk93Y3RfOGhrNTdBRVRkQWpHam9RZndBdW1VdmlDS0FxWTBHZ2xUd0F6Mmo2TjFXaERmd0VmOThIVk5ZRTFjd0ZGbU9jVkUzZkZTdkR5ZWdQbEE3Z2ViMHBJbHBCVGo3VEo5dzg3Q21XRzdhVG85SjlTZ1J1dDdFanZENUJiVVdIQWZVTTE4Uk1BQnFRNE02QXJ0RERlTEZ5VGx1U1lMUHctbHRYWWhKNHZXZ0FISUZMcmtadFZsM0xwU2pFVnQ1bTRHd1ZjUzRXdXF5V19vWHBwVG1vdw?oc=5",
-            "source": "MSN",
-            "date": "Wed, 18 Mar 2026 00:24:26 GMT",
-            "category": "Retail"
-        },
-        {
             "title": "Best-selling categories on Amazon: 2026 guide for Indian SMEs - DHL",
             "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGpEYWJ3clpFX05TSG9mdGowby1BZUFfWmVWNzM5d2hVM09oUzRxeTYzT0h2ME1NVlFQbThCNl9YS01EMmRMVXVLMTZDZUsxQlJnbU5sSWVNSHFmekJJV0lNTUhpZXJqUFNmbFNDSDBOVXZaSU9MN0RqTjVyX2pzMW1hUDFkYzNzZ21INHNpaHpCWDJhSVBtNk1QRGZLbmhyYXhfeVNsemhXeEJHRmI2NVU0dXhubTk2?oc=5",
             "source": "DHL",
@@ -50,17 +43,24 @@
             "category": "Retail"
         },
         {
-            "title": "Revenue growth of ecommerce market in India from 2018 to 2029 - Statista",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUVNEY3JSQXJtWllDcUljc05FaWR6cEpaeWR6WHJpS3JxUUtza3lRc29MY1VhdWRMSnl3LWw1UmxtX0RPcmV1bXliOVQ3QldZMkxKNUtXMEFwUElEUTJVc1hHUkdUc2x3QTZ0Z2tsWGZScTduTG1uRGlhMzZDSXhyb1c2cXJUdw?oc=5",
+            "title": "E-commerce market size India 2014-2035 - Statista",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alUxbnNDRk5fVmZNMUJ1OERjVlhYckdjTFoxYlJUTTZEdWhyRFVQaV9aLXZaLXRKQjd5MXhQdnFidFJoWHgzU0g1Nl9wVHFKc1pxbGZCMUptYVMtOG1xdG1Ec2Zna3FpQ2RrMUM4SVFoX0pjcFA0M1F6Z2w?oc=5",
             "source": "Statista",
-            "date": "Fri, 28 Nov 2025 08:00:00 GMT",
+            "date": "Wed, 19 Nov 2025 08:00:00 GMT",
             "category": "Retail"
         },
         {
-            "title": "India E-Commerce Market: Size, Growth Trends, Top Companies & Opportunities 2026-2034 - openPR.com",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnZmQlpNcXlfUklmQWZFWVA3bGhLbG1XODlZTmlaTkhsc3FSVDJSUEFvSlZHUExfMG5XUXdMdFdCVG91ejU5Sm9MaXg2Q3Z4Q1Rua0JWelpINEFsUVg1NnFaVWxsQkpTbEc2aGpFWXY0dTFFNWx6VUI0ZTl5anpFYmQtSFRuOVk4UmJ2enpkVnlORkpPR1lR?oc=5",
-            "source": "openPR.com",
-            "date": "Wed, 11 Mar 2026 09:36:08 GMT",
+            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
+            "source": "Inc42",
+            "date": "Wed, 10 Dec 2025 08:00:00 GMT",
+            "category": "Retail"
+        },
+        {
+            "title": "E-commerce trends: Online buyers delay big-ticket purchases before GST 2.0, festive season seen as strong revival trigger - MSN",
+            "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNWlZlT2VscElLWm9vLVBHR1hDM3BTSDlPXzZGVUlHaGQwZ1cyZ0d6dDk4eEhXaHhheEpLRks5ZV9mZmptUC1pU1ZZYTB3SHZQanZldVZtZHdna29PaWJQcmp1Yl9nV0ZkR3ZEcUVIcGNmWHhiNnBXOVZfQUZVNUZ6SExobWJ5VTdvSEZqaE1MVVdvVEpTWFZvTE5UdmhEcGE0VmpFajhNMTFFS2V4SHE0a1BHb0J0UzI1TERRaVptS0JRa1pNZVRKLTJzMmMzVDVsU3Jidi1UOV9FY1BYVElfVWQ1X2UyQ09RRk93Y3RfOGhrNTdBRVRkQWpHam9RZndBdW1VdmlDS0FxWTBHZ2xUd0F6Mmo2TjFXaERmd0VmOThIVk5ZRTFjd0ZGbU9jVkUzZkZTdkR5ZWdQbEE3Z2ViMHBJbHBCVGo3VEo5dzg3Q21XRzdhVG85SjlTZ1J1dDdFanZENUJiVVdIQWZVTTE4Uk1BQnFRNE02QXJ0RERlTEZ5VGx1U1lMUHctbHRYWWhKNHZXZ0FISUZMcmtadFZsM0xwU2pFVnQ1bTRHd1ZjUzRXdXF5V19vWHBwVG1vdw?oc=5",
+            "source": "MSN",
+            "date": "Wed, 18 Mar 2026 00:24:26 GMT",
             "category": "Retail"
         }
     ],
@@ -70,16 +70,16 @@
             "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "Your brand's visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
