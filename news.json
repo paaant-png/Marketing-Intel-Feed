@@ -1,12 +1,19 @@
 {
-    "date": "23 Mar, 2026",
+    "date": "24 Mar, 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
+        "brand": "Spotify",
+        "campaign": "Wrapped 2025: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
+        "lesson": "Data is boring. Data identity is viral."
     },
     "news": [
+        {
+            "title": "Kyoorius expands awards with marketing-focused platform launch - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTVp2M1diVFoyVlM1TGtuVWNwMEpoTXdnSlcyVTd5cWh0R0FOSDlCYllZQUViMU4yQXlaWHVBRDN6aTN4eDdkMFJnVTVkaWd5WUtab3lJT2FPSGFFdjRwaGRIWGtxaXRIdzVrUThQUjFyZE40Sk9LS3draEJvbmllbFgxOHQ1MDh0eTdSZlFrUE9WTk03cWpCVFd3Nmp0bFNEMXpSNEVpZl9YTWl3a3h2ZkNac0duTUVuWWY4Yk1GZFV1aGha?oc=5",
+            "source": "Campaign India",
+            "date": "Mon, 23 Mar 2026 09:41:50 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "Hansgrohe Group India Appoints Shrinivas Jyoti As Head Of Marketing - BW Marketing World",
             "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1pyM05ZbkJnVmF3NE85VVlzVVNJT0RLajV4MzBqcWFDQ0dKQ0ktZjNmOW4zN1FiS05PdEw3cHdLWjRiOUtpY0RUdk1OYy1EN3FSLWxnTm50SkRUdWZfaWFyczdKQjZyU3VKTHZnSkY2QWJ6ZlBBVWR2OENXRGJUNGx6TzltbVM4d2doZmdlQWRwN19YWjYyQ1hNeDdaMUU3RUZRbDV0TGpMeWxiX0tsLV9ER09BZw?oc=5",
@@ -29,24 +36,10 @@
             "category": "Strategy"
         },
         {
-            "title": "Scent Marketing for Retail: Strategies That Work (2026) - Shopify",
-            "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zU2Z1cTFXTnFFd1QxLWRWMmZHYXlfZkxGN2c3Zk1oQm1PU3AwNUE5VThGMGJ3bkxvbFhKUXhkNnpXTnMzVDgxV0pOVkFZcEg5Ym0xV0RTNllDNE0?oc=5",
-            "source": "Shopify",
-            "date": "Tue, 17 Mar 2026 07:00:00 GMT",
-            "category": "Strategy"
-        },
-        {
             "title": "Best-selling categories on Amazon: 2026 guide for Indian SMEs - DHL",
             "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGpEYWJ3clpFX05TSG9mdGowby1BZUFfWmVWNzM5d2hVM09oUzRxeTYzT0h2ME1NVlFQbThCNl9YS01EMmRMVXVLMTZDZUsxQlJnbU5sSWVNSHFmekJJV0lNTUhpZXJqUFNmbFNDSDBOVXZaSU9MN0RqTjVyX2pzMW1hUDFkYzNzZ21INHNpaHpCWDJhSVBtNk1QRGZLbmhyYXhfeVNsemhXeEJHRmI2NVU0dXhubTk2?oc=5",
             "source": "DHL",
             "date": "Tue, 10 Mar 2026 07:00:00 GMT",
-            "category": "Retail"
-        },
-        {
-            "title": "Retail Industry in India: Trends and Insights - Indian Retailer",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0N0bXVocFVQRWZMNkx1OUtzdElNYWk0M2V4ck9qM1R4VUdvMkUyNTdvb1FjbC1IVzdtbnpFLUFKMThQRzg1QVpMTEZwUWFxUXNja0NwN09rZUZzME1sU1pWM3VsUV91OFNWSnhoa1FWaDQxbVRFeUVINzhobjVFa0pxRWRuLURsN2I0LXdEOVZfeFRneFB5TVFHS3N6dGl6aXVraUJ5RFJwalJTaXFXdm9iZ0tHOEF3VEFrVTRn?oc=5",
-            "source": "Indian Retailer",
-            "date": "Thu, 19 Mar 2026 17:30:07 GMT",
             "category": "Retail"
         },
         {
@@ -62,16 +55,23 @@
             "source": "Inc42",
             "date": "Wed, 10 Dec 2025 08:00:00 GMT",
             "category": "Retail"
+        },
+        {
+            "title": "E-commerce trends: Online buyers delay big-ticket purchases before GST 2.0, festive season seen as strong - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYV91ZElDLUliTFJuMFpkMmZQTWhuNENZNXBwQ0Z4ejVhVGk1VkFULW5KR2lBaHBzSWNraS1UREgtQU41Ukp1NlEwQzlxVTNkV0NMamdlTWtsZGxkODhjVk1MVnR6dkVHTmstenZZZ3FOUmdtRUNlalY2RjMxRnROZEZUOUVVaFUzMHJIYXJjbWFWQ2NxNWFfaXAwaUJPNXpGX1ItMm1XTWg3ZlZaTDE1bktjTWlZZzhLa29xLTh6YTZsc3owa3h0RDFsMkxYYU9uZDdnNzdzU0NtdU5kbUJraFJ6SnVoTDBVNUhITHBlQW1yZTl4dzh6WGxNMTZxc0pSMTB5UWxUSHlxVlNwZHJtdm41V09Tdy1jZmllaEw5RGN1d1hIZWY1cEF6MWpEQdIBswJBVV95cUxNYWpGbFE3UmQ0QTAydno3WGJadS0ydmdLWUotT1o1OW9wUVBRV2wzSDVhZWh3OGlmMU5uN2M5b3NSYW5Fa09GdjNyb0UtU292OWpOZG95bXFOU1RrNnZVS0xmZVNZRE9CVVBpZlAxUUdTR2dseWtHSlBpTm9FLUYzcUs3TGRIZk1MaTBlM29RdnhtVUFGY0pKX1NMU3hCSkJXYmNVb2RkbkZ2T2xGSHhZRG9aLTcwRGI2TU9mSl9TNjBPaE9VZGZKaUh6ZERWOXJ0Rk9iamdrSzZHYW1nNGF4STU0MlRkVy1RRWRta29xMnhIUGZYMmNmenVuV1JCUlk5SFNNeUxodUJoUHNRRGJ5SFBSYURaT1hpM2YwTkt6bkQtSmowa1dfczlIZGtGTnIxQ3hj?oc=5",
+            "source": "The Times of India",
+            "date": "Sun, 31 Aug 2025 07:00:00 GMT",
+            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
