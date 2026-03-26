@@ -1,12 +1,19 @@
 {
-    "date": "25 Mar, 2026",
+    "date": "26 Mar, 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped 2025: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
-        "lesson": "Data is boring. Data identity is viral."
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
     },
     "news": [
+        {
+            "title": "GCPL's Harsh Deep Chhabra to Unilever's Tejas Apte: Media leaders shape brand strategy - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV2FLYWpycHE5Z3hOMjI5TUtPRjhXeWEtaXVvWmNEelFVNk42eEJQRE01el9QU1BFZXNXbHdfYXV3QXRHMDlrWkUwUXdNYXluMjhsdWt4aXJ2SVphYnlSeVItUGdWVi1QX3hGN2VVM2ZZLU0zR0l5YmpXRFE4Ui1qdGtpeE5JZDV0MnR4Wlc1Z0twNHY3T2Q4V25aZXhSLTc3V255NFNrNVdCOHBnc3c5akJFbEpqM0xvWml2XzZfb2x5TXVQSmhsVHU0N1BlTlJhYXNUV2ZB0gHWAUFVX3lxTE5XYUthanJwcTlneE4yMjlNS09GOFd5YS1pdW9aY0R6UVU2TjZ4QlBETTV6X1BTUEVlc1dsd19hdXdBdEcwOWtaRTBRd01heW4yOGx1a3hpcnZJWmFieVJ5Ui1QZ1ZWLVBfeEY3ZVUzZlktTTNHSXlialdEUThSLWp0a2l4TklkNXQydHhaVzVnS3A0djdPZDhXblpleFItNzdXbnk0U2s1V0I4cGdzdzlqQkVsSmozTG9aaXZfNl9vbHlNdVBKaGxUdTQ3UGVOUmFhc1RXZkE?oc=5",
+            "source": "Storyboard18",
+            "date": "Thu, 26 Mar 2026 03:12:39 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "Kyoorius expands awards with marketing-focused platform launch - Campaign India",
             "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTVp2M1diVFoyVlM1TGtuVWNwMEpoTXdnSlcyVTd5cWh0R0FOSDlCYllZQUViMU4yQXlaWHVBRDN6aTN4eDdkMFJnVTVkaWd5WUtab3lJT2FPSGFFdjRwaGRIWGtxaXRIdzVrUThQUjFyZE40Sk9LS3draEJvbmllbFgxOHQ1MDh0eTdSZlFrUE9WTk03cWpCVFd3Nmp0bFNEMXpSNEVpZl9YTWl3a3h2ZkNac0duTUVuWWY4Yk1GZFV1aGha?oc=5",
@@ -15,25 +22,32 @@
             "category": "Strategy"
         },
         {
-            "title": "Most effective marketing strategy in India in January 2023, by generation - Statista",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3E1OE5QWTVLY1dFcTdZSDlndFhRQVZCV0REdEFvNXN3M21HY1JMWC1ZTVNiRHRoZUJzWW1nZEVwZ1lMWDN4RTVuSVZsNnlSX0tYbk1NR1dkNDVUeGZjOWJaWVgzaUxUTmxidzlzeTg4Ti1mTFRzbWFjeHRxbHBJNVpSYUU4cnN3RVM4?oc=5",
-            "source": "Statista",
-            "date": "Fri, 28 Nov 2025 08:00:00 GMT",
+            "title": "India's Kyoorius awards expands creative awards and introduces Marketing Awards to recognise strategy and business impact - Campaign Brief Asia",
+            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMHRubzltNEZHMHlHN1ZJQUJrRzNJRFBtYjZFV2duUnM5UXpMWV96T3dhWUFsRHg1ODdoTjZCQzV4Skx6Tm45QTBzOWZHYzVjYWNaY0ZDNE16WTFibk14eTNpMzc0bE1kZ0c2bnNiSGZ0cjBqaFk5ZWZBc3Z4bmJ6U2pHSWpzRDM5OF9fN2pDQmJaVXFFWDJNeHJkUkR1VnRmOGd3UWc5T0JGT1dZNjEzVUtlYm5IMTJoUHpZdndZS1RZeEQ2Q1llWm9zSjVWdjE3ZmdWQlE5REd2bkFPSHVIOV94OGdnRDZFR1JUTXVXWmdxWlJf?oc=5",
+            "source": "Campaign Brief Asia",
+            "date": "Wed, 18 Mar 2026 06:24:58 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Hansgrohe Group India Appoints Shrinivas Jyoti As Head Of Marketing - BW Marketing World",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ1pyM05ZbkJnVmF3NE85VVlzVVNJT0RLajV4MzBqcWFDQ0dKQ0ktZjNmOW4zN1FiS05PdEw3cHdLWjRiOUtpY0RUdk1OYy1EN3FSLWxnTm50SkRUdWZfaWFyczdKQjZyU3VKTHZnSkY2QWJ6ZlBBVWR2OENXRGJUNGx6TzltbVM4d2doZmdlQWRwN19YWjYyQ1hNeDdaMUU3RUZRbDV0TGpMeWxiX0tsLV9ER09BZw?oc=5",
-            "source": "BW Marketing World",
-            "date": "Sun, 22 Mar 2026 23:44:08 GMT",
+            "title": "UniVicoustic Appoints Nataraju Shiva as Head of Business & Strategy to Drive Global Expansion - Passionate In Marketing",
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeHpsdjNodHFGN05DWVJ1czFOZXhIMWZfa3NsR3JtU21UX1A4Zk5kcWVFQzJWbEZuYW5icThlcHlrSlpaZXBNcWR2dEhCVTFWa0tHX3gzRGdhTFc0RkE2aTVISXZlNnJ5VW91bUlVTEpvWXI1aWkxcnVqdXB6S2JiOVQxVm1iaUgyYzZac1JoNjlaajNTTThXVGlBOVIyYXRtWTg3TThobW55LUFZTk1tRXhhRnFfTTFEUGhzUXdlRjFWaE5QLVhIQmV3?oc=5",
+            "source": "Passionate In Marketing",
+            "date": "Wed, 25 Mar 2026 02:15:42 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Rural India reshapes marketing strategies as 45% digital budgets move beyond Metros - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOHR2X0lvLUJzTUZkanAwZXpQN3ZmSjRBaFd6UUhKRjkyZUlkeEdtcC1sRm0yUmdSSUJHaVdDemxyZUpaLUxSU0I4MjdGV2dOMEFwNFpGQXBsQ1NmeWFvaFFGZllEUHRuTm9YSGFhdElqSXZFYnVZMnRBUm5JUGg3VXRyMjBQbHZaQmRBdVN4dTk5RTBrZXdOcG5wRHRDV3dzc2U2QWgyRUp3X3RYVE5vTWxIeVZiSVg5NEg4VWhsWFhRVmFwc2hZbGZ2eEdnVnFHR2N1RUZIOA?oc=5",
-            "source": "Exchange4Media",
-            "date": "Tue, 27 Jan 2026 08:00:00 GMT",
-            "category": "Strategy"
+            "title": "From Discounts to Identity: The New Indian Online Shopper - The Hans India",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORGtNMERFTFI5UXIwVmRWUUhvWF9IS1pIVHJNb2JJSlJqSnYyWFdMd1ZRODJXQVJXWU9YcE91YVlITGg5cTdzUFdTeHA0UEkya1VVN3QzWlJrNFVGQkd2Zl9wbndEdEV2c3RGWHZ5MmJZTHhpTEd3TEJzWm9JdEwwY3dLTUtDVmxNQzkzcm1EX1phQWRKekIyR3ZOWXo0ek1KRUxwVtIBqgFBVV95cUxOazVCUU0talVFUDQzbWRJd1paMEdad2MyamlNY1hzN2lQRjZzU09QQWQ4aVl0eS14RnpnYVpqWEVCOEw0dm5mbjdMeGZSbDRSZWtubTg0QUNTSTcwSnM0d3pCdXFUWFlvYVZNeUdHVzBiNjZZbUpmbjhIRFExSU9CaU14V09xVWNzZGdDdnRlT3RtdzNfakFjSTFmdW1DOW1DUXRtaDB6UmRhdw?oc=5",
+            "source": "The Hans India",
+            "date": "Wed, 25 Mar 2026 12:40:41 GMT",
+            "category": "Retail"
+        },
+        {
+            "title": "Job hunt in 2026? These 3 sectors are hiring the fastest in India today - India Today",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdktnOGptZDZ0dVZiLU5nRE54VmRNUFlmQmZUalo3MVM0aUh4ck1fTmxYTmtET1FqWHEzTzJVaERZd2dCWHd2cWNMMHczT2xCLVVLMWRDVzJwZ1JHUU43cFdEYXRCd3ozN2tSVFY3LW5JLWpwY1k1LUl4Qld4S3hza3BQU0EyNVdSU2g2bWpmR0ItM2lZTjJrdzdUd2NUSVpFQUU5Ui1iSGpOWWZxSGp5ejNHRW5iMEV0bTF1ZndfWU7SAcYBQVVfeXFMUENpTkFSYVA5OHJWUEI0ZzB5M2NUaFdqTllZc3FiNEZOallCcXFqcDlpUXpmMGdJZzQ3bFJVV3o0NDNpMTVydXI5N2xmRHNfRS1VdHpXelBhelI5dFRja1dzREZITFpsUlZZODVWWnRFXzItMnlBTngwX1l5TkViV2NYTXdlMTJvbjQ1X0s3U25YNXBJWEV3YXVyTlQ2S0pLdDE0X0czTjhnN3BSQ3oybDM5WXByMVBjVUdSTWlEV1lfMjA4dnR3?oc=5",
+            "source": "India Today",
+            "date": "Wed, 25 Mar 2026 09:04:56 GMT",
+            "category": "Retail"
         },
         {
             "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
@@ -48,26 +62,12 @@
             "source": "DHL",
             "date": "Tue, 10 Mar 2026 07:00:00 GMT",
             "category": "Retail"
-        },
-        {
-            "title": "E-commerce market size India 2014-2035 - Statista",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alUxbnNDRk5fVmZNMUJ1OERjVlhYckdjTFoxYlJUTTZEdWhyRFVQaV9aLXZaLXRKQjd5MXhQdnFidFJoWHgzU0g1Nl9wVHFKc1pxbGZCMUptYVMtOG1xdG1Ec2Zna3FpQ2RrMUM4SVFoX0pjcFA0M1F6Z2w?oc=5",
-            "source": "Statista",
-            "date": "Wed, 19 Nov 2025 08:00:00 GMT",
-            "category": "Retail"
-        },
-        {
-            "title": "E-commerce trends: Online buyers delay big-ticket purchases before GST 2.0, festive season seen as strong - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYV91ZElDLUliTFJuMFpkMmZQTWhuNENZNXBwQ0Z4ejVhVGk1VkFULW5KR2lBaHBzSWNraS1UREgtQU41Ukp1NlEwQzlxVTNkV0NMamdlTWtsZGxkODhjVk1MVnR6dkVHTmstenZZZ3FOUmdtRUNlalY2RjMxRnROZEZUOUVVaFUzMHJIYXJjbWFWQ2NxNWFfaXAwaUJPNXpGX1ItMm1XTWg3ZlZaTDE1bktjTWlZZzhLa29xLTh6YTZsc3owa3h0RDFsMkxYYU9uZDdnNzdzU0NtdU5kbUJraFJ6SnVoTDBVNUhITHBlQW1yZTl4dzh6WGxNMTZxc0pSMTB5UWxUSHlxVlNwZHJtdm41V09Tdy1jZmllaEw5RGN1d1hIZWY1cEF6MWpEQdIBswJBVV95cUxNYWpGbFE3UmQ0QTAydno3WGJadS0ydmdLWUotT1o1OW9wUVBRV2wzSDVhZWh3OGlmMU5uN2M5b3NSYW5Fa09GdjNyb0UtU292OWpOZG95bXFOU1RrNnZVS0xmZVNZRE9CVVBpZlAxUUdTR2dseWtHSlBpTm9FLUYzcUs3TGRIZk1MaTBlM29RdnhtVUFGY0pKX1NMU3hCSkJXYmNVb2RkbkZ2T2xGSHhZRG9aLTcwRGI2TU9mSl9TNjBPaE9VZGZKaUh6ZERWOXJ0Rk9iamdrSzZHYW1nNGF4STU0MlRkVy1RRWRta29xMnhIUGZYMmNmenVuV1JCUlk5SFNNeUxodUJoUHNRRGJ5SFBSYURaT1hpM2YwTkt6bkQtSmowa1dfczlIZGtGTnIxQ3hj?oc=5",
-            "source": "The Times of India",
-            "date": "Sun, 31 Aug 2025 07:00:00 GMT",
-            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
             "topic": "Visual Search",
