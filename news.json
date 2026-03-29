@@ -1,31 +1,17 @@
 {
-    "date": "28 Mar, 2026",
+    "date": "29 Mar, 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
+        "brand": "Spotify",
+        "campaign": "Wrapped 2025: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
+        "lesson": "Data is boring. Data identity is viral."
     },
     "news": [
         {
-            "title": "Kellanova pivots Pringles strategy with first mass-media push in India - ET BrandEquity",
-            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSl9EWVljYkZpalIwVEdBY2tzemQzbXJ5aFFONmdjTkxxd3FrTGpaRDQ5cHpVSnQ4T3d6a0pyWEZhZUxMTUUxWU9RWEJmdTZYRlpfOUZRQ2c5V0hQMXB3bXFkcU5sTUo0cWZlaF9vSVRQOGppUDFGMjZvZDNmZDhINkpvcHpYMG01YmNqSkdZbDlyQWxCMnhaWmtWcG8xNV81Q1FZZnM3MmhWU09xMU9zN1BYdXFiMlZDaDJwT0RjUWFGbjZKNmVIVkF2M1lXZ1RjWHAxUERVV1JXRkUtVjV0aTV3bTdOVHRUd25n0gHwAUFVX3lxTFBPOWowNlJfRzFST3FrLWNrTzdoQTRndkQ4NXVCeXVjX3hvZlZjZ0J6dlgyMkxKaV9WRjZBaWFFNjhwY3JGOEpZUGN5eTJHaVJBR0NwMmRXWU50WTdwd01QQ25DOE9ycUtsYXhCRDZqNlNQUGtzcGx1NUMtREQ0clZNbXRIWUw0cWdxM2puV2FCT2pqWVloTTBVMWFtOW9aTFhLM3F2ejZpdkdOMGg2bWFpcmZrVDRNQ2dLb3NPYUZXRzZwN3pRc3F2OEhlb1g1SnpLdWFqV3lFVGtvUDl2Wll5bVI5Q2JGZWhZUHBoelhnMA?oc=5",
+            "title": "The Billboard Comes to the Boardroom - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTHU4cHp6SzRhdHROTTlzNWxRNTNfa3J1T0lPbU1uY3ZYaXFMVThzcFZTWUhRZzVrcjliQXJIM3BuMjByYjlsV19rMHlESGs1SVNTNWkwZWFqajlRMUhZZ0hCLTlHd1AwaVZzMExaU0JRS0tud2ZpdXFNMXFPM2FrMmtwaDhkc3ZWa2E0Rk9vbWFET2QwUjFpd1NvYjZNWlAyVi1pWV83bHYzeHJhLVJ30gG0AUFVX3lxTFBjbWR6cmhkQjRGWVdyVElwN204dThmV281eF9FV1p3STVJVFljVElid0FPa1FWZlNOOEFsZEc5d18wU0JmYlBGZHE2RUlfbjVqcm96YzQ4bmxsQ09uSC1uemg0Z0JBQ0RIVUdXVnMydm5ZYmdvZU55cVRNbXZ3M1lhNEl4RVR5eFVhbGZWenVCdE9fN1I2TzRibTQtRVVoNGpoSXhoTUhrOHhUcDIxWXBwUU1HYg?oc=5",
             "source": "ET BrandEquity",
-            "date": "Thu, 26 Mar 2026 09:24:53 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Marketing Strategy of boAt: Growth & Branding Secrets - foundermagazine.in",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BUTlEYVZrNWdrSWZjemM4SjFtNWQwMnJiVDdncjZFclJUaThSRXdLUXhORDRKWGtYMVN5aWxITEdFZ3J6VU1uYTZubDUyUWFJU1c0LVhOUWVUNVRTb1NBaUZiTmM?oc=5",
-            "source": "foundermagazine.in",
-            "date": "Fri, 27 Mar 2026 09:54:47 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Nokia plans fresh layoffs in India amid global restructuring; Samar Mittal elevated - moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZTZxdWg2c2twa21nbkk4WFBfXzJ2Vy1XUEMyQ2MxcHFLQndzSVM5anpZVjlsT21vWkdrU3RFSkdZdkh1ZkR1LXVqLWpOXzFubXFGYjJ5OHM4VzhkaFB1aFZfcC1OTEZpWDdMSUtSaDZBY25lS21mSmdoM0NoZWVBSFZjRHF0bnd4V2lYMG40SkxfVnRBbjRfeE9CUjRMSUlIYVo0SVZWYjdKSEctNS1pQUJqLTJpSFlFV2IyQWRwTzV6VEVXVzZQaUsyeTZmZ0ZmcmMxTGhR0gHbAUFVX3lxTFBtcnU4eGpNSUxnU0Y3eWtLeVg5WWpXTkYtbnNhakVDSEV5cHJSOFJwRmNLYnI4VUNwT29OMUVMT3doR1k1S1NhRnBTTmh0X1FNcTNFTVRLenVldjhMUVFtaWNVNlJ3OEhCOHZaSXhIcS1mdDViNW1qVERUUTFyWHNzNkhOLXFVem1nM19ZNWF2ZnFjOTJ3bWRYZ2F3czlHMlJQSDVRRk9fWUNGZmdfQ3pkSkJEbFlmdzBvNkFnWXR1YndtVlVxTUhwTjhSbXV1Z3VWa1J0bVNHZ3BxSQ?oc=5",
-            "source": "moneycontrol.com",
-            "date": "Fri, 27 Mar 2026 05:47:52 GMT",
+            "date": "Thu, 26 Mar 2026 03:03:18 GMT",
             "category": "Strategy"
         },
         {
@@ -33,6 +19,20 @@
             "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3E1OE5QWTVLY1dFcTdZSDlndFhRQVZCV0REdEFvNXN3M21HY1JMWC1ZTVNiRHRoZUJzWW1nZEVwZ1lMWDN4RTVuSVZsNnlSX0tYbk1NR1dkNDVUeGZjOWJaWVgzaUxUTmxidzlzeTg4Ti1mTFRzbWFjeHRxbHBJNVpSYUU4cnN3RVM4?oc=5",
             "source": "Statista",
             "date": "Fri, 28 Nov 2025 08:00:00 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "GCPL's Harsh Deep Chhabra to Unilever's Tejas Apte: Media leaders shape brand strategy - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUdyd2VNdjFxLXpRRGdyd1BnSmtyWENBWVdCU05udk5wZ1FYWThJY2hadHRKREtYa3JCMU1nUzZwcUdZQVRHMTQyTG9RREgteGJ0T3dXc1J0YWk5VzA0eVVNQXlKLVBDa0RTbFJVVTgteXVlTjVYTk1ZNGx6V0hNMDRFSVQzdGtvZHRGLU15V2ZyaGNURlVfS19hMzV6NEdCRTVYYTlFLTZ3dmRpTFYtQlMyUURGREVDSlRlbkpfU0Joa09Mc3paRGRFMDh0cnlu0gHWAUFVX3lxTE5XYUthanJwcTlneE4yMjlNS09GOFd5YS1pdW9aY0R6UVU2TjZ4QlBETTV6X1BTUEVlc1dsd19hdXdBdEcwOWtaRTBRd01heW4yOGx1a3hpcnZJWmFieVJ5Ui1QZ1ZWLVBfeEY3ZVUzZlktTTNHSXlialdEUThSLWp0a2l4TklkNXQydHhaVzVnS3A0djdPZDhXblpleFItNzdXbnk0U2s1V0I4cGdzdzlqQkVsSmozTG9aaXZfNl9vbHlNdVBKaGxUdTQ3UGVOUmFhc1RXZkE?oc=5",
+            "source": "Storyboard18",
+            "date": "Thu, 26 Mar 2026 03:12:39 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Marriott\u2019s winning formula: Merging culture, loyalty, and personalisation in its marketing strategy - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEgyeGcyMzVac015NXpGVHVjR1kyejNoYU05VG5NR2NvNmdMUGZtVGVqaHdWS3RoZnBWNW1ZaXhYSEp5ck1YaTItZUstWlByZHZ3UVdhRzFHNm1aMVNISnV1Yzg2c2FpMVFNd2RFMlpGa1hJZVRmeE51QXZZRzlTYkc1RF9xM2xLcGwxN1BtVXVRcEZWZHhGWnR1Yzd6cEJRbVRvMmZkcnF5UnRxQi1TX0RxN0JWUG5GMzVGX3N1S3hfcHZpWXhiSk5VQ3hYNERGdGphZlpFYw?oc=5",
+            "source": "Campaign India",
+            "date": "Wed, 14 Jan 2026 15:55:40 GMT",
             "category": "Strategy"
         },
         {
@@ -70,16 +70,16 @@
             "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "In 2026, 'Cookie-less' marketing relies on?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "First-Party Data",
-            "Third-Party Data",
-            "Spyware"
+            "Unpublished social ad",
+            "Negative review",
+            "Night-mode content"
         ],
         "a": 0
     }
