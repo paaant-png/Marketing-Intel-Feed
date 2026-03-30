@@ -1,5 +1,5 @@
 {
-    "date": "29 Mar, 2026",
+    "date": "30 Mar, 2026",
     "story": {
         "brand": "Spotify",
         "campaign": "Wrapped 2025: The 'Roast'",
@@ -8,13 +8,6 @@
     },
     "news": [
         {
-            "title": "The Billboard Comes to the Boardroom - ET BrandEquity",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTHU4cHp6SzRhdHROTTlzNWxRNTNfa3J1T0lPbU1uY3ZYaXFMVThzcFZTWUhRZzVrcjliQXJIM3BuMjByYjlsV19rMHlESGs1SVNTNWkwZWFqajlRMUhZZ0hCLTlHd1AwaVZzMExaU0JRS0tud2ZpdXFNMXFPM2FrMmtwaDhkc3ZWa2E0Rk9vbWFET2QwUjFpd1NvYjZNWlAyVi1pWV83bHYzeHJhLVJ30gG0AUFVX3lxTFBjbWR6cmhkQjRGWVdyVElwN204dThmV281eF9FV1p3STVJVFljVElid0FPa1FWZlNOOEFsZEc5d18wU0JmYlBGZHE2RUlfbjVqcm96YzQ4bmxsQ09uSC1uemg0Z0JBQ0RIVUdXVnMydm5ZYmdvZU55cVRNbXZ3M1lhNEl4RVR5eFVhbGZWenVCdE9fN1I2TzRibTQtRVVoNGpoSXhoTUhrOHhUcDIxWXBwUU1HYg?oc=5",
-            "source": "ET BrandEquity",
-            "date": "Thu, 26 Mar 2026 03:03:18 GMT",
-            "category": "Strategy"
-        },
-        {
             "title": "Most effective marketing strategy in India in January 2023, by generation - Statista",
             "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3E1OE5QWTVLY1dFcTdZSDlndFhRQVZCV0REdEFvNXN3M21HY1JMWC1ZTVNiRHRoZUJzWW1nZEVwZ1lMWDN4RTVuSVZsNnlSX0tYbk1NR1dkNDVUeGZjOWJaWVgzaUxUTmxidzlzeTg4Ti1mTFRzbWFjeHRxbHBJNVpSYUU4cnN3RVM4?oc=5",
             "source": "Statista",
@@ -22,10 +15,10 @@
             "category": "Strategy"
         },
         {
-            "title": "GCPL's Harsh Deep Chhabra to Unilever's Tejas Apte: Media leaders shape brand strategy - Storyboard18",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeUdyd2VNdjFxLXpRRGdyd1BnSmtyWENBWVdCU05udk5wZ1FYWThJY2hadHRKREtYa3JCMU1nUzZwcUdZQVRHMTQyTG9RREgteGJ0T3dXc1J0YWk5VzA0eVVNQXlKLVBDa0RTbFJVVTgteXVlTjVYTk1ZNGx6V0hNMDRFSVQzdGtvZHRGLU15V2ZyaGNURlVfS19hMzV6NEdCRTVYYTlFLTZ3dmRpTFYtQlMyUURGREVDSlRlbkpfU0Joa09Mc3paRGRFMDh0cnlu0gHWAUFVX3lxTE5XYUthanJwcTlneE4yMjlNS09GOFd5YS1pdW9aY0R6UVU2TjZ4QlBETTV6X1BTUEVlc1dsd19hdXdBdEcwOWtaRTBRd01heW4yOGx1a3hpcnZJWmFieVJ5Ui1QZ1ZWLVBfeEY3ZVUzZlktTTNHSXlialdEUThSLWp0a2l4TklkNXQydHhaVzVnS3A0djdPZDhXblpleFItNzdXbnk0U2s1V0I4cGdzdzlqQkVsSmozTG9aaXZfNl9vbHlNdVBKaGxUdTQ3UGVOUmFhc1RXZkE?oc=5",
-            "source": "Storyboard18",
-            "date": "Thu, 26 Mar 2026 03:12:39 GMT",
+            "title": "Kellanova pivots Pringles strategy with first mass-media push in India - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSl9EWVljYkZpalIwVEdBY2tzemQzbXJ5aFFONmdjTkxxd3FrTGpaRDQ5cHpVSnQ4T3d6a0pyWEZhZUxMTUUxWU9RWEJmdTZYRlpfOUZRQ2c5V0hQMXB3bXFkcU5sTUo0cWZlaF9vSVRQOGppUDFGMjZvZDNmZDhINkpvcHpYMG01YmNqSkdZbDlyQWxCMnhaWmtWcG8xNV81Q1FZZnM3MmhWU09xMU9zN1BYdXFiMlZDaDJwT0RjUWFGbjZKNmVIVkF2M1lXZ1RjWHAxUERVV1JXRkUtVjV0aTV3bTdOVHRUd25n0gHwAUFVX3lxTFBPOWowNlJfRzFST3FrLWNrTzdoQTRndkQ4NXVCeXVjX3hvZlZjZ0J6dlgyMkxKaV9WRjZBaWFFNjhwY3JGOEpZUGN5eTJHaVJBR0NwMmRXWU50WTdwd01QQ25DOE9ycUtsYXhCRDZqNlNQUGtzcGx1NUMtREQ0clZNbXRIWUw0cWdxM2puV2FCT2pqWVloTTBVMWFtOW9aTFhLM3F2ejZpdkdOMGg2bWFpcmZrVDRNQ2dLb3NPYUZXRzZwN3pRc3F2OEhlb1g1SnpLdWFqV3lFVGtvUDl2Wll5bVI5Q2JGZWhZUHBoelhnMA?oc=5",
+            "source": "ET BrandEquity",
+            "date": "Thu, 26 Mar 2026 09:24:53 GMT",
             "category": "Strategy"
         },
         {
@@ -36,10 +29,17 @@
             "category": "Strategy"
         },
         {
-            "title": "Nailing Online Commerce: 10 E-Commerce Trends in 2021 - Indian Retailer",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWnFxT1NyVkZWLXhxd3J5U2lmcDJlVXB3ckkzU0N4OWhkU3BGRVZyNnJkMDZsYV9oS2dYOWJmaC1aUmJGQmJSOGlPTXYtWWpCcU40Nks0Z1d6eUFiZURaOHhBTlJreV84Y2VLSm9FVEVIWVh3NVBybzhxdmxrZExGSmdSOXBOekZqSmNsVjlFeWFWV080MHc0V2FfS2FmOGpWRXpfOVVzTVBwcjd0RmtCcndsVV8?oc=5",
+            "title": "India's Kyoorius awards expands creative awards and introduces Marketing Awards to recognise strategy and business impact - Campaign Brief Asia",
+            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMHRubzltNEZHMHlHN1ZJQUJrRzNJRFBtYjZFV2duUnM5UXpMWV96T3dhWUFsRHg1ODdoTjZCQzV4Skx6Tm45QTBzOWZHYzVjYWNaY0ZDNE16WTFibk14eTNpMzc0bE1kZ0c2bnNiSGZ0cjBqaFk5ZWZBc3Z4bmJ6U2pHSWpzRDM5OF9fN2pDQmJaVXFFWDJNeHJkUkR1VnRmOGd3UWc5T0JGT1dZNjEzVUtlYm5IMTJoUHpZdndZS1RZeEQ2Q1llWm9zSjVWdjE3ZmdWQlE5REd2bkFPSHVIOV94OGdnRDZFR1JUTXVXWmdxWlJf?oc=5",
+            "source": "Campaign Brief Asia",
+            "date": "Wed, 18 Mar 2026 06:24:58 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "11 E-commerce Trends to Look Out?For in 2022-23 - Indian Retailer",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3ZnM2puMWo1UkJoUHM3ZW9BVzUyWHAwdkFqb3pydF9QNlh2VGx2ZWRBWXUyeHFSTHhvWElzaUlaWE1jRHpFQXpyYWVfWmZaR0lEVEkyOWQ0dkRDZ1RYX3UxdFE4Rmh2aGkxb3Z4d1d6T0x1Y0k5MTI3ajFNUHo3VFpzTU1ucWtGdDQ3UjR4SElDM3VCZzVWeWZQQTVtakhRRmxtZWd2Ri04RE1IU215ZlZkRnA?oc=5",
             "source": "Indian Retailer",
-            "date": "Thu, 26 Mar 2026 13:21:45 GMT",
+            "date": "Thu, 26 Mar 2026 19:44:06 GMT",
             "category": "Retail"
         },
         {
@@ -50,28 +50,28 @@
             "category": "Retail"
         },
         {
+            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
+            "source": "Inc42",
+            "date": "Wed, 10 Dec 2025 08:00:00 GMT",
+            "category": "Retail"
+        },
+        {
             "title": "E-commerce market size India 2014-2035 - Statista",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alUxbnNDRk5fVmZNMUJ1OERjVlhYckdjTFoxYlJUTTZEdWhyRFVQaV9aLXZaLXRKQjd5MXhQdnFidFJoWHgzU0g1Nl9wVHFKc1pxbGZCMUptYVMtOG1xdG1Ec2Zna3FpQ2RrMUM4SVFoX0pjcFA0M1F6Z2w?oc=5",
             "source": "Statista",
             "date": "Wed, 19 Nov 2025 08:00:00 GMT",
             "category": "Retail"
-        },
-        {
-            "title": "Best-selling categories on Amazon: 2026 guide for Indian SMEs - DHL",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGpEYWJ3clpFX05TSG9mdGowby1BZUFfWmVWNzM5d2hVM09oUzRxeTYzT0h2ME1NVlFQbThCNl9YS01EMmRMVXVLMTZDZUsxQlJnbU5sSWVNSHFmekJJV0lNTUhpZXJqUFNmbFNDSDBOVXZaSU9MN0RqTjVyX2pzMW1hUDFkYzNzZ21INHNpaHpCWDJhSVBtNk1QRGZLbmhyYXhfeVNsemhXeEJHRmI2NVU0dXhubTk2?oc=5",
-            "source": "DHL",
-            "date": "Tue, 10 Mar 2026 07:00:00 GMT",
-            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
