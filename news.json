@@ -1,12 +1,19 @@
 {
-    "date": "03 Apr, 2026",
+    "date": "04 Apr, 2026",
     "story": {
-        "brand": "Cred",
-        "campaign": "The 'Indiranagar Ka Gunda' Effect",
-        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
-        "lesson": "Disruption happens when you break a celebrity's established archetype."
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
     },
     "news": [
+        {
+            "title": "LINC appoints Hitesh Singla to lead marketing - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbUxXMlBSb3dXc1RjVmdrMVIzUGYxRDhJeEtEdGdXQkRxbW83MXJSVm1EaGhRQ1lQeEQ2Zk5Zb3Y3blVGUFNBSWtFSUFzTk13TlVENXpYekFHZkJ6dS1XOXdWNFhzYTl6WEsta3lCNHdCbUlOcnZhUEpPRlVlR2FRaDgzYUNfQmNWakVLWEtQdFFBcl9qYzVCNUpCZTF0RVBrdEFEWkxUYXhpWGMtM1E?oc=5",
+            "source": "Campaign India",
+            "date": "Fri, 03 Apr 2026 09:21:14 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "Hitesh Singla To Spearhead Marketing Strategy At Linc - Everything Experiential",
             "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWZnSjhnNW9pR1dDUEpkeTNQM3pibFlxblc4d24xMHozWXZQQ2Vpako3R3RjSUJINmw3dTVhZnJfYXVuVUljVjZabmxyRGRfM1VwT1lPZ1NtTXZFRUxOa3VvaXAySG5QY0U1SlFVNTM1X2t2bXUzZ2NjLW5NOEpGS2pBZjRWQkFvZVFRUl9faVhsYzZONUFlZFJpMHVkM3l1NktLVVpB?oc=5",
@@ -22,38 +29,24 @@
             "category": "Strategy"
         },
         {
-            "title": "Oracle India names Prabhjot Minhas as Senior Director and Head of Marketing - PitchOnnet",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeG1qYXZtUE85TmZ5Mm4zUlNOT0dsRGU4Q2VMLXh2STlfUGV2VldtT0MwckZzY2pWWWtuLXFnLWh5RVhxOXd5aVVFRTlVamxSajh1dVZOQV9kZkxRNlZyN05NelhKYmQyVlVlbGhGekpuUmV0aU5TYjRKdlJYQlAyX2tRblM1Zkdkd2hXNzZtbWw1ZzJIVFZvMDl0VVVtRVhhUHNNSk5zOTdpQUJvcHNiTk1kWFZHUGo3QjFQZW5sTi1iaEU?oc=5",
-            "source": "PitchOnnet",
-            "date": "Thu, 02 Apr 2026 11:19:28 GMT",
+            "title": "ASICS India maintains 50:50 digital-retail mix: Saurabh Sharma, Marketing Director - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWGxXNHVWZjV0b1lMU182MjVKajFOMDFsUms1V1puc3lrRDZHVWtlM1BLcVBhODNOWFItQjJzcURWcGFPaWxtN0J5XzVPQUJUaktjQS13VTgxYVl0RjJhXzNGYkRDZDdpXzAzZXRlS0xPSHNZRXk0R3JDSWw0LUxGU1p5UkdIdW9rN0RScVJDT1Z2TlVsTjBuUDJlVDdKaW1IeFdVakxGbkNPQ3prMy1Rd3ZjVTRzN2dZUXdZZjJVaTcwal9kWHhmTENQckQzUDRacVFv?oc=5",
+            "source": "Exchange4Media",
+            "date": "Wed, 01 Apr 2026 03:13:59 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Prabhjot Minhas joins Oracle India as Senior Director & Head of Marketing - socialsamosa.com",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcGJDVzEwZ1NFcEhURlUtZVZ2Y3k4N3BnelFBMXluTHNiWTdIQXNQd2FHMFVSSEc0bnNHRzIzckVLTjZHSjNJRTRGeHRRSzRRWTZxY1ROVnE4b0stM0dQZExnNmdiVVFIMlBiVVRLTTc1M2JMVmxjWjR4ajBObjNCNExBQ2xrTGlOR0NtLTJKc1VycXJLdUx0ck94UFNnbVNtVWw0TGpIeHVWOHpxMGdaTVRKbVjSAbQBQVVfeXFMTnBiQ1cxMGdTRXBIVEZVLWVWdmN5ODdwZ3pRQTF5bkxzYlk3SEFzUHdhRzBVUkhHNG5zR0cyM3JFS042R0ozSUU0Rnh0UUs0UVk2cWNUTlZxOG9LLTNHUGRMZzZnYlVRSDJQYlVUS003NTNiTFZsY1o0eGowTm4zQjRMQUNsa0xpTkdDbS0ySnNVcnFyS3VMdHJPeFBTZ21TbVVsNExqSHh1Vjh6cTBnWk1USm1Y?oc=5",
-            "source": "socialsamosa.com",
-            "date": "Thu, 02 Apr 2026 12:13:38 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "10 Biggest Ecommerce Platforms in the World (2026 Rankings) - Business.com",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzlHcVRpdGFYc0FvSE5hOXRlUXpKeEh1SG9MWHk2LVpJNnJySmhSZXU4d2QtQ2NxY3NfOUNyMUZYb1BDZy1kcUQ1Z0JmQmwwYk10N1FXdmVQMTFjeVdweEoxUGE1R053dGJzcHg2cDBlbFNDallmUW9wZXg0ZEpnZVR1SmMtYlQyaDUyODNR?oc=5",
-            "source": "Business.com",
-            "date": "Mon, 30 Mar 2026 07:00:00 GMT",
-            "category": "Retail"
-        },
-        {
-            "title": "MSMEs and Export Promotion through e-commerce will be key to revive the Indian economy - Indian Retailer",
-            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPY2VDQmdqbkJoWVVxX0FnNmlsNnR5U1hsU0dpWUZnem41WkVhNkt4UEZienNycG1pWXpseEpmeXh3d1pQZHVVaUVDSGh2cFpoOHN0MHl5Q2xDSkRoTjAtT2lRUDRXWHVKQzV1akpqWUpsSUx2SXZSZWxzQXhvTVMxbktYTUliQ2E5QzN3Q3ZHUUpVcmN5Z3VtdndDd2ZRdjVqUGVjOW9XNTJhcHdhaUpNWmhWVkRham85eFkxUDlVUTVGR09QTmRHNVljbDN4cFFacHREdHpjWU1PVzlJbjNsZTkxaw?oc=5",
+            "title": "Redefining E-commerce: Trends That Will Shape India's Online Industry In 2021 - Indian Retailer",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS2l3aHExczBsdXYtQm92QXJtWnhJcDFNWElLTG4yRXoyMG5CZ19Xb0FLN3VDeWlaSG92NmEzdkxHWlp0UVhZRzZELTZOV2luenRsTGt3bTY2bjZ5VjBmcXRNaHFKS0V3UFFqZVZtWUhkR3docGk1UEIyNk9xeFFiRzN1RDdGZHQwTGZ2aWtZU3pWbm1fRXVENHFUTE5lRnVtNlgzRUVWX1lrNGJKOTJRLXlyb3RNejFQSHBST0VtTmFoUEZFN2xwQndhSzhpU1NISVBLOTBfZi1pVms?oc=5",
             "source": "Indian Retailer",
-            "date": "Wed, 01 Apr 2026 17:27:11 GMT",
+            "date": "Wed, 01 Apr 2026 20:32:55 GMT",
             "category": "Retail"
         },
         {
-            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
-            "source": "Inc42",
-            "date": "Wed, 10 Dec 2025 08:00:00 GMT",
+            "title": "10 Biggest Ecommerce Platforms in the World (2026 Rankings) - business.com",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzlHcVRpdGFYc0FvSE5hOXRlUXpKeEh1SG9MWHk2LVpJNnJySmhSZXU4d2QtQ2NxY3NfOUNyMUZYb1BDZy1kcUQ1Z0JmQmwwYk10N1FXdmVQMTFjeVdweEoxUGE1R053dGJzcHg2cDBlbFNDallmUW9wZXg0ZEpnZVR1SmMtYlQyaDUyODNR?oc=5",
+            "source": "business.com",
+            "date": "Mon, 30 Mar 2026 07:00:00 GMT",
             "category": "Retail"
         },
         {
@@ -61,6 +54,13 @@
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alUxbnNDRk5fVmZNMUJ1OERjVlhYckdjTFoxYlJUTTZEdWhyRFVQaV9aLXZaLXRKQjd5MXhQdnFidFJoWHgzU0g1Nl9wVHFKc1pxbGZCMUptYVMtOG1xdG1Ec2Zna3FpQ2RrMUM4SVFoX0pjcFA0M1F6Z2w?oc=5",
             "source": "Statista",
             "date": "Wed, 19 Nov 2025 08:00:00 GMT",
+            "category": "Retail"
+        },
+        {
+            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
+            "source": "Inc42",
+            "date": "Wed, 10 Dec 2025 08:00:00 GMT",
             "category": "Retail"
         }
     ],
