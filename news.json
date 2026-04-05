@@ -1,24 +1,17 @@
 {
-    "date": "04 Apr, 2026",
+    "date": "05 Apr, 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
+        "brand": "Cred",
+        "campaign": "The 'Indiranagar Ka Gunda' Effect",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
+        "lesson": "Disruption happens when you break a celebrity's established archetype."
     },
     "news": [
         {
-            "title": "LINC appoints Hitesh Singla to lead marketing - Campaign India",
+            "title": "LINC appoints Hitesh Singla to lead marketing - campaignindia.in",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbUxXMlBSb3dXc1RjVmdrMVIzUGYxRDhJeEtEdGdXQkRxbW83MXJSVm1EaGhRQ1lQeEQ2Zk5Zb3Y3blVGUFNBSWtFSUFzTk13TlVENXpYekFHZkJ6dS1XOXdWNFhzYTl6WEsta3lCNHdCbUlOcnZhUEpPRlVlR2FRaDgzYUNfQmNWakVLWEtQdFFBcl9qYzVCNUpCZTF0RVBrdEFEWkxUYXhpWGMtM1E?oc=5",
-            "source": "Campaign India",
+            "source": "campaignindia.in",
             "date": "Fri, 03 Apr 2026 09:21:14 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Hitesh Singla To Spearhead Marketing Strategy At Linc - Everything Experiential",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWZnSjhnNW9pR1dDUEpkeTNQM3pibFlxblc4d24xMHozWXZQQ2Vpako3R3RjSUJINmw3dTVhZnJfYXVuVUljVjZabmxyRGRfM1VwT1lPZ1NtTXZFRUxOa3VvaXAySG5QY0U1SlFVNTM1X2t2bXUzZ2NjLW5NOEpGS2pBZjRWQkFvZVFRUl9faVhsYzZONUFlZFJpMHVkM3l1NktLVVpB?oc=5",
-            "source": "Everything Experiential",
-            "date": "Thu, 02 Apr 2026 13:16:33 GMT",
             "category": "Strategy"
         },
         {
@@ -29,23 +22,30 @@
             "category": "Strategy"
         },
         {
-            "title": "ASICS India maintains 50:50 digital-retail mix: Saurabh Sharma, Marketing Director - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWGxXNHVWZjV0b1lMU182MjVKajFOMDFsUms1V1puc3lrRDZHVWtlM1BLcVBhODNOWFItQjJzcURWcGFPaWxtN0J5XzVPQUJUaktjQS13VTgxYVl0RjJhXzNGYkRDZDdpXzAzZXRlS0xPSHNZRXk0R3JDSWw0LUxGU1p5UkdIdW9rN0RScVJDT1Z2TlVsTjBuUDJlVDdKaW1IeFdVakxGbkNPQ3prMy1Rd3ZjVTRzN2dZUXdZZjJVaTcwal9kWHhmTENQckQzUDRacVFv?oc=5",
-            "source": "Exchange4Media",
-            "date": "Wed, 01 Apr 2026 03:13:59 GMT",
+            "title": "Prabhjot Minhas Joins Oracle As Senior Director- Head Of Marketing - BW People",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbW5yQnQ5Z3ZoaWRibVI0M2FaMXJhand6NzBzY1NzZUxMUUF3WEM1Wlc0dkFEa0N3S2hhSng5UUUyMUlWRGZCY0lKUG5HSFpaWmhnUS12RF9teWdtMmREd19qQTcycVo3bFhwQUhiWXB3anZuV0JJdXU5TE9tNjA1MXZxZVluWWZXaWVXdVBDaHRBNnlRdzFHMjY5NGZEMTJjcWlzMG50bw?oc=5",
+            "source": "BW People",
+            "date": "Thu, 02 Apr 2026 05:28:15 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Redefining E-commerce: Trends That Will Shape India's Online Industry In 2021 - Indian Retailer",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS2l3aHExczBsdXYtQm92QXJtWnhJcDFNWElLTG4yRXoyMG5CZ19Xb0FLN3VDeWlaSG92NmEzdkxHWlp0UVhZRzZELTZOV2luenRsTGt3bTY2bjZ5VjBmcXRNaHFKS0V3UFFqZVZtWUhkR3docGk1UEIyNk9xeFFiRzN1RDdGZHQwTGZ2aWtZU3pWbm1fRXVENHFUTE5lRnVtNlgzRUVWX1lrNGJKOTJRLXlyb3RNejFQSHBST0VtTmFoUEZFN2xwQndhSzhpU1NISVBLOTBfZi1pVms?oc=5",
+            "title": "Hyundai India doubles down on compact SUV marketing amid intensifying competition - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcUd2ZEptVENZdnMxNkVrdWQxdF9JUlBqQlFuVnBVN2pVSmk3YTJzNGhYV0hYMmYyM1J6WVNaYjk1akRzNTg5TVR6RXFUc1VndU1zTERlMGkxZUVwcXBJaHVSemFyajEySzVrX3FwSXlNazhRZV8ybW5Vbzg4UFphOS1zbVdieExWZ0M4NEFobXhHOE1RRTJqbWd1TlFDdE5LNUFyUFJYM1NxMjVmWmp1UUtDc0FkNHg0bjYtN0ZEQmY0N25UQXhNbXMyOHl2d240WlM4Nm43LTBfaVBIcUxUbE0tTTFPTlBQcjlWdFROcEhja1dEZU5mRWNR0gH_AUFVX3lxTE5fXzJLNkduZU1YSDVTejRIOHBYN2FyS0RWOFFIZXZfQ0pSeGVfMVNkVG5CaWRDcnVHak41NVNQRTloYUZrY3duSHgxS1oxS2wzeWJQNVlBZTd2YjhIdHdZdzVnQ3NMb1ZNTGVDMXRfbDhLbDM2ZUd2a1RtNkZ2YXlVVElNYVRvWnRWRVRsRWc0U1NhbVhvY0tVR3E1dEg1cWNSMk1nVlF6bm92UGlaT1BfQmRxNWl3WDg5Y0hzbzRYa0hqUTRjZkNZTjZrV3ZVby15cWdLcGVIeG41UmpQcmdlT25LLV80ZUgtYmFXUDZVTkpaLUZVY1hkWnMyclEzZw?oc=5",
+            "source": "ET BrandEquity",
+            "date": "Thu, 02 Apr 2026 06:23:29 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "New E-Commerce Trends Are Driving Demand for Skilled Workers - Indian Retailer",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVR0c3BodjNYWlJ6YmVlVDd1dF9kbDJ5STVuZHU3QXdhb0Z3b3Y5a2o0aUVSb1FFU3hsci15R0xUTDZ2THFkbFlJSnJUX29kN1VKc2loNzZ3QUdlenNNY3ZhcDU0UWVua3VocGd4UndfOGRiTFJEM1QzNE5Ya01xOFlfWGVYRVZBZ2xNaE1SNzBoVjRKN2dEWGhFb1d3SndMa3RCY25ielZSOTJ2SVdQemdtMkxybUl3WV81dnJpamRWTW9kT0E?oc=5",
             "source": "Indian Retailer",
-            "date": "Wed, 01 Apr 2026 20:32:55 GMT",
+            "date": "Sat, 04 Apr 2026 04:54:47 GMT",
             "category": "Retail"
         },
         {
-            "title": "10 Biggest Ecommerce Platforms in the World (2026 Rankings) - business.com",
+            "title": "10 Biggest Ecommerce Platforms in the World (2026 Rankings) - Business.com",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzlHcVRpdGFYc0FvSE5hOXRlUXpKeEh1SG9MWHk2LVpJNnJySmhSZXU4d2QtQ2NxY3NfOUNyMUZYb1BDZy1kcUQ1Z0JmQmwwYk10N1FXdmVQMTFjeVdweEoxUGE1R053dGJzcHg2cDBlbFNDallmUW9wZXg0ZEpnZVR1SmMtYlQyaDUyODNR?oc=5",
-            "source": "business.com",
+            "source": "Business.com",
             "date": "Mon, 30 Mar 2026 07:00:00 GMT",
             "category": "Retail"
         },
