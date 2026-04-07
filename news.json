@@ -1,38 +1,38 @@
 {
-    "date": "06 Apr, 2026",
+    "date": "07 Apr, 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
+        "brand": "Spotify",
+        "campaign": "Wrapped 2025: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
+        "lesson": "Data is boring. Data identity is viral."
     },
     "news": [
         {
-            "title": "Oracle India appoints Prabhjot Minhas as Senior Director & Head of Marketing - exchange4media.com",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcVNGOERPNmVDeVlfMWE3UmtfSFk2QUYtVy1vVXAzaUUyUTl4bHhkVTBJMmJEOWFtRXdqTnI5Um1RVDFnTnBLSW45WHJadmVoRW14U2QtakYwOUhoeGRfMDM0X2VRSjZBZmtaaWV5WXE4dkpRU3hNckV1dWRud05kdVNpNjlOT19sRGczWExQUFFTd1dUQWFVY0lKenRHa2NqcGh1T2lqZ2pGSGJQdGJWc1lQX0xtZmptRjhERkMwZ2Y2VjZkN3Q5YTJzVk1VeHJYNEV1Sg?oc=5",
-            "source": "exchange4media.com",
-            "date": "Thu, 02 Apr 2026 06:17:16 GMT",
+            "title": "NeoLiv Appoints Chandan Kar as CMO to lead strategic growth across India - bestmediainfo.com",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQODNoVlN6a3RQSlZlTzVqZ211WlNUNjA1QmtXdlhoOVlsTnJ5WUI0bzRYWGNjcURGUnBaWW9mYnM3R3MzTE1MOVBXZ2haWU5DNHZhV1dUWl80Yy1wcEhlTEpFUHl1dGRJVXVBcW56dEduMnFucnBOME53NC1idk9tZmczRy1tZkgtQThTZXlEYkwteTJzQmd6NTVmdzBOay1sc3kzSmtud3lDVnlSOWZtLUREWklDbjRLOG16ZUZrU29PRjU4M3ZlQ0tnemJ1WUpIclpF0gHTAUFVX3lxTFA4M2hWU3prdFBKVmVPNWpnbXVaU1Q2MDVCa1d2WGg5WWxOcnlZQjRvNFhYY2NxREZScFpZb2ZiczdHczNMTUw5UFdnaFpZTkM0dmFXV1RaXzRjLXBwSGVMSkVQeXV0ZElVdUFxbnp0R24ycW5ycE4wTnc0LWJ2T21mZzNHLW1mSC1BOFNleURiTC15MnNCZ3o1NWZ3ME5rLWxzeTNKa253eUNWeVI5Zm0tRERaSUNuNEs4bXplRmtTb09GNTgzdmVDS2d6YnVZSkhyWkU?oc=5",
+            "source": "bestmediainfo.com",
+            "date": "Mon, 06 Apr 2026 11:35:36 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Most effective marketing strategy in India in January 2023, by generation - statista.com",
+            "title": "Hitesh Singla To Spearhead Marketing Strategy At Linc - Everything Experiential",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWZnSjhnNW9pR1dDUEpkeTNQM3pibFlxblc4d24xMHozWXZQQ2Vpako3R3RjSUJINmw3dTVhZnJfYXVuVUljVjZabmxyRGRfM1VwT1lPZ1NtTXZFRUxOa3VvaXAySG5QY0U1SlFVNTM1X2t2bXUzZ2NjLW5NOEpGS2pBZjRWQkFvZVFRUl9faVhsYzZONUFlZFJpMHVkM3l1NktLVVpB?oc=5",
+            "source": "Everything Experiential",
+            "date": "Thu, 02 Apr 2026 13:16:33 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "\u2018Deep Regional Roots Before Pan-India Scale\u2019 - IMPACT Magazine",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnpFOC1uMkIwR2FMRmdoMGZaam41VWZycWIxVHFNTlJxQm52NExWX1otMGNzc1FpdXFrRVlMQXZHRUp2THc0MnpScXZ1QVkzcEcydDl2S19xY3ZXWHZjTmIwc2ZWdHBSekgzaFJHZDlOT0Q4Q1gtOFkwNmZvbXc4aktDMk5kc2NWT25n?oc=5",
+            "source": "IMPACT Magazine",
+            "date": "Mon, 06 Apr 2026 06:10:20 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Most effective marketing strategy in India in January 2023, by generation - Statista",
             "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3E1OE5QWTVLY1dFcTdZSDlndFhRQVZCV0REdEFvNXN3M21HY1JMWC1ZTVNiRHRoZUJzWW1nZEVwZ1lMWDN4RTVuSVZsNnlSX0tYbk1NR1dkNDVUeGZjOWJaWVgzaUxUTmxidzlzeTg4Ti1mTFRzbWFjeHRxbHBJNVpSYUU4cnN3RVM4?oc=5",
-            "source": "statista.com",
+            "source": "Statista",
             "date": "Fri, 28 Nov 2025 08:00:00 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Ikea Marketing Strategy: A Case Study - Simplilearn.com",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWDd4dDMxWUZsREExdHFIYWY3eXF2d3hJa1VidzV5amdQTElrTzJKZ0p6MDI3dEJaNDJHUHZCTFR5Z25iRjVmb2Fzek5tZTg1bnpIRGR4dDBReGdvLW0zc2F4dTNvaXVuT2pQMmp3SV9jVjVsTXNsY0RhTmZGUThHTmE3eXE0V212U2RDQUpyaHhHa0x1OXZNLTJiOXBNbzJ3cmljVTRyQQ?oc=5",
-            "source": "Simplilearn.com",
-            "date": "Sat, 28 Mar 2026 07:00:00 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Hyundai India doubles down on compact SUV marketing amid intensifying competition - ET BrandEquity",
-            "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcUd2ZEptVENZdnMxNkVrdWQxdF9JUlBqQlFuVnBVN2pVSmk3YTJzNGhYV0hYMmYyM1J6WVNaYjk1akRzNTg5TVR6RXFUc1VndU1zTERlMGkxZUVwcXBJaHVSemFyajEySzVrX3FwSXlNazhRZV8ybW5Vbzg4UFphOS1zbVdieExWZ0M4NEFobXhHOE1RRTJqbWd1TlFDdE5LNUFyUFJYM1NxMjVmWmp1UUtDc0FkNHg0bjYtN0ZEQmY0N25UQXhNbXMyOHl2d240WlM4Nm43LTBfaVBIcUxUbE0tTTFPTlBQcjlWdFROcEhja1dEZU5mRWNR0gH_AUFVX3lxTE5fXzJLNkduZU1YSDVTejRIOHBYN2FyS0RWOFFIZXZfQ0pSeGVfMVNkVG5CaWRDcnVHak41NVNQRTloYUZrY3duSHgxS1oxS2wzeWJQNVlBZTd2YjhIdHdZdzVnQ3NMb1ZNTGVDMXRfbDhLbDM2ZUd2a1RtNkZ2YXlVVElNYVRvWnRWRVRsRWc0U1NhbVhvY0tVR3E1dEg1cWNSMk1nVlF6bm92UGlaT1BfQmRxNWl3WDg5Y0hzbzRYa0hqUTRjZkNZTjZrV3ZVby15cWdLcGVIeG41UmpQcmdlT25LLV80ZUgtYmFXUDZVTkpaLUZVY1hkWnMyclEzZw?oc=5",
-            "source": "ET BrandEquity",
-            "date": "Thu, 02 Apr 2026 06:23:29 GMT",
             "category": "Strategy"
         },
         {
@@ -43,17 +43,17 @@
             "category": "Retail"
         },
         {
-            "title": "E-commerce market size India 2014-2035 - statista.com",
+            "title": "E-commerce market size India 2014-2035 - Statista",
             "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alUxbnNDRk5fVmZNMUJ1OERjVlhYckdjTFoxYlJUTTZEdWhyRFVQaV9aLXZaLXRKQjd5MXhQdnFidFJoWHgzU0g1Nl9wVHFKc1pxbGZCMUptYVMtOG1xdG1Ec2Zna3FpQ2RrMUM4SVFoX0pjcFA0M1F6Z2w?oc=5",
-            "source": "statista.com",
+            "source": "Statista",
             "date": "Wed, 19 Nov 2025 08:00:00 GMT",
             "category": "Retail"
         },
         {
-            "title": "10 Biggest Ecommerce Platforms in the World (2026 Rankings) - Business.com",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzlHcVRpdGFYc0FvSE5hOXRlUXpKeEh1SG9MWHk2LVpJNnJySmhSZXU4d2QtQ2NxY3NfOUNyMUZYb1BDZy1kcUQ1Z0JmQmwwYk10N1FXdmVQMTFjeVdweEoxUGE1R053dGJzcHg2cDBlbFNDallmUW9wZXg0ZEpnZVR1SmMtYlQyaDUyODNR?oc=5",
-            "source": "Business.com",
-            "date": "Mon, 30 Mar 2026 07:00:00 GMT",
+            "title": "DHL\u2019s E-Commerce Trends Report 2025: AI and Social Media Reshaping Online Shopping in Asia Pacific - DHL",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM19xR0pEM2x2R1JwSWVWcm9hY2pHNThKMHY5NlZlSUZPVk1QeDRxdDRRdWRXNG14WDUxLXY3Ti1IbnJaUk05NUZPUC1vN3hhWnNWbUtVak82YnBCcWJYZGNxS09TZER3TmVLcFBSQXVVMVNLMjFJYUJadUhWSEZOZVJTNFhIWTFnVGtTZWVsdW5QMk1mODhMYzVrbWlDbHkxU1ZFdzFWVWFoRjloYXdYc0h1TFNuenZpYlU3VDlMM3FySWUyWTVNdlJSenVRYkl2dEZLMldIQXdJNXNFeFNnTzljaUFoa19HZVUzcGFB?oc=5",
+            "source": "DHL",
+            "date": "Mon, 23 Jun 2025 07:00:00 GMT",
             "category": "Retail"
         },
         {
@@ -66,20 +66,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "In 2026, 'Cookie-less' marketing relies on?",
         "options": [
-            "Your brand's visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "First-Party Data",
+            "Third-Party Data",
+            "Spyware"
         ],
         "a": 0
     }
