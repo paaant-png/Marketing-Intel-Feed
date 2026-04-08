@@ -1,52 +1,52 @@
 {
-    "date": "07 Apr, 2026",
+    "date": "08 Apr, 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped 2025: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
-        "lesson": "Data is boring. Data identity is viral."
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification Strategy",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization."
     },
     "news": [
         {
-            "title": "NeoLiv Appoints Chandan Kar as CMO to lead strategic growth across India - bestmediainfo.com",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQODNoVlN6a3RQSlZlTzVqZ211WlNUNjA1QmtXdlhoOVlsTnJ5WUI0bzRYWGNjcURGUnBaWW9mYnM3R3MzTE1MOVBXZ2haWU5DNHZhV1dUWl80Yy1wcEhlTEpFUHl1dGRJVXVBcW56dEduMnFucnBOME53NC1idk9tZmczRy1tZkgtQThTZXlEYkwteTJzQmd6NTVmdzBOay1sc3kzSmtud3lDVnlSOWZtLUREWklDbjRLOG16ZUZrU29PRjU4M3ZlQ0tnemJ1WUpIclpF0gHTAUFVX3lxTFA4M2hWU3prdFBKVmVPNWpnbXVaU1Q2MDVCa1d2WGg5WWxOcnlZQjRvNFhYY2NxREZScFpZb2ZiczdHczNMTUw5UFdnaFpZTkM0dmFXV1RaXzRjLXBwSGVMSkVQeXV0ZElVdUFxbnp0R24ycW5ycE4wTnc0LWJ2T21mZzNHLW1mSC1BOFNleURiTC15MnNCZ3o1NWZ3ME5rLWxzeTNKa253eUNWeVI5Zm0tRERaSUNuNEs4bXplRmtTb09GNTgzdmVDS2d6YnVZSkhyWkU?oc=5",
-            "source": "bestmediainfo.com",
-            "date": "Mon, 06 Apr 2026 11:35:36 GMT",
+            "title": "Why brands in India are turning to experiential marketing - EY",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjZMemJOcjNOU2V4M3JlQlZqaGNiZzY2RE5PUloxSkpRb2U3b2gtSzd5MjRDY1hqdGJqcTlvQjZYQklNS3d6bkU3VU0xMHEzUm04SU4xUHhvaTc3eDlGc0FIcGtsclRncS1iYWpjWjNSVnlmMDhlSE9ZSVN5ckktRnNRWDV5RTZoN2k4WU4zTDg2cHp5d2JOQXlmXzIyOTg2VFhzWHB6VzJDSHhRZVJwNw?oc=5",
+            "source": "EY",
+            "date": "Tue, 07 Apr 2026 11:18:51 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Hitesh Singla To Spearhead Marketing Strategy At Linc - Everything Experiential",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWZnSjhnNW9pR1dDUEpkeTNQM3pibFlxblc4d24xMHozWXZQQ2Vpako3R3RjSUJINmw3dTVhZnJfYXVuVUljVjZabmxyRGRfM1VwT1lPZ1NtTXZFRUxOa3VvaXAySG5QY0U1SlFVNTM1X2t2bXUzZ2NjLW5NOEpGS2pBZjRWQkFvZVFRUl9faVhsYzZONUFlZFJpMHVkM3l1NktLVVpB?oc=5",
+            "title": "Neoliv elevates Chandan Kar to chief marketing officer - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeDduSFV5Smcwd191ei0xcjl6VmZPRzhCYmh6UXJtMWFObHA1RnA4TVNFMzRoQ0hTRFBuVzhqSzlGRTZlTDQtaEVONmNHSHBmeWFpV3FCeHVsdHlzTGRBdlVYbFBnSF9oUnZyMnVIUVg5TW5JV05JdW96WDVLbGtOdFdEeERIS25JQlVMbFhvYUtibDJkOWlpNHo4bVM4VWJwYXZ2T3g2alNiT0tEcjlyY1JoaFpWZ2hEQ2c?oc=5",
+            "source": "Campaign India",
+            "date": "Tue, 07 Apr 2026 06:40:02 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Dentsu X IWMBuzz Ink Multi-Year Deal To Power India\u2019s OTT Economy - Everything Experiential",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnlYXy1TU1lYeFYzLWx1cUk0N3JndTBLbjQ5RC1nWmNVelAxTFlrQ0NQeER4cjllZVJBRFc3TDNkVGFDbVZPOUNGNTNMWGhVQUZtTjRJZkZ6YTNWZmxYUGx2WE9kQVM2ZjdVSGlmRm9NVV9iQ001Y1BUcjdxREJCdVB2R0RsdUxHbzMxS043cFdvS2R2Tk5rMVptYnlJdnZwWjdMdklTak5BNUtuZUxHaExtaC0wZw?oc=5",
             "source": "Everything Experiential",
-            "date": "Thu, 02 Apr 2026 13:16:33 GMT",
+            "date": "Tue, 07 Apr 2026 13:32:02 GMT",
             "category": "Strategy"
         },
         {
-            "title": "\u2018Deep Regional Roots Before Pan-India Scale\u2019 - IMPACT Magazine",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdnpFOC1uMkIwR2FMRmdoMGZaam41VWZycWIxVHFNTlJxQm52NExWX1otMGNzc1FpdXFrRVlMQXZHRUp2THc0MnpScXZ1QVkzcEcydDl2S19xY3ZXWHZjTmIwc2ZWdHBSekgzaFJHZDlOT0Q4Q1gtOFkwNmZvbXc4aktDMk5kc2NWT25n?oc=5",
-            "source": "IMPACT Magazine",
-            "date": "Mon, 06 Apr 2026 06:10:20 GMT",
+            "title": "Zeiss Group Scales India's Media Strategy Through A 3-stage Marketing Funnel - BW Marketing World",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjNUaVdvVEJNVk5wc2NISHY5Ql82U1BVX2cwbXFWZWNSRkVjemE3MXliV1NMcTRGRU5oYjBZU3g1enJKTmViaW5zYzNYb0VKVkN0Z0FTb3dUZTYyUUtDdUJVV0ZzYm16dVN4elB4NlhJMURPNzk1UmZjdUJsTFIxcERjeVZQTzM5ZlBlNHNnanQzcnRrdi1CMkZqcjlZejV6VjlmVVh3WTl0NGFYU1dac21TWm13NkhndWVaS1gya0tRUQ?oc=5",
+            "source": "BW Marketing World",
+            "date": "Tue, 07 Apr 2026 03:40:59 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Most effective marketing strategy in India in January 2023, by generation - Statista",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3E1OE5QWTVLY1dFcTdZSDlndFhRQVZCV0REdEFvNXN3M21HY1JMWC1ZTVNiRHRoZUJzWW1nZEVwZ1lMWDN4RTVuSVZsNnlSX0tYbk1NR1dkNDVUeGZjOWJaWVgzaUxUTmxidzlzeTg4Ti1mTFRzbWFjeHRxbHBJNVpSYUU4cnN3RVM4?oc=5",
-            "source": "Statista",
-            "date": "Fri, 28 Nov 2025 08:00:00 GMT",
-            "category": "Strategy"
+            "title": "E-commerce Trends in India vs USA in 2026: Platform Dominance vs Quick Commerce Race - Analytics Insight",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON1FzbUxPUXlOSDlMcU9pcTAtZ3lzbU1Md0lLSU5uSlRlUnM2WndqOVE4SkhSbTNFeDJTNkM2ai12WEhxamNQT1VwSlVjNUFCanBzTFVNdjVjY2RWMGp3ZTV3V2dHVzQyczV1a09kWjliRHAzSUlPT0xhZk92SXRyMjEweVBWMHpzeWVTdjFET3VydWRDQmFTUTlPVnFFcFRUcUh1QXN5UV9VdE1UOUpRZ0hQZFp3aG13c1NETDVlYzNzTGJx0gHSAUFVX3lxTE9KX3BqVEVKMUhpT2JiNnBCZGc2QWVydVBqVzBoOXE3bF9jc0V2MklVUU16WVMwcWFzaldaU1h3bUQ3bGc3WEZ6WkFiYzh3QUpNVlZjZDlHVjZyT0NZZXZoX3dzNk91M1pQYVI0ZFRzUDlNZEZQMDFjZFRqaTVTaGdFYjFTSy1TMjZxWnlkb1dqX0dhTUJoTjVPM0JsQ0xnMFBYY2ZtSkNORGFJdmxtNDVvTGdYMzBiZjgtWFZvank1UTlSLVVScGZpVzR0ak54a2dGUQ?oc=5",
+            "source": "Analytics Insight",
+            "date": "Tue, 07 Apr 2026 15:15:00 GMT",
+            "category": "Retail"
         },
         {
             "title": "New E-Commerce Trends Are Driving Demand for Skilled Workers - Indian Retailer",
             "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVR0c3BodjNYWlJ6YmVlVDd1dF9kbDJ5STVuZHU3QXdhb0Z3b3Y5a2o0aUVSb1FFU3hsci15R0xUTDZ2THFkbFlJSnJUX29kN1VKc2loNzZ3QUdlenNNY3ZhcDU0UWVua3VocGd4UndfOGRiTFJEM1QzNE5Ya01xOFlfWGVYRVZBZ2xNaE1SNzBoVjRKN2dEWGhFb1d3SndMa3RCY25ielZSOTJ2SVdQemdtMkxybUl3WV81dnJpamRWTW9kT0E?oc=5",
             "source": "Indian Retailer",
             "date": "Sat, 04 Apr 2026 04:54:47 GMT",
-            "category": "Retail"
-        },
-        {
-            "title": "E-commerce market size India 2014-2035 - Statista",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alUxbnNDRk5fVmZNMUJ1OERjVlhYckdjTFoxYlJUTTZEdWhyRFVQaV9aLXZaLXRKQjd5MXhQdnFidFJoWHgzU0g1Nl9wVHFKc1pxbGZCMUptYVMtOG1xdG1Ec2Zna3FpQ2RrMUM4SVFoX0pjcFA0M1F6Z2w?oc=5",
-            "source": "Statista",
-            "date": "Wed, 19 Nov 2025 08:00:00 GMT",
             "category": "Retail"
         },
         {
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "In 2026, 'Cookie-less' marketing relies on?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "First-Party Data",
-            "Third-Party Data",
-            "Spyware"
+            "Unpublished social ad",
+            "Negative review",
+            "Night-mode content"
         ],
         "a": 0
     }
