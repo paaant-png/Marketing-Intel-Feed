@@ -1,10 +1,10 @@
 {
-    "date": "08 Apr, 2026",
+    "date": "09 Apr, 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification Strategy",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization."
+        "brand": "Cred",
+        "campaign": "The 'Indiranagar Ka Gunda' Effect",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
+        "lesson": "Disruption happens when you break a celebrity's established archetype."
     },
     "news": [
         {
@@ -15,24 +15,24 @@
             "category": "Strategy"
         },
         {
-            "title": "Neoliv elevates Chandan Kar to chief marketing officer - Campaign India",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeDduSFV5Smcwd191ei0xcjl6VmZPRzhCYmh6UXJtMWFObHA1RnA4TVNFMzRoQ0hTRFBuVzhqSzlGRTZlTDQtaEVONmNHSHBmeWFpV3FCeHVsdHlzTGRBdlVYbFBnSF9oUnZyMnVIUVg5TW5JV05JdW96WDVLbGtOdFdEeERIS25JQlVMbFhvYUtibDJkOWlpNHo4bVM4VWJwYXZ2T3g2alNiT0tEcjlyY1JoaFpWZ2hEQ2c?oc=5",
-            "source": "Campaign India",
-            "date": "Tue, 07 Apr 2026 06:40:02 GMT",
+            "title": "Arjun Kalra joins Uber as Head of Marketing for India & South Asia - PitchOnnet",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGpBMzNqQ1F4UFRVcHF5QWlhZ3o5bmRjU0gycEVyZ0M4YkIzUVVXRUttSGVXaDFkMG5YUVExTTRSc2REcEF0ZWdkSmZvcURPRWRGMlBpUnVyYk5ZX3FVeVBEc2pWZnlNZDZLLVlla0RCR1hVTGNPN3RxeXlONVRwR3BTVlFsVHlmczh3TV9HUnRNeHdhbndQa2lMUnA0WHlkMEZabi1MdGRBalZWUW1rNVh4LVg?oc=5",
+            "source": "PitchOnnet",
+            "date": "Wed, 08 Apr 2026 19:12:06 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Dentsu X IWMBuzz Ink Multi-Year Deal To Power India\u2019s OTT Economy - Everything Experiential",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnlYXy1TU1lYeFYzLWx1cUk0N3JndTBLbjQ5RC1nWmNVelAxTFlrQ0NQeER4cjllZVJBRFc3TDNkVGFDbVZPOUNGNTNMWGhVQUZtTjRJZkZ6YTNWZmxYUGx2WE9kQVM2ZjdVSGlmRm9NVV9iQ001Y1BUcjdxREJCdVB2R0RsdUxHbzMxS043cFdvS2R2Tk5rMVptYnlJdnZwWjdMdklTak5BNUtuZUxHaExtaC0wZw?oc=5",
+            "title": "Uber Appoints Arjun Kalra To Lead Marketing Across India And South Asia - Everything Experiential",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUZDdFJMOC1rVDVvdU41OE5DTHV0WlF0anEwVGd5Sl9RLVN6aTg3azFqLU91V0ZvWVIzdlZfbExjWG9NUFlpZG5sU0hzbXFhUzJJcW1XSnVfdkhaN0I2a3AwdmVYMk96NUU1OHVlZ2ZYeGlqVjAyYTZXMmZycXZZdnJRbUVYNmRtMloxdTJScUtmWVZ3MWlHMGVVNGYzdV93RHpfZWVXdndkRmp4cDJDTGdsZnFEUlRGS3phc3NB?oc=5",
             "source": "Everything Experiential",
-            "date": "Tue, 07 Apr 2026 13:32:02 GMT",
+            "date": "Wed, 08 Apr 2026 12:32:14 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Zeiss Group Scales India's Media Strategy Through A 3-stage Marketing Funnel - BW Marketing World",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjNUaVdvVEJNVk5wc2NISHY5Ql82U1BVX2cwbXFWZWNSRkVjemE3MXliV1NMcTRGRU5oYjBZU3g1enJKTmViaW5zYzNYb0VKVkN0Z0FTb3dUZTYyUUtDdUJVV0ZzYm16dVN4elB4NlhJMURPNzk1UmZjdUJsTFIxcERjeVZQTzM5ZlBlNHNnanQzcnRrdi1CMkZqcjlZejV6VjlmVVh3WTl0NGFYU1dac21TWm13NkhndWVaS1gya0tRUQ?oc=5",
-            "source": "BW Marketing World",
-            "date": "Tue, 07 Apr 2026 03:40:59 GMT",
+            "title": "Ameya Velankar steps down as Uber Marketing Head for India, South Asia - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRE9zNHdVWnBSeVZjSHlzdHdCak9OOGdNS0JZcklTc0xYZmpROVYycFlxTVpBWWVsdklOU3JSNENjRHoxZmYzQlFyVlNxZVhrTS1OTm9aVXVLV0RYWXY4Qjc3bWRramdaNUEtWXhQdGY0TE1fVDB2NkoxdkJvVk5DcG9rUHFfeURyNTBERG1PVGRnSDlMUWZ3TTFMV3prXzdrcU5FSDdQaW9WX2xzMjVuYnpxOEx6TVA4NGNMcDAyZmpHaE3SAcgBQVVfeXFMTnFWT0lTV1lMVG9wX2g5dThZM1YyelJmaWV5LWl6LS00MmtBVVFzV2tDeS1GcUZrZEVZQWNYYzFrdC1wcGw3UUgzWk1xYW5KVk1ZTHE3dkFjU2p0UVJNQzRKakdLRk03VU5VenBad0lLYnd2cDFQWkZqRnJERVhCWFRKMWJBWEo4cjJqeGx4bXRGc1FMN0hJVnZyczY5SGMza0lMekFJb2JYbjVFVGs2VFpoaHREMHg2Vno4YXVaRk54RVl3LTdHNko?oc=5",
+            "source": "Storyboard18",
+            "date": "Wed, 08 Apr 2026 13:49:46 GMT",
             "category": "Strategy"
         },
         {
@@ -50,24 +50,24 @@
             "category": "Retail"
         },
         {
+            "title": "E-commerce Developments in India and the USA by 2026: Leading Platforms vs. Fast Delivery Market - RS Web Solutions",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeXppQlotbF82S014WDVkVzY4bV9mbHVRVnBEdWJjUVZhZ29QNWZ3aF92TVQxWjhMU0Z1UHUxVXFaX3E0LV9ySVZOa1dhcWtsRHN4STNmOXVGaXZuM0x6VUYtZFpvYm1KZEJuVXZ1UTEwZ2VHdUhlTWNhVFJjcVZtbmktQkhEQkZDUGhfRUFBcWVHSnk0SXVlNTYxdDl1YWxfTGlDcFJDcVlyVVczUUR2ekRfVkhCb2k1ZWxMVmJ3SHFSa1ZH?oc=5",
+            "source": "RS Web Solutions",
+            "date": "Wed, 08 Apr 2026 19:00:00 GMT",
+            "category": "Retail"
+        },
+        {
             "title": "DHL\u2019s E-Commerce Trends Report 2025: AI and Social Media Reshaping Online Shopping in Asia Pacific - DHL",
             "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM19xR0pEM2x2R1JwSWVWcm9hY2pHNThKMHY5NlZlSUZPVk1QeDRxdDRRdWRXNG14WDUxLXY3Ti1IbnJaUk05NUZPUC1vN3hhWnNWbUtVak82YnBCcWJYZGNxS09TZER3TmVLcFBSQXVVMVNLMjFJYUJadUhWSEZOZVJTNFhIWTFnVGtTZWVsdW5QMk1mODhMYzVrbWlDbHkxU1ZFdzFWVWFoRjloYXdYc0h1TFNuenZpYlU3VDlMM3FySWUyWTVNdlJSenVRYkl2dEZLMldIQXdJNXNFeFNnTzljaUFoa19HZVUzcGFB?oc=5",
             "source": "DHL",
             "date": "Mon, 23 Jun 2025 07:00:00 GMT",
             "category": "Retail"
-        },
-        {
-            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
-            "source": "Inc42",
-            "date": "Wed, 10 Dec 2025 08:00:00 GMT",
-            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
             "topic": "Returnless Refunds",
