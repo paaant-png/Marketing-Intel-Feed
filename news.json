@@ -1,19 +1,12 @@
 {
-    "date": "17 Apr, 2026",
+    "date": "18 Apr, 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification Strategy",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization."
+        "brand": "Cred",
+        "campaign": "The 'Indiranagar Ka Gunda' Effect",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
+        "lesson": "Disruption happens when you break a celebrity's established archetype."
     },
     "news": [
-        {
-            "title": "7 Email Marketing Objectives To Inform Your Email Strategy - Shopify",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBTGtGSVREVF9tNE50R0VfTmRKOEtNNXhvR2hablZOU1ZlLWM2eFNqQWN1TnNNOEtieEctQXZQR1NyOUQ5enRMamticmFGdm5vRjRvZjNxWUFuaTJkd045NUROUnpmWnVCRFE?oc=5",
-            "source": "Shopify",
-            "date": "Fri, 17 Apr 2026 01:52:04 GMT",
-            "category": "Strategy"
-        },
         {
             "title": "Why Dunkin\u2019s Marketing Strategy Failed In India? - Everything Experiential",
             "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjQwcDZ5SUE3ajVkanJHYzNNSDZaOWpDSnU1MnlFYTFwYnFRMEdtQmloTWxKeHk1Y1ZaN3JyUkxoanc4UXljdGhjSWNnMUFLRE10Y29OTmZ0Rk9HemZXdkV1SURsNkhHSC1za3dERU1HV1FmNzFib3Nsc2M0TkhoZjNad1M2SnlnX3VfMW5HOFc1THRXUkVqV1RZeWtqUQ?oc=5",
@@ -22,10 +15,17 @@
             "category": "Strategy"
         },
         {
-            "title": "Prashant Iyer joins SonyLIV as Vice President and Head of Marketing - Storyboard18",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWTR6VzdVMkktblljUnA0ZHROVTRZcDN1M3lRSnExV0VKUXZHNk1IV1oxdmJtSU01dEpsa2lyX056Yi1HNGM4ZGpyWUZEdDY5cnFxMF8yZFFHc0l1UEFwVGVhM3o1Y0ZCVlJyUHNKcFIxN2FJTTRzVlQ1TElYS00wcXhTb2dORW5sVmkzUElsZThTXzlTLUloOFgwejc5QlFQelhKWjlEZUs2QlBnZllKbFp6SzZVRUFvY0xZ0gHAAUFVX3lxTFBreDZMZEluQWlHdGQ2YVVQN0daNF9WYlAxZnFkN1lFVXItVUQ4NmlycC1JSXRwa2hOd1hkcXdOLTlJbF9VaHdjVjUzVmFTOFZSLWswN1BGc2tVd0RncDhra3VBSVlFV0xYN09pMUxfV0hxUVh5NkFfQ2JjQ2trc3lsZmYyQXRTM0pXWHNZdlNKVE5XV1NVdVlNTERrVFFhTXJlaUgydjhhZzF3UnQyZzVpQnZ4OWJBSzBwdmxLbDlMXw?oc=5",
-            "source": "Storyboard18",
-            "date": "Thu, 16 Apr 2026 10:09:18 GMT",
+            "title": "Strong brand platforms crucial for growth in India: report - bestmediainfo.com",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0dCTUFNcnc1SnM1ak01cEdBd0s5aFFEZDF4R1JWbFUyQWNiNllybmJETnc3MmVmV0k2ZFZHZG9lRUxZbDlkdmVQZ3VqQmo2NTNKUG5BUS14dTNQMkpYMjRVTS03YkNfcVA1ZlViZDZOSEhLOVZhUW9IM0xQeWJMQ2gwbUg2aFJxcEk4R0o3ZzhLVzhITlVjUXRLQmdESUtHQUlLNGdfeDEwUdIBqgFBVV95cUxNb0dCTUFNcnc1SnM1ak01cEdBd0s5aFFEZDF4R1JWbFUyQWNiNllybmJETnc3MmVmV0k2ZFZHZG9lRUxZbDlkdmVQZ3VqQmo2NTNKUG5BUS14dTNQMkpYMjRVTS03YkNfcVA1ZlViZDZOSEhLOVZhUW9IM0xQeWJMQ2gwbUg2aFJxcEk4R0o3ZzhLVzhITlVjUXRLQmdESUtHQUlLNGdfeDEwUQ?oc=5",
+            "source": "bestmediainfo.com",
+            "date": "Wed, 15 Apr 2026 07:27:01 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "HMD India: Leading the 'India-First' Strategy in the Mobile Market - Nokiamob",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXFNbWVBZTdxZ0x2ZHVxMk81M3NJWUhtakwybmxRYjBad0JwS21EdVduOU5QNTljUnJ2MkRFQk9QWXlXUmxHck9meU52THI1RU1obldXM3U2OHlvR0FMdGcwYlQ3ZFpBWUhXUlY2eUdHalJPR1JRbFhwWm9oTkF5ZVNoQjYyMF91cUtrdy1WUTBJMmc5cFRoaGJ3OERzbmVhS20yRC1uRQ?oc=5",
+            "source": "Nokiamob",
+            "date": "Fri, 17 Apr 2026 12:03:11 GMT",
             "category": "Strategy"
         },
         {
@@ -66,8 +66,8 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
             "topic": "Returnless Refunds",
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "Your brand's visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
