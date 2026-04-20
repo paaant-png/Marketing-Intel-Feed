@@ -1,12 +1,19 @@
 {
-    "date": "19 Apr, 2026",
+    "date": "20 Apr, 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification Strategy",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization."
+        "brand": "Spotify",
+        "campaign": "Wrapped 2025: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
+        "lesson": "Data is boring. Data identity is viral."
     },
     "news": [
+        {
+            "title": "Marketing Matters: Fortune\u2019s strategy to build emotional salience in South India - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeXk2SGJ2c093cUFmLXFJbUVRcnllMEh5blZ1andkTncyYU5sdk5uVFlFdUwtUGN4d2RxLVNsMjItVHFPUEZlUVA4RVp1Nzhyci1qdkhoZTBwR0sta2Z6bjRxUktPdEtZdVZxYUdCdG9CTnNxMnhlVUM2cUNhR0JBSXVxbUszYV8wOXVIUFJ2NHVvN0Z5NHVvMlhKSkpXSE1QQnJFTHVmNUNWUzBwY2wwWjdaVFRKanl6alZSU1RtcEJwSkRpVThjNFFXVFlzZkNZSGJvaFdYVkFuMUZYb21NQXhEdlZXdG5iTTNJbtIB7AFBVV95cUxPeXk2SGJ2c093cUFmLXFJbUVRcnllMEh5blZ1andkTncyYU5sdk5uVFlFdUwtUGN4d2RxLVNsMjItVHFPUEZlUVA4RVp1Nzhyci1qdkhoZTBwR0sta2Z6bjRxUktPdEtZdVZxYUdCdG9CTnNxMnhlVUM2cUNhR0JBSXVxbUszYV8wOXVIUFJ2NHVvN0Z5NHVvMlhKSkpXSE1QQnJFTHVmNUNWUzBwY2wwWjdaVFRKanl6alZSU1RtcEJwSkRpVThjNFFXVFlzZkNZSGJvaFdYVkFuMUZYb21NQXhEdlZXdG5iTTNJbg?oc=5",
+            "source": "ET BrandEquity",
+            "date": "Mon, 20 Apr 2026 02:29:16 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "IIDE Launches AI-Integrated PG Program in Marketing and Business Strategy - TheWire.in",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOWFGUWNSVVNJbnZjdW12Vm1SOUd4Um43Z0ZEakx5eHBxRXNzY1E3ZzRqUVZQclo0c1RQMmU5MUVZN29NZjllYTZRcHg2RVFVZmxXNm96UExVQ3lmdEZGR0RoeFlzV1NSOF9EdS1DbXhIZXZoVm1icHRuVHBWa1NRT0dGbzRfc1Y3UlcwT1BtSHJLM2dXT2c0M1hhOW1KUTN1TnpuTUJZeWZMZ0hTM3A5VXN30gG3AUFVX3lxTE1RVTVxMVFueFdTYUZCZWVlZnlFQmRWM2xSMGRmSndXWmRvNWRZMnhzdnFHZld1TUxCd1AzVnhjb1RuMnp3WFAtWFloY0RyclZISkVNMF9wT2w4d21vTi1lX3FCaThtYmY1bWk4dE8xVkNtZmNEM3NvM3FiM0tmMFllZXFZWGJmMDZuZUtiLVJmbmdwRG5iUUMxOTlaQjk1bG9Udk45YVNLNGtaNm5QR0V2TzBsVjVYNA?oc=5",
@@ -15,24 +22,17 @@
             "category": "Strategy"
         },
         {
-            "title": "Why Dunkin\u2019s Marketing Strategy Failed In India? - Everything Experiential",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjQwcDZ5SUE3ajVkanJHYzNNSDZaOWpDSnU1MnlFYTFwYnFRMEdtQmloTWxKeHk1Y1ZaN3JyUkxoanc4UXljdGhjSWNnMUFLRE10Y29OTmZ0Rk9HemZXdkV1SURsNkhHSC1za3dERU1HV1FmNzFib3Nsc2M0TkhoZjNad1M2SnlnX3VfMW5HOFc1THRXUkVqV1RZeWtqUQ?oc=5",
-            "source": "Everything Experiential",
-            "date": "Mon, 13 Apr 2026 09:57:32 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Strong brand platforms crucial for growth in India: report - bestmediainfo.com",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0dCTUFNcnc1SnM1ak01cEdBd0s5aFFEZDF4R1JWbFUyQWNiNllybmJETnc3MmVmV0k2ZFZHZG9lRUxZbDlkdmVQZ3VqQmo2NTNKUG5BUS14dTNQMkpYMjRVTS03YkNfcVA1ZlViZDZOSEhLOVZhUW9IM0xQeWJMQ2gwbUg2aFJxcEk4R0o3ZzhLVzhITlVjUXRLQmdESUtHQUlLNGdfeDEwUdIBqgFBVV95cUxNb0dCTUFNcnc1SnM1ak01cEdBd0s5aFFEZDF4R1JWbFUyQWNiNllybmJETnc3MmVmV0k2ZFZHZG9lRUxZbDlkdmVQZ3VqQmo2NTNKUG5BUS14dTNQMkpYMjRVTS03YkNfcVA1ZlViZDZOSEhLOVZhUW9IM0xQeWJMQ2gwbUg2aFJxcEk4R0o3ZzhLVzhITlVjUXRLQmdESUtHQUlLNGdfeDEwUQ?oc=5",
-            "source": "bestmediainfo.com",
-            "date": "Wed, 15 Apr 2026 07:27:01 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Prashant Iyer joins SonyLIV as Vice President and Head of Marketing - Storyboard18",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWTR6VzdVMkktblljUnA0ZHROVTRZcDN1M3lRSnExV0VKUXZHNk1IV1oxdmJtSU01dEpsa2lyX056Yi1HNGM4ZGpyWUZEdDY5cnFxMF8yZFFHc0l1UEFwVGVhM3o1Y0ZCVlJyUHNKcFIxN2FJTTRzVlQ1TElYS00wcXhTb2dORW5sVmkzUElsZThTXzlTLUloOFgwejc5QlFQelhKWjlEZUs2QlBnZllKbFp6SzZVRUFvY0xZ0gHAAUFVX3lxTFBreDZMZEluQWlHdGQ2YVVQN0daNF9WYlAxZnFkN1lFVXItVUQ4NmlycC1JSXRwa2hOd1hkcXdOLTlJbF9VaHdjVjUzVmFTOFZSLWswN1BGc2tVd0RncDhra3VBSVlFV0xYN09pMUxfV0hxUVh5NkFfQ2JjQ2trc3lsZmYyQXRTM0pXWHNZdlNKVE5XV1NVdVlNTERrVFFhTXJlaUgydjhhZzF3UnQyZzVpQnZ4OWJBSzBwdmxLbDlMXw?oc=5",
+            "title": "Kidults: The consumer India didn\u2019t see coming - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWphbkhPbzY3WEV2ZW1CamtSRzc5WHdmaS1SN2E1QWdsNjlJakdJYndBRUJLMUh6SUVqdW1Kd0tpaEw3Y1N0TzhtRnRMek5oeTVUMVpLMEs0a2E5aG1MeW1TNWJxNVpuV1RJeG53c0o4UWgtZ2IydHViZmtrN1NnQk9Tc1pRd0ZQSlpYM1BpU3VSbXhYUkdieXdmeEU2NE3SAaQBQVVfeXFMTlNuVk52QjdqNXNtYkRSVmdjQVA5ZFU4cGUtcWVJYW1HOU01bTNZdVg3Yl9TNGliUTVXS055WXFlcWM2MjAxaXRNMVBfbFc1RTNLWTM2b1NraWplOWJlVjFfWnJ1OUxLR1JBbGszQUdzUk96UTRadFplcmVVQktyZDl6R1pFRGlZUDFYenBlbzdMb29zOVhWbFNZV0s1QWN6bHdTeFg?oc=5",
             "source": "Storyboard18",
-            "date": "Thu, 16 Apr 2026 10:09:18 GMT",
+            "date": "Sun, 19 Apr 2026 06:01:01 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Publicis Groupe India names Diwaker Chandani to lead Influential - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVVRnSGpMU3ZMcmx1b3BXVk43N0J4dndYaDBxVUp0a3Nmd2FTZmFoX3J2eHp4amVvRGdZekRySDZ1VUJvc2pWeTZqYWd6MHV5Q2hLeExUV1FJNF9LVWtpNWtsTGNuR19mX2x3S0d3VlR2bEJXN2lNczBGOGxNbHg4N3B4emZRbmlLVkp1Y0F4UUEweVQtTm1uTFdZRFFWTlBsVEJKT00wZ2VDd3ZWd2U4ek9SeEZwbU16S01lR3lOUEVyZW5hVllJ?oc=5",
+            "source": "Exchange4Media",
+            "date": "Mon, 20 Apr 2026 03:36:40 GMT",
             "category": "Strategy"
         },
         {
@@ -43,24 +43,24 @@
             "category": "Retail"
         },
         {
-            "title": "Internet penetration rate in India from 2015 to 2025 - Statista",
-            "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQURxUEN2RVRZZHNFOU5RWklOZUxkQkMwSzZ3Tmppaldobzltakh6RE1kaGVJUUtKQkRoVFNLbzhlWk1rd2t4VDBUbF9JeGtoVThqNzBaY2pTcGpudXdhNEZsVW8yTTlfSVlTMEN0LW1BNU9xUF9YQTl0WUhZbFNRag?oc=5",
+            "title": "Topic: E-commerce worldwide - Statista",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82aXp3bFMwRm5pOHVDaThxMVY1MFdqQXJ5R0Z3bjFaMEFkRFVLZGxsYnNYX05XMkVzTlJxNUhVTG5ISVBReWdiQlM5RzJqVUNrY2l5a1JySzFIdFBpSVotaHR3?oc=5",
             "source": "Statista",
-            "date": "Wed, 15 Apr 2026 07:00:00 GMT",
+            "date": "Thu, 11 Dec 2025 08:00:00 GMT",
             "category": "Retail"
         },
         {
-            "title": "The 10 Largest E-commerce Markets in the World by Country - Business.com",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzlHcVRpdGFYc0FvSE5hOXRlUXpKeEh1SG9MWHk2LVpJNnJySmhSZXU4d2QtQ2NxY3NfOUNyMUZYb1BDZy1kcUQ1Z0JmQmwwYk10N1FXdmVQMTFjeVdweEoxUGE1R053dGJzcHg2cDBlbFNDallmUW9wZXg0ZEpnZVR1SmMtYlQyaDUyODNR?oc=5",
-            "source": "Business.com",
-            "date": "Mon, 13 Apr 2026 07:00:00 GMT",
+            "title": "Redefining E-commerce: Trends That Will Shape India's Online Industry In 2021 - Indian Retailer",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS2l3aHExczBsdXYtQm92QXJtWnhJcDFNWElLTG4yRXoyMG5CZ19Xb0FLN3VDeWlaSG92NmEzdkxHWlp0UVhZRzZELTZOV2luenRsTGt3bTY2bjZ5VjBmcXRNaHFKS0V3UFFqZVZtWUhkR3docGk1UEIyNk9xeFFiRzN1RDdGZHQwTGZ2aWtZU3pWbm1fRXVENHFUTE5lRnVtNlgzRUVWX1lrNGJKOTJRLXlyb3RNejFQSHBST0VtTmFoUEZFN2xwQndhSzhpU1NISVBLOTBfZi1pVms?oc=5",
+            "source": "Indian Retailer",
+            "date": "Wed, 01 Apr 2026 20:32:55 GMT",
             "category": "Retail"
         },
         {
-            "title": "E-commerce Trends in India vs USA in 2026: Platform Dominance vs Quick Commerce Race - Analytics Insight",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON1FzbUxPUXlOSDlMcU9pcTAtZ3lzbU1Md0lLSU5uSlRlUnM2WndqOVE4SkhSbTNFeDJTNkM2ai12WEhxamNQT1VwSlVjNUFCanBzTFVNdjVjY2RWMGp3ZTV3V2dHVzQyczV1a09kWjliRHAzSUlPT0xhZk92SXRyMjEweVBWMHpzeWVTdjFET3VydWRDQmFTUTlPVnFFcFRUcUh1QXN5UV9VdE1UOUpRZ0hQZFp3aG13c1NETDVlYzNzTGJx0gHSAUFVX3lxTE9KX3BqVEVKMUhpT2JiNnBCZGc2QWVydVBqVzBoOXE3bF9jc0V2MklVUU16WVMwcWFzaldaU1h3bUQ3bGc3WEZ6WkFiYzh3QUpNVlZjZDlHVjZyT0NZZXZoX3dzNk91M1pQYVI0ZFRzUDlNZEZQMDFjZFRqaTVTaGdFYjFTSy1TMjZxWnlkb1dqX0dhTUJoTjVPM0JsQ0xnMFBYY2ZtSkNORGFJdmxtNDVvTGdYMzBiZjgtWFZvank1UTlSLVVScGZpVzR0ak54a2dGUQ?oc=5",
-            "source": "Analytics Insight",
-            "date": "Tue, 07 Apr 2026 15:15:00 GMT",
+            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
+            "source": "Inc42",
+            "date": "Wed, 10 Dec 2025 08:00:00 GMT",
             "category": "Retail"
         }
     ],
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "In 2026, 'Cookie-less' marketing relies on?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "First-Party Data",
+            "Third-Party Data",
+            "Spyware"
         ],
         "a": 0
     }
