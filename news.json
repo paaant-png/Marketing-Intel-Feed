@@ -1,17 +1,24 @@
 {
-    "date": "20 Apr, 2026",
+    "date": "21 Apr, 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped 2025: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
-        "lesson": "Data is boring. Data identity is viral."
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
     },
     "news": [
         {
-            "title": "Marketing Matters: Fortune\u2019s strategy to build emotional salience in South India - ET BrandEquity",
-            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeXk2SGJ2c093cUFmLXFJbUVRcnllMEh5blZ1andkTncyYU5sdk5uVFlFdUwtUGN4d2RxLVNsMjItVHFPUEZlUVA4RVp1Nzhyci1qdkhoZTBwR0sta2Z6bjRxUktPdEtZdVZxYUdCdG9CTnNxMnhlVUM2cUNhR0JBSXVxbUszYV8wOXVIUFJ2NHVvN0Z5NHVvMlhKSkpXSE1QQnJFTHVmNUNWUzBwY2wwWjdaVFRKanl6alZSU1RtcEJwSkRpVThjNFFXVFlzZkNZSGJvaFdYVkFuMUZYb21NQXhEdlZXdG5iTTNJbtIB7AFBVV95cUxPeXk2SGJ2c093cUFmLXFJbUVRcnllMEh5blZ1andkTncyYU5sdk5uVFlFdUwtUGN4d2RxLVNsMjItVHFPUEZlUVA4RVp1Nzhyci1qdkhoZTBwR0sta2Z6bjRxUktPdEtZdVZxYUdCdG9CTnNxMnhlVUM2cUNhR0JBSXVxbUszYV8wOXVIUFJ2NHVvN0Z5NHVvMlhKSkpXSE1QQnJFTHVmNUNWUzBwY2wwWjdaVFRKanl6alZSU1RtcEJwSkRpVThjNFFXVFlzZkNZSGJvaFdYVkFuMUZYb21NQXhEdlZXdG5iTTNJbg?oc=5",
+            "title": "Allied Blenders appoints Pradipta Basu as CMO - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNalVtb2VNMTZqOW9UdUpzcUtuT0pWMHNfVnoyM3llNUFaUjYtci1TdWV6eEE0Mkh1dWNSYU5tcThFS3ZzZ3lxUHNCcUZMN3NuWUZGeEhtMXpJQ2xLTkRJWnF0TENNVlpGdEd6N2JhM1U4aWptSl9LQ1AtOUZBSDBabmNKRC1uUzZQZms2UW95dTFWZXVDZmtBQ1EyOEFjUHR4UThQQ0xJRk9ORVJKZXc?oc=5",
+            "source": "Campaign India",
+            "date": "Tue, 21 Apr 2026 04:41:21 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Aakash targets tier 2 growth with pan-India marketing blitz - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc0dvLW53ckhqUjFQd3BFMnRHN0VqZW9sa3BMWDlBTUpVT1ZoVl9VTHV4Vm1DY1RvVjBzT1FITG1aWVhuQnZ1bEo2M29kY3RERDhOQm5uQjdhaWhIQjREXzg4WGdRYUMwem5STUZ4anJST2kzbWk5TkFWa3BHNU92clY0MEZ2anFDRUg3M3FpTmpaMVNkSU8zaURlTkt4VmpBcDUzQ1NMTWJzcmhxMlRucS1XY0tTOUljbVRYVnpsMHJqbG44Tm5KRmxLa0tGYnI4b2JNV2Jzc3M2Wml20gHiAUFVX3lxTE9DV3ZnbWFUTXNUZ3hpQ0xadXJlbE9RT3VCWkVCNHFjTk1nbmdld3V3b1Y1Q3Rsd1NKZnNtcUlYTHBOSmdIbnlCUW5UZS10bmNpSTg3QzdrSGs0NWx2djdPVE1faG50eTVOWVJHZTZjaXpjQUxmQklYdE0wa2xuT1hXRjNiczRrWExlNDl0WUtNSEtOZHRScHIzWGVUbkxjMUxLSEFnbzM2ZFc5UjZ5blZqTmozcGpLUmN0eGVtcjJGeHB2SVlmQzhJM0c3cWxxbHZEbkp5Q1E0VEVkVmFlbmFFRVE?oc=5",
             "source": "ET BrandEquity",
-            "date": "Mon, 20 Apr 2026 02:29:16 GMT",
+            "date": "Mon, 20 Apr 2026 11:34:58 GMT",
             "category": "Strategy"
         },
         {
@@ -29,11 +36,18 @@
             "category": "Strategy"
         },
         {
-            "title": "Publicis Groupe India names Diwaker Chandani to lead Influential - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVVRnSGpMU3ZMcmx1b3BXVk43N0J4dndYaDBxVUp0a3Nmd2FTZmFoX3J2eHp4amVvRGdZekRySDZ1VUJvc2pWeTZqYWd6MHV5Q2hLeExUV1FJNF9LVWtpNWtsTGNuR19mX2x3S0d3VlR2bEJXN2lNczBGOGxNbHg4N3B4emZRbmlLVkp1Y0F4UUEweVQtTm1uTFdZRFFWTlBsVEJKT00wZ2VDd3ZWd2U4ek9SeEZwbU16S01lR3lOUEVyZW5hVllJ?oc=5",
-            "source": "Exchange4Media",
-            "date": "Mon, 20 Apr 2026 03:36:40 GMT",
-            "category": "Strategy"
+            "title": "E-commerce Trends in India vs USA in 2026: Platform Dominance vs Quick Commerce Race - Dailyhunt",
+            "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQc2Y4LVIzRzBqand4MGZ1d09ZcWpidTBLOExSQ244cEh1VEM3NmtxX09HZXVBNThIT3NsaGEzY3JoY2RUZ3dEOWdIY0pOemtkR0lReXV6MTJUV1NwRGtTMXlqZmhwcmFkUmI0akFKWlNSbmFpa3RxdGFMaTBsM2hObGFHamZabHdEZEVJOUItTHp2ZXlnTnM0NVppSUF6ZlRYdlY1c185ci1LWnloR2p6b0MwM1AzY1ptazU4Z011UHdKUWdwd3FSTXVtWnlWYVQ1MDFKeUZyNDdxTkJQRG4xd3hVbERhVnpzaWdrWFdNSDNad053TThhUi1VSVRYZ2Z4RURtdzN5MA?oc=5",
+            "source": "Dailyhunt",
+            "date": "Mon, 20 Apr 2026 12:38:28 GMT",
+            "category": "Retail"
+        },
+        {
+            "title": "E-commerce market size India 2014-2035 - Statista",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alUxbnNDRk5fVmZNMUJ1OERjVlhYckdjTFoxYlJUTTZEdWhyRFVQaV9aLXZaLXRKQjd5MXhQdnFidFJoWHgzU0g1Nl9wVHFKc1pxbGZCMUptYVMtOG1xdG1Ec2Zna3FpQ2RrMUM4SVFoX0pjcFA0M1F6Z2w?oc=5",
+            "source": "Statista",
+            "date": "Tue, 07 Apr 2026 07:00:00 GMT",
+            "category": "Retail"
         },
         {
             "title": "How India Shops Online 2026 - Bain & Company",
@@ -43,24 +57,10 @@
             "category": "Retail"
         },
         {
-            "title": "Topic: E-commerce worldwide - Statista",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82aXp3bFMwRm5pOHVDaThxMVY1MFdqQXJ5R0Z3bjFaMEFkRFVLZGxsYnNYX05XMkVzTlJxNUhVTG5ISVBReWdiQlM5RzJqVUNrY2l5a1JySzFIdFBpSVotaHR3?oc=5",
-            "source": "Statista",
-            "date": "Thu, 11 Dec 2025 08:00:00 GMT",
-            "category": "Retail"
-        },
-        {
-            "title": "Redefining E-commerce: Trends That Will Shape India's Online Industry In 2021 - Indian Retailer",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS2l3aHExczBsdXYtQm92QXJtWnhJcDFNWElLTG4yRXoyMG5CZ19Xb0FLN3VDeWlaSG92NmEzdkxHWlp0UVhZRzZELTZOV2luenRsTGt3bTY2bjZ5VjBmcXRNaHFKS0V3UFFqZVZtWUhkR3docGk1UEIyNk9xeFFiRzN1RDdGZHQwTGZ2aWtZU3pWbm1fRXVENHFUTE5lRnVtNlgzRUVWX1lrNGJKOTJRLXlyb3RNejFQSHBST0VtTmFoUEZFN2xwQndhSzhpU1NISVBLOTBfZi1pVms?oc=5",
-            "source": "Indian Retailer",
-            "date": "Wed, 01 Apr 2026 20:32:55 GMT",
-            "category": "Retail"
-        },
-        {
-            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
-            "source": "Inc42",
-            "date": "Wed, 10 Dec 2025 08:00:00 GMT",
+            "title": "Top E-commerce Platforms for India Exporters - DHL",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVNPa1BfbXE4QmJmclpqRVNQamk1NmYxR0gyZUhrcGVENmJTNlVPVUd4Y1kyZzRva3BQcnNzUWRMMkhaTnBBSmtNV2MtcXZrNldYY3hQYy0tVUM5WWVBdkNiU0ZKYTJNaXNIQ2RNUGcwWFJqd0lXWnpqVXp6TUtlbUtQRXhoWHE3clpmZkE1WDRRY3YxaktDOU4wY3JXenNsN3AxOGZaZlQzUlBWOTRwYnh5OEQ?oc=5",
+            "source": "DHL",
+            "date": "Tue, 02 Dec 2025 08:00:00 GMT",
             "category": "Retail"
         }
     ],
@@ -70,8 +70,8 @@
             "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
