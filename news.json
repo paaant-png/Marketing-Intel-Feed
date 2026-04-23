@@ -1,19 +1,12 @@
 {
-    "date": "22 Apr, 2026",
+    "date": "23 Apr, 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped 2025: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
-        "lesson": "Data is boring. Data identity is viral."
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
     },
     "news": [
-        {
-            "title": "Pickyourtrail appoints Janani Kandaswamy as marketing head - Campaign India",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNHlGUG52bWtRUENUb2hXSEZ4azdzdjZYQkFGcUhsNHktS0xxclUyYlJJRXB5azZtMDVFeklQX24tYnJ0ejBmd1hYN3VOQnBmcng1RzE1TDhyVU9nY1NvLVFJeDdpdFRUWUM1enppbG9VQjF0ZTJEQ2tkWVBmQUIwT0wwUkY5V1NfWWZYN2Q3RjFvOEJHX3RUeXEzbE1YMjhvTXMybjRneW5NN0tKVEoxbVhRM0ozUGliNVlZTW5xSQ?oc=5",
-            "source": "Campaign India",
-            "date": "Tue, 21 Apr 2026 14:22:39 GMT",
-            "category": "Strategy"
-        },
         {
             "title": "Marketing Matters: Fortune\u2019s strategy to build emotional salience in South India - ET BrandEquity",
             "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeXk2SGJ2c093cUFmLXFJbUVRcnllMEh5blZ1andkTncyYU5sdk5uVFlFdUwtUGN4d2RxLVNsMjItVHFPUEZlUVA4RVp1Nzhyci1qdkhoZTBwR0sta2Z6bjRxUktPdEtZdVZxYUdCdG9CTnNxMnhlVUM2cUNhR0JBSXVxbUszYV8wOXVIUFJ2NHVvN0Z5NHVvMlhKSkpXSE1QQnJFTHVmNUNWUzBwY2wwWjdaVFRKanl6alZSU1RtcEJwSkRpVThjNFFXVFlzZkNZSGJvaFdYVkFuMUZYb21NQXhEdlZXdG5iTTNJbtIB7AFBVV95cUxPeXk2SGJ2c093cUFmLXFJbUVRcnllMEh5blZ1andkTncyYU5sdk5uVFlFdUwtUGN4d2RxLVNsMjItVHFPUEZlUVA4RVp1Nzhyci1qdkhoZTBwR0sta2Z6bjRxUktPdEtZdVZxYUdCdG9CTnNxMnhlVUM2cUNhR0JBSXVxbUszYV8wOXVIUFJ2NHVvN0Z5NHVvMlhKSkpXSE1QQnJFTHVmNUNWUzBwY2wwWjdaVFRKanl6alZSU1RtcEJwSkRpVThjNFFXVFlzZkNZSGJvaFdYVkFuMUZYb21NQXhEdlZXdG5iTTNJbg?oc=5",
@@ -22,17 +15,24 @@
             "category": "Strategy"
         },
         {
-            "title": "Shruti Narang Microsoft Marketing Director India - Veloxx media",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KR094M2hkWlcxOC1CalhJVnJqTld1UVhNVDdpOEFfZkpWQTVNb1Qyd2c4THBJc1hEZFBXcnFnQUlhZWlOU2hSVFNoWG1QMkI5Y0ozT3pQelo5N2JTX0xMbmthNGw1TDVOaGJNc0JsWm1rOWtQSkZzaWd0WUdtdw?oc=5",
-            "source": "Veloxx media",
-            "date": "Tue, 21 Apr 2026 10:25:54 GMT",
+            "title": "BPTP appoints Shalini Jha to lead marketing - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3QzVU1yV1hQMkZuRzNsRmtrTnhTeTU3dERrcmNEWm5fMWwya0N6VU5UVnBicWk2WEVEZjlJWGNzZ1VkTmljSFJieUNPaEVlSlJNX2hfQmgyRDBrOUVUOUdnVkZqeHRNbDVvcGlJa2h4T2NwRjNiVFRqWDdqWUdpS3J6MDJ6VzQxbkpDTE5sLVhQNkk5Q2pKcmVDdzlEUmRLSnpyTzhMT0V4Wlk?oc=5",
+            "source": "Campaign India",
+            "date": "Mon, 20 Apr 2026 06:46:46 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Experiential marketing for Indian brands - EY",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjZMemJOcjNOU2V4M3JlQlZqaGNiZzY2RE5PUloxSkpRb2U3b2gtSzd5MjRDY1hqdGJqcTlvQjZYQklNS3d6bkU3VU0xMHEzUm04SU4xUHhvaTc3eDlGc0FIcGtsclRncS1iYWpjWjNSVnlmMDhlSE9ZSVN5ckktRnNRWDV5RTZoN2k4WU4zTDg2cHp5d2JOQXlmXzIyOTg2VFhzWHB6VzJDSHhRZVJwNw?oc=5",
-            "source": "EY",
-            "date": "Tue, 07 Apr 2026 07:00:00 GMT",
+            "title": "Why Dunkin\u2019s Marketing Strategy Failed In India? - Everything Experiential",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjQwcDZ5SUE3ajVkanJHYzNNSDZaOWpDSnU1MnlFYTFwYnFRMEdtQmloTWxKeHk1Y1ZaN3JyUkxoanc4UXljdGhjSWNnMUFLRE10Y29OTmZ0Rk9HemZXdkV1SURsNkhHSC1za3dERU1HV1FmNzFib3Nsc2M0TkhoZjNad1M2SnlnX3VfMW5HOFc1THRXUkVqV1RZeWtqUQ?oc=5",
+            "source": "Everything Experiential",
+            "date": "Mon, 13 Apr 2026 07:00:00 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Most effective marketing strategy in India in January 2023, by generation - Statista",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3E1OE5QWTVLY1dFcTdZSDlndFhRQVZCV0REdEFvNXN3M21HY1JMWC1ZTVNiRHRoZUJzWW1nZEVwZ1lMWDN4RTVuSVZsNnlSX0tYbk1NR1dkNDVUeGZjOWJaWVgzaUxUTmxidzlzeTg4Ti1mTFRzbWFjeHRxbHBJNVpSYUU4cnN3RVM4?oc=5",
+            "source": "Statista",
+            "date": "Fri, 28 Nov 2025 08:00:00 GMT",
             "category": "Strategy"
         },
         {
@@ -43,17 +43,17 @@
             "category": "Retail"
         },
         {
+            "title": "Indian e-commerce stocks: All about this investment option - NewsBytes",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFhMWGZRcGItT3ZMUktIOXFSbEJucVF6WHFWWm9HSjBJcTNvZC0xOUZZVGZYMlE3cU53Qm9tX3R2ZXBfcS1abVdlX2ZhdGMzNVZVVHI4VThiY2hIYXdKdlUyMzlNZVpCcGZhUU9ZbXgzQUZhWnBDRnlQanBCeWVNZ2VJRnBIbDFzN1lZR2hTT2N2TFZXNmswWnBkUEV6QQ?oc=5",
+            "source": "NewsBytes",
+            "date": "Wed, 22 Apr 2026 16:33:21 GMT",
+            "category": "Retail"
+        },
+        {
             "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
             "source": "Bain & Company",
             "date": "Wed, 08 Apr 2026 19:37:44 GMT",
-            "category": "Retail"
-        },
-        {
-            "title": "Top E-commerce Platforms for India Exporters - DHL",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbVNPa1BfbXE4QmJmclpqRVNQamk1NmYxR0gyZUhrcGVENmJTNlVPVUd4Y1kyZzRva3BQcnNzUWRMMkhaTnBBSmtNV2MtcXZrNldYY3hQYy0tVUM5WWVBdkNiU0ZKYTJNaXNIQ2RNUGcwWFJqd0lXWnpqVXp6TUtlbUtQRXhoWHE3clpmZkE1WDRRY3YxaktDOU4wY3JXenNsN3AxOGZaZlQzUlBWOTRwYnh5OEQ?oc=5",
-            "source": "DHL",
-            "date": "Tue, 02 Dec 2025 08:00:00 GMT",
             "category": "Retail"
         },
         {
@@ -66,20 +66,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "Your brand's visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
