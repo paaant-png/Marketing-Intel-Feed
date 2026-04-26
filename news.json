@@ -1,12 +1,26 @@
 {
-    "date": "25 Apr, 2026",
+    "date": "26 Apr, 2026",
     "story": {
-        "brand": "Cred",
-        "campaign": "The 'Indiranagar Ka Gunda' Effect",
-        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
-        "lesson": "Disruption happens when you break a celebrity's established archetype."
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification Strategy",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization."
     },
     "news": [
+        {
+            "title": "Think Sports 2026: Sports marketing India -Think with Google APAC - Google Business Profile",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEkxbzA0Y05zXzRkUktJUnU4TXVGYmdGS0hPNFRoZDQzSERqQ0lvUWNTSEtjQk0xUmJWeXFheHJlZVJvZTFUaWRpNzRvZk5tcEFVTDI1UllLLUdIbEhzNXJSR1V5YUtNcjdOVHBIYkJnRl82Z1FzM3ktelQtVUptMkpETF9zd0FVYTdmUzRVc2l2SFpuV2RYMGlPNWFnM2tvejNzUg?oc=5",
+            "source": "Google Business Profile",
+            "date": "Sat, 25 Apr 2026 17:26:42 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "A Masterclass In Trust, Diversification & Marketing Strategy - BW Marketing World",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR254WlUxWDdRMEpKUTVYX0ItMGRhbEVwNjMxU3hsVk5CRU41d0cxTWtvTDZVYlpfeWN0QVloeG43YnpxOVpoUzhzZTJETVl2bkNnRXNjODU4QURsUzh2OFRCMERadEt2UnozbVI5MHdGVGxkRlZEd2llaE9kQUgtQy1QWkxkZUZsdUtETDdYdDl2RWw3aU1qRDRGeEU5V2I1bFI5V3RKWTI?oc=5",
+            "source": "BW Marketing World",
+            "date": "Sat, 25 Apr 2026 07:20:04 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "Marketing Matters: Fortune\u2019s strategy to build emotional salience in South India - ET BrandEquity",
             "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNa2dHTU5XSllhSlR1eC1kUW5hd19MODl0cmZBeXF2UWtzUTZ2N3RORzBJcGxiSksxeHpuYjBFSVBxT1FoMVB0RFZHR2Q0TEstbEJYWTlYTW5Kb2pBVlVHMmZDVUQyVFVMNy1PQ283QmM4d005RXlkVEVmYnVZdnJFLUtWRmwtQzMyYzk5eWlaT3BVYWFObWwyei1GWEJ1RFVqSm9uNy1LdGFTM2swNE83dnFVVEZGZ1dtX0tMR3ZYUENfZzF3cHQybGk4dXJUb1RYQk81ZHhXZURnY3EyZWtWdU9xbTlGYzTSAewBQVVfeXFMT3l5NkhidnNPd3FBZi1xSW1FUXJ5ZTBIeW5WdWp3ZE53MmFObHZOblRZRXVMLVBjeHdkcS1TbDIyLVRxT1BGZVFQOEVadTc4cnItanZIaGUwcEdLLWtmem40cVJLT3RLWXVWcWFHQnRvQk5zcTJ4ZVVDNnFDYUdCQUl1cW1LM2FfMDl1SFBSdjR1bzdGeTR1bzJYSkpKV0hNUEJyRUx1ZjVDVlMwcGNsMFo3WlRUSmp5empWUlNUbXBCcEpEaVU4YzRRV1RZc2ZDWUhib2hXWFZBbjFGWG9tTUF4RHZWV3RuYk0zSW4?oc=5",
@@ -15,31 +29,17 @@
             "category": "Strategy"
         },
         {
-            "title": "Shruti Narang Appointed Director of Marketing, India at Microsoft - CXO Digitalpulse",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONjBmbTNHTk1MX25qRmZGdzJ3SFY0OW03MWZQamxELWRHYmt3TTBabC1iejJ4UkNHUUpuRVJRNFZaRWN0VDZWOGp2ZURqQko3d3RxS0pzR0psOE9ENktObm1IMDNsSFZhY2h3WHNUUjBiN01JRktZRlVLRFU3TVhBSDVQV2twSkduTUg4U3RQQjhWWWZWdi1WWHE3eDVtUQ?oc=5",
-            "source": "CXO Digitalpulse",
-            "date": "Fri, 24 Apr 2026 11:26:30 GMT",
+            "title": "Experiential marketing for Indian brands - EY",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjZMemJOcjNOU2V4M3JlQlZqaGNiZzY2RE5PUloxSkpRb2U3b2gtSzd5MjRDY1hqdGJqcTlvQjZYQklNS3d6bkU3VU0xMHEzUm04SU4xUHhvaTc3eDlGc0FIcGtsclRncS1iYWpjWjNSVnlmMDhlSE9ZSVN5ckktRnNRWDV5RTZoN2k4WU4zTDg2cHp5d2JOQXlmXzIyOTg2VFhzWHB6VzJDSHhRZVJwNw?oc=5",
+            "source": "EY",
+            "date": "Tue, 07 Apr 2026 07:00:00 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Why Dunkin\u2019s Marketing Strategy Failed In India? - Everything Experiential",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjQwcDZ5SUE3ajVkanJHYzNNSDZaOWpDSnU1MnlFYTFwYnFRMEdtQmloTWxKeHk1Y1ZaN3JyUkxoanc4UXljdGhjSWNnMUFLRE10Y29OTmZ0Rk9HemZXdkV1SURsNkhHSC1za3dERU1HV1FmNzFib3Nsc2M0TkhoZjNad1M2SnlnX3VfMW5HOFc1THRXUkVqV1RZeWtqUQ?oc=5",
-            "source": "Everything Experiential",
-            "date": "Mon, 13 Apr 2026 07:00:00 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Yokohama India to Rely on Digital-First, Hyper-Local Strategy for Growth, Says Marketing Head - Autocar Professional",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWhUOTN3T2dURDZZb2Y3X1gyRjVSM3N4VWVUNmJKdFFGRXVMRFJSckxfbjVIc0pLUWwxeFJ2YWU1dXlidjByYUNEZS04TlFSWFNrSkhjNHV1OFVyQXpOaE9ZN1MxYzVOVkFvYnc5YmZnaXdZbzFNcXV6LV85NER4NnJ4R1BxRG1lcWpuajd1TE52LXlFUnRSWUN4ZWY5VnBtSmhEemNoV3dSYzhDUGNYSTlMSzBobE9kQ2lfTTkzWlBmdDJyZG42YtIB0AFBVV95cUxNa0t1bF91QjFwZkloLVY2VzFTT2l1OTl4M3ZVMmVYNzM4alEtZjhPc0x5bjFjR1ROelBzVVIzd0NWMHp6cmhjOGZBU3E4cGhqSDQyUVZ2bzBna3MxRWZOZURFUTdpUTc2cjQ5a3M0NmdRVHZEcEpWeERQaTV5X2h2MWQxUkVmVk5ZSHkxVklQUThudzhoV0E2UXR5MGRaZW1wd05jUklSRVNoa2JxWC1UWU5CZ2U3b3RCbVJXRzVhaFZfMGdqcFhtNDN4eGhwWnhD?oc=5",
-            "source": "Autocar Professional",
-            "date": "Fri, 10 Apr 2026 13:50:56 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "E-commerce Trends in India vs USA in 2026: Platform Dominance vs Quick Commerce Race - Dailyhunt",
-            "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQc2Y4LVIzRzBqand4MGZ1d09ZcWpidTBLOExSQ244cEh1VEM3NmtxX09HZXVBNThIT3NsaGEzY3JoY2RUZ3dEOWdIY0pOemtkR0lReXV6MTJUV1NwRGtTMXlqZmhwcmFkUmI0akFKWlNSbmFpa3RxdGFMaTBsM2hObGFHamZabHdEZEVJOUItTHp2ZXlnTnM0NVppSUF6ZlRYdlY1c185ci1LWnloR2p6b0MwM1AzY1ptazU4Z011UHdKUWdwd3FSTXVtWnlWYVQ1MDFKeUZyNDdxTkJQRG4xd3hVbERhVnpzaWdrWFdNSDNad053TThhUi1VSVRYZ2Z4RURtdzN5MA?oc=5",
-            "source": "Dailyhunt",
-            "date": "Mon, 20 Apr 2026 12:38:28 GMT",
+            "title": "Ecommerce Growth in India: Top Performing States - Shiprocket",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiMHhwVTk2cDVYVGkwLVBJQnNEa0JVbUtWN1czZ2doX3lFdk1xV0RvUFZVejdxUnJSN2JuU1l3WElPS3BqdHpkejljekMxaVNhTkxwdk83Nk5EYnRjbU9DNHp6dnrSAWpBVV95cUxObTJXN0MzWDV6MXF1eTBBbUtTel9RUEpwM2RoS3ZqN2EteWJZcmhUZUVFdzYxWldHRGdiYXh5S2QyTm92SXFLcmdhc2pmNVl3c05KWlo4a0EwVXdEMzBlZlRYckc2dEVPWTl3?oc=5",
+            "source": "Shiprocket",
+            "date": "Thu, 23 Apr 2026 07:28:58 GMT",
             "category": "Retail"
         },
         {
@@ -50,17 +50,17 @@
             "category": "Retail"
         },
         {
-            "title": "E-commerce trends: Online buyers delay big-ticket purchases before GST 2.0, festive season seen as strong - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYV91ZElDLUliTFJuMFpkMmZQTWhuNENZNXBwQ0Z4ejVhVGk1VkFULW5KR2lBaHBzSWNraS1UREgtQU41Ukp1NlEwQzlxVTNkV0NMamdlTWtsZGxkODhjVk1MVnR6dkVHTmstenZZZ3FOUmdtRUNlalY2RjMxRnROZEZUOUVVaFUzMHJIYXJjbWFWQ2NxNWFfaXAwaUJPNXpGX1ItMm1XTWg3ZlZaTDE1bktjTWlZZzhLa29xLTh6YTZsc3owa3h0RDFsMkxYYU9uZDdnNzdzU0NtdU5kbUJraFJ6SnVoTDBVNUhITHBlQW1yZTl4dzh6WGxNMTZxc0pSMTB5UWxUSHlxVlNwZHJtdm41V09Tdy1jZmllaEw5RGN1d1hIZWY1cEF6MWpEQdIBswJBVV95cUxNYWpGbFE3UmQ0QTAydno3WGJadS0ydmdLWUotT1o1OW9wUVBRV2wzSDVhZWh3OGlmMU5uN2M5b3NSYW5Fa09GdjNyb0UtU292OWpOZG95bXFOU1RrNnZVS0xmZVNZRE9CVVBpZlAxUUdTR2dseWtHSlBpTm9FLUYzcUs3TGRIZk1MaTBlM29RdnhtVUFGY0pKX1NMU3hCSkJXYmNVb2RkbkZ2T2xGSHhZRG9aLTcwRGI2TU9mSl9TNjBPaE9VZGZKaUh6ZERWOXJ0Rk9iamdrSzZHYW1nNGF4STU0MlRkVy1RRWRta29xMnhIUGZYMmNmenVuV1JCUlk5SFNNeUxodUJoUHNRRGJ5SFBSYURaT1hpM2YwTkt6bkQtSmowa1dfczlIZGtGTnIxQ3hj?oc=5",
-            "source": "The Times of India",
-            "date": "Sun, 31 Aug 2025 07:00:00 GMT",
+            "title": "E-commerce Trends in India vs USA in 2026: Platform Dominance vs Quick Commerce Race - Dailyhunt",
+            "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQc2Y4LVIzRzBqand4MGZ1d09ZcWpidTBLOExSQ244cEh1VEM3NmtxX09HZXVBNThIT3NsaGEzY3JoY2RUZ3dEOWdIY0pOemtkR0lReXV6MTJUV1NwRGtTMXlqZmhwcmFkUmI0akFKWlNSbmFpa3RxdGFMaTBsM2hObGFHamZabHdEZEVJOUItTHp2ZXlnTnM0NVppSUF6ZlRYdlY1c185ci1LWnloR2p6b0MwM1AzY1ptazU4Z011UHdKUWdwd3FSTXVtWnlWYVQ1MDFKeUZyNDdxTkJQRG4xd3hVbERhVnpzaWdrWFdNSDNad053TThhUi1VSVRYZ2Z4RURtdzN5MA?oc=5",
+            "source": "Dailyhunt",
+            "date": "Mon, 20 Apr 2026 12:38:28 GMT",
             "category": "Retail"
         },
         {
-            "title": "Topic: E-commerce worldwide - Statista",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82aXp3bFMwRm5pOHVDaThxMVY1MFdqQXJ5R0Z3bjFaMEFkRFVLZGxsYnNYX05XMkVzTlJxNUhVTG5ISVBReWdiQlM5RzJqVUNrY2l5a1JySzFIdFBpSVotaHR3?oc=5",
-            "source": "Statista",
-            "date": "Thu, 11 Dec 2025 08:00:00 GMT",
+            "title": "India\u2019s e-commerce market to grow 12.4% in 2026, forecasts GlobalData - FashionNetwork - The World's Fashion Business News",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzBZTTdTT01MOTU4eGtEOUZwQ1RIampwUXdOYlE2WFJTYlNlYU5uNkxnTjNJUUpqd0Uxd2xEN3FBYmcwM2Y4VU9oNHFrODdEOTdsNjlFY0cyQzVURnJ1OURTcWx4UmhJTGhyYlRzVXlqeVJydFhFaFM1d1BMN3pnSnUwSHB6LUE2ck5hNWRsdGpTd1RJa052MmRRbi1yODV0TTlNRUtONm5rUFpzeVByZGgyQUVmQQ?oc=5",
+            "source": "FashionNetwork - The World's Fashion Business News",
+            "date": "Thu, 26 Feb 2026 08:00:00 GMT",
             "category": "Retail"
         }
     ],
@@ -70,16 +70,16 @@
             "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "In 2026, 'Cookie-less' marketing relies on?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "First-Party Data",
-            "Third-Party Data",
-            "Spyware"
+            "Your brand's visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
