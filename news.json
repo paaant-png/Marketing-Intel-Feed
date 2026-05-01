@@ -1,12 +1,19 @@
 {
-    "date": "30 Apr, 2026",
+    "date": "01 May, 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped 2025: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
-        "lesson": "Data is boring. Data identity is viral."
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
     },
     "news": [
+        {
+            "title": "Identityy by Treefe Onboards 100+ Digital Marketing Agencies, Strengthens India\u2019s Social Media & Startup Ecosystem - TheWire.in",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNlNyQXhrdEFaVUoxbVJlOXRuOG94RzZtcDJ1Vk96RGhjMVFvaGRwZUJXT3phTmxET0xxcGZJRnBWLWtYMkphS1NBMHM0aVFtN1R1SlAweGZ0VS1UZXZTa05MdG9MTmJ4ajIyZjhxSjRVTUpfd3RRcXh2dURPUjlfLTd1UklkdTlDZFFyTDJJV1VOdG9wTUNqVWJKZDVlVlctOW96aTh1VVBJOTBWLVRudnNqa0NCQWtJYnNSU19OUVZDN1Y2V2F0NVFLT0hKMmFxQzF2LVBFR1dVNWdtdkJpeU9R0gHnAUFVX3lxTE43LVJLa2dLbENUTEh3Z0l1REZuTWR4dmJJZ0x5Y3JPSEFMV3c0SG93TjJkSDhpdXFYSnY2WEQ5bEljVXNvV2M4WlV3QjFsdXdGbF9DeGk3YjZ0NGRPQ1VRMTQ2OFdQemJvRHVPWk13M19VNTBvZzM5bmxzdVFtMXlkMUxzRkdORFpuRjY3eW9YcDE2Vlg4UTV4WlIzcTFtdXZpbmhuZ2hMYTNMQndKdVVjaVBTUE14OUJ2QWw5NlRHdTZkblZ0LXlSdnBwUzBEem1IbEJzZnp5cDZwYURZSUp2d2RveXdwTQ?oc=5",
+            "source": "TheWire.in",
+            "date": "Thu, 30 Apr 2026 11:44:15 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "Think Sports 2026: Sports marketing India -Think with Google APAC - Google Business Profile",
             "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEkxbzA0Y05zXzRkUktJUnU4TXVGYmdGS0hPNFRoZDQzSERqQ0lvUWNTSEtjQk0xUmJWeXFheHJlZVJvZTFUaWRpNzRvZk5tcEFVTDI1UllLLUdIbEhzNXJSR1V5YUtNcjdOVHBIYkJnRl82Z1FzM3ktelQtVUptMkpETF9zd0FVYTdmUzRVc2l2SFpuV2RYMGlPNWFnM2tvejNzUg?oc=5",
@@ -15,17 +22,10 @@
             "category": "Strategy"
         },
         {
-            "title": "Shipra Srivastava Takes Over As Marketing Head At Spotify India - Everything Experiential",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbkstaFBXZm8tWjF1eVI0UlREbkN2WkRjZ1RXcDhCVnZfTi11cXV1eUN4RXg1Qm9qTzlWdkJQRTBUa0daZ1c3SmtfLW05cW1WNkE4T29YQUVUdUpfS1FTbmZtNEx4S0IwRDZyeGRDcUNtQWJpcHpPVHJwZlQyV3VwQnF0aXM4QThRZzZRVE9xOVVaRGpjdmY4ZTdHMHlxeFllUXI3d2VHdkFnMUgzZWUwYUdydw?oc=5",
-            "source": "Everything Experiential",
-            "date": "Mon, 27 Apr 2026 10:51:15 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Spotify India Elevates Shipra Srivastava As Head Of Marketing - BW Marketing World",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQajl4MUZfV1RER3NhVFZJTzcxdjJlN3ZtR0JCejRmUGFHTFFkX3VpSlVvdjQwNmtmSERYckFvSWg3Z2VCMUpYLXNaNVJWQkgtYXB4RVlOMk9UakZ3RU5iUHRHWmNfWlh3M1QyYVRseWRYWGNaUGxESE1ackRTY3dmTzNYY3dSWDdSczVrWjdwcXVNNFhUVE1EZWVxMkhETzRXd1I0bzFOZXhVNTAzSXc?oc=5",
-            "source": "BW Marketing World",
-            "date": "Mon, 27 Apr 2026 10:16:26 GMT",
+            "title": "OpenAI taps WPL, regional creators and farmers to mainstream AI in India: Sheeladitya Mohanty - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTnhHWFhHQ0FOVVV2eVBsR0phU1lZRjR3NGswd2NRNzlHUW1qYWRDTWl6OTlHa3M4UjR6MjV4T1dPRERVS1BzR1BSNl9QVWVZNHJxcWxiVE9odUlMUDdLWGI5R0I3U09NZEVCZjJqUHM1NmRKdk5mWnB2Z3ppRDdNcE9xODdtVktfS3VqTEd6aE1haG9HQ3dTQndEUVBteVJpS2hXQ2RRMHV0ZFVFRlplSWQtem90RjN2MWpoNHNfUTIzU1pyTFHSAcYBQVVfeXFMT054R1hYR0NBTlVVdnlQbEdKYVNZWUY0dzRrMHdjUTc5R1FtamFkQ01pejk5R2tzOFI0ejI1eE9XT0REVUtQc0dQUjZfUFVlWTRycXFsYlRPaHVJTFA3S1hiOUdCN1NPTWRFQmYyalBzNTZkSnZOZlpwdmd6aUQ3TXBPcTg3bVZLX0t1akxHemhNYWhvR0N3U0J3RFFQbXlSaUtoV0NkUTB1dGRVRUZaZUlkLXpvdEYzdjFqaDRzX1EyM1NackxR?oc=5",
+            "source": "Storyboard18",
+            "date": "Fri, 01 May 2026 03:48:20 GMT",
             "category": "Strategy"
         },
         {
@@ -57,10 +57,10 @@
             "category": "Retail"
         },
         {
-            "title": "E-commerce Trends in India vs USA in 2026: Platform Dominance vs Quick Commerce Race - Dailyhunt",
-            "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQc2Y4LVIzRzBqand4MGZ1d09ZcWpidTBLOExSQ244cEh1VEM3NmtxX09HZXVBNThIT3NsaGEzY3JoY2RUZ3dEOWdIY0pOemtkR0lReXV6MTJUV1NwRGtTMXlqZmhwcmFkUmI0akFKWlNSbmFpa3RxdGFMaTBsM2hObGFHamZabHdEZEVJOUItTHp2ZXlnTnM0NVppSUF6ZlRYdlY1c185ci1LWnloR2p6b0MwM1AzY1ptazU4Z011UHdKUWdwd3FSTXVtWnlWYVQ1MDFKeUZyNDdxTkJQRG4xd3hVbERhVnpzaWdrWFdNSDNad053TThhUi1VSVRYZ2Z4RURtdzN5MA?oc=5",
-            "source": "Dailyhunt",
-            "date": "Mon, 20 Apr 2026 12:38:28 GMT",
+            "title": "Topic: E-commerce worldwide - Statista",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82aXp3bFMwRm5pOHVDaThxMVY1MFdqQXJ5R0Z3bjFaMEFkRFVLZGxsYnNYX05XMkVzTlJxNUhVTG5ISVBReWdiQlM5RzJqVUNrY2l5a1JySzFIdFBpSVotaHR3?oc=5",
+            "source": "Statista",
+            "date": "Thu, 11 Dec 2025 08:00:00 GMT",
             "category": "Retail"
         }
     ],
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "Your brand's visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
