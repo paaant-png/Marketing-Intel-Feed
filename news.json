@@ -1,17 +1,17 @@
 {
-    "date": "08 May, 2026",
+    "date": "09 May, 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification Strategy",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization."
     },
     "news": [
         {
-            "title": "INNOCEAN opens new office in Bengaluru - Campaign Brief Asia",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGFlSjdfTkkwX1VpVzVOT2FEbDBHbE9fblF3X0hsVGJSbkNrVVlqREpVYUI0VjRDN08tOGt1YnZYVHRzUVhYT01OU0FqVEQ1amxwN3JtNlFBMk5rUF8tczRWRjA4aEdPUHI0N0c5U1NlVi1LenQwMXdpMW1QX2RtaWJoa3BLdDA?oc=5",
-            "source": "Campaign Brief Asia",
-            "date": "Wed, 06 May 2026 00:13:55 GMT",
+            "title": "Yokohama India to Rely on Digital-First, Hyper-Local Strategy for Growth, Says Marketing Head - Autocar Professional",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWhUOTN3T2dURDZZb2Y3X1gyRjVSM3N4VWVUNmJKdFFGRXVMRFJSckxfbjVIc0pLUWwxeFJ2YWU1dXlidjByYUNEZS04TlFSWFNrSkhjNHV1OFVyQXpOaE9ZN1MxYzVOVkFvYnc5YmZnaXdZbzFNcXV6LV85NER4NnJ4R1BxRG1lcWpuajd1TE52LXlFUnRSWUN4ZWY5VnBtSmhEemNoV3dSYzhDUGNYSTlMSzBobE9kQ2lfTTkzWlBmdDJyZG42YtIB0AFBVV95cUxNa0t1bF91QjFwZkloLVY2VzFTT2l1OTl4M3ZVMmVYNzM4alEtZjhPc0x5bjFjR1ROelBzVVIzd0NWMHp6cmhjOGZBU3E4cGhqSDQyUVZ2bzBna3MxRWZOZURFUTdpUTc2cjQ5a3M0NmdRVHZEcEpWeERQaTV5X2h2MWQxUkVmVk5ZSHkxVklQUThudzhoV0E2UXR5MGRaZW1wd05jUklSRVNoa2JxWC1UWU5CZ2U3b3RCbVJXRzVhaFZfMGdqcFhtNDN4eGhwWnhD?oc=5",
+            "source": "Autocar Professional",
+            "date": "Fri, 10 Apr 2026 07:00:00 GMT",
             "category": "Strategy"
         },
         {
@@ -22,17 +22,17 @@
             "category": "Strategy"
         },
         {
-            "title": "Yokohama India to Rely on Digital-First, Hyper-Local Strategy for Growth, Says Marketing Head - Autocar Professional",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWhUOTN3T2dURDZZb2Y3X1gyRjVSM3N4VWVUNmJKdFFGRXVMRFJSckxfbjVIc0pLUWwxeFJ2YWU1dXlidjByYUNEZS04TlFSWFNrSkhjNHV1OFVyQXpOaE9ZN1MxYzVOVkFvYnc5YmZnaXdZbzFNcXV6LV85NER4NnJ4R1BxRG1lcWpuajd1TE52LXlFUnRSWUN4ZWY5VnBtSmhEemNoV3dSYzhDUGNYSTlMSzBobE9kQ2lfTTkzWlBmdDJyZG42YtIB0AFBVV95cUxNa0t1bF91QjFwZkloLVY2VzFTT2l1OTl4M3ZVMmVYNzM4alEtZjhPc0x5bjFjR1ROelBzVVIzd0NWMHp6cmhjOGZBU3E4cGhqSDQyUVZ2bzBna3MxRWZOZURFUTdpUTc2cjQ5a3M0NmdRVHZEcEpWeERQaTV5X2h2MWQxUkVmVk5ZSHkxVklQUThudzhoV0E2UXR5MGRaZW1wd05jUklSRVNoa2JxWC1UWU5CZ2U3b3RCbVJXRzVhaFZfMGdqcFhtNDN4eGhwWnhD?oc=5",
-            "source": "Autocar Professional",
-            "date": "Fri, 10 Apr 2026 07:00:00 GMT",
+            "title": "Why Startups in India Are Burning Their Marketing Budgets on the Wrong Customers - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQUlEUXFoV01BS2ZYcDJXNE9TalJPMDNSZFp1NGRlVWx1dmVMbWtNVWV3YVhjWGJuVVE3NzdEcDRyYWQ5eXpqbVJ0VmpfbUw1aVFmeFpnM2xOa1c0LWRaeElBMlBXYnVUV0lNemRxclo2enB0QTIta3ZHWWNVU3pxN2FFVXBIMTk2RnVJMjlkNUIxVEFPV0RyVVJmRW1wNS1MY0JQamdzdFRKd1pHaDY4WWNpbWdOZXU0VjFuVEFfT09jMk9ZaXZkdk11TTZTNXk3UkVCZ28tdmRYMGJZSG05emZRNWFhZ29UVmfSAe8BQVVfeXFMTU1YYUNyX3cyWFJKRjdWdDFkRFFzZnQ1U0w1eDZid3kxbGR3M25rNlJIdFVsRWJUdHNuaUw5aGh1MXVhR016TVRhV1hHcW1OMW1nODZzVDRFeERHX0ktTHA4Rm83YUxVT1hfMG1NdVJoSG9TV1pHSmFTbVp2YjYxWGo3T2lIYlJndnVpYUNwQW1CS1VNY2RoMnRZVnU5dkpqZWVIZG9zdkR2ekRSWHNldXh1ZTM1bTBKMExtUXM2Y0Zybzg2OXVWanJDZS1HUXFzalptWVQ3cXV4UUh2eXlGNk92Mk5yWDZvWmh5d3k5ZVE?oc=5",
+            "source": "ET BrandEquity",
+            "date": "Wed, 06 May 2026 05:08:22 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Marketing Strategy of Air India \u2013 Air India Marketing Strategy - Marketing91",
-            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QYWxTRGpYcHVTcjFLbjI3dDdrME9wV0FRa1NHdk5CYkl5YVNtdExBR1gxdHptYUdXb1d4Tjc1RWRpRnhwMzdfcFl1LVNGRm43aV92YUxzT0hGMGRyLVJjd2YtUUFfNko0?oc=5",
-            "source": "Marketing91",
-            "date": "Fri, 17 Apr 2026 07:00:00 GMT",
+            "title": "INNOCEAN opens new office in Bengaluru - Campaign Brief Asia",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGFlSjdfTkkwX1VpVzVOT2FEbDBHbE9fblF3X0hsVGJSbkNrVVlqREpVYUI0VjRDN08tOGt1YnZYVHRzUVhYT01OU0FqVEQ1amxwN3JtNlFBMk5rUF8tczRWRjA4aEdPUHI0N0c5U1NlVi1LenQwMXdpMW1QX2RtaWJoa3BLdDA?oc=5",
+            "source": "Campaign Brief Asia",
+            "date": "Wed, 06 May 2026 00:13:55 GMT",
             "category": "Strategy"
         },
         {
@@ -57,29 +57,29 @@
             "category": "Retail"
         },
         {
-            "title": "India\u2019s e-commerce market to grow 12.4% in 2026, forecasts GlobalData - FashionNetwork - The World's Fashion Business News",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzBZTTdTT01MOTU4eGtEOUZwQ1RIampwUXdOYlE2WFJTYlNlYU5uNkxnTjNJUUpqd0Uxd2xEN3FBYmcwM2Y4VU9oNHFrODdEOTdsNjlFY0cyQzVURnJ1OURTcWx4UmhJTGhyYlRzVXlqeVJydFhFaFM1d1BMN3pnSnUwSHB6LUE2ck5hNWRsdGpTd1RJa052MmRRbi1yODV0TTlNRUtONm5rUFpzeVByZGgyQUVmQQ?oc=5",
-            "source": "FashionNetwork - The World's Fashion Business News",
-            "date": "Thu, 26 Feb 2026 08:00:00 GMT",
+            "title": "E-commerce trends: Online buyers delay big-ticket purchases before GST 2.0, festive season seen as strong - The Times of India",
+            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYV91ZElDLUliTFJuMFpkMmZQTWhuNENZNXBwQ0Z4ejVhVGk1VkFULW5KR2lBaHBzSWNraS1UREgtQU41Ukp1NlEwQzlxVTNkV0NMamdlTWtsZGxkODhjVk1MVnR6dkVHTmstenZZZ3FOUmdtRUNlalY2RjMxRnROZEZUOUVVaFUzMHJIYXJjbWFWQ2NxNWFfaXAwaUJPNXpGX1ItMm1XTWg3ZlZaTDE1bktjTWlZZzhLa29xLTh6YTZsc3owa3h0RDFsMkxYYU9uZDdnNzdzU0NtdU5kbUJraFJ6SnVoTDBVNUhITHBlQW1yZTl4dzh6WGxNMTZxc0pSMTB5UWxUSHlxVlNwZHJtdm41V09Tdy1jZmllaEw5RGN1d1hIZWY1cEF6MWpEQdIBswJBVV95cUxNYWpGbFE3UmQ0QTAydno3WGJadS0ydmdLWUotT1o1OW9wUVBRV2wzSDVhZWh3OGlmMU5uN2M5b3NSYW5Fa09GdjNyb0UtU292OWpOZG95bXFOU1RrNnZVS0xmZVNZRE9CVVBpZlAxUUdTR2dseWtHSlBpTm9FLUYzcUs3TGRIZk1MaTBlM29RdnhtVUFGY0pKX1NMU3hCSkJXYmNVb2RkbkZ2T2xGSHhZRG9aLTcwRGI2TU9mSl9TNjBPaE9VZGZKaUh6ZERWOXJ0Rk9iamdrSzZHYW1nNGF4STU0MlRkVy1RRWRta29xMnhIUGZYMmNmenVuV1JCUlk5SFNNeUxodUJoUHNRRGJ5SFBSYURaT1hpM2YwTkt6bkQtSmowa1dfczlIZGtGTnIxQ3hj?oc=5",
+            "source": "The Times of India",
+            "date": "Sun, 31 Aug 2025 07:00:00 GMT",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "In 2026, 'Cookie-less' marketing relies on?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "First-Party Data",
-            "Third-Party Data",
-            "Spyware"
+            "Unpublished social ad",
+            "Negative review",
+            "Night-mode content"
         ],
         "a": 0
     }
