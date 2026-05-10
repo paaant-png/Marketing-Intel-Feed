@@ -1,46 +1,39 @@
 {
-    "date": "09 May, 2026",
+    "date": "10 May, 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification Strategy",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization."
+        "brand": "Spotify",
+        "campaign": "Wrapped 2025: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
+        "lesson": "Data is boring. Data identity is viral."
     },
     "news": [
         {
-            "title": "Yokohama India to Rely on Digital-First, Hyper-Local Strategy for Growth, Says Marketing Head - Autocar Professional",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWhUOTN3T2dURDZZb2Y3X1gyRjVSM3N4VWVUNmJKdFFGRXVMRFJSckxfbjVIc0pLUWwxeFJ2YWU1dXlidjByYUNEZS04TlFSWFNrSkhjNHV1OFVyQXpOaE9ZN1MxYzVOVkFvYnc5YmZnaXdZbzFNcXV6LV85NER4NnJ4R1BxRG1lcWpuajd1TE52LXlFUnRSWUN4ZWY5VnBtSmhEemNoV3dSYzhDUGNYSTlMSzBobE9kQ2lfTTkzWlBmdDJyZG42YtIB0AFBVV95cUxNa0t1bF91QjFwZkloLVY2VzFTT2l1OTl4M3ZVMmVYNzM4alEtZjhPc0x5bjFjR1ROelBzVVIzd0NWMHp6cmhjOGZBU3E4cGhqSDQyUVZ2bzBna3MxRWZOZURFUTdpUTc2cjQ5a3M0NmdRVHZEcEpWeERQaTV5X2h2MWQxUkVmVk5ZSHkxVklQUThudzhoV0E2UXR5MGRaZW1wd05jUklSRVNoa2JxWC1UWU5CZ2U3b3RCbVJXRzVhaFZfMGdqcFhtNDN4eGhwWnhD?oc=5",
-            "source": "Autocar Professional",
-            "date": "Fri, 10 Apr 2026 07:00:00 GMT",
+            "title": "Talent tracker of the week: Leadership moves across media, marketing and corporate India - bestmediainfo.com",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUkVYV2J3aWlNcjY4WlRST0R4b0FBSmN0RklfaDVNMXp2TkxsRmlZOXh6aV9uLWxGR2ZJQzlFMVNEWlNNVkpJWHFhMTB0MHB0MnhreVZCMFpzRzZ5ODM0QThCaEJDc3JXckRsOHVxbWNEMzlFQTJ6TERfVGt4alB0TGl6bEJMRUY3NmdwUEF0ZTF6Mm5INjZ0RzJWUWQ3LUc5M0U5eG51cHpDaDJzbnBjNC01S1Q5dGtacVV1NXpybVpXWDFZejVUSVl3YkgtdGJUX1RnTGJMbmx6alltMEZEVnFkNXhrZ9IB5gFBVV95cUxQUkVYV2J3aWlNcjY4WlRST0R4b0FBSmN0RklfaDVNMXp2TkxsRmlZOXh6aV9uLWxGR2ZJQzlFMVNEWlNNVkpJWHFhMTB0MHB0MnhreVZCMFpzRzZ5ODM0QThCaEJDc3JXckRsOHVxbWNEMzlFQTJ6TERfVGt4alB0TGl6bEJMRUY3NmdwUEF0ZTF6Mm5INjZ0RzJWUWQ3LUc5M0U5eG51cHpDaDJzbnBjNC01S1Q5dGtacVV1NXpybVpXWDFZejVUSVl3YkgtdGJUX1RnTGJMbmx6alltMEZEVnFkNXhrZw?oc=5",
+            "source": "bestmediainfo.com",
+            "date": "Sat, 09 May 2026 12:16:31 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Think Sports 2026: Sports marketing India -Think with Google APAC - Google Business Profile",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc25hTFVhdlA0aTM0NWlxUl83SGRkR2JtalV0SnoxbElVRmhRd254eDBpOUYtclh2aUxlM2NvRElMRUhRT3I1UXlYVmpmdXZreE90VV9MZHQyM1FNdlE5eWdUWnEwWmh3WEp1bk1yc1VNQzBnbTAydlI3S2tfejFWTHhsRzR0dS1PMG1XVzBKNHVGLTdzUWVfVWFJZUZiN0k?oc=5",
-            "source": "Google Business Profile",
-            "date": "Tue, 28 Apr 2026 02:40:42 GMT",
+            "title": "65% of our every marketing dollar buys an experience, not an ad: Vineet Sharma, AB InBev - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSllUb0JUdXRkSFdiQW9vVnNzOHFFdEU1UXQySDJtaV91cFFnM3B0T0JBZHkwb0tnTEVCaERUVWx5Z2o0eVFPd1BXNWtqUjFTVEh6UXNpdUpzZ3FOdVVuQlNiVnBfRmo1ckdjRlJ5V0lvOFNMVG0wdEtvNlJHNjZqLTZNZ2VjVXo5R3B5QlR5aXFCTzU4bEM0ZlRCSHh1U29MNTAwR19BUUphR05PeWZQQXZKQm1zNDBjdmEyTmhxS1VMXzJkbkdqNF9Bb0ZvQkxXLW5HdkF0aldjdw?oc=5",
+            "source": "Exchange4Media",
+            "date": "Sat, 09 May 2026 06:15:21 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Why Startups in India Are Burning Their Marketing Budgets on the Wrong Customers - ET BrandEquity",
-            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQUlEUXFoV01BS2ZYcDJXNE9TalJPMDNSZFp1NGRlVWx1dmVMbWtNVWV3YVhjWGJuVVE3NzdEcDRyYWQ5eXpqbVJ0VmpfbUw1aVFmeFpnM2xOa1c0LWRaeElBMlBXYnVUV0lNemRxclo2enB0QTIta3ZHWWNVU3pxN2FFVXBIMTk2RnVJMjlkNUIxVEFPV0RyVVJmRW1wNS1MY0JQamdzdFRKd1pHaDY4WWNpbWdOZXU0VjFuVEFfT09jMk9ZaXZkdk11TTZTNXk3UkVCZ28tdmRYMGJZSG05emZRNWFhZ29UVmfSAe8BQVVfeXFMTU1YYUNyX3cyWFJKRjdWdDFkRFFzZnQ1U0w1eDZid3kxbGR3M25rNlJIdFVsRWJUdHNuaUw5aGh1MXVhR016TVRhV1hHcW1OMW1nODZzVDRFeERHX0ktTHA4Rm83YUxVT1hfMG1NdVJoSG9TV1pHSmFTbVp2YjYxWGo3T2lIYlJndnVpYUNwQW1CS1VNY2RoMnRZVnU5dkpqZWVIZG9zdkR2ekRSWHNldXh1ZTM1bTBKMExtUXM2Y0Zybzg2OXVWanJDZS1HUXFzalptWVQ3cXV4UUh2eXlGNk92Mk5yWDZvWmh5d3k5ZVE?oc=5",
-            "source": "ET BrandEquity",
-            "date": "Wed, 06 May 2026 05:08:22 GMT",
+            "title": "Marketing Strategy of Air India \u2013 Air India Marketing Strategy - Marketing91",
+            "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QYWxTRGpYcHVTcjFLbjI3dDdrME9wV0FRa1NHdk5CYkl5YVNtdExBR1gxdHptYUdXb1d4Tjc1RWRpRnhwMzdfcFl1LVNGRm43aV92YUxzT0hGMGRyLVJjd2YtUUFfNko0?oc=5",
+            "source": "Marketing91",
+            "date": "Fri, 17 Apr 2026 07:00:00 GMT",
             "category": "Strategy"
         },
         {
-            "title": "INNOCEAN opens new office in Bengaluru - Campaign Brief Asia",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSGFlSjdfTkkwX1VpVzVOT2FEbDBHbE9fblF3X0hsVGJSbkNrVVlqREpVYUI0VjRDN08tOGt1YnZYVHRzUVhYT01OU0FqVEQ1amxwN3JtNlFBMk5rUF8tczRWRjA4aEdPUHI0N0c5U1NlVi1LenQwMXdpMW1QX2RtaWJoa3BLdDA?oc=5",
-            "source": "Campaign Brief Asia",
-            "date": "Wed, 06 May 2026 00:13:55 GMT",
+            "title": "INNOCEAN expands India footprint with new Bengaluru office - adobo Magazine",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVEJGOFg3LVBJSGt1MWE1TGJFLWRsaEZndk5uckx0SWZ4YV9zd1dXNzVsLTBvNkVwaUdwQmQ5TTBsMkw1YTRkMWZ6UEpfZUt6R2JaOWJtdWJhZjdXUUVReXFGcDFhXzEwemQ5eFZmaEEzY3VNYTRvMENVbDdUSzgzbUxOZF9adXptcHR5RmMtYjBkMWM5YmZSOXdScXlRanZwRWhRRFpXTQ?oc=5",
+            "source": "adobo Magazine",
+            "date": "Thu, 07 May 2026 13:18:20 GMT",
             "category": "Strategy"
-        },
-        {
-            "title": "E-commerce Trends in India vs USA in 2026: Platform Dominance vs Quick Commerce Race - Dailyhunt",
-            "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQc2Y4LVIzRzBqand4MGZ1d09ZcWpidTBLOExSQ244cEh1VEM3NmtxX09HZXVBNThIT3NsaGEzY3JoY2RUZ3dEOWdIY0pOemtkR0lReXV6MTJUV1NwRGtTMXlqZmhwcmFkUmI0akFKWlNSbmFpa3RxdGFMaTBsM2hObGFHamZabHdEZEVJOUItTHp2ZXlnTnM0NVppSUF6ZlRYdlY1c185ci1LWnloR2p6b0MwM1AzY1ptazU4Z011UHdKUWdwd3FSTXVtWnlWYVQ1MDFKeUZyNDdxTkJQRG4xd3hVbERhVnpzaWdrWFdNSDNad053TThhUi1VSVRYZ2Z4RURtdzN5MA?oc=5",
-            "source": "Dailyhunt",
-            "date": "Fri, 01 May 2026 23:13:08 GMT",
-            "category": "Retail"
         },
         {
             "title": "How India Shops Online 2026 - Bain & Company",
@@ -54,6 +47,13 @@
             "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
             "source": "Inc42",
             "date": "Wed, 10 Dec 2025 08:00:00 GMT",
+            "category": "Retail"
+        },
+        {
+            "title": "India\u2019s e-commerce market to grow 12.4% in 2026, forecasts GlobalData - FashionNetwork - The World's Fashion Business News",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzBZTTdTT01MOTU4eGtEOUZwQ1RIampwUXdOYlE2WFJTYlNlYU5uNkxnTjNJUUpqd0Uxd2xEN3FBYmcwM2Y4VU9oNHFrODdEOTdsNjlFY0cyQzVURnJ1OURTcWx4UmhJTGhyYlRzVXlqeVJydFhFaFM1d1BMN3pnSnUwSHB6LUE2ck5hNWRsdGpTd1RJa052MmRRbi1yODV0TTlNRUtONm5rUFpzeVByZGgyQUVmQQ?oc=5",
+            "source": "FashionNetwork - The World's Fashion Business News",
+            "date": "Thu, 26 Feb 2026 08:00:00 GMT",
             "category": "Retail"
         },
         {
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "Your brand's visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
