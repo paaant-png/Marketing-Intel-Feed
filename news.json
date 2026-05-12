@@ -1,5 +1,5 @@
 {
-    "date": "11 May, 2026",
+    "date": "12 May, 2026",
     "story": {
         "brand": "Zomato",
         "campaign": "The 'Mood' Notification Strategy",
@@ -36,6 +36,13 @@
             "category": "Strategy"
         },
         {
+            "title": "E-commerce market size India 2014-2035 - Statista",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alUxbnNDRk5fVmZNMUJ1OERjVlhYckdjTFoxYlJUTTZEdWhyRFVQaV9aLXZaLXRKQjd5MXhQdnFidFJoWHgzU0g1Nl9wVHFKc1pxbGZCMUptYVMtOG1xdG1Ec2Zna3FpQ2RrMUM4SVFoX0pjcFA0M1F6Z2w?oc=5",
+            "source": "Statista",
+            "date": "Tue, 07 Apr 2026 07:00:00 GMT",
+            "category": "Retail"
+        },
+        {
             "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
             "source": "Bain & Company",
@@ -55,13 +62,6 @@
             "source": "FashionNetwork - The World's Fashion Business News",
             "date": "Thu, 26 Feb 2026 08:00:00 GMT",
             "category": "Retail"
-        },
-        {
-            "title": "E-commerce trends: Online buyers delay big-ticket purchases before GST 2.0, festive season seen as strong - The Times of India",
-            "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQYV91ZElDLUliTFJuMFpkMmZQTWhuNENZNXBwQ0Z4ejVhVGk1VkFULW5KR2lBaHBzSWNraS1UREgtQU41Ukp1NlEwQzlxVTNkV0NMamdlTWtsZGxkODhjVk1MVnR6dkVHTmstenZZZ3FOUmdtRUNlalY2RjMxRnROZEZUOUVVaFUzMHJIYXJjbWFWQ2NxNWFfaXAwaUJPNXpGX1ItMm1XTWg3ZlZaTDE1bktjTWlZZzhLa29xLTh6YTZsc3owa3h0RDFsMkxYYU9uZDdnNzdzU0NtdU5kbUJraFJ6SnVoTDBVNUhITHBlQW1yZTl4dzh6WGxNMTZxc0pSMTB5UWxUSHlxVlNwZHJtdm41V09Tdy1jZmllaEw5RGN1d1hIZWY1cEF6MWpEQdIBswJBVV95cUxNYWpGbFE3UmQ0QTAydno3WGJadS0ydmdLWUotT1o1OW9wUVBRV2wzSDVhZWh3OGlmMU5uN2M5b3NSYW5Fa09GdjNyb0UtU292OWpOZG95bXFOU1RrNnZVS0xmZVNZRE9CVVBpZlAxUUdTR2dseWtHSlBpTm9FLUYzcUs3TGRIZk1MaTBlM29RdnhtVUFGY0pKX1NMU3hCSkJXYmNVb2RkbkZ2T2xGSHhZRG9aLTcwRGI2TU9mSl9TNjBPaE9VZGZKaUh6ZERWOXJ0Rk9iamdrSzZHYW1nNGF4STU0MlRkVy1RRWRta29xMnhIUGZYMmNmenVuV1JCUlk5SFNNeUxodUJoUHNRRGJ5SFBSYURaT1hpM2YwTkt6bkQtSmowa1dfczlIZGtGTnIxQ3hj?oc=5",
-            "source": "The Times of India",
-            "date": "Sun, 31 Aug 2025 07:00:00 GMT",
-            "category": "Retail"
         }
     ],
     "learning": {
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "In 2026, 'Cookie-less' marketing relies on?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "First-Party Data",
+            "Third-Party Data",
+            "Spyware"
         ],
         "a": 0
     }
