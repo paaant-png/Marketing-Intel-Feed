@@ -1,10 +1,10 @@
 {
-    "date": "17 May, 2026",
+    "date": "18 May, 2026",
     "story": {
-        "brand": "Cred",
-        "campaign": "The 'Indiranagar Ka Gunda' Effect",
-        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
-        "lesson": "Disruption happens when you break a celebrity's established archetype."
+        "brand": "Spotify",
+        "campaign": "Wrapped 2025: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
+        "lesson": "Data is boring. Data identity is viral."
     },
     "news": [
         {
@@ -15,20 +15,6 @@
             "category": "Strategy"
         },
         {
-            "title": "Think Sports 2026: Sports marketing India -Think with Google APAC - Google Business Profile",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEkxbzA0Y05zXzRkUktJUnU4TXVGYmdGS0hPNFRoZDQzSERqQ0lvUWNTSEtjQk0xUmJWeXFheHJlZVJvZTFUaWRpNzRvZk5tcEFVTDI1UllLLUdIbEhzNXJSR1V5YUtNcjdOVHBIYkJnRl82Z1FzM3ktelQtVUptMkpETF9zd0FVYTdmUzRVc2l2SFpuV2RYMGlPNWFnM2tvejNzUg?oc=5",
-            "source": "Google Business Profile",
-            "date": "Fri, 15 May 2026 23:11:54 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Kanishka Garbyal joins Polycab India as Head of Digital Marketing - MediaNews4U",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcU9FREE4enZoSkF4TXRDMkZuOUhEZ3I4TE9RNnJ5UHh4MEVpSmVrUVFZWTk3dEFIeFBoQTdzN1FwSW5FaDRfa1ljY2NlSy1ERTRnMXhhSVNUUjJPaVBJRmQtbW9IRk4wZ2lNX0pyNWE0VzQ5UXY4cDVnZGgzOHdWTkcwS3hYMXV5U3lqNlZ3NHBkZEJHTmZYOUZR?oc=5",
-            "source": "MediaNews4U",
-            "date": "Sat, 16 May 2026 07:01:41 GMT",
-            "category": "Strategy"
-        },
-        {
             "title": "Razorpay elevates Apuarv Sethi to Chief Marketing Officer - IMPACT Magazine",
             "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFNKejJCLXFNUFRselJTUVlrTXQ0UWZtVTVkNzVfX2xvam1MY3JsVWV5SXlaZGNaNWdKS2tJdlFOLXc1WlFDeC04YTlabDhlVHMyWGNoLWw4dXh3SWxWS0gxazZXY3o5WDBBWHVNQ2JrRHB1SUZHb2k3aDlDWjhmNEpFZ1FXY0R2QmN3eU85UjRDNHNoSnZaZlBKdk5QTkpkakhuQTRkX0dRcWhMOS1BZmFucw?oc=5",
             "source": "IMPACT Magazine",
@@ -36,11 +22,18 @@
             "category": "Strategy"
         },
         {
-            "title": "From scroll to chat to cart: AI becomes new shopping engine & other trends reshaping how India shops - Storyboard18",
-            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVVJkcHBXSEFwdm1LRndDQ1JyVVJHNElLa3ZwZWo4MHRpUk4tV0p4ZV95VHhiQTlfQVAwQmN6UWE4eUpaZnlOVXhIYlBnaVBqcm5LSF9aYl9nR2pDZmxHbW4zdkJmdUVhdUJ3Sy1xcUNLZHZid1ZkNE03Q09vSGdHVTgzSGp1bHlpTXByRmgyNTB3VWRRZW1IZzZtdEY5aWg5ZmgxcXM1T3BIUlRNZ3l2MWRLcV9Sek1rTDhqU1d6VHhjN3g5T3F0VU9GaTlELU9PdFlLNU9MaWtfd3R2eHVlNGUyRDljMlVEMmZLbExR0gHzAUFVX3lxTE12X3N3ODA5S3dwSmIydlVNZW5Ec1RQc1lwMmpNWms5RUdSRDZBZkhwZEJTaUM2eURIejJYa3BOcFJQUjlVU2FBTndSTUJRVzhhMUVGSFFkcmZYZEpsVS1yUTAtTFhBelROek1JcmVMbi1aM3JoY2c2OU9pQ2pSRjN5VEVjSFdMSEJrdUNiemNUQ0pQUWd1Uk9EeTJYdTVUSi1mcW81N1J3R1FwdnF1UjRfYVJHT2Z2TWF5QlpHRTJqUC1XYVZmNWF4WFdSV2NUY0dBc2h3LVJZZ2tCUGozMzhpRWdYaS1KZVZJZXZ6LWZuWDlNaw?oc=5",
-            "source": "Storyboard18",
-            "date": "Thu, 14 May 2026 07:59:04 GMT",
-            "category": "Retail"
+            "title": "Most effective marketing strategy in India 2023, by generation - Statista",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3E1OE5QWTVLY1dFcTdZSDlndFhRQVZCV0REdEFvNXN3M21HY1JMWC1ZTVNiRHRoZUJzWW1nZEVwZ1lMWDN4RTVuSVZsNnlSX0tYbk1NR1dkNDVUeGZjOWJaWVgzaUxUTmxidzlzeTg4Ti1mTFRzbWFjeHRxbHBJNVpSYUU4cnN3RVM4?oc=5",
+            "source": "Statista",
+            "date": "Fri, 28 Nov 2025 08:00:00 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Is Search becoming the new marketing brief? - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSVdETm44cGFEYUpFUE1Fa0FkUzlKQmZwX0tqVTRvUG5pUmtDWDRNNU5BLWNUYm9PSVB2OEVXVVBMTExBa1JfdnFrVGpsa1llTGdwRzZlMmtZR21YZzJ1Mlczc1RSbDY3MXdEcUhzNm9RZEZaMHROMXh3MDNaSTFzMDd4TUV0MUtLc2g4TC1qbHV4T0NYTFpzcmdzdnp2RjhsMUE?oc=5",
+            "source": "Exchange4Media",
+            "date": "Mon, 27 Apr 2026 07:00:00 GMT",
+            "category": "Strategy"
         },
         {
             "title": "E-commerce market size India 2014-2035 - Statista",
@@ -61,6 +54,13 @@
             "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
             "source": "Inc42",
             "date": "Wed, 10 Dec 2025 08:00:00 GMT",
+            "category": "Retail"
+        },
+        {
+            "title": "Ecommerce Growth in India: Top Performing States - Shiprocket",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiMHhwVTk2cDVYVGkwLVBJQnNEa0JVbUtWN1czZ2doX3lFdk1xV0RvUFZVejdxUnJSN2JuU1l3WElPS3BqdHpkejljekMxaVNhTkxwdk83Nk5EYnRjbU9DNHp6dnrSAWpBVV95cUxObTJXN0MzWDV6MXF1eTBBbUtTel9RUEpwM2RoS3ZqN2EteWJZcmhUZUVFdzYxWldHRGdiYXh5S2QyTm92SXFLcmdhc2pmNVl3c05KWlo4a0EwVXdEMzBlZlRYckc2dEVPWTl3?oc=5",
+            "source": "Shiprocket",
+            "date": "Fri, 10 Apr 2026 07:00:00 GMT",
             "category": "Retail"
         }
     ],
