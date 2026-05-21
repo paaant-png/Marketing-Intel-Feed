@@ -1,12 +1,19 @@
 {
-    "date": "20 May, 2026",
+    "date": "21 May, 2026",
     "story": {
-        "brand": "Cred",
-        "campaign": "The 'Indiranagar Ka Gunda' Effect",
-        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
-        "lesson": "Disruption happens when you break a celebrity's established archetype."
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
     },
     "news": [
+        {
+            "title": "In India, advertisers searching for outcomes turn to commerce media - thecurrent.com",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2pBRUNsMkgwNVlJeHMwZjRkWVFPLWNaV2JoS1V4SEtjVFM4YTBvcEw4M0x0Z0RveHN6S05iS2I3OHhqcUtYWHltcDVaSFJRZFBtcHE4LWVBRExyRDBqam5TRURUOEs5a2ZjWm5rQUJvRFNUdkJwNEo2aFlnQ01PZWZRZ2tOSXFORWoxUUdsZ0hpOE9DOTNLaEZiTFBrUDBqY0FFMHpaVW1MaFl4Znc?oc=5",
+            "source": "thecurrent.com",
+            "date": "Wed, 20 May 2026 13:36:00 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "Razorpay promotes Apuarv Sethi as chief marketing officer - Campaign India",
             "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkdvS0NSQzNDOWJyb0dJNGV4d2RFQXZfZjVrQmtnTGdxekFwbHFWcWRMRFp6eFplenJoTUswWE51Z2EtcGlEbEdJV19mcVZvQ0pVVndKVnUxUEc0QXhmMnczcWNCV2l5UEtnS0ptZ01rQkhHLUtjOXphOXlOSmJ3UW92RVBsYW1hVDJxZ0NCQkdCUWU4bUM2NzZoa2JoMFVZSzNDaVk3RDhRdndGMXlBTHlkWGZxMmpnZXhHTzZB?oc=5",
@@ -29,11 +36,11 @@
             "category": "Strategy"
         },
         {
-            "title": "Why India\u2019s FMCG giants are increasing ad budgets during uncertainty - thecurrent.com",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0hHZlNNSEJnbHUxU29Vd21MWWROQ2JxUGlzY0RCczNDRkJxeWwzeHNIbENEdGtiZFB4djZ0M0hKSmxReUNWZ0dZTHl3Y2VWSjFCY1pVZ0JUSTFFWEUyd0VMakVHbF9nV3JSTGczMnJVTWI5dlVqYmszSUlFb0liV3NOc25fYklZVHJfbjBQd1hkRUVsSGNZTGVFbzk1NEM1dURUWGxPZXdjODJG?oc=5",
-            "source": "thecurrent.com",
-            "date": "Fri, 15 May 2026 16:12:00 GMT",
-            "category": "Strategy"
+            "title": "35 Top E-Commerce Statistics - Forbes",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTVYyNGZGNXE3VjRVbVQ0bzlhU1JZa1FVU1B1b0JZQXU1SExDaFp5ZEtxZ1pUeU1iRDU3Mlg0M09UdEdsM3l0ZktvM3haamw5WmVvWGpOU3ZEeDZaeHpVam5FVGo5cGs0UDU0bTFn?oc=5",
+            "source": "Forbes",
+            "date": "Fri, 01 May 2026 07:00:00 GMT",
+            "category": "Retail"
         },
         {
             "title": "E-commerce market size India 2014-2035 - Statista",
@@ -50,17 +57,10 @@
             "category": "Retail"
         },
         {
-            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
-            "source": "Inc42",
-            "date": "Wed, 10 Dec 2025 08:00:00 GMT",
-            "category": "Retail"
-        },
-        {
-            "title": "35 Top E-Commerce Statistics - Forbes",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTVYyNGZGNXE3VjRVbVQ0bzlhU1JZa1FVU1B1b0JZQXU1SExDaFp5ZEtxZ1pUeU1iRDU3Mlg0M09UdEdsM3l0ZktvM3haamw5WmVvWGpOU3ZEeDZaeHpVam5FVGo5cGs0UDU0bTFn?oc=5",
-            "source": "Forbes",
-            "date": "Fri, 01 May 2026 07:00:00 GMT",
+            "title": "Ecommerce Growth in India: Top Performing States - Shiprocket",
+            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiMHhwVTk2cDVYVGkwLVBJQnNEa0JVbUtWN1czZ2doX3lFdk1xV0RvUFZVejdxUnJSN2JuU1l3WElPS3BqdHpkejljekMxaVNhTkxwdk83Nk5EYnRjbU9DNHp6dnrSAWpBVV95cUxObTJXN0MzWDV6MXF1eTBBbUtTel9RUEpwM2RoS3ZqN2EteWJZcmhUZUVFdzYxWldHRGdiYXh5S2QyTm92SXFLcmdhc2pmNVl3c05KWlo4a0EwVXdEMzBlZlRYckc2dEVPWTl3?oc=5",
+            "source": "Shiprocket",
+            "date": "Fri, 10 Apr 2026 07:00:00 GMT",
             "category": "Retail"
         }
     ],
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "Your brand's visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
