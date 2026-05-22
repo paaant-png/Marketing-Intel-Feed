@@ -1,10 +1,10 @@
 {
-    "date": "21 May, 2026",
+    "date": "22 May, 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
+        "brand": "Spotify",
+        "campaign": "Wrapped 2025: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
+        "lesson": "Data is boring. Data identity is viral."
     },
     "news": [
         {
@@ -15,32 +15,25 @@
             "category": "Strategy"
         },
         {
+            "title": "South African Tourism refines market strategy with strong India focus - Trav Talk",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc190cW1jb0Npa0lyTTJtU0JIQmFPSEtMV2tYZzg5OVU1WlV0ZTVvamM0TU1zWVdPbk44eWZfUzh0SWFJWHpSM0NFdlJhNHFVUEVRTTRNUEJ6Qm9IVXh1N3RvaGQxbk42MF85dEdNVXR1YzlIZUF2MEthdW1uMGZuZTdWVEdxVXVBLTFFdFJBcW5BSFg1WTlmNHJhc1E?oc=5",
+            "source": "Trav Talk",
+            "date": "Thu, 21 May 2026 09:21:02 GMT",
+            "category": "Strategy"
+        },
+        {
             "title": "Razorpay promotes Apuarv Sethi as chief marketing officer - Campaign India",
             "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkdvS0NSQzNDOWJyb0dJNGV4d2RFQXZfZjVrQmtnTGdxekFwbHFWcWRMRFp6eFplenJoTUswWE51Z2EtcGlEbEdJV19mcVZvQ0pVVndKVnUxUEc0QXhmMnczcWNCV2l5UEtnS0ptZ01rQkhHLUtjOXphOXlOSmJ3UW92RVBsYW1hVDJxZ0NCQkdCUWU4bUM2NzZoa2JoMFVZSzNDaVk3RDhRdndGMXlBTHlkWGZxMmpnZXhHTzZB?oc=5",
             "source": "Campaign India",
-            "date": "Tue, 19 May 2026 10:17:28 GMT",
+            "date": "Tue, 19 May 2026 10:20:28 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Shirish Agarwal Promoted As Head Of Marketing For Samsung India\u2019s MX Business - curlytales.com",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ1I4dkxmWmpHbWhYZjBFSXVZRWZaa2I0b0RiN0N5T0hCbjZ6LXNidVhXWWtKbjE1bU5Ra0tLWVlmS2RtWjZFRjYwdmJBMjZSWUI3U1REQ2tQN1J6cGg5UHcwS01Na3hkYUNodkhEaHdlQl9UVDFZSUJUR3ZaZFg5OFNsTC05eXJlWTZKZTkxbGdYMUhFTTg1bjBWWkJ1cWtLUEk1MjhhaURnakhhZExhdlNqVlN0d9IBuwFBVV95cUxNRGpvWTMyYVROWUV6M0M5NmRCZ2c1b1VuUzdLTG1FWmc1eHBFU2JfdlpFd3k0MkVhbnF3cGg3QjQyX0hnekdQTGF3Unl6MkE3cTFmSHpVbEdHazZCZkREendLT2cxbGRrdXRkY2RJTzNEc1hUdVM5Q3RhV0hNbzVBRGx3cDg2b1NLazY2c0loZUxYWGVqbmY3ck42dFZqbmplMW5OTDRWa0FYaEV3NS1hNW9oZWk1TzF2V3BF?oc=5",
-            "source": "curlytales.com",
-            "date": "Tue, 19 May 2026 10:52:02 GMT",
+            "title": "Think Sports 2026: Sports marketing India -Think with Google APAC - Google Business Profile",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEkxbzA0Y05zXzRkUktJUnU4TXVGYmdGS0hPNFRoZDQzSERqQ0lvUWNTSEtjQk0xUmJWeXFheHJlZVJvZTFUaWRpNzRvZk5tcEFVTDI1UllLLUdIbEhzNXJSR1V5YUtNcjdOVHBIYkJnRl82Z1FzM3ktelQtVUptMkpETF9zd0FVYTdmUzRVc2l2SFpuV2RYMGlPNWFnM2tvejNzUg?oc=5",
+            "source": "Google Business Profile",
+            "date": "Fri, 15 May 2026 23:11:54 GMT",
             "category": "Strategy"
-        },
-        {
-            "title": "Samsung Elevates Shrish Agarwal as Head of Marketing for MX Business in India - EventFAQs",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2h2V0cxRXhudWNHZTlzYjZIb2pLVWx5MFphb2pzbFJCb2RhN04xNG5tYlNGNzN5bTByNkhLWmRCdXZwa0xqelBYREVIZWk1UXBSU1FITUIwdVJTQ0RHQXRhSVd6X3FuOXBvNi1RZVZteFZrcWtTdzlyY2xRVXRRV0k2SFYzdHRzdDJ3NnhOaGdlVU16RjNSbDFmNXNFa254Y0thckQtaDhkal9qTktmSzN4SGY?oc=5",
-            "source": "EventFAQs",
-            "date": "Tue, 19 May 2026 10:25:21 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "35 Top E-Commerce Statistics - Forbes",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTVYyNGZGNXE3VjRVbVQ0bzlhU1JZa1FVU1B1b0JZQXU1SExDaFp5ZEtxZ1pUeU1iRDU3Mlg0M09UdEdsM3l0ZktvM3haamw5WmVvWGpOU3ZEeDZaeHpVam5FVGo5cGs0UDU0bTFn?oc=5",
-            "source": "Forbes",
-            "date": "Fri, 01 May 2026 07:00:00 GMT",
-            "category": "Retail"
         },
         {
             "title": "E-commerce market size India 2014-2035 - Statista",
@@ -57,10 +50,17 @@
             "category": "Retail"
         },
         {
-            "title": "Ecommerce Growth in India: Top Performing States - Shiprocket",
-            "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiMHhwVTk2cDVYVGkwLVBJQnNEa0JVbUtWN1czZ2doX3lFdk1xV0RvUFZVejdxUnJSN2JuU1l3WElPS3BqdHpkejljekMxaVNhTkxwdk83Nk5EYnRjbU9DNHp6dnrSAWpBVV95cUxObTJXN0MzWDV6MXF1eTBBbUtTel9RUEpwM2RoS3ZqN2EteWJZcmhUZUVFdzYxWldHRGdiYXh5S2QyTm92SXFLcmdhc2pmNVl3c05KWlo4a0EwVXdEMzBlZlRYckc2dEVPWTl3?oc=5",
-            "source": "Shiprocket",
-            "date": "Fri, 10 Apr 2026 07:00:00 GMT",
+            "title": "35 Top E-Commerce Statistics - Forbes",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTVYyNGZGNXE3VjRVbVQ0bzlhU1JZa1FVU1B1b0JZQXU1SExDaFp5ZEtxZ1pUeU1iRDU3Mlg0M09UdEdsM3l0ZktvM3haamw5WmVvWGpOU3ZEeDZaeHpVam5FVGo5cGs0UDU0bTFn?oc=5",
+            "source": "Forbes",
+            "date": "Fri, 01 May 2026 07:00:00 GMT",
+            "category": "Retail"
+        },
+        {
+            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
+            "source": "Inc42",
+            "date": "Wed, 10 Dec 2025 08:00:00 GMT",
             "category": "Retail"
         }
     ],
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Your brand's visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Unpublished social ad",
+            "Negative review",
+            "Night-mode content"
         ],
         "a": 0
     }
