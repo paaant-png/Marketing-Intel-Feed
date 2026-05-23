@@ -1,5 +1,5 @@
 {
-    "date": "22 May, 2026",
+    "date": "23 May, 2026",
     "story": {
         "brand": "Spotify",
         "campaign": "Wrapped 2025: The 'Roast'",
@@ -15,17 +15,17 @@
             "category": "Strategy"
         },
         {
+            "title": "Audience Precision shifts to audience intelligence model - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbmdhU0x5WXpWeTVhdGNOeGplR1QwZE5lQTZYQjdaVnFqQ1RSemhZQ2tMUnItMHNPRmpYTEgzazdtZUZDblN5SG8xeE9NdHJ6NTFLdndVVG9hZWRVeThsckFoejZwRjJUUlEtYlRXaEc3UU5NUnFzRWpBbkRaQnlzU1lsMzFUYUVQTm5UNC12NWx0OTVHTmEtUHFjQ0NpeTlKR2NyZTBvN1pwc255T2F1SGN3MFJrQ2dvOS0tMQ?oc=5",
+            "source": "Campaign India",
+            "date": "Fri, 22 May 2026 10:07:58 GMT",
+            "category": "Strategy"
+        },
+        {
             "title": "South African Tourism refines market strategy with strong India focus - Trav Talk",
             "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc190cW1jb0Npa0lyTTJtU0JIQmFPSEtMV2tYZzg5OVU1WlV0ZTVvamM0TU1zWVdPbk44eWZfUzh0SWFJWHpSM0NFdlJhNHFVUEVRTTRNUEJ6Qm9IVXh1N3RvaGQxbk42MF85dEdNVXR1YzlIZUF2MEthdW1uMGZuZTdWVEdxVXVBLTFFdFJBcW5BSFg1WTlmNHJhc1E?oc=5",
             "source": "Trav Talk",
             "date": "Thu, 21 May 2026 09:21:02 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Razorpay promotes Apuarv Sethi as chief marketing officer - Campaign India",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkdvS0NSQzNDOWJyb0dJNGV4d2RFQXZfZjVrQmtnTGdxekFwbHFWcWRMRFp6eFplenJoTUswWE51Z2EtcGlEbEdJV19mcVZvQ0pVVndKVnUxUEc0QXhmMnczcWNCV2l5UEtnS0ptZ01rQkhHLUtjOXphOXlOSmJ3UW92RVBsYW1hVDJxZ0NCQkdCUWU4bUM2NzZoa2JoMFVZSzNDaVk3RDhRdndGMXlBTHlkWGZxMmpnZXhHTzZB?oc=5",
-            "source": "Campaign India",
-            "date": "Tue, 19 May 2026 10:20:28 GMT",
             "category": "Strategy"
         },
         {
@@ -34,6 +34,13 @@
             "source": "Google Business Profile",
             "date": "Fri, 15 May 2026 23:11:54 GMT",
             "category": "Strategy"
+        },
+        {
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
+            "source": "NIQ",
+            "date": "Thu, 21 May 2026 16:05:25 GMT",
+            "category": "Retail"
         },
         {
             "title": "E-commerce market size India 2014-2035 - Statista",
@@ -55,13 +62,6 @@
             "source": "Forbes",
             "date": "Fri, 01 May 2026 07:00:00 GMT",
             "category": "Retail"
-        },
-        {
-            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
-            "source": "Inc42",
-            "date": "Wed, 10 Dec 2025 08:00:00 GMT",
-            "category": "Retail"
         }
     ],
     "learning": {
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "In 2026, 'Cookie-less' marketing relies on?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "First-Party Data",
+            "Third-Party Data",
+            "Spyware"
         ],
         "a": 0
     }
