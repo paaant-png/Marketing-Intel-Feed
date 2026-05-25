@@ -1,24 +1,24 @@
 {
-    "date": "24 May, 2026",
+    "date": "25 May, 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification Strategy",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization."
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
     },
     "news": [
+        {
+            "title": "India is a \u2018country of countries\u2019 \u2013 NZ business needs a regional strategy to make the trade deal work - The Conversation",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQektIS3RmSGcwODJXZk1LUUFaajB6SFpHdzAtSGN6VXNuLVhrR0ZWNXJ6Uml2TmtIcE1DLTZFLS1VbGc4Rm15cVNfOEVqYmdUSVJKTzQ2RDVyNjVTM3FGY1MzNzYwTUZSbkptSU01WHZkMTNZc1VSUVpqYnJPVHQ0YmtvenZWQmN6UUdCMlpYMVpxUmNQdTZTSlpKTW9icDl5ZUhobjZaSjd3ODhGbTVnN0Y5dDRlM3BpMzFzZFdXcGhORnFNMGhiNmZyWG0?oc=5",
+            "source": "The Conversation",
+            "date": "Sun, 24 May 2026 20:08:55 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "In India, advertisers searching for outcomes turn to commerce media - thecurrent.com",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2pBRUNsMkgwNVlJeHMwZjRkWVFPLWNaV2JoS1V4SEtjVFM4YTBvcEw4M0x0Z0RveHN6S05iS2I3OHhqcUtYWHltcDVaSFJRZFBtcHE4LWVBRExyRDBqam5TRURUOEs5a2ZjWm5rQUJvRFNUdkJwNEo2aFlnQ01PZWZRZ2tOSXFORWoxUUdsZ0hpOE9DOTNLaEZiTFBrUDBqY0FFMHpaVW1MaFl4Znc?oc=5",
             "source": "thecurrent.com",
             "date": "Wed, 20 May 2026 13:36:00 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Audience Precision shifts to audience intelligence model - Campaign India",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbmdhU0x5WXpWeTVhdGNOeGplR1QwZE5lQTZYQjdaVnFqQ1RSemhZQ2tMUnItMHNPRmpYTEgzazdtZUZDblN5SG8xeE9NdHJ6NTFLdndVVG9hZWRVeThsckFoejZwRjJUUlEtYlRXaEc3UU5NUnFzRWpBbkRaQnlzU1lsMzFUYUVQTm5UNC12NWx0OTVHTmEtUHFjQ0NpeTlKR2NyZTBvN1pwc255T2F1SGN3MFJrQ2dvOS0tMQ?oc=5",
-            "source": "Campaign India",
-            "date": "Fri, 22 May 2026 10:07:58 GMT",
             "category": "Strategy"
         },
         {
@@ -29,10 +29,10 @@
             "category": "Strategy"
         },
         {
-            "title": "India\u2019s Most Trusted SEO Agencies - Indian Startup Times",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOXpIYy1ubElTei1PTDhJbm0zeFl4aXd2aFoxWGF4a1Bva1BkT3RUU0Z6S2J0V3JzQjJLSjFQUnROSEgzbUhpbFdnbkdxMVpVQ2RLWXpZSGU2RWlwWGh3VHloS3FBNl9UQzZCZGVhcXVOWm9Kbmk5VG9EWnMyUXBZR1RsRQ?oc=5",
-            "source": "Indian Startup Times",
-            "date": "Sat, 23 May 2026 14:03:39 GMT",
+            "title": "1000 Island Hotels & Resorts Appoints New Marketing Manager - safariindia.com",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDcUx2WkhhYS14OTFoeHVSYzZrMVd0UjRUcUQxVTF6TENkRWI0RjFsUjEtMDd5bDk3LThycFN5bXRudTBSbklwT3pkTFZBTWhIYkdMUVVSc3QxRFJwNlpRSnJuT2pFUWlQTUI1T1dB?oc=5",
+            "source": "safariindia.com",
+            "date": "Sun, 24 May 2026 03:00:01 GMT",
             "category": "Strategy"
         },
         {
@@ -66,8 +66,8 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
             "topic": "Returnless Refunds",
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "Your brand's visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
