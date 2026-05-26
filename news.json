@@ -1,10 +1,10 @@
 {
-    "date": "25 May, 2026",
+    "date": "26 May, 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
+        "brand": "Cred",
+        "campaign": "The 'Indiranagar Ka Gunda' Effect",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
+        "lesson": "Disruption happens when you break a celebrity's established archetype."
     },
     "news": [
         {
@@ -22,17 +22,17 @@
             "category": "Strategy"
         },
         {
+            "title": "Arjun Laxminarasu Appointed Head of Marketing, APAC & Japan at UiPath - hrtoday.in",
+            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQWFzU2lWUHZVMkNlaV9CZVJSdUF4aGJLZmlDNHdMaU1IZmhraE1wM2tsUjRwWUlMSmtya2IyNzV6b3UyVUIxdmhvaGhtU0VHVkdSYjFDLTlHQjRWcFpsZE5fLUVxcmlCRTRaajVNcENjTGh1LU4wN0ZZb3FLWmFwVTB3cWVzWmFDajAwc29NRQ?oc=5",
+            "source": "hrtoday.in",
+            "date": "Mon, 25 May 2026 11:51:29 GMT",
+            "category": "Strategy"
+        },
+        {
             "title": "South African Tourism refines market strategy with strong India focus - Trav Talk",
             "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc190cW1jb0Npa0lyTTJtU0JIQmFPSEtMV2tYZzg5OVU1WlV0ZTVvamM0TU1zWVdPbk44eWZfUzh0SWFJWHpSM0NFdlJhNHFVUEVRTTRNUEJ6Qm9IVXh1N3RvaGQxbk42MF85dEdNVXR1YzlIZUF2MEthdW1uMGZuZTdWVEdxVXVBLTFFdFJBcW5BSFg1WTlmNHJhc1E?oc=5",
             "source": "Trav Talk",
             "date": "Thu, 21 May 2026 09:21:02 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "1000 Island Hotels & Resorts Appoints New Marketing Manager - safariindia.com",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDcUx2WkhhYS14OTFoeHVSYzZrMVd0UjRUcUQxVTF6TENkRWI0RjFsUjEtMDd5bDk3LThycFN5bXRudTBSbklwT3pkTFZBTWhIYkdMUVVSc3QxRFJwNlpRSnJuT2pFUWlQTUI1T1dB?oc=5",
-            "source": "safariindia.com",
-            "date": "Sun, 24 May 2026 03:00:01 GMT",
             "category": "Strategy"
         },
         {
@@ -50,24 +50,24 @@
             "category": "Retail"
         },
         {
+            "title": "35 Top E-Commerce Statistics - Forbes",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTVYyNGZGNXE3VjRVbVQ0bzlhU1JZa1FVU1B1b0JZQXU1SExDaFp5ZEtxZ1pUeU1iRDU3Mlg0M09UdEdsM3l0ZktvM3haamw5WmVvWGpOU3ZEeDZaeHpVam5FVGo5cGs0UDU0bTFn?oc=5",
+            "source": "Forbes",
+            "date": "Fri, 01 May 2026 07:00:00 GMT",
+            "category": "Retail"
+        },
+        {
             "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
             "source": "Bain & Company",
             "date": "Wed, 08 Apr 2026 19:37:44 GMT",
             "category": "Retail"
-        },
-        {
-            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
-            "source": "Inc42",
-            "date": "Wed, 10 Dec 2025 08:00:00 GMT",
-            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
             "topic": "Returnless Refunds",
