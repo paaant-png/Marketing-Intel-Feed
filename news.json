@@ -1,10 +1,10 @@
 {
-    "date": "27 May, 2026",
+    "date": "28 May, 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification Strategy",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization."
+        "brand": "Spotify",
+        "campaign": "Wrapped 2025: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
+        "lesson": "Data is boring. Data identity is viral."
     },
     "news": [
         {
@@ -15,10 +15,10 @@
             "category": "Strategy"
         },
         {
-            "title": "India\u2019s best creative and marketing work celebrated at 2026 Kyoorius Creative Awards and inaugural Kyoorius Marketing Awards - Campaign Brief Asia",
-            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMkhPZHJwa2JfT0ZmTVpXNWNJMGtZVkxSN3h5a0dwbEFuUmpUSThOTGcyZkhxNWIwNW9KQ3E5ZnJzVWxhLUNXSUtfcUdQYnpTT0lfa3paTWhERWt0N3gyb1I4YUVSQkdLQ0RCay1IYjVjX3o3LVFCdlBwRGxwSUZoM1BSOU9tRWRSRUJtSEtWRkh5eC1GZEZYWDdXdXNzcFV6Y1lxNjdUZFNjLVNOTmhsaEY3enZsbW0xWGs5MlVhdTVHWm5LbHowM09rcmZjYkhpSWNEYUZZZ3g2UXBoTkRBbmtIX0JrS2xJdG1HRjBHRFhKSENTV2JGcA?oc=5",
-            "source": "Campaign Brief Asia",
-            "date": "Wed, 27 May 2026 00:54:00 GMT",
+            "title": "Amit Chauhan Elevated to Head of Marketing at Ducati India - EventFAQs",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ1JMR3pPVGNoenhZVHppQklnVzlSQzM4YWx2cnJjbmxZT1lWNkpDYVZvUTFtWmtlNVFfNk5aeDVZamlxdU1pVU0ybXFEMWpEbG9CLXVkQnBmQ2FOSVVSX0JRVUU4QjQ3T19zajlNZnpGWVNHZ3J5NDZUcmFDRVVGVXNBRXlPRVRvelVFbE9NSWhxOHgxZUdBV1k5TQ?oc=5",
+            "source": "EventFAQs",
+            "date": "Wed, 27 May 2026 12:31:16 GMT",
             "category": "Strategy"
         },
         {
@@ -29,10 +29,10 @@
             "category": "Strategy"
         },
         {
-            "title": "Arjun Laxminarasu Appointed Head of Marketing, APAC & Japan at UiPath - hrtoday.in",
-            "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQWFzU2lWUHZVMkNlaV9CZVJSdUF4aGJLZmlDNHdMaU1IZmhraE1wM2tsUjRwWUlMSmtya2IyNzV6b3UyVUIxdmhvaGhtU0VHVkdSYjFDLTlHQjRWcFpsZE5fLUVxcmlCRTRaajVNcENjTGh1LU4wN0ZZb3FLWmFwVTB3cWVzWmFDajAwc29NRQ?oc=5",
-            "source": "hrtoday.in",
-            "date": "Mon, 25 May 2026 11:51:29 GMT",
+            "title": "India\u2019s best creative and marketing work celebrated at 2026 Kyoorius Creative Awards and inaugural Kyoorius Marketing Awards - Campaign Brief Asia",
+            "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMkhPZHJwa2JfT0ZmTVpXNWNJMGtZVkxSN3h5a0dwbEFuUmpUSThOTGcyZkhxNWIwNW9KQ3E5ZnJzVWxhLUNXSUtfcUdQYnpTT0lfa3paTWhERWt0N3gyb1I4YUVSQkdLQ0RCay1IYjVjX3o3LVFCdlBwRGxwSUZoM1BSOU9tRWRSRUJtSEtWRkh5eC1GZEZYWDdXdXNzcFV6Y1lxNjdUZFNjLVNOTmhsaEY3enZsbW0xWGs5MlVhdTVHWm5LbHowM09rcmZjYkhpSWNEYUZZZ3g2UXBoTkRBbmtIX0JrS2xJdG1HRjBHRFhKSENTV2JGcA?oc=5",
+            "source": "Campaign Brief Asia",
+            "date": "Wed, 27 May 2026 00:54:00 GMT",
             "category": "Strategy"
         },
         {
@@ -66,12 +66,12 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
