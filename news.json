@@ -1,12 +1,19 @@
 {
-    "date": "29 May, 2026",
+    "date": "30 May, 2026",
     "story": {
-        "brand": "Cred",
-        "campaign": "The 'Indiranagar Ka Gunda' Effect",
-        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
-        "lesson": "Disruption happens when you break a celebrity's established archetype."
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the obsession required to win, alienating some to delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging."
     },
     "news": [
+        {
+            "title": "Could Delhi HC's Hindware verdict reshape Google Ads and digital marketing in India? - India Today",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWWU2N28tc0pzenExblRURjg4Q0VfOGtTcTdxcTdVMUh1UjlaRnFwZ0JGTnU1U2Z0YVdsLWRQSHBvNUZuU0hCQ3pxbVpBTmgxT3BvNHd5Q2xOR0VINDNmby0yRk5lYm5yZjUyWkxMbGlZM1h4NWxjbGJYenVYd3RNeTlRQjlobHBHZjM1c0NRYTVoY3ptWWc5M1pyc1B0b0VDcmVsRi14bmZIX0JjMmwyYkthR25uSi04MTNqaDRwSk8zdWhFQXpNMzRIeHF0RzJ4SXo0d0NWcnRZZ9IB3wFBVV95cUxPNmV0RmFMVE05dnZtWVFHWmFYLXZFMlZaeEpZSmRFNVBDOWxKcUk4Tm55dWVDaTNVak5oWVZXWGdTSlFRWFpZNUlUUWZxRUdKOFozRjhYQUtEOUl5QkVXaTRfVEM2c2FiYkdQd3Zqa01LM19RM1c2Z1BMUUVTXzZwQ3RFVm5PNWU0RmZ3RlllbzdEODREZ2w0LWxZY2lsNjdwXzd0TFc5VlRfbTBHX1NXS3ctdXVSMkpycFpWYlhFc0huTmMtUmIxaGtPMWdkZVlYMUY4c1FCOUVlQkRHalFV?oc=5",
+            "source": "India Today",
+            "date": "Fri, 29 May 2026 10:59:00 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "India is a \u2018country of countries\u2019 \u2013 NZ business needs a regional strategy to make the trade deal work - The Conversation",
             "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQektIS3RmSGcwODJXZk1LUUFaajB6SFpHdzAtSGN6VXNuLVhrR0ZWNXJ6Uml2TmtIcE1DLTZFLS1VbGc4Rm15cVNfOEVqYmdUSVJKTzQ2RDVyNjVTM3FGY1MzNzYwTUZSbkptSU01WHZkMTNZc1VSUVpqYnJPVHQ0YmtvenZWQmN6UUdCMlpYMVpxUmNQdTZTSlpKTW9icDl5ZUhobjZaSjd3ODhGbTVnN0Y5dDRlM3BpMzFzZFdXcGhORnFNMGhiNmZyWG0?oc=5",
@@ -15,24 +22,17 @@
             "category": "Strategy"
         },
         {
+            "title": "Talent Tracker of the Week: Leadership Moves Across Media, Marketing and Advertising - bestmediainfo.com",
+            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOelFoSFAwdVNNYkNvYW52OVc2MVVBTHdCUzBvdEFYb2U3a1BkaVFOVEtvRmVtM19jS21xcXRPNWUweFhqdmd4ZEJidHBrNXBYTDcyQlhIMkV0WlVlUzZrUWVuZG1EeHFVVWtoODRqU0k5T3pWYkRuTy13a3JYTjBIVG9rTkwtV0h6dUVMNVdHbzVoRXdPNmtCS0toUVdtekEwYzRtRmFDTWs5QkFCRjZjT0pvSVBQLWpzUWtkclJzemgtTDByUDJvVVRiYXB4dUV0bVlSMTR3Y01iNDlwaG0zY9IB4AFBVV95cUxOelFoSFAwdVNNYkNvYW52OVc2MVVBTHdCUzBvdEFYb2U3a1BkaVFOVEtvRmVtM19jS21xcXRPNWUweFhqdmd4ZEJidHBrNXBYTDcyQlhIMkV0WlVlUzZrUWVuZG1EeHFVVWtoODRqU0k5T3pWYkRuTy13a3JYTjBIVG9rTkwtV0h6dUVMNVdHbzVoRXdPNmtCS0toUVdtekEwYzRtRmFDTWs5QkFCRjZjT0pvSVBQLWpzUWtkclJzemgtTDByUDJvVVRiYXB4dUV0bVlSMTR3Y01iNDlwaG0zYw?oc=5",
+            "source": "bestmediainfo.com",
+            "date": "Fri, 29 May 2026 11:12:49 GMT",
+            "category": "Strategy"
+        },
+        {
             "title": "In India, advertisers searching for outcomes turn to commerce media - thecurrent.com",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2pBRUNsMkgwNVlJeHMwZjRkWVFPLWNaV2JoS1V4SEtjVFM4YTBvcEw4M0x0Z0RveHN6S05iS2I3OHhqcUtYWHltcDVaSFJRZFBtcHE4LWVBRExyRDBqam5TRURUOEs5a2ZjWm5rQUJvRFNUdkJwNEo2aFlnQ01PZWZRZ2tOSXFORWoxUUdsZ0hpOE9DOTNLaEZiTFBrUDBqY0FFMHpaVW1MaFl4Znc?oc=5",
             "source": "thecurrent.com",
             "date": "Wed, 20 May 2026 13:36:00 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "How India's alcobev ad rules create the smartest brand builders - afaqs!",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmhfY3NPYkRQTVdYWjNLSUc1RXlPaFl3bHFNNk9ZYTI5TGRtZkc1Y0RpRTNmYjhZeXdaRnFwYmhrM1NmVklrM2ZGS0FGc2Z1UVZQSFJxZTlSdk9KVDhWcjJWREVoSjd5WS1JTzg0QmNzMkI4bFpwb3dXY0prVnBTdkFjdHVHR0x1S2pwRHhlZ090aVc1RXZ1VUplWjctaE83ZWNzaXRyLVA0cUJxTUpzVXJn?oc=5",
-            "source": "afaqs!",
-            "date": "Thu, 28 May 2026 16:17:37 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Souradip Sarkar joins KFC India as Head \u2013 Growth & Market Planning - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWmtPTGZ2VVoyNllOMlZIVWpFQ19EWkNQU2pucEU2M25HMHFJSXNaS29PQ0psdEluSXJYRTBMS1VQUThMZ0FvTkxyMjE5UW53VFlNVFhoMUE0cU1OVmRwczZrR29QandaMllyS3Q5bFVkdUUyQUcwY254U3YyeWtKY2tySUZkNUJIUkZTSWRlR1NKOWMtUDZIRXdvVFZHZnAxQnpKX2VzaEJKakNVY3Z0Q1QwU1d0UWpvdEFRSEJCQlVTX20t?oc=5",
-            "source": "Exchange4Media",
-            "date": "Thu, 28 May 2026 02:50:07 GMT",
             "category": "Strategy"
         },
         {
@@ -66,8 +66,8 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
             "topic": "Visual Search",
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "In 2026, 'Cookie-less' marketing relies on?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "First-Party Data",
+            "Third-Party Data",
+            "Spyware"
         ],
         "a": 0
     }
