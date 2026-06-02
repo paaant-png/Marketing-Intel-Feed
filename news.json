@@ -1,10 +1,10 @@
 {
-    "date": "01 Jun, 2026",
+    "date": "02 Jun, 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped 2025: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
-        "lesson": "Data is boring. Data identity is viral."
+        "brand": "Cred",
+        "campaign": "The 'Indiranagar Ka Gunda' Effect",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting calm celebrities (like Rahul Dravid) in angry roles. This created instant meme material.",
+        "lesson": "Disruption happens when you break a celebrity's established archetype."
     },
     "news": [
         {
@@ -18,14 +18,7 @@
             "title": "India is a \u2018country of countries\u2019 \u2013 NZ business needs a regional strategy to make the trade deal work - The Conversation",
             "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQektIS3RmSGcwODJXZk1LUUFaajB6SFpHdzAtSGN6VXNuLVhrR0ZWNXJ6Uml2TmtIcE1DLTZFLS1VbGc4Rm15cVNfOEVqYmdUSVJKTzQ2RDVyNjVTM3FGY1MzNzYwTUZSbkptSU01WHZkMTNZc1VSUVpqYnJPVHQ0YmtvenZWQmN6UUdCMlpYMVpxUmNQdTZTSlpKTW9icDl5ZUhobjZaSjd3ODhGbTVnN0Y5dDRlM3BpMzFzZFdXcGhORnFNMGhiNmZyWG0?oc=5",
             "source": "The Conversation",
-            "date": "Sun, 24 May 2026 20:08:55 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Talent Tracker of the Week: Leadership Moves Across Media, Marketing and Advertising - bestmediainfo.com",
-            "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOelFoSFAwdVNNYkNvYW52OVc2MVVBTHdCUzBvdEFYb2U3a1BkaVFOVEtvRmVtM19jS21xcXRPNWUweFhqdmd4ZEJidHBrNXBYTDcyQlhIMkV0WlVlUzZrUWVuZG1EeHFVVWtoODRqU0k5T3pWYkRuTy13a3JYTjBIVG9rTkwtV0h6dUVMNVdHbzVoRXdPNmtCS0toUVdtekEwYzRtRmFDTWs5QkFCRjZjT0pvSVBQLWpzUWtkclJzemgtTDByUDJvVVRiYXB4dUV0bVlSMTR3Y01iNDlwaG0zY9IB4AFBVV95cUxOelFoSFAwdVNNYkNvYW52OVc2MVVBTHdCUzBvdEFYb2U3a1BkaVFOVEtvRmVtM19jS21xcXRPNWUweFhqdmd4ZEJidHBrNXBYTDcyQlhIMkV0WlVlUzZrUWVuZG1EeHFVVWtoODRqU0k5T3pWYkRuTy13a3JYTjBIVG9rTkwtV0h6dUVMNVdHbzVoRXdPNmtCS0toUVdtekEwYzRtRmFDTWs5QkFCRjZjT0pvSVBQLWpzUWtkclJzemgtTDByUDJvVVRiYXB4dUV0bVlSMTR3Y01iNDlwaG0zYw?oc=5",
-            "source": "bestmediainfo.com",
-            "date": "Fri, 29 May 2026 11:12:49 GMT",
+            "date": "Sun, 24 May 2026 07:00:00 GMT",
             "category": "Strategy"
         },
         {
@@ -33,6 +26,13 @@
             "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3E1OE5QWTVLY1dFcTdZSDlndFhRQVZCV0REdEFvNXN3M21HY1JMWC1ZTVNiRHRoZUJzWW1nZEVwZ1lMWDN4RTVuSVZsNnlSX0tYbk1NR1dkNDVUeGZjOWJaWVgzaUxUTmxidzlzeTg4Ti1mTFRzbWFjeHRxbHBJNVpSYUU4cnN3RVM4?oc=5",
             "source": "Statista",
             "date": "Fri, 28 Nov 2025 08:00:00 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Experiential marketing for Indian brands - EY",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjZMemJOcjNOU2V4M3JlQlZqaGNiZzY2RE5PUloxSkpRb2U3b2gtSzd5MjRDY1hqdGJqcTlvQjZYQklNS3d6bkU3VU0xMHEzUm04SU4xUHhvaTc3eDlGc0FIcGtsclRncS1iYWpjWjNSVnlmMDhlSE9ZSVN5ckktRnNRWDV5RTZoN2k4WU4zTDg2cHp5d2JOQXlmXzIyOTg2VFhzWHB6VzJDSHhRZVJwNw?oc=5",
+            "source": "EY",
+            "date": "Tue, 07 Apr 2026 07:00:00 GMT",
             "category": "Strategy"
         },
         {
