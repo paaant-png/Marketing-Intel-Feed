@@ -1,39 +1,46 @@
 {
-    "date": "04 Jun, 2026",
+    "date": "05 Jun, 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped 2025: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
-        "lesson": "Data is boring. Data identity is viral."
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification Strategy",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization."
     },
     "news": [
         {
-            "title": "Duolingo English Test appoints Divya Rao as marketing lead for India - Storyboard18",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT1BMMngxejZ5Y2Ixc29UZEhpWEE4T2llSXZTanNlZGVUNFdEcWU2UUpKd2ZkNHhZRXJZRU1DaFBZclFVbGlBdzh1QS1jZTgteDNyalVXQzVnSlo4NGsxeUhRbGlFZ0hPSm04TEh0UHl2dm5rU1Vjd0dhZXk5SXpTcG5Nb0tObTlRak1NQ09rbnI3U0V4WFFWYjFIMjV1elQtaWZWcXZYM3M2YmNFV1FfLXBzRlIyeU41TUVoVnJ30gHDAUFVX3lxTFAxYUREY2ptbEphWDFNOTNIUDJXWmZJSGszWEZyQjlQNUo2Vm5EaFZHYXQ2LVliRXZtaGM0MzA1dlg0MjU3SHg0bTl5dXY1aWlmd1YzRHlOMk9yTG5vOTk5ZmZIWHZWQTVuOEFXM2x0TWpVdzJGNGpoYU9QVEpuR0FGYlVQRktUQmJzRWsxbVgyUDAxT0M0TVhmVHAzZ0o0Y1hfUmxUX2V2OHpTS1pqS1dPcUpOVnQ5ekVSam5jN0RsYVhYaw?oc=5",
-            "source": "Storyboard18",
-            "date": "Thu, 04 Jun 2026 05:44:15 GMT",
+            "title": "Duolingo English Test appoints Divya Rao as marketing lead - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeHVhVFM5bUlyNW9EanZYd1FsUUUwcjZUMlkwdEktY0ppN3AzTkYwYWw4Ty1XYXVvWEgzb056dXd4WjVmZWFud3RIY2dqbjBUSWdXaUU5SFJZcV9nTWc3b1E0N0p3WXZQcko0SHA1QkItNUU1VTJGTEd1RlZJeGRxa1NqSWVqbGhlc1RjTHJkOWZKYkFwQW8ycWNESlBFRnFaREhZUVoxNzA5b3pFVHdZNnNadVdPZjREeUF4N3RNeGtMZmR5Sk1EREg5MDY0eS01cDR5bmJaQQ?oc=5",
+            "source": "ET BrandEquity",
+            "date": "Thu, 04 Jun 2026 11:15:28 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Duolingo English Test appoints Divya Rao as Marketing Lead for India - Adgully.com",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVGdfQlFCYV9JM095b09iLTl3bDdBLWRjRVhiblNpT25kaUg2Mnc2M0tpQktnWEg0ZV9PYVBpQnNndGZnQVFGalUxalk1aklmazMyWE9CUFBsRHZOYTZrSXNGZVVTOVBtcW82SFpWT2J2Uk1fb1pWSmVjaVNiaFU3V1JLeXNqMGw5aEMyR3c3MGx5WUZkOU1iR3hlemlzaTJPM0lUel93?oc=5",
-            "source": "Adgully.com",
-            "date": "Thu, 04 Jun 2026 05:51:00 GMT",
+            "title": "Netcore launches Audience Agent for marketers - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN3h2bVhMX1hZeHN0VUZObDRmal9HV19fU0ZadWRBTEE2bEpiMF9YMEdyQ2RlOVdzN2Z5Z3YyZUh0X1I1UV90RnVsZWJ2ekVkek0wZDkydlpDeFlCWWtLLUpUQm03ZnJkSXhmYVFyN2liYktYTEdjNnRub1dPaWdkVVhyU19YSlU3MnRITlVpN29vOE5mcTVubklOQ09QWGRnajZ5SjlQRGxXczNRa0E?oc=5",
+            "source": "Campaign India",
+            "date": "Thu, 04 Jun 2026 13:22:31 GMT",
             "category": "Strategy"
         },
         {
-            "title": "Samsung's Surprise Media Move: Why integration may have trumped scale - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaFU5alhSVEdKZHo1WEFGemJKLUJkdWo5U3NnbkFkZTBfaFdodHhyamRNaWpZUy00TGlCVG81T2c1ZmJnS1Z0UjdjYWxDOTlNcENscS0tMlFETExmMmp3WW9yQlV2NUFuNHFOWU9qNXZqOHZMakdUTmFtb0pOSEVOdm11VVBuWmpjVkhBR0wxM29OVzV1LVY2NzItcFFlR3dqcXYtV05ZRVpMalo2dGYwYl9DTWdSSFZuSzN3bjdYOUF4MkNDMGc?oc=5",
+            "title": "Divya Rao appointed Marketing Lead for India at Duolingo English Test - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb3lEdGVSMEprS3RjOFc4SmZDdTE0cWpWVmMyS0VIaGRuSTM0a3hzVHRYb3NiTWluZHhFd19UV2U4czg4ZHM4MklrN080aE13UktscG5HSkJvZWZqU2hUNHN5ZjZxc1J6NG43WVJ6bTlXNFNqakl5NUZqNDRZTTRBdnNhbllQcVVDN25OOFh0RkFqREtWbXhDYngwazJ0YW52SWVBYUNXdWs2aV9wbnlwa0xCeVlIdFFvNFVqakYxdm9WNG8ycUFhUGcyWFI?oc=5",
             "source": "Exchange4Media",
-            "date": "Thu, 04 Jun 2026 04:32:09 GMT",
+            "date": "Thu, 04 Jun 2026 06:44:47 GMT",
             "category": "Strategy"
         },
         {
-            "title": "India Inc slows hiring, but diversity recruitment surges 21% as inclusion emerges as a key business strategy: Report - Fortune India",
-            "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMF9MMEUzaUtwMnVUYnpOVF8zUFV4dGxWOHhVRXROeGxWWnMzSkdEaHMtSkphekM1VmdWTmx4bVB0eWJqYWZFTGVsYXprdEhRZDJUdjMxZjVMVWItV1FBRjd2WHBHS0lOb0hwQS1ucGpOV1JCMFRMb3FqeHhKRE9fUGd3ODRSZmR3UU5LTnMwb3dqTGZGajU0bG9EYlRvaGFrWklGTnE5QWpFSmVPZkpKMHVLWV9Cbm9ralBOVHFwVnhnSzcxRHhWa20xSXZSZW5BY2JaY2FsNzk1U2Q5U0hDZXhsa1ByNWdtSXNUdEQ0QlNockRoU3fSAYMCQVVfeXFMT3RfUkNHVWNiSGRjVHpuN3BxLXFndmUxdHNUcjZqTDhuS3NjY2lXNHoxT25yQXFOSWRHXzc0dWg3djlVNklIU2x6ZC1hc2RzRzA0Z2JwV28xYUxMaFNISjB0RC1EclFsdWlLaWJDRjNXT1ZTUEVPUF9UeEk3dVBZNGhQUGp2R1lCWXNVMW83aDc2STNuQ1RaT2F3RHNJbmxfYm93ZENuQnRoWXNrcEtaUVM4LVZUZDhkUG1hdWExNmtRYlVKM3A5YUI3V1pkWFhHMkxaNTJCRlNOYV80bklpdW1sUEk5RTg2U0VuVWFpQ1Fual92S1Q1TUdMbDdUb1lacm5wYw?oc=5",
-            "source": "Fortune India",
-            "date": "Wed, 03 Jun 2026 10:19:07 GMT",
+            "title": "Duolingo English Test names Divya Rao as Marketing Lead for India - IMPACT Magazine",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS0dpTmxjeUotRGpwR2p4b0VLSHl3Vm4xNXVGUjhTeVdhaXI4VWxEdXFDa1I4aTR3RGJnLUNSQkVhaXBLVXBtTGdBMlpiZW1KSnVzWVhYaHN6NUVteW5QcXdCcTlhbUJRclFxN3BkempDTUdWaWRjeWY1TVh6M1hackI1dEZfYjVuMXZBb2NwYkJ3VHQtY1NmSUlwRU44VVZDbWlHWS1yNFIwc3pTTjF3cDE3SW1JTmtCX0RneVBn?oc=5",
+            "source": "IMPACT Magazine",
+            "date": "Thu, 04 Jun 2026 07:36:58 GMT",
             "category": "Strategy"
+        },
+        {
+            "title": "35 Top E-Commerce Statistics - Forbes",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTVYyNGZGNXE3VjRVbVQ0bzlhU1JZa1FVU1B1b0JZQXU1SExDaFp5ZEtxZ1pUeU1iRDU3Mlg0M09UdEdsM3l0ZktvM3haamw5WmVvWGpOU3ZEeDZaeHpVam5FVGo5cGs0UDU0bTFn?oc=5",
+            "source": "Forbes",
+            "date": "Mon, 01 Jun 2026 10:47:00 GMT",
+            "category": "Retail"
         },
         {
             "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
@@ -55,13 +62,6 @@
             "source": "Inc42",
             "date": "Wed, 10 Dec 2025 08:00:00 GMT",
             "category": "Retail"
-        },
-        {
-            "title": "Which City Has the Highest Order Value in India? - Shiprocket",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMX2pnSTh4M3BOVlJRZWRHaDhHazlLN0NpSmEycXAzbUZGclFIdG96eFdsS0ozOEpNY3c4bW5fSmpmdng0X0JCdjZTZG9aUkllNUFibTlGR29ZMHkzaHBFZGl4dmxuY01ONjdiZdIBckFVX3lxTE9obnU3VzBPZlZtaTZQOHFabXU0WDRKVjVaRV9DbUg4UEdBX3J6eWpncVNKeUdQbWVRT0YtQjVkUFNDWmdza3hlc3NZZ3A4Yk1pTDdKelNUZ2Y2YWw1R1d5ZU85U0QtdkV1ZEhxV2xqdEsyUQ?oc=5",
-            "source": "Shiprocket",
-            "date": "Wed, 11 Feb 2026 08:00:00 GMT",
-            "category": "Retail"
         }
     ],
     "learning": {
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "In 2026, 'Cookie-less' marketing relies on?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "First-Party Data",
-            "Third-Party Data",
-            "Spyware"
+            "Your brand's visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
