@@ -1,38 +1,38 @@
 {
-    "date": "09 Jun, 2026",
+    "date": "10 Jun, 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification Strategy",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization."
+        "brand": "Spotify",
+        "campaign": "Wrapped 2025: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They gamified user data to make sharing a status symbol.",
+        "lesson": "Data is boring. Data identity is viral."
     },
     "news": [
+        {
+            "title": "Leads Brand Connect expands into consumer brands business - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYmZFQ3dBeGMwNGU4bEdBdlhPc1B0R0tQWVVtRzdySFZJQUlqTG1vcnBQZGFHU09ITkxDdExOdmJfczlKNWlFeGdGUmZKZnk2UmFBRHVDV2tuV09OWHZMYnVGa2pXdWZxSmdqRmpMRGd1ZFQ3UXNUaVdXV0t0dWdnMjh6aUNuS20zYjhnRUVlMkIzcHlWNVozbkNjdXFnODhKU0dQVzlscnVaMExGdlQ4RnM0QlNyaE9qaWFnRzNB?oc=5",
+            "source": "Campaign India",
+            "date": "Tue, 09 Jun 2026 07:54:50 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Kurlon appoints Tonic Worldwide for digital marketing strategy - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUFZQRzNFeEVWUTNHT1ZDYWEtdklWWnZFU3RVdlRUZFcwMW1Ed0k0XzZXMDcwR1RpYksxN0FmZjdwWWh6bWdlV0JVektBSDV6MGNrMnNPV1lzM1o4eUUxMGJ3Z3ZQREFPZEU5RFE0cXFPWjlpZ0Z3ZElPd0Rnd0w4NjNrRXJpMFBKUXJQWS1SLU8xbUJnY3g0SjFlLThpZlV0a2RTWXZwTmREMTJCdVFfZTV5dWpTT0RSVmtpRzRVQVNkUDNDTzluOHNncldFZktadllmTExZQUpxVUE?oc=5",
+            "source": "ET BrandEquity",
+            "date": "Mon, 08 Jun 2026 09:22:38 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "In India, advertisers searching for outcomes turn to commerce media - thecurrent.com",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2pBRUNsMkgwNVlJeHMwZjRkWVFPLWNaV2JoS1V4SEtjVFM4YTBvcEw4M0x0Z0RveHN6S05iS2I3OHhqcUtYWHltcDVaSFJRZFBtcHE4LWVBRExyRDBqam5TRURUOEs5a2ZjWm5rQUJvRFNUdkJwNEo2aFlnQ01PZWZRZ2tOSXFORWoxUUdsZ0hpOE9DOTNLaEZiTFBrUDBqY0FFMHpaVW1MaFl4Znc?oc=5",
+            "source": "thecurrent.com",
+            "date": "Wed, 20 May 2026 13:36:00 GMT",
+            "category": "Strategy"
+        },
         {
             "title": "SBI hands digital marketing mandate to Omnicom Media India - Storyboard18",
             "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1NjdmdsYldYaENzbjNEWkxNTWVLb3NDZERtWTNtdUpQakZJanp6eUdkd2FIazRmZU5oV2ExaTM1U05VYU5EUjJlVVN5NU1TM0JaRjNxTngtWHU1UU1yN1A0NEE2N0NsQ0NEVmltZFFMTUxQU2FMNEpkZnlmNi1tN2tFMFlIUFBpTUZDeFhaVWdjNTNaVFBEcjIxTWhaSGN2cl9GTlNmdGNlbWc2LXhZ0gG0AUFVX3lxTFBTajQ4TUhzMEd1UzFHclV6TGl5YUtSQ05iSXFFUV8tSUNQWkU5U0hpalB6NzAzVHZXRzhucFppVXJURDdiamdHZ0JQcmZDMVFvUXpGQVg1eVpzMjQ4bVBURmtJQkRGWXVGWDhVVVJCTXQ2S05rb25yNmtzbXNzdkNZblplTU1ENjhCc1AtY0RMdTlBNFpVcGtxQ2hWMVg2bUFCMWFGTklzNGRCYU1sNHNpN3V1Vw?oc=5",
             "source": "Storyboard18",
             "date": "Mon, 08 Jun 2026 06:59:20 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "THE MARKETERS DEFINING WHAT\u2019S NEXT - IMPACT Magazine",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWktSZENsc2gyLXV6cFpnTUFaOW9VOFlCZWN6U05mazlJbDJxVzFkSUxfNmJnNGxuWVZmVk9LUU4tMmQxaTRISy1xeFk4NFBTWGhCN1d1NWV4RDkzYTZpcnEtd1ZyOHVsWVNpaW05WjlTLWNJd29VMExzNTZiNTQ5ZnZGR1p6RHd3TnRTaw?oc=5",
-            "source": "IMPACT Magazine",
-            "date": "Mon, 08 Jun 2026 03:36:54 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Divya Rao appointed Marketing Lead for India at Duolingo English Test - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb3lEdGVSMEprS3RjOFc4SmZDdTE0cWpWVmMyS0VIaGRuSTM0a3hzVHRYb3NiTWluZHhFd19UV2U4czg4ZHM4MklrN080aE13UktscG5HSkJvZWZqU2hUNHN5ZjZxc1J6NG43WVJ6bTlXNFNqakl5NUZqNDRZTTRBdnNhbllQcVVDN25OOFh0RkFqREtWbXhDYngwazJ0YW52SWVBYUNXdWs2aV9wbnlwa0xCeVlIdFFvNFVqakYxdm9WNG8ycUFhUGcyWFI?oc=5",
-            "source": "Exchange4Media",
-            "date": "Thu, 04 Jun 2026 06:44:47 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "Duolingo English Test appoints Divya Rao as marketing lead - ET BrandEquity",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeHVhVFM5bUlyNW9EanZYd1FsUUUwcjZUMlkwdEktY0ppN3AzTkYwYWw4Ty1XYXVvWEgzb056dXd4WjVmZWFud3RIY2dqbjBUSWdXaUU5SFJZcV9nTWc3b1E0N0p3WXZQcko0SHA1QkItNUU1VTJGTEd1RlZJeGRxa1NqSWVqbGhlc1RjTHJkOWZKYkFwQW8ycWNESlBFRnFaREhZUVoxNzA5b3pFVHdZNnNadVdPZjREeUF4N3RNeGtMZmR5Sk1EREg5MDY0eS01cDR5bmJaQQ?oc=5",
-            "source": "ET BrandEquity",
-            "date": "Thu, 04 Jun 2026 11:15:28 GMT",
             "category": "Strategy"
         },
         {
@@ -43,13 +43,6 @@
             "category": "Retail"
         },
         {
-            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
-            "source": "NIQ",
-            "date": "Thu, 21 May 2026 07:00:00 GMT",
-            "category": "Retail"
-        },
-        {
             "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
             "source": "Bain & Company",
@@ -57,17 +50,24 @@
             "category": "Retail"
         },
         {
-            "title": "35 Top E-Commerce Statistics - Forbes",
-            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTVYyNGZGNXE3VjRVbVQ0bzlhU1JZa1FVU1B1b0JZQXU1SExDaFp5ZEtxZ1pUeU1iRDU3Mlg0M09UdEdsM3l0ZktvM3haamw5WmVvWGpOU3ZEeDZaeHpVam5FVGo5cGs0UDU0bTFn?oc=5",
-            "source": "Forbes",
-            "date": "Mon, 01 Jun 2026 10:47:00 GMT",
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
+            "source": "NIQ",
+            "date": "Thu, 21 May 2026 07:00:00 GMT",
+            "category": "Retail"
+        },
+        {
+            "title": "E-commerce market size India 2014-2035 - Statista",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alUxbnNDRk5fVmZNMUJ1OERjVlhYckdjTFoxYlJUTTZEdWhyRFVQaV9aLXZaLXRKQjd5MXhQdnFidFJoWHgzU0g1Nl9wVHFKc1pxbGZCMUptYVMtOG1xdG1Ec2Zna3FpQ2RrMUM4SVFoX0pjcFA0M1F6Z2w?oc=5",
+            "source": "Statista",
+            "date": "Tue, 07 Apr 2026 07:00:00 GMT",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
             "topic": "Returnless Refunds",
@@ -75,11 +75,11 @@
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "In 2026, 'Cookie-less' marketing relies on?",
         "options": [
-            "Unpublished social ad",
-            "Negative review",
-            "Night-mode content"
+            "First-Party Data",
+            "Third-Party Data",
+            "Spyware"
         ],
         "a": 0
     }
