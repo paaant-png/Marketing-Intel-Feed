@@ -1,17 +1,24 @@
 {
-    "date": "16 Jun, 2026",
+    "date": "Tuesday, 16 June 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification Strategy",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization."
+        "brand": "Oatly",
+        "campaign": "The 'We Made This Ad' Meta-Campaign",
+        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising.",
+        "lesson": "Self-referential transparency builds instant trust."
     },
     "news": [
         {
-            "title": "Schneider Electric\u2019s global marketing VP Bidisha Nagaraj steps down after nearly a decade - Storyboard18",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWGN5ZXFsamZfSHM3bVc2YXhYUVREclp4WXk5UDNLQk1XMnMySmo3ZEY1eUZIeXZOVFpEVkRicDMtODhuSU00aFRMZDNoVlRjSFB5a1NkMUllb1Y5bHlzem9Vclprc25ScXRkaXJRZ0lXSXdaSjlHcFNkUFlWWUZGWXRja1EtN2QteTBlRVhvUXpWQVlZbktyNWpYeEp0VTB2Qk1PTmJSd2gxcW9GZG80cmo4Qmh3TlJZWFR4VFUya3B3VjlrTzFCLW16YW1pWF9OMGN5dTFMYlTSAd4BQVVfeXFMTWdKa1pvV2hPNmtGVHp6ZnlrNk5mTTJMYjFuV2JqQ25udk1mb1FVbUlRRVdZdlFNRUZPR1QxSm5kWG1VbnE0S0lteG9GN1E5M1Zha1hWNDF1T0ZrdGhXNnhmdm42eUdiV2tpclZJVWhmcFNOLXd6YXRvUEEyNTRrdTctdGpMVkN3dUFveVRzZGlsaW1ORnEyc0l6UEQ5UjNHTndjYXljTmxkbi1oTmpOOEVqcGZuZDZpa2ZJNlMtb3p2ckFtQlRSX0tEenhLV1JzWEJMYlJNUDhpZFB4Ny1B?oc=5",
-            "source": "Storyboard18",
-            "date": "Mon, 15 Jun 2026 13:53:25 GMT",
+            "title": "Kaara Hotels Appoints New Head- Marketing & Communications - safariindia.com",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WaDBXTGp5b1FzQ3NOZ3MxLXY1UE1Rcmp2WnBleFE4Ry14X2hodHRMQnNiNDlIcm5MaWd0SUkzZmRucHQycmJUZDlUNGhXTExfOTlpV1NPVWJ6eUl1dWdESmNDeWg0eEJjcHpOUnZ5cHUxTFRlOWc?oc=5",
+            "source": "safariindia.com",
+            "date": "Tue, 16 Jun 2026 07:37:54 GMT",
+            "category": "Strategy"
+        },
+        {
+            "title": "Tourism Ministry plans major overhaul of promotion strategy, to appoint 360-degree marketing partner - The New Indian Express",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSEc3RUppeGs1TU5WRzhwbFRSN3BzajdXTDNlUDEtUFE5aXI5QVdJYmNGcWR5N19oYlZ0a1dGYng0RlhLS281NVlESk9oYmJhbE9DTW9BU25fNkFpa3ZaakdyaGJJaTRXaVZWTjFyOW9wZ3BPQUoxVFMyVFJkeEdOZHFla2JTSG40Q2dDOHp3blljajQ5OXpvVkp4Y0Z5djdUU2NRY3ViRmctNThsWUZmUWF0aW5YdW45WHVhNWlkNEw1V3VXRWxIWEZvdTZaMkFVNXVielRUNEc4VHNGUW5vOUdiaErSAfIBQVVfeXFMT2hULVV1eHVYNW55RUZTczNVS09PamZIbXNOS05SQUFKOTFacnFldFJDRW9nNlQwSGRkU0VPNEROS1FNSEMxLW9pQ01BSGluS0pNTnQ3eFA4VmpsQ1pGT1pzbzhBUzQ3T3hvOHpuR0o1Sm13Z2RBaUJoQUt1ZTM0a0lobW1JQ3g1S09FZmltckFCYW9Cd01lcGdOYXlqdkNVWmY5UzJRaXBZT0F5dUtnUmNpSUNwb3ZFaU56UlZOaW90RzhZLVJ1RlZ4SDEwbms5QjAxd0NGQmpURTBvYUZfak80ZnpVZ3I3a3dJeHB1U3F5WEE?oc=5",
+            "source": "The New Indian Express",
+            "date": "Sun, 14 Jun 2026 13:37:08 GMT",
             "category": "Strategy"
         },
         {
@@ -22,17 +29,10 @@
             "category": "Strategy"
         },
         {
-            "title": "Coloplast names Anuj Agarwal as head of marketing for India - Medical Buyer",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ0FPWDJSQzlQaUVUb2RnUnZVUUVmbG9TNUhjcWp4N3FWa3M4WmlNSG5FbjdPQXhVUnNSakFLU0lRZk9HVFo0WGcyRnBTNGhIeXhlQUhWTnFKM09adWZUQnNtLWFSRm5Ca2hEaEFDV0NTUUw5VDB4NDRRWUlHUGh6WVJqTWxxTlhPVnVKMGF4MGM?oc=5",
-            "source": "Medical Buyer",
-            "date": "Mon, 15 Jun 2026 09:47:34 GMT",
-            "category": "Strategy"
-        },
-        {
-            "title": "India is a \u2018country of countries\u2019 \u2013 NZ business needs a regional strategy to make the trade deal work - The Conversation",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQektIS3RmSGcwODJXZk1LUUFaajB6SFpHdzAtSGN6VXNuLVhrR0ZWNXJ6Uml2TmtIcE1DLTZFLS1VbGc4Rm15cVNfOEVqYmdUSVJKTzQ2RDVyNjVTM3FGY1MzNzYwTUZSbkptSU01WHZkMTNZc1VSUVpqYnJPVHQ0YmtvenZWQmN6UUdCMlpYMVpxUmNQdTZTSlpKTW9icDl5ZUhobjZaSjd3ODhGbTVnN0Y5dDRlM3BpMzFzZFdXcGhORnFNMGhiNmZyWG0?oc=5",
-            "source": "The Conversation",
-            "date": "Sun, 24 May 2026 07:00:00 GMT",
+            "title": "Schneider Electric\u2019s global marketing VP Bidisha Nagaraj steps down after nearly a decade - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWGN5ZXFsamZfSHM3bVc2YXhYUVREclp4WXk5UDNLQk1XMnMySmo3ZEY1eUZIeXZOVFpEVkRicDMtODhuSU00aFRMZDNoVlRjSFB5a1NkMUllb1Y5bHlzem9Vclprc25ScXRkaXJRZ0lXSXdaSjlHcFNkUFlWWUZGWXRja1EtN2QteTBlRVhvUXpWQVlZbktyNWpYeEp0VTB2Qk1PTmJSd2gxcW9GZG80cmo4Qmh3TlJZWFR4VFUya3B3VjlrTzFCLW16YW1pWF9OMGN5dTFMYlTSAd4BQVVfeXFMTWdKa1pvV2hPNmtGVHp6ZnlrNk5mTTJMYjFuV2JqQ25udk1mb1FVbUlRRVdZdlFNRUZPR1QxSm5kWG1VbnE0S0lteG9GN1E5M1Zha1hWNDF1T0ZrdGhXNnhmdm42eUdiV2tpclZJVWhmcFNOLXd6YXRvUEEyNTRrdTctdGpMVkN3dUFveVRzZGlsaW1ORnEyc0l6UEQ5UjNHTndjYXljTmxkbi1oTmpOOEVqcGZuZDZpa2ZJNlMtb3p2ckFtQlRSX0tEenhLV1JzWEJMYlJNUDhpZFB4Ny1B?oc=5",
+            "source": "Storyboard18",
+            "date": "Mon, 15 Jun 2026 13:53:25 GMT",
             "category": "Strategy"
         },
         {
@@ -66,20 +66,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Synthetic Influencers",
+            "desc": "AI-generated models (like Lil Miquela) are taking brand deals. They never sleep, never age, and don't cause PR scandals."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "In 2026, 'Cookie-less' marketing relies on?",
+        "q": "What is 'Churn Rate'?",
         "options": [
-            "First-Party Data",
-            "Third-Party Data",
-            "Spyware"
+            "Percentage of customers who stop using a product",
+            "Speed of inventory turnover",
+            "Rate of ad impressions"
         ],
         "a": 0
     }
