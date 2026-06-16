@@ -1,18 +1,23 @@
 name: Daily Marketing Intel
 
 on:
-schedule:
-    - cron: '0 0 * * *' # This runs it every day at midnight
-  workflow_dispatch:
+  schedule:
+    # Runs automatically at 00:00 UTC (5:30 AM IST) every day
+    - cron: '0 0 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch: 
 
 jobs:
-  update-news:
+  update-feed:
     runs-on: ubuntu-latest
+    
+    # Grants the bot permission to push the updated JSON file back to your repo
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -20,15 +25,21 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser requests
 
-      - name: Fetch Intelligence
+      - name: Fetch Latest Intelligence
         run: python news_scraper.py
 
-      - name: Publish Feed
+      - name: Commit and Push Changes
         run: |
-          git config --global user.name "NewsBot"
-          git config --global user.email "bot@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add news.json
-          git commit -m "Daily Intel Update" || echo "No news updates"
+          
+          # This line checks if there are actual changes before trying to commit.
+          # It prevents errors if the news hasn't changed.
+          git diff --quiet && git diff --staged --quiet || git commit -m "Automated update: Daily Marketing Intel"
+          
           git push
