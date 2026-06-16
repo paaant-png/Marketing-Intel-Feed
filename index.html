@@ -3,81 +3,214 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Marketing Command Center</title>
+    <title>Marketing Intelligence Journal</title>
+    <!-- Premium Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,800;1,600&display=swap" rel="stylesheet">
+    
     <style>
-        :root { --bg: #f3f4f6; --text: #1f2937; --accent: #dc2626; --blue: #2563eb; --card: #ffffff; }
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); margin: 0; padding: 25px; }
-        .container { max-width: 1000px; margin: 0 auto; }
+        :root { 
+            --paper: #FAF9F6; /* Elegant off-white cream */
+            --ink: #1A1A1A; 
+            --accent: #B85B35; /* Terracotta / Muted Crimson */
+            --border: #E5E2D9;
+            --muted: #6B6A65;
+        }
+        
+        body { 
+            font-family: 'Inter', sans-serif; 
+            background: var(--paper); 
+            color: var(--ink); 
+            margin: 0; 
+            padding: 40px 20px; 
+            line-height: 1.6; 
+        }
+        
+        .container { max-width: 1100px; margin: 0 auto; }
 
-        /* HEADER */
-        header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #e5e7eb; padding-bottom: 20px; margin-bottom: 30px; }
-        h1 { margin: 0; font-weight: 900; font-size: 1.8rem; text-transform: uppercase; letter-spacing: -1px; }
-        .date-badge { background: #e5e7eb; padding: 5px 12px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; color: #4b5563; }
+        /* HEADER - Editorial Style */
+        header { 
+            text-align: center; 
+            border-bottom: 1px solid var(--ink); 
+            padding-bottom: 30px; 
+            margin-bottom: 40px; 
+            position: relative;
+        }
+        header::after { /* Double line effect */
+            content: ''; position: absolute; bottom: -4px; left: 0; width: 100%; height: 1px; background: var(--ink);
+        }
+        h1 { 
+            font-family: 'Playfair Display', serif; 
+            font-size: 3.5rem; 
+            font-weight: 800; 
+            margin: 0 0 10px 0; 
+            letter-spacing: -1px; 
+            color: var(--ink);
+        }
+        .date-badge { 
+            font-size: 0.85rem; 
+            font-weight: 600; 
+            text-transform: uppercase; 
+            letter-spacing: 2px; 
+            color: var(--muted); 
+        }
 
         /* GRID */
-        .grid { display: grid; grid-template-columns: 2fr 1fr; gap: 25px; }
+        .grid { display: grid; grid-template-columns: 2fr 1fr; gap: 40px; }
 
-        /* CARDS */
-        .card { background: var(--card); padding: 24px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); margin-bottom: 25px; border: 1px solid #f3f4f6; }
-        .label { font-size: 0.75rem; font-weight: 800; color: var(--accent); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 15px; display: block; }
+        /* PREMIUM BRAND STORY */
+        .story-card { 
+            background: #fff; 
+            padding: 40px; 
+            border: 1px solid var(--border); 
+            box-shadow: 0 10px 30px rgba(0,0,0,0.03); 
+            margin-bottom: 40px;
+        }
+        .section-label { 
+            font-family: 'Inter', sans-serif; 
+            font-size: 0.75rem; 
+            font-weight: 700; 
+            color: var(--accent); 
+            text-transform: uppercase; 
+            letter-spacing: 2px; 
+            margin-bottom: 20px; 
+            display: block; 
+        }
+        
+        /* The Doodle Image Container */
+        .doodle-container {
+            width: 100%;
+            height: 250px;
+            background-color: #f3f4f6;
+            margin-bottom: 30px;
+            border: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+        .doodle-container img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            opacity: 0.9;
+        }
 
-        /* BRAND STORY (New Style) */
-        .story-title { font-size: 1.5rem; font-weight: 800; margin: 0 0 10px 0; color: #111; line-height: 1.2; }
-        .story-brand { color: var(--blue); font-weight: 700; }
-        .story-text { font-size: 1rem; line-height: 1.6; color: #4b5563; margin-bottom: 15px; }
-        .story-lesson { background: #eff6ff; border-left: 4px solid var(--blue); padding: 15px; font-weight: 600; font-style: italic; color: #1e40af; border-radius: 0 4px 4px 0; }
+        .story-title { 
+            font-family: 'Playfair Display', serif; 
+            font-size: 2.5rem; 
+            font-weight: 800; 
+            line-height: 1.1; 
+            margin: 0 0 15px 0; 
+        }
+        
+        /* Drop Cap for premium feel */
+        .story-text { font-size: 1.1rem; color: #333; margin-bottom: 25px; }
+        .story-text::first-letter {
+            font-family: 'Playfair Display', serif;
+            float: left;
+            font-size: 4rem;
+            line-height: 0.8;
+            padding-right: 12px;
+            padding-top: 8px;
+            color: var(--accent);
+            font-weight: 800;
+        }
+
+        .story-lesson { 
+            font-family: 'Playfair Display', serif;
+            font-size: 1.25rem;
+            font-style: italic;
+            border-left: 3px solid var(--accent); 
+            padding: 10px 0 10px 20px; 
+            color: var(--ink); 
+            background: rgba(184, 91, 53, 0.05);
+        }
+
+        /* SIDEBAR WIDGETS */
+        .widget { 
+            border-top: 2px solid var(--ink); 
+            padding-top: 20px; 
+            margin-bottom: 40px; 
+        }
+        .widget-title { 
+            font-family: 'Playfair Display', serif; 
+            font-size: 1.5rem; 
+            font-weight: 800; 
+            margin: 0 0 20px 0; 
+        }
 
         /* NEWS LIST */
-        .news-item { padding-bottom: 15px; margin-bottom: 15px; border-bottom: 1px solid #f3f4f6; }
+        .news-item { padding-bottom: 15px; margin-bottom: 15px; border-bottom: 1px solid var(--border); }
         .news-item:last-child { border: none; margin-bottom: 0; }
-        .news-meta { font-size: 0.7rem; font-weight: 700; color: #9ca3af; text-transform: uppercase; margin-bottom: 4px; }
-        .news-link { font-size: 1.05rem; font-weight: 700; color: var(--text); text-decoration: none; line-height: 1.4; display: block; }
-        .news-link:hover { color: var(--blue); }
-
-        /* LEARNING ZONE */
-        .learn-box { background: #fffbe6; border: 1px solid #ffe58f; padding: 15px; border-radius: 8px; margin-bottom: 15px; }
-        .learn-head { font-weight: 800; font-size: 0.85rem; display: block; margin-bottom: 5px; color: #d48806; }
+        .news-meta { font-size: 0.7rem; font-weight: 700; color: var(--accent); text-transform: uppercase; margin-bottom: 5px; }
+        .news-link { font-size: 1.05rem; font-weight: 600; color: var(--ink); text-decoration: none; line-height: 1.4; display: block; }
+        .news-link:hover { color: var(--accent); }
 
         /* QUIZ */
-        .opt-btn { width: 100%; padding: 12px; margin: 6px 0; background: #f9fafb; border: 1px solid #e5e7eb; border-radius: 8px; cursor: pointer; text-align: left; font-weight: 600; transition: 0.2s; }
-        .opt-btn:hover { background: #f3f4f6; border-color: #d1d5db; }
-        .correct { background: #ecfdf5 !important; border-color: #10b981 !important; color: #047857; }
-        .wrong { background: #fef2f2 !important; border-color: #ef4444 !important; color: #b91c1c; }
+        .opt-btn { 
+            width: 100%; padding: 12px 15px; margin: 8px 0; 
+            background: transparent; border: 1px solid var(--border); 
+            cursor: pointer; text-align: left; font-family: 'Inter', sans-serif; 
+            font-size: 0.95rem; font-weight: 500; color: var(--ink); transition: 0.3s; 
+        }
+        .opt-btn:hover { border-color: var(--ink); }
+        .correct { background: #E8F5E9 !important; border-color: #2E7D32 !important; color: #1B5E20; }
+        .wrong { background: #FFEBEE !important; border-color: #C62828 !important; color: #B71C1C; }
 
-        @media (max-width: 800px) { .grid { grid-template-columns: 1fr; } }
+        @media (max-width: 850px) { 
+            .grid { grid-template-columns: 1fr; } 
+            h1 { font-size: 2.5rem; }
+            .story-card { padding: 25px; }
+        }
     </style>
 </head>
 <body>
 
 <div class="container">
     <header>
-        <h1>Marketing<span style="color:var(--accent)">Intel</span></h1>
-        <span class="date-badge" id="dateDisplay">Loading...</span>
+        <h1>The Strategy Journal</h1>
+        <span class="date-badge" id="dateDisplay">Daily Briefing</span>
     </header>
 
     <div class="grid">
+        <!-- MAIN COLUMN -->
         <div class="main-col">
-            <div class="card">
-                <span class="label">🔥 Brand Story of the Day</span>
+            <!-- BRAND SPOTLIGHT -->
+            <div class="story-card">
+                <span class="section-label">Case Study of the Day</span>
+                
+                <!-- Premium Abstract Doodle Image -->
+                <div class="doodle-container" id="doodleBox">
+                    <!-- Image injected via JS -->
+                </div>
+
                 <div id="storyBox">
-                    <h2 class="story-title"><span class="story-brand">Loading...</span></h2>
+                    <h2 class="story-title">Loading...</h2>
                 </div>
             </div>
 
-            <div class="card">
-                <span class="label">📰 Industry Briefing</span>
-                <div id="newsFeed">Loading News...</div>
+            <!-- LEARNING ZONE -->
+            <div class="widget">
+                <h3 class="widget-title">The Masterclass (2026 Trends)</h3>
+                <div id="learnContainer" style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+                    <!-- Injected via JS -->
+                </div>
             </div>
         </div>
 
+        <!-- SIDEBAR -->
         <div class="side-col">
-            <div class="card">
-                <span class="label">🎓 Learning Zone</span>
-                <div id="learnContainer">Loading...</div>
+            <!-- NEWS -->
+            <div class="widget">
+                <h3 class="widget-title">Industry Briefing</h3>
+                <div id="newsFeed">Fetching Intelligence...</div>
             </div>
 
-            <div class="card">
-                <span class="label">🧠 Daily Quiz</span>
+            <!-- QUIZ -->
+            <div class="widget">
+                <h3 class="widget-title">Daily Knowledge Check</h3>
                 <div id="quizContainer">Loading...</div>
             </div>
         </div>
@@ -87,53 +220,59 @@
 <script>
     async function init() {
         try {
-            // Force fresh load
             const res = await fetch('./news.json?v=' + Date.now());
-            if (!res.ok) throw new Error("Data not ready");
+            if (!res.ok) throw new Error("Data missing");
             const data = await res.json();
             
-            // Date
             document.getElementById('dateDisplay').innerText = data.date;
 
-            // 1. Brand Story
+            // 1. Premium Story & Doodle Image
             const s = data.story;
+            // Uses DiceBear Shapes API to create a premium abstract doodle based on the brand seed
+            const doodleUrl = `https://api.dicebear.com/9.x/shapes/svg?seed=${s.seed}&backgroundColor=fdfbf7&shape1Color=b85b35,1a1a1a&shape2Color=e5e2d9,1a1a1a`;
+            
+            document.getElementById('doodleBox').innerHTML = `<img src="${doodleUrl}" alt="Abstract Doodle Art">`;
+            
             document.getElementById('storyBox').innerHTML = `
-                <h2 class="story-title"><span class="story-brand">${s.brand}:</span> ${s.campaign}</h2>
+                <h2 class="story-title">${s.brand}: ${s.campaign}</h2>
                 <p class="story-text">${s.story}</p>
-                <div class="story-lesson">💡 Lesson: ${s.lesson}</div>
+                <div class="story-lesson"><strong>The Insight:</strong> ${s.lesson}</div>
             `;
 
-            // 2. News Feed
+            // 2. Learning Zone
+            const l = data.learning;
+            document.getElementById('learnContainer').innerHTML = `
+                <div>
+                    <span class="section-label" style="margin-bottom:8px;">Brand Dynamics</span>
+                    <strong style="font-family:'Playfair Display'; font-size:1.1rem;">${l.brand.topic}:</strong> 
+                    <span style="color:var(--muted); font-size:0.9rem;"><br>${l.brand.desc}</span>
+                </div>
+                <div>
+                    <span class="section-label" style="margin-bottom:8px;">Digital Retail</span>
+                    <strong style="font-family:'Playfair Display'; font-size:1.1rem;">${l.ecom.topic}:</strong> 
+                    <span style="color:var(--muted); font-size:0.9rem;"><br>${l.ecom.desc}</span>
+                </div>
+            `;
+
+            // 3. News Feed
             document.getElementById('newsFeed').innerHTML = data.news.map(n => `
                 <div class="news-item">
-                    <div class="news-meta">${n.source} • ${n.category}</div>
+                    <div class="news-meta">${n.source}</div>
                     <a href="${n.link}" target="_blank" class="news-link">${n.title}</a>
                 </div>
             `).join('');
 
-            // 3. Learning Zone
-            const l = data.learning;
-            document.getElementById('learnContainer').innerHTML = `
-                <div class="learn-box">
-                    <span class="learn-head">📢 Brand Strategy</span>
-                    <strong>${l.brand.topic}:</strong> ${l.brand.desc}
-                </div>
-                <div class="learn-box" style="background:#e6f7ff; border-color:#91d5ff;">
-                    <span class="learn-head" style="color:#096dd9;">🛒 E-Commerce</span>
-                    <strong>${l.ecom.topic}:</strong> ${l.ecom.desc}
-                </div>
-            `;
-
             // 4. Quiz
             const q = data.quiz;
             document.getElementById('quizContainer').innerHTML = `
-                <div style="font-weight:700; margin-bottom:10px;">${q.q}</div>
+                <div style="font-weight:600; margin-bottom:15px; font-size:1.05rem;">${q.q}</div>
                 ${q.options.map((opt, i) => `<button class="opt-btn" onclick="check(this, ${i}, ${q.a})">${opt}</button>`).join('')}
-                <div id="qRes" style="margin-top:10px; font-weight:bold;"></div>
+                <div id="qRes" style="margin-top:15px; font-weight:700; font-family:'Playfair Display', serif;"></div>
             `;
 
         } catch (e) {
-            document.getElementById('newsFeed').innerHTML = "System updating... run GitHub Action.";
+            console.error(e);
+            document.getElementById('storyBox').innerHTML = "Run GitHub Action to update journal.";
         }
     }
 
@@ -141,10 +280,10 @@
         const res = document.getElementById('qRes');
         if(idx === ans) {
             btn.classList.add('correct');
-            res.innerText = "Correct! 🎯"; res.style.color = "green";
+            res.innerText = "Exceptional. That is correct."; res.style.color = "#2E7D32";
         } else {
             btn.classList.add('wrong');
-            res.innerText = "Try again."; res.style.color = "red";
+            res.innerText = "Incorrect. Review your strategy."; res.style.color = "#C62828";
         }
     }
     init();
