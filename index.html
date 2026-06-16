@@ -5,290 +5,317 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Conerce Marketing Intel</title>
     
-    <!-- Premium Google Fonts Pairing -->
+    <!-- Ultra-Modern Fonts: Outfit (Display) & Inter (Body) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,700;0,900;1,600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@300;500;700;900&display=swap" rel="stylesheet">
     
     <style>
         :root { 
-            --bg-gallery: #FAF9F5;    /* Premium Warm Archival Cream */
-            --obsidian: #11141A;      /* Deep Creative Black */
-            --brand-coral: #D95338;   /* High-Fashion Terracotta Accent */
-            --border-line: #11141A;   /* High Contrast Structural Lines */
-            --card-surface: #FFFFFF;  /* Clean White for Content Depth */
-            --muted-slate: #5C6470;   /* Editorial Secondary Text */
+            --bg-base: #050505; 
+            --card-glass: rgba(255, 255, 255, 0.03);
+            --card-border: rgba(255, 255, 255, 0.08);
+            --text-main: #FFFFFF;
+            --text-muted: #A1A1AA;
+            --accent-glow: #8B5CF6; /* Vibrant Purple */
+            --accent-secondary: #EC4899; /* Neon Pink */
         }
         
         body { 
-            font-family: 'Plus Jakarta Sans', sans-serif; 
-            background-color: var(--bg-gallery); 
-            color: var(--obsidian); 
+            font-family: 'Inter', sans-serif; 
+            background-color: var(--bg-base); 
+            color: var(--text-main); 
             margin: 0; 
-            padding: 50px 30px; 
+            padding: 40px 20px; 
             line-height: 1.6; 
-            -webkit-font-smoothing: antialiased;
+            overflow-x: hidden;
+            position: relative;
+        }
+
+        /* AMBIENT BACKGROUND GLOWS (The "Graphic" Feel) */
+        .ambient-orb {
+            position: fixed;
+            border-radius: 50%;
+            filter: blur(120px);
+            z-index: -1;
+            opacity: 0.5;
+            animation: pulse 10s infinite alternate;
+        }
+        .orb-1 { top: -10%; left: -10%; width: 500px; height: 500px; background: var(--accent-glow); }
+        .orb-2 { bottom: -10%; right: -10%; width: 600px; height: 600px; background: var(--accent-secondary); }
+
+        @keyframes pulse {
+            0% { transform: scale(1); opacity: 0.3; }
+            100% { transform: scale(1.2); opacity: 0.6; }
         }
         
         .container { max-width: 1200px; margin: 0 auto; }
 
-        /* MASTHEAD - Luxury Creative Agency Style */
+        /* HEADER - Hyper Modern */
         header { 
-            display: flex;
-            flex-direction: column;
-            align-items: center;
             text-align: center;
-            border-bottom: 2px solid var(--border-line); 
-            padding-bottom: 35px; 
-            margin-bottom: 50px; 
+            margin-bottom: 60px; 
+            position: relative;
         }
         
         h1 { 
-            font-family: 'Playfair Display', serif; 
-            font-size: 3.8rem; 
+            font-family: 'Outfit', sans-serif; 
+            font-size: clamp(3rem, 6vw, 4.5rem); 
             font-weight: 900; 
-            margin: 0 0 8px 0; 
-            letter-spacing: -1.5px; 
-            color: var(--obsidian);
-            line-height: 1.05;
-        }
-        
-        .sub-masthead {
-            font-size: 0.9rem;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 3px;
-            color: var(--brand-coral);
-            margin-bottom: 15px;
-        }
-        
-        .date-badge { 
-            font-size: 0.8rem; 
-            font-weight: 700; 
-            text-transform: uppercase; 
-            letter-spacing: 1.5px; 
-            color: var(--muted-slate); 
-            border: 1px solid rgba(17, 20, 26, 0.15);
-            padding: 4px 12px;
-            border-radius: 30px;
+            margin: 0; 
+            letter-spacing: -2px; 
+            background: linear-gradient(135deg, #fff 0%, #a1a1aa 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            line-height: 1.1;
         }
 
-        /* ASYMMETRIC CONTEMPORARY GRID */
-        .grid { 
-            display: grid; 
-            grid-template-columns: 1.4fr 1fr; 
-            gap: 50px; 
-            align-items: start;
-        }
-
-        /* CARD ARCHITECTURE */
-        .premium-card { 
-            background: var(--card-surface); 
-            padding: 45px; 
-            border: 1px solid var(--border-line); 
-            box-shadow: 8px 8px 0px var(--border-line); /* Creative Solid Drop Shadow */
-            margin-bottom: 45px;
-            transition: transform 0.2s ease;
-        }
-        
-        .label-tag { 
-            font-size: 0.7rem; 
-            font-weight: 700; 
-            color: var(--brand-coral); 
-            text-transform: uppercase; 
-            letter-spacing: 2.5px; 
-            margin-bottom: 25px; 
-            display: inline-block; 
-            border-bottom: 2px solid var(--brand-coral);
-            padding-bottom: 3px;
-        }
-        
-        /* THE DOODLE ART FRAME */
-        .doodle-frame {
-            width: 100%;
-            height: 280px;
-            background-color: #F0EDE4;
-            margin-bottom: 35px;
-            border: 1px solid var(--border-line);
-            display: flex;
+        .header-tag {
+            display: inline-flex;
             align-items: center;
-            justify-content: center;
-            overflow: hidden;
+            gap: 10px;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            padding: 8px 20px;
+            border-radius: 100px;
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.85rem;
+            font-weight: 700;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            backdrop-filter: blur(10px);
         }
-        .doodle-frame img {
+
+        .live-dot {
+            width: 8px; height: 8px;
+            background: #10B981;
+            border-radius: 50%;
+            box-shadow: 0 0 10px #10B981;
+        }
+
+        /* BENTO BOX GRID */
+        .bento-grid { 
+            display: grid; 
+            grid-template-columns: repeat(12, 1fr); 
+            gap: 24px; 
+            grid-auto-flow: dense;
+        }
+
+        /* GLASSMORPHISM CARDS */
+        .bento-card { 
+            background: var(--card-glass); 
+            border: 1px solid var(--card-border); 
+            border-radius: 32px; 
+            padding: 35px; 
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.3s;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            position: relative;
+        }
+        .bento-card:hover {
+            transform: translateY(-5px);
+            border-color: rgba(255,255,255,0.2);
+        }
+
+        /* GRID SIZING */
+        .span-8 { grid-column: span 8; }
+        .span-4 { grid-column: span 4; }
+        .span-6 { grid-column: span 6; }
+        .span-12 { grid-column: span 12; }
+
+        /* CREATIVE GRAPHIC BANNER */
+        .graphic-banner {
+            margin: -35px -35px 30px -35px;
+            height: 300px;
+            position: relative;
+            background-color: #111;
+        }
+        
+        .graphic-banner img {
             width: 100%;
             height: 100%;
             object-fit: cover;
+            opacity: 0.6;
+            mix-blend-mode: luminosity; /* Makes the image black & white to mix with the gradient */
         }
 
-        .story-headline { 
-            font-family: 'Playfair Display', serif; 
-            font-size: 2.6rem; 
-            font-weight: 900; 
-            line-height: 1.15; 
-            margin: 0 0 20px 0; 
-            letter-spacing: -0.5px;
+        .graphic-overlay {
+            position: absolute;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(135deg, rgba(139,92,246,0.6) 0%, rgba(236,72,153,0.4) 100%);
+            mix-blend-mode: overlay;
+        }
+
+        /* TYPOGRAPHY IN CARDS */
+        .card-label { 
+            font-family: 'Outfit', sans-serif;
+            font-size: 0.75rem; 
+            font-weight: 700; 
+            color: var(--accent-secondary); 
+            text-transform: uppercase; 
+            letter-spacing: 2px; 
+            margin-bottom: 20px; 
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .story-title { 
+            font-family: 'Outfit', sans-serif; 
+            font-size: 2.2rem; 
+            font-weight: 700; 
+            line-height: 1.2; 
+            margin: 0 0 15px 0; 
         }
         
-        .story-body { 
-            font-size: 1.15rem; 
-            color: #2D3139; 
-            margin-bottom: 30px; 
-            font-weight: 400;
-        }
-        
-        /* Premium Bold Drop Cap */
-        .story-body::first-letter {
-            font-family: 'Playfair Display', serif;
-            float: left;
-            font-size: 4.5rem;
-            line-height: 0.75;
-            padding-right: 14px;
-            padding-top: 4px;
-            color: var(--obsidian);
-            font-weight: 900;
+        .story-text { 
+            font-size: 1.1rem; 
+            color: var(--text-muted); 
+            margin-bottom: 25px; 
         }
 
-        .insight-blockquote { 
-            font-family: 'Playfair Display', serif;
-            font-size: 1.35rem;
-            font-style: italic;
-            border-left: 4px solid var(--border-line); 
-            padding: 5px 0 5px 25px; 
-            color: var(--obsidian); 
-            background: rgba(17, 20, 26, 0.03);
-            margin: 0;
+        .insight-box { 
+            background: rgba(255,255,255,0.05);
+            border-left: 3px solid var(--accent-glow); 
+            padding: 15px 20px; 
+            border-radius: 0 12px 12px 0;
+            font-weight: 500;
+            color: #fff;
         }
 
-        /* SECTION MODULES */
-        .section-block { 
-            border-top: 2px solid var(--border-line); 
-            padding-top: 25px; 
-            margin-bottom: 45px; 
-        }
-        .section-title { 
-            font-family: 'Playfair Display', serif; 
-            font-size: 1.7rem; 
-            font-weight: 900; 
-            margin: 0 0 25px 0; 
-            letter-spacing: -0.3px;
+        /* FRAMEWORKS (Pill Design) */
+        .framework-title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 10px;
         }
 
         /* NEWS LINES */
         .news-node { 
-            padding: 18px 0; 
-            border-bottom: 1px dashed rgba(17, 20, 26, 0.2); 
+            padding: 20px 0; 
+            border-bottom: 1px solid rgba(255,255,255,0.05); 
         }
-        .news-node:first-child { padding-top: 0; }
         .news-node:last-child { border: none; padding-bottom: 0; }
         
-        .news-origin { 
+        .news-source { 
+            display: inline-block;
+            background: rgba(255,255,255,0.1);
+            padding: 4px 10px;
+            border-radius: 6px;
             font-size: 0.65rem; 
-            font-weight: 700; 
-            color: var(--brand-coral); 
-            text-transform: uppercase; 
-            letter-spacing: 1.5px; 
-            margin-bottom: 4px; 
-        }
-        .news-anchor { 
-            font-size: 1.1rem; 
             font-weight: 600; 
-            color: var(--obsidian); 
+            color: #fff; 
+            text-transform: uppercase; 
+            letter-spacing: 1px; 
+            margin-bottom: 8px; 
+        }
+        .news-link { 
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.15rem; 
+            font-weight: 500; 
+            color: var(--text-main); 
             text-decoration: none; 
             line-height: 1.4; 
             display: block; 
+            transition: color 0.2s;
         }
-        .news-anchor:hover { 
-            color: var(--brand-coral); 
-            text-decoration: underline;
-        }
+        .news-link:hover { color: var(--accent-glow); }
 
-        /* FRAMEWORK CARDS (LEARNING ZONE) */
-        .framework-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
-        .framework-card { 
-            background: #FAF9F5; 
-            border: 1px solid var(--border-line); 
-            padding: 25px; 
-            border-radius: 0px; 
-        }
-
-        /* QUIZ ARCHITECTURE */
-        .quiz-option { 
+        /* UI QUIZ BUTTONS */
+        .quiz-btn { 
             width: 100%; 
-            padding: 14px 20px; 
-            margin: 10px 0; 
-            background: var(--card-surface); 
-            border: 1px solid var(--border-line); 
+            padding: 16px 24px; 
+            margin: 8px 0; 
+            background: rgba(255,255,255,0.05); 
+            border: 1px solid rgba(255,255,255,0.1); 
+            border-radius: 16px; 
             cursor: pointer; 
-            font-family: 'Plus Jakarta Sans', sans-serif; 
-            font-size: 0.95rem; 
-            font-weight: 600; 
-            color: var(--obsidian); 
+            font-family: 'Inter', sans-serif; 
+            font-size: 1rem; 
+            font-weight: 500; 
+            color: var(--text-main); 
             text-align: left;
             transition: all 0.2s ease;
         }
-        .quiz-option:hover { 
-            background: var(--obsidian);
-            color: var(--bg-gallery);
+        .quiz-btn:hover { 
+            background: rgba(255,255,255,0.1);
+            transform: translateX(5px);
         }
-        .correct { background: #E2F0D9 !important; border-color: #385723 !important; color: #385723 !important; font-weight: 700; }
-        .wrong { background: #FCE4D6 !important; border-color: #C65911 !important; color: #C65911 !important; }
+        .correct { background: rgba(16, 185, 129, 0.2) !important; border-color: #10B981 !important; color: #10B981 !important; }
+        .wrong { background: rgba(239, 68, 68, 0.2) !important; border-color: #EF4444 !important; color: #EF4444 !important; }
 
-        @media (max-width: 900px) { 
-            .grid, .framework-layout { grid-template-columns: 1fr; } 
-            h1 { font-size: 2.8rem; }
-            body { padding: 30px 15px; }
-            .premium-card { padding: 25px; }
+        @media (max-width: 1024px) { 
+            .span-8, .span-4, .span-6 { grid-column: span 12; } 
+            .graphic-banner { height: 200px; }
         }
     </style>
 </head>
 <body>
 
+<!-- Ambient Graphics -->
+<div class="ambient-orb orb-1"></div>
+<div class="ambient-orb orb-2"></div>
+
 <div class="container">
     <header>
-        <div class="sub-masthead">Intelligence Briefing Matrix</div>
+        <div class="header-tag">
+            <div class="live-dot"></div>
+            Intelligence Node Online
+        </div>
         <h1>Conerce Marketing Intel</h1>
-        <span class="date-badge" id="dateDisplay">Syncing Ledger...</span>
+        <div style="color: var(--text-muted); font-family: 'Outfit'; font-weight: 300; letter-spacing: 1px; margin-top: 10px;" id="dateDisplay">
+            Synchronizing...
+        </div>
     </header>
 
-    <div class="grid">
-        <!-- PRIMARY COLUMN: STORIES & CONCEPTS -->
-        <main class="main-col">
-            <!-- BRAND STORIES WITH DOODLE GENERATOR -->
-            <div class="premium-card">
-                <span class="label-tag">Strategic Case Study</span>
-                
-                <!-- Dynamic Doodle Art Display Frame -->
-                <div class="doodle-frame" id="doodleBox"></div>
-
-                <div id="storyBox">
-                    <h2 class="story-headline">Loading Creative Blueprint...</h2>
-                </div>
+    <div class="bento-grid">
+        
+        <!-- MAIN BRAND STORY CARD -->
+        <div class="bento-card span-8">
+            <!-- Dynamic Color-Graded Photographic Graphic -->
+            <div class="graphic-banner" id="graphicBox">
+                <!-- Injected via JS -->
             </div>
 
-            <!-- COMMERCE MASTERCLASS FRAMEWORKS -->
-            <div class="section-block">
-                <h3 class="section-title">Strategic Frameworks</h3>
-                <div id="learnContainer" class="framework-layout">
-                    <!-- Dynamic Frameworks Inject Here -->
-                </div>
+            <span class="card-label">⚡ Campaign Deconstruction</span>
+            <div id="storyBox">
+                <h2 class="story-title">Decrypting Strategy...</h2>
             </div>
-        </main>
+        </div>
 
-        <!-- SECONDARY COLUMN: CHRONICLES & ENGAGEMENT -->
-        <aside class="side-col">
-            <!-- FEED BRIEFINGS -->
-            <div class="section-block">
-                <h3 class="section-title">Industry Briefing</h3>
-                <div id="newsFeed">Aggregating Global Feeds...</div>
+        <!-- QUIZ / ASSESSMENT WIDGET -->
+        <div class="bento-card span-4" style="background: linear-gradient(180deg, rgba(255,255,255,0.05) 0%, rgba(0,0,0,0.2) 100%);">
+            <span class="card-label">🧠 Strategic Assessment</span>
+            <div id="quizContainer">
+                Loading Module...
             </div>
+        </div>
 
-            <!-- STRATEGIC REASONING QUIZ -->
-            <div class="section-block">
-                <h3 class="section-title">Strategic Assessment</h3>
-                <div id="quizContainer">Assembling Assessment...</div>
+        <!-- FRAMEWORK 1 -->
+        <div class="bento-card span-6">
+            <span class="card-label" style="color: var(--accent-glow);">✦ Brand Vector</span>
+            <div id="learnBrand"></div>
+        </div>
+
+        <!-- FRAMEWORK 2 -->
+        <div class="bento-card span-6">
+            <span class="card-label" style="color: #38BDF8;">✦ Retail Engine</span>
+            <div id="learnEcom"></div>
+        </div>
+
+        <!-- FEED AGGREGATOR -->
+        <div class="bento-card span-12">
+            <span class="card-label">🌐 Global Feeds</span>
+            <div id="newsFeed" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px;">
+                <!-- Feed injected here -->
             </div>
-        </aside>
+        </div>
+
     </div>
 </div>
 
@@ -299,55 +326,56 @@
             if (!res.ok) throw new Error("Manifest Sync Error");
             const data = await res.json();
             
-            document.getElementById('dateDisplay').innerText = data.date;
+            document.getElementById('dateDisplay').innerText = "DATA LOG: " + data.date.toUpperCase();
 
-            // 1. Case Study & High-End Abstract Doodle
+            // 1. Case Study & Photographic Gradient Graphic
             const s = data.story;
-            // Generates a customized minimal abstract doodle matching the black/coral theme parameters
-            const doodleUrl = `https://api.dicebear.com/9.x/shapes/svg?seed=${s.seed}&backgroundColor=FAF9F5&shape1Color=D95338,11141A&shape2Color=11141A,5C6470`;
             
-            document.getElementById('doodleBox').innerHTML = `<img src="${doodleUrl}" alt="Abstract Brand Architecture Doodle">`;
+            // Using a reliable image placeholder, but styled with CSS blend modes to look incredibly custom and artistic
+            document.getElementById('graphicBox').innerHTML = `
+                <img src="https://picsum.photos/seed/${s.seed}/800/400" alt="Creative Agency Visual">
+                <div class="graphic-overlay"></div>
+            `;
             
             document.getElementById('storyBox').innerHTML = `
-                <h2 class="story-headline">${s.brand} — <span style="font-weight:400; font-style:italic;">${s.campaign}</span></h2>
-                <p class="story-body">${s.story}</p>
-                <div class="insight-blockquote"><strong>The Nexus Insight:</strong> ${s.lesson}</div>
+                <h2 class="story-title">${s.brand} <span style="color:var(--text-muted)">//</span> ${s.campaign}</h2>
+                <p class="story-text">${s.story}</p>
+                <div class="insight-box">
+                    <span style="color:var(--accent-glow); font-weight:700; font-size:0.8rem; text-transform:uppercase; display:block; margin-bottom:5px;">The Insight</span>
+                    ${s.lesson}
+                </div>
             `;
 
-            // 2. Commerce Frameworks (Learning Zone)
+            // 2. Frameworks
             const l = data.learning;
-            document.getElementById('learnContainer').innerHTML = `
-                <div class="framework-card">
-                    <span class="label-tag" style="margin-bottom:12px; font-size:0.65rem;">Brand Vector</span>
-                    <div style="font-family:'Playfair Display'; font-size:1.25rem; font-weight:900; margin-bottom:8px;">${l.brand.topic}</div> 
-                    <div style="color:var(--muted-slate); font-size:0.9rem; font-weight:500;">${l.brand.desc}</div>
-                </div>
-                <div class="framework-card" style="border-color:var(--brand-coral);">
-                    <span class="label-tag" style="margin-bottom:12px; font-size:0.65rem; color:var(--brand-coral); border-color:var(--brand-coral);">Retail Engine</span>
-                    <div style="font-family:'Playfair Display'; font-size:1.25rem; font-weight:900; margin-bottom:8px;">${l.ecom.topic}</div> 
-                    <div style="color:var(--muted-slate); font-size:0.9rem; font-weight:500;">${l.ecom.desc}</div>
-                </div>
+            document.getElementById('learnBrand').innerHTML = `
+                <div class="framework-title">${l.brand.topic}</div> 
+                <div style="color:var(--text-muted);">${l.brand.desc}</div>
+            `;
+            document.getElementById('learnEcom').innerHTML = `
+                <div class="framework-title">${l.ecom.topic}</div> 
+                <div style="color:var(--text-muted);">${l.ecom.desc}</div>
             `;
 
-            // 3. Industry Feed Aggregator
+            // 3. News Feed
             document.getElementById('newsFeed').innerHTML = data.news.map(n => `
                 <div class="news-node">
-                    <div class="news-origin">${n.source}</div>
-                    <a href="${n.link}" target="_blank" class="news-anchor">${n.title}</a>
+                    <div class="news-source">${n.source}</div>
+                    <a href="${n.link}" target="_blank" class="news-link">${n.title}</a>
                 </div>
             `).join('');
 
             // 4. Strategic Assessment Module (Quiz)
             const q = data.quiz;
             document.getElementById('quizContainer').innerHTML = `
-                <div style="font-weight:600; margin-bottom:20px; font-size:1.05rem; color:var(--obsidian);">${q.q}</div>
-                ${q.options.map((opt, i) => `<button class="quiz-option" onclick="verify(this, ${i}, ${q.a})">${opt}</button>`).join('')}
-                <div id="assessmentResult" style="margin-top:20px; font-weight:900; font-family:'Playfair Display', serif; font-size:1.2rem;"></div>
+                <div style="font-family:'Outfit', sans-serif; font-size:1.2rem; font-weight:700; margin-bottom:20px; line-height:1.3;">${q.q}</div>
+                ${q.options.map((opt, i) => `<button class="quiz-btn" onclick="verify(this, ${i}, ${q.a})">${opt}</button>`).join('')}
+                <div id="assessmentResult" style="margin-top:20px; font-family:'Outfit', sans-serif; font-weight:700; font-size:1.1rem; text-align:center;"></div>
             `;
 
         } catch (e) {
             console.error(e);
-            document.getElementById('storyBox').innerHTML = "System Synchronization Offline. Please deploy the update runner.";
+            document.getElementById('storyBox').innerHTML = "SYSTEM OFFLINE. Run the update sequence.";
         }
     }
 
@@ -355,12 +383,12 @@
         const resultOutput = document.getElementById('assessmentResult');
         if(selectedIdx === correctIdx) {
             btn.classList.add('correct');
-            resultOutput.innerText = "Assessment verified. Accurate Deduction."; 
-            resultOutput.style.color = "#385723";
+            resultOutput.innerText = "ACCESS GRANTED. Correct."; 
+            resultOutput.style.color = "#10B981";
         } else {
             btn.classList.add('wrong');
-            resultOutput.innerText = "Variance Detected. Incorrect Conclusion."; 
-            resultOutput.style.color = "#C65911";
+            resultOutput.innerText = "ERROR. Incorrect."; 
+            resultOutput.style.color = "#EF4444";
         }
     }
     init();
