@@ -2,16 +2,17 @@ name: Daily Marketing Intel
 
 on:
   schedule:
-    # Runs automatically at 00:00 UTC (5:30 AM IST) every day
     - cron: '0 0 * * *'
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch: 
+
+# Force the environment to use Node 24 configurations safely
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
 
 jobs:
   update-feed:
     runs-on: ubuntu-latest
     
-    # Grants the bot permission to push the updated JSON file back to your repo
     permissions:
       contents: write
 
@@ -37,9 +38,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add news.json
-          
-          # This line checks if there are actual changes before trying to commit.
-          # It prevents errors if the news hasn't changed.
           git diff --quiet && git diff --staged --quiet || git commit -m "Automated update: Daily Marketing Intel"
-          
           git push
