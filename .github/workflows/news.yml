@@ -1,8 +1,8 @@
 name: Daily Marketing Intel
 
 on:
-  schedule:
-    - cron: '0 2 * * *' # Runs at 2 AM UTC (7:30 AM IST)
+schedule:
+    - cron: '0 0 * * *' # This runs it every day at midnight
   workflow_dispatch:
 
 jobs:
