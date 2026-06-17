@@ -1,19 +1,13 @@
 {
-    "date": "Tuesday, 16 June 2026",
+    "date": "Wednesday, 17 June 2026",
     "story": {
-        "brand": "Airbnb",
-        "campaign": "Belong Anywhere",
-        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
-        "lesson": "Sell the transformation, not the transaction.",
-        "seed": "airbnb12"
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization.",
+        "seed": "zomato1"
     },
     "news": [
-        {
-            "title": "Kaara Hotels Appoints New Head- Marketing & Communications - safariindia.com",
-            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WaDBXTGp5b1FzQ3NOZ3MxLXY1UE1Rcmp2WnBleFE4Ry14X2hodHRMQnNiNDlIcm5MaWd0SUkzZmRucHQycmJUZDlUNGhXTExfOTlpV1NPVWJ6eUl1dWdESmNDeWg0eEJjcHpOUnZ5cHUxTFRlOWc?oc=5",
-            "source": "safariindia.com",
-            "category": "Strategy"
-        },
         {
             "title": "Tourism Ministry plans major overhaul of promotion strategy, to appoint 360-degree marketing partner - The New Indian Express",
             "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSEc3RUppeGs1TU5WRzhwbFRSN3BzajdXTDNlUDEtUFE5aXI5QVdJYmNGcWR5N19oYlZ0a1dGYng0RlhLS281NVlESk9oYmJhbE9DTW9BU25fNkFpa3ZaakdyaGJJaTRXaVZWTjFyOW9wZ3BPQUoxVFMyVFJkeEdOZHFla2JTSG40Q2dDOHp3blljajQ5OXpvVkp4Y0Z5djdUU2NRY3ViRmctNThsWUZmUWF0aW5YdW45WHVhNWlkNEw1V3VXRWxIWEZvdTZaMkFVNXVielRUNEc4VHNGUW5vOUdiaErSAfIBQVVfeXFMT2hULVV1eHVYNW55RUZTczNVS09PamZIbXNOS05SQUFKOTFacnFldFJDRW9nNlQwSGRkU0VPNEROS1FNSEMxLW9pQ01BSGluS0pNTnQ3eFA4VmpsQ1pGT1pzbzhBUzQ3T3hvOHpuR0o1Sm13Z2RBaUJoQUt1ZTM0a0lobW1JQ3g1S09FZmltckFCYW9Cd01lcGdOYXlqdkNVWmY5UzJRaXBZT0F5dUtnUmNpSUNwb3ZFaU56UlZOaW90RzhZLVJ1RlZ4SDEwbms5QjAxd0NGQmpURTBvYUZfak80ZnpVZ3I3a3dJeHB1U3F5WEE?oc=5",
@@ -24,6 +18,12 @@
             "title": "Kaara Hotels appoints Honey Kumar as Head of Marketing and Communications - Hotelier India",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUHFleFlHYmxYMGN6cThscWwwa2w4ck1QTUJjeC1GV2ZNUEg3MkRvTGFWUEZ2bGdydVVIWUF3OTJWNmhhbHluQlEzN1VVODJUN3NNdDFEQWlsV1dfNUlCaTR4UUpZT0pfam5PMEQ5RGZoOXZiMkdDUExMUkszUFJ5c0FoUlZELTNNUkRaQ1llVE5BWnR3anNMYWFseW5HY0JQdnVjMDBFRWIwbnRMWnc?oc=5",
             "source": "Hotelier India",
+            "category": "Strategy"
+        },
+        {
+            "title": "Kaara Hotels Appoints New Head- Marketing & Communications - safariindia.com",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WaDBXTGp5b1FzQ3NOZ3MxLXY1UE1Rcmp2WnBleFE4Ry14X2hodHRMQnNiNDlIcm5MaWd0SUkzZmRucHQycmJUZDlUNGhXTExfOTlpV1NPVWJ6eUl1dWdESmNDeWg0eEJjcHpOUnZ5cHUxTFRlOWc?oc=5",
+            "source": "safariindia.com",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
