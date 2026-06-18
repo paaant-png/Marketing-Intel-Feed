@@ -1,23 +1,23 @@
 {
-    "date": "Wednesday, 17 June 2026",
+    "date": "Thursday, 18 June 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization.",
-        "seed": "zomato1"
+        "brand": "Cred",
+        "campaign": "Indiranagar Ka Gunda",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting a historically calm celebrity (Rahul Dravid) in an angry, chaotic role. This contrast created instant, viral meme material.",
+        "lesson": "Disruption happens when you break an established archetype.",
+        "seed": "cred2"
     },
     "news": [
-        {
-            "title": "Tourism Ministry plans major overhaul of promotion strategy, to appoint 360-degree marketing partner - The New Indian Express",
-            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSEc3RUppeGs1TU5WRzhwbFRSN3BzajdXTDNlUDEtUFE5aXI5QVdJYmNGcWR5N19oYlZ0a1dGYng0RlhLS281NVlESk9oYmJhbE9DTW9BU25fNkFpa3ZaakdyaGJJaTRXaVZWTjFyOW9wZ3BPQUoxVFMyVFJkeEdOZHFla2JTSG40Q2dDOHp3blljajQ5OXpvVkp4Y0Z5djdUU2NRY3ViRmctNThsWUZmUWF0aW5YdW45WHVhNWlkNEw1V3VXRWxIWEZvdTZaMkFVNXVielRUNEc4VHNGUW5vOUdiaErSAfIBQVVfeXFMT2hULVV1eHVYNW55RUZTczNVS09PamZIbXNOS05SQUFKOTFacnFldFJDRW9nNlQwSGRkU0VPNEROS1FNSEMxLW9pQ01BSGluS0pNTnQ3eFA4VmpsQ1pGT1pzbzhBUzQ3T3hvOHpuR0o1Sm13Z2RBaUJoQUt1ZTM0a0lobW1JQ3g1S09FZmltckFCYW9Cd01lcGdOYXlqdkNVWmY5UzJRaXBZT0F5dUtnUmNpSUNwb3ZFaU56UlZOaW90RzhZLVJ1RlZ4SDEwbms5QjAxd0NGQmpURTBvYUZfak80ZnpVZ3I3a3dJeHB1U3F5WEE?oc=5",
-            "source": "The New Indian Express",
-            "category": "Strategy"
-        },
         {
             "title": "Kaara Hotels appoints Honey Kumar as Head of Marketing and Communications - Hotelier India",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUHFleFlHYmxYMGN6cThscWwwa2w4ck1QTUJjeC1GV2ZNUEg3MkRvTGFWUEZ2bGdydVVIWUF3OTJWNmhhbHluQlEzN1VVODJUN3NNdDFEQWlsV1dfNUlCaTR4UUpZT0pfam5PMEQ5RGZoOXZiMkdDUExMUkszUFJ5c0FoUlZELTNNUkRaQ1llVE5BWnR3anNMYWFseW5HY0JQdnVjMDBFRWIwbnRMWnc?oc=5",
             "source": "Hotelier India",
+            "category": "Strategy"
+        },
+        {
+            "title": "Schneider Electric\u2019s global marketing VP Bidisha Nagaraj steps down after nearly a decade - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWGN5ZXFsamZfSHM3bVc2YXhYUVREclp4WXk5UDNLQk1XMnMySmo3ZEY1eUZIeXZOVFpEVkRicDMtODhuSU00aFRMZDNoVlRjSFB5a1NkMUllb1Y5bHlzem9Vclprc25ScXRkaXJRZ0lXSXdaSjlHcFNkUFlWWUZGWXRja1EtN2QteTBlRVhvUXpWQVlZbktyNWpYeEp0VTB2Qk1PTmJSd2gxcW9GZG80cmo4Qmh3TlJZWFR4VFUya3B3VjlrTzFCLW16YW1pWF9OMGN5dTFMYlTSAd4BQVVfeXFMTWdKa1pvV2hPNmtGVHp6ZnlrNk5mTTJMYjFuV2JqQ25udk1mb1FVbUlRRVdZdlFNRUZPR1QxSm5kWG1VbnE0S0lteG9GN1E5M1Zha1hWNDF1T0ZrdGhXNnhmdm42eUdiV2tpclZJVWhmcFNOLXd6YXRvUEEyNTRrdTctdGpMVkN3dUFveVRzZGlsaW1ORnEyc0l6UEQ5UjNHTndjYXljTmxkbi1oTmpOOEVqcGZuZDZpa2ZJNlMtb3p2ckFtQlRSX0tEenhLV1JzWEJMYlJNUDhpZFB4Ny1B?oc=5",
+            "source": "Storyboard18",
             "category": "Strategy"
         },
         {
@@ -27,9 +27,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Schneider Electric\u2019s global marketing VP Bidisha Nagaraj steps down after nearly a decade - Storyboard18",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWGN5ZXFsamZfSHM3bVc2YXhYUVREclp4WXk5UDNLQk1XMnMySmo3ZEY1eUZIeXZOVFpEVkRicDMtODhuSU00aFRMZDNoVlRjSFB5a1NkMUllb1Y5bHlzem9Vclprc25ScXRkaXJRZ0lXSXdaSjlHcFNkUFlWWUZGWXRja1EtN2QteTBlRVhvUXpWQVlZbktyNWpYeEp0VTB2Qk1PTmJSd2gxcW9GZG80cmo4Qmh3TlJZWFR4VFUya3B3VjlrTzFCLW16YW1pWF9OMGN5dTFMYlTSAd4BQVVfeXFMTWdKa1pvV2hPNmtGVHp6ZnlrNk5mTTJMYjFuV2JqQ25udk1mb1FVbUlRRVdZdlFNRUZPR1QxSm5kWG1VbnE0S0lteG9GN1E5M1Zha1hWNDF1T0ZrdGhXNnhmdm42eUdiV2tpclZJVWhmcFNOLXd6YXRvUEEyNTRrdTctdGpMVkN3dUFveVRzZGlsaW1ORnEyc0l6UEQ5UjNHTndjYXljTmxkbi1oTmpOOEVqcGZuZDZpa2ZJNlMtb3p2ckFtQlRSX0tEenhLV1JzWEJMYlJNUDhpZFB4Ny1B?oc=5",
-            "source": "Storyboard18",
+            "title": "India is a \u2018country of countries\u2019 \u2013 NZ business needs a regional strategy to make the trade deal work - The Conversation",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQektIS3RmSGcwODJXZk1LUUFaajB6SFpHdzAtSGN6VXNuLVhrR0ZWNXJ6Uml2TmtIcE1DLTZFLS1VbGc4Rm15cVNfOEVqYmdUSVJKTzQ2RDVyNjVTM3FGY1MzNzYwTUZSbkptSU01WHZkMTNZc1VSUVpqYnJPVHQ0YmtvenZWQmN6UUdCMlpYMVpxUmNQdTZTSlpKTW9icDl5ZUhobjZaSjd3ODhGbTVnN0Y5dDRlM3BpMzFzZFdXcGhORnFNMGhiNmZyWG0?oc=5",
+            "source": "The Conversation",
             "category": "Strategy"
         },
         {
@@ -51,28 +51,28 @@
             "category": "Retail"
         },
         {
-            "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
-            "source": "Shiprocket",
+            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
+            "source": "Inc42",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
