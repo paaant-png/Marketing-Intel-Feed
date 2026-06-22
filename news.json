@@ -1,11 +1,11 @@
 {
-    "date": "Sunday, 21 June 2026",
+    "date": "Monday, 22 June 2026",
     "story": {
-        "brand": "Liquid Death",
-        "campaign": "Murder Your Thirst",
-        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
-        "lesson": "Packaging and attitude can differentiate a pure commodity.",
-        "seed": "liquid5"
+        "brand": "Oatly",
+        "campaign": "The Meta-Billboard",
+        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
+        "lesson": "Self-referential transparency builds instant trust.",
+        "seed": "oatly6"
     },
     "news": [
         {
@@ -15,21 +15,21 @@
             "category": "Strategy"
         },
         {
-            "title": "Makers Hive Innovations Appoints Sanju Sudhakar K as Vice President \u2013 Sales & Marketing, India & International Business - hrtoday.in",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFhrdkFHSEtjVXhzT01rLUZ2cEUyTmdROFJXVkJEQjB2cHA4RUVvZmZTYnpyaFBfV1pVUWg3STEwVUVkc2R5eWprTW9WTms1dURoVGlFY1lXMUV0RkhuVGF2d2wyWi00SnRMekNRN1FLVUZHeDhzUHV1Z21tYWI3Tjh6MndJekpjYkRzQlh2WERBclYzbWgxSldlU3NvM2I3Y25JLTVmT1JOSFlLeG1US0l0LUJkUF90YWJnME5tQTlqWGotR2FfcFNCaUE?oc=5",
-            "source": "hrtoday.in",
+            "title": "Think Sports 2026: Sports marketing India -Think with Google APAC - Google Business Profile",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEkxbzA0Y05zXzRkUktJUnU4TXVGYmdGS0hPNFRoZDQzSERqQ0lvUWNTSEtjQk0xUmJWeXFheHJlZVJvZTFUaWRpNzRvZk5tcEFVTDI1UllLLUdIbEhzNXJSR1V5YUtNcjdOVHBIYkJnRl82Z1FzM3ktelQtVUptMkpETF9zd0FVYTdmUzRVc2l2SFpuV2RYMGlPNWFnM2tvejNzUg?oc=5",
+            "source": "Google Business Profile",
+            "category": "Strategy"
+        },
+        {
+            "title": "India is a \u2018country of countries\u2019 \u2013 NZ business needs a regional strategy to make the trade deal work - The Conversation",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQektIS3RmSGcwODJXZk1LUUFaajB6SFpHdzAtSGN6VXNuLVhrR0ZWNXJ6Uml2TmtIcE1DLTZFLS1VbGc4Rm15cVNfOEVqYmdUSVJKTzQ2RDVyNjVTM3FGY1MzNzYwTUZSbkptSU01WHZkMTNZc1VSUVpqYnJPVHQ0YmtvenZWQmN6UUdCMlpYMVpxUmNQdTZTSlpKTW9icDl5ZUhobjZaSjd3ODhGbTVnN0Y5dDRlM3BpMzFzZFdXcGhORnFNMGhiNmZyWG0?oc=5",
+            "source": "The Conversation",
             "category": "Strategy"
         },
         {
             "title": "Tourism Ministry plans major overhaul of promotion strategy, to appoint 360-degree marketing partner - The New Indian Express",
             "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSEc3RUppeGs1TU5WRzhwbFRSN3BzajdXTDNlUDEtUFE5aXI5QVdJYmNGcWR5N19oYlZ0a1dGYng0RlhLS281NVlESk9oYmJhbE9DTW9BU25fNkFpa3ZaakdyaGJJaTRXaVZWTjFyOW9wZ3BPQUoxVFMyVFJkeEdOZHFla2JTSG40Q2dDOHp3blljajQ5OXpvVkp4Y0Z5djdUU2NRY3ViRmctNThsWUZmUWF0aW5YdW45WHVhNWlkNEw1V3VXRWxIWEZvdTZaMkFVNXVielRUNEc4VHNGUW5vOUdiaErSAfIBQVVfeXFMT2hULVV1eHVYNW55RUZTczNVS09PamZIbXNOS05SQUFKOTFacnFldFJDRW9nNlQwSGRkU0VPNEROS1FNSEMxLW9pQ01BSGluS0pNTnQ3eFA4VmpsQ1pGT1pzbzhBUzQ3T3hvOHpuR0o1Sm13Z2RBaUJoQUt1ZTM0a0lobW1JQ3g1S09FZmltckFCYW9Cd01lcGdOYXlqdkNVWmY5UzJRaXBZT0F5dUtnUmNpSUNwb3ZFaU56UlZOaW90RzhZLVJ1RlZ4SDEwbms5QjAxd0NGQmpURTBvYUZfak80ZnpVZ3I3a3dJeHB1U3F5WEE?oc=5",
             "source": "The New Indian Express",
-            "category": "Strategy"
-        },
-        {
-            "title": "Xiaomi to challenge Samsung, LG in India\u2019s appliances market; elevates India to South Asia HQ status - Moneycontrol.com",
-            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNS1N4SS1aYmlrSmVlTjd1QTFuUHdlMHMtMldmcjNNWkJzNHZTSWNWMTF5V0lTUDdLZVV1QkZpWlIzbzdBUUhYSE04eHZoRGpveTNIRTVublVLYUgzQTA1d1lKRG5YZ3VnYWFhd3JLdUluTUlPUHpYNE5sY3Qwei1wb2dnUGw1X19wNndEVG5iWEV5X254N3o2aHRmRFpqcEhoLU04eW5ydnVEVFRxZ1gyczZQdzB0dXE3Y1VpQjZkTHhhYWF6QzdQY0ltYXNLRlp5UzNsTFA3QjZ4Z0NkRmtkb2oxLTBmVEpxSTMw0gHwAUFVX3lxTFA1WW83VXQwN1VHeWdKTHBYUmJRSzU5bW5OOEMydTFHRU1WdEQtWmRQb0t6RGQzcGFDVXNneHpNdkVEY3VaQjNVVThRTVlTdV9PaFFiQ2tWZ1I0OEZyLUFYOXB4dFZaZlJwc3JaYlRkMlRwSnNSYVREZnk1bzBCcWNvVkhsS1ZjOHJNUVN4LU1abVBzWWg5bDg4YmNLb19Wc1NyeEUtZjhfWTBEQnRtbkRCdEJxaVZLN3gyc0dwOWJCbWl0bDBDcEhNeWNLcm5IY1dwYURWSDcxWjlTVEplNHpCalVXdEhxaDlkeGpmZ09Ldg?oc=5",
-            "source": "Moneycontrol.com",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
