@@ -1,13 +1,25 @@
 {
-    "date": "Monday, 22 June 2026",
+    "date": "Tuesday, 23 June 2026",
     "story": {
-        "brand": "Oatly",
-        "campaign": "The Meta-Billboard",
-        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
-        "lesson": "Self-referential transparency builds instant trust.",
-        "seed": "oatly6"
+        "brand": "Zepto",
+        "campaign": "The 10-Minute Claim",
+        "story": "Instead of vague promises like 'fast delivery', Zepto built their entire brand around a specific, measurable number (10 minutes) and backed it with a countdown timer.",
+        "lesson": "Specific promises always outperform generalized claims.",
+        "seed": "zepto7"
     },
     "news": [
+        {
+            "title": "Digi Uprise Launches AI-Integrated Diploma in Digital Marketing & Strategy - The Tribune",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUDN6SXEyUUhSRDI3S29uZmVKSFNQXzZZNFFMMmpadTdoQ2xFaDFGWElMMl9rSTRuZno3ZTM2X2NqYmxTZTJLMkxIeXpURlo0RVN2ZEFYVjJ2T2pVX0tHNWJWYXl4dzZPWktId1FoRWNSMFVXUXc0YVpEaUdHMDlyLWRmRmpaMk1rRTUwTVN3UFJUSUJlaVV5alBJemZFcGRYSEpmaHVlX0NCUS1JUkhYRUo2M0ZRNEtSbWZxZ9IBwAFBVV95cUxNQ2F2TVZGQTF1NEh1OXBZeVl5N1hkNmwtTTV4NE5wYmwzeFpLSkRaMi1idVFGQVpxd0NnbmZOTVpJWVZPSGQyYm4tMU9yNlRaajNjUTdnQm54WHlFSEtMaUZuN1ktRjd2LVg2eS1RcUp0QWUwb21fZ2FxUXJBSVJKdWtidUFVYTA0dTZRQVVDaTk1bzJrQ3l4bFJJOUFuUGxqSmdsb0cyVUNtNF9lVVhMQ1M2RGZzcS1zandBOTQyemg?oc=5",
+            "source": "The Tribune",
+            "category": "Strategy"
+        },
+        {
+            "title": "Priyanka Arora appointed Chief Marketing Officer at The Plan Beyond - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc3lEVHRoNWlwdl9hUFRqa2NHVm5LcnZ2LUhsYk9PUUlpNjI0bUFZVVdSM1JMR21lMHRaVWFoY3oyRzZUek8wTmVWckx4dWJ5YW1uZEFMbTgwM2RERlhEQVhsQUJQR3R6ZDQ2ejVnM3ppeHk1VFFsU0NESDRZcmt6MEFzNHY2TjFiTFJsRjN1SXN6bGVTSHVWUUpZdHQ0ZmFXZHlFOUJ3cUVteVdPT01VSnRsZ1FJZWpYZGFTdm82YU5PT0tUUHNZ?oc=5",
+            "source": "Exchange4Media",
+            "category": "Strategy"
+        },
         {
             "title": "From billboards to behaviour: Decoding Edelweiss\u2019 multi-channel midcap marketing strategy - Adgully.com",
             "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUG5Vb1hUVnFPNHdoYjVxRjc1c0JGbmZKcGFmYkdzd25Hc3BIOHF5akZTRHltUkhUejYwWXg1RUpYNC03WkpqTlJka0dRaE1TdVU1Z21kby1YemxWVkd0UEVrZ0ZOQ0tMX0tvSXp0TjlKcEFISHBVTzJ0LXBLRDNaT3BfcnV6Q0hHdTh0U01YRHhlcGJXVnpxY1Y2cTdhVjQweUJFOHQ2Q0Q4U3h3bVh3LUhHWnJKTldIclhUV2YtZw?oc=5",
@@ -21,27 +33,15 @@
             "category": "Strategy"
         },
         {
-            "title": "India is a \u2018country of countries\u2019 \u2013 NZ business needs a regional strategy to make the trade deal work - The Conversation",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQektIS3RmSGcwODJXZk1LUUFaajB6SFpHdzAtSGN6VXNuLVhrR0ZWNXJ6Uml2TmtIcE1DLTZFLS1VbGc4Rm15cVNfOEVqYmdUSVJKTzQ2RDVyNjVTM3FGY1MzNzYwTUZSbkptSU01WHZkMTNZc1VSUVpqYnJPVHQ0YmtvenZWQmN6UUdCMlpYMVpxUmNQdTZTSlpKTW9icDl5ZUhobjZaSjd3ODhGbTVnN0Y5dDRlM3BpMzFzZFdXcGhORnFNMGhiNmZyWG0?oc=5",
-            "source": "The Conversation",
-            "category": "Strategy"
-        },
-        {
-            "title": "Tourism Ministry plans major overhaul of promotion strategy, to appoint 360-degree marketing partner - The New Indian Express",
-            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSEc3RUppeGs1TU5WRzhwbFRSN3BzajdXTDNlUDEtUFE5aXI5QVdJYmNGcWR5N19oYlZ0a1dGYng0RlhLS281NVlESk9oYmJhbE9DTW9BU25fNkFpa3ZaakdyaGJJaTRXaVZWTjFyOW9wZ3BPQUoxVFMyVFJkeEdOZHFla2JTSG40Q2dDOHp3blljajQ5OXpvVkp4Y0Z5djdUU2NRY3ViRmctNThsWUZmUWF0aW5YdW45WHVhNWlkNEw1V3VXRWxIWEZvdTZaMkFVNXVielRUNEc4VHNGUW5vOUdiaErSAfIBQVVfeXFMT2hULVV1eHVYNW55RUZTczNVS09PamZIbXNOS05SQUFKOTFacnFldFJDRW9nNlQwSGRkU0VPNEROS1FNSEMxLW9pQ01BSGluS0pNTnQ3eFA4VmpsQ1pGT1pzbzhBUzQ3T3hvOHpuR0o1Sm13Z2RBaUJoQUt1ZTM0a0lobW1JQ3g1S09FZmltckFCYW9Cd01lcGdOYXlqdkNVWmY5UzJRaXBZT0F5dUtnUmNpSUNwb3ZFaU56UlZOaW90RzhZLVJ1RlZ4SDEwbms5QjAxd0NGQmpURTBvYUZfak80ZnpVZ3I3a3dJeHB1U3F5WEE?oc=5",
-            "source": "The New Indian Express",
-            "category": "Strategy"
+            "title": "E-commerce market size India 2014-2035 - Statista",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alUxbnNDRk5fVmZNMUJ1OERjVlhYckdjTFoxYlJUTTZEdWhyRFVQaV9aLXZaLXRKQjd5MXhQdnFidFJoWHgzU0g1Nl9wVHFKc1pxbGZCMUptYVMtOG1xdG1Ec2Zna3FpQ2RrMUM4SVFoX0pjcFA0M1F6Z2w?oc=5",
+            "source": "Statista",
+            "category": "Retail"
         },
         {
             "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
             "source": "Bain & Company",
-            "category": "Retail"
-        },
-        {
-            "title": "E-commerce Market Size, Share | Industry Report, 2035 - Market Research Future",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CdUotSTltd1pRdjVnYVFpMEhZZGktNllRb0U1TDZhLVFZUlVnTmNKc21Uc0ZqVjNQSFVOU3FMbTgzbGdaLVVUREdoZERBdjM0NERlYTQxbnBaS2k0QU9oSmFUanZNX2w0YXBELVNFTExzNDJ4bENZ?oc=5",
-            "source": "Market Research Future",
             "category": "Retail"
         },
         {
@@ -51,28 +51,28 @@
             "category": "Retail"
         },
         {
-            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
-            "source": "NIQ",
+            "title": "E-commerce Market Size, Share | Industry Report, 2035 - Market Research Future",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CdUotSTltd1pRdjVnYVFpMEhZZGktNllRb0U1TDZhLVFZUlVnTmNKc21Uc0ZqVjNQSFVOU3FMbTgzbGdaLVVUREdoZERBdjM0NERlYTQxbnBaS2k0QU9oSmFUanZNX2w0YXBELVNFTExzNDJ4bENZ?oc=5",
+            "source": "Market Research Future",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
