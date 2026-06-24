@@ -1,17 +1,23 @@
 {
-    "date": "Tuesday, 23 June 2026",
+    "date": "Wednesday, 24 June 2026",
     "story": {
-        "brand": "Zepto",
-        "campaign": "The 10-Minute Claim",
-        "story": "Instead of vague promises like 'fast delivery', Zepto built their entire brand around a specific, measurable number (10 minutes) and backed it with a countdown timer.",
-        "lesson": "Specific promises always outperform generalized claims.",
-        "seed": "zepto7"
+        "brand": "Dove",
+        "campaign": "Reverse Digital Distortion",
+        "story": "Dove actively campaigned against the 'Bold Glamour' AI filter on TikTok, urging users to turn their backs to the camera to protest synthetic beauty standards.",
+        "lesson": "Taking a stand against a platform trend can win immense loyalty.",
+        "seed": "dove8"
     },
     "news": [
         {
-            "title": "Digi Uprise Launches AI-Integrated Diploma in Digital Marketing & Strategy - The Tribune",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUDN6SXEyUUhSRDI3S29uZmVKSFNQXzZZNFFMMmpadTdoQ2xFaDFGWElMMl9rSTRuZno3ZTM2X2NqYmxTZTJLMkxIeXpURlo0RVN2ZEFYVjJ2T2pVX0tHNWJWYXl4dzZPWktId1FoRWNSMFVXUXc0YVpEaUdHMDlyLWRmRmpaMk1rRTUwTVN3UFJUSUJlaVV5alBJemZFcGRYSEpmaHVlX0NCUS1JUkhYRUo2M0ZRNEtSbWZxZ9IBwAFBVV95cUxNQ2F2TVZGQTF1NEh1OXBZeVl5N1hkNmwtTTV4NE5wYmwzeFpLSkRaMi1idVFGQVpxd0NnbmZOTVpJWVZPSGQyYm4tMU9yNlRaajNjUTdnQm54WHlFSEtMaUZuN1ktRjd2LVg2eS1RcUp0QWUwb21fZ2FxUXJBSVJKdWtidUFVYTA0dTZRQVVDaTk1bzJrQ3l4bFJJOUFuUGxqSmdsb0cyVUNtNF9lVVhMQ1M2RGZzcS1zandBOTQyemg?oc=5",
-            "source": "The Tribune",
+            "title": "E3 Group strengthens sports marketing presence through India\u2013Afghanistan ODI Series association - MediaNews4U",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeFN0WXRfQS1MZ1FIR2JLV3FXcm9jUFR5OFFIQ3V0OFdwTWlMazNMUFJfN2ZyLThRcW9TQlE1WG1RT3k3Q19nWnhDZGtoOXFNTUFYTjJybzJ3Y1B5Y29SS0tsS0M1Vm5yc09JbEJZTzdFQlljOHNjdTZkRmNIUkRmSl9pY25Zb2tnbC1TRnFiZ2NKYmJEUl9mNG82OWRSVXdGM2tRSWNHaGcydnRvSG96Q29ob2oxanRQVS1BRUwyN2NGQQ?oc=5",
+            "source": "MediaNews4U",
+            "category": "Strategy"
+        },
+        {
+            "title": "Top 5 AI-Powered Digital Marketing Courses in India (2026) - The AI Journal",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQU5TQXUwRndENXRTSWFyUjZrSk0yTVRucjRSTmx6cE9OSzFaVXpjNVNmMHBvU2t0clFLQ3JzZy0yQzdMcjBlYjNjY2hRUlVCNkRVb1VRZVFVOEsxZVEySXhiNHNpakVlN09yMWFzRFhDZmVPMk13dXFHQjI5NXY5RzdEcw?oc=5",
+            "source": "The AI Journal",
             "category": "Strategy"
         },
         {
@@ -21,22 +27,10 @@
             "category": "Strategy"
         },
         {
-            "title": "From billboards to behaviour: Decoding Edelweiss\u2019 multi-channel midcap marketing strategy - Adgully.com",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUG5Vb1hUVnFPNHdoYjVxRjc1c0JGbmZKcGFmYkdzd25Hc3BIOHF5akZTRHltUkhUejYwWXg1RUpYNC03WkpqTlJka0dRaE1TdVU1Z21kby1YemxWVkd0UEVrZ0ZOQ0tMX0tvSXp0TjlKcEFISHBVTzJ0LXBLRDNaT3BfcnV6Q0hHdTh0U01YRHhlcGJXVnpxY1Y2cTdhVjQweUJFOHQ2Q0Q4U3h3bVh3LUhHWnJKTldIclhUV2YtZw?oc=5",
-            "source": "Adgully.com",
+            "title": "Digi Uprise Launches AI-Integrated Diploma in Digital Marketing & Strategy - The Tribune",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUDN6SXEyUUhSRDI3S29uZmVKSFNQXzZZNFFMMmpadTdoQ2xFaDFGWElMMl9rSTRuZno3ZTM2X2NqYmxTZTJLMkxIeXpURlo0RVN2ZEFYVjJ2T2pVX0tHNWJWYXl4dzZPWktId1FoRWNSMFVXUXc0YVpEaUdHMDlyLWRmRmpaMk1rRTUwTVN3UFJUSUJlaVV5alBJemZFcGRYSEpmaHVlX0NCUS1JUkhYRUo2M0ZRNEtSbWZxZ9IBwAFBVV95cUxNQ2F2TVZGQTF1NEh1OXBZeVl5N1hkNmwtTTV4NE5wYmwzeFpLSkRaMi1idVFGQVpxd0NnbmZOTVpJWVZPSGQyYm4tMU9yNlRaajNjUTdnQm54WHlFSEtMaUZuN1ktRjd2LVg2eS1RcUp0QWUwb21fZ2FxUXJBSVJKdWtidUFVYTA0dTZRQVVDaTk1bzJrQ3l4bFJJOUFuUGxqSmdsb0cyVUNtNF9lVVhMQ1M2RGZzcS1zandBOTQyemg?oc=5",
+            "source": "The Tribune",
             "category": "Strategy"
-        },
-        {
-            "title": "Think Sports 2026: Sports marketing India -Think with Google APAC - Google Business Profile",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEkxbzA0Y05zXzRkUktJUnU4TXVGYmdGS0hPNFRoZDQzSERqQ0lvUWNTSEtjQk0xUmJWeXFheHJlZVJvZTFUaWRpNzRvZk5tcEFVTDI1UllLLUdIbEhzNXJSR1V5YUtNcjdOVHBIYkJnRl82Z1FzM3ktelQtVUptMkpETF9zd0FVYTdmUzRVc2l2SFpuV2RYMGlPNWFnM2tvejNzUg?oc=5",
-            "source": "Google Business Profile",
-            "category": "Strategy"
-        },
-        {
-            "title": "E-commerce market size India 2014-2035 - Statista",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alUxbnNDRk5fVmZNMUJ1OERjVlhYckdjTFoxYlJUTTZEdWhyRFVQaV9aLXZaLXRKQjd5MXhQdnFidFJoWHgzU0g1Nl9wVHFKc1pxbGZCMUptYVMtOG1xdG1Ec2Zna3FpQ2RrMUM4SVFoX0pjcFA0M1F6Z2w?oc=5",
-            "source": "Statista",
-            "category": "Retail"
         },
         {
             "title": "How India Shops Online 2026 - Bain & Company",
@@ -55,24 +49,30 @@
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CdUotSTltd1pRdjVnYVFpMEhZZGktNllRb0U1TDZhLVFZUlVnTmNKc21Uc0ZqVjNQSFVOU3FMbTgzbGdaLVVUREdoZERBdjM0NERlYTQxbnBaS2k0QU9oSmFUanZNX2w0YXBELVNFTExzNDJ4bENZ?oc=5",
             "source": "Market Research Future",
             "category": "Retail"
+        },
+        {
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
+            "source": "NIQ",
+            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
