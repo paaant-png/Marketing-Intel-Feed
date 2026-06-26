@@ -1,13 +1,19 @@
 {
-    "date": "Thursday, 25 June 2026",
+    "date": "Friday, 26 June 2026",
     "story": {
-        "brand": "Patagonia",
-        "campaign": "Don't Buy This Jacket",
-        "story": "On Black Friday, Patagonia ran a full-page ad telling people NOT to buy their products unless absolutely necessary, highlighting the environmental cost of consumerism.",
-        "lesson": "Anti-marketing is the ultimate form of brand authenticity.",
-        "seed": "patagonia9"
+        "brand": "Burger King",
+        "campaign": "The Moldy Whopper",
+        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
+        "lesson": "Ugly truths are more memorable than pretty lies.",
+        "seed": "bk10"
     },
     "news": [
+        {
+            "title": "Is glocalisation the future of brand communications in India? - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaUQ5aU1JeVFoQXZhdXZZQVVaN2FRcGRuQU01WWhDaXhULURkQkFDNkRZSlQtc3dZaDB6TEtTY1JoMDBydlRDanVYVDFmc1Njb1M1SmN6SDN2eXdJWG5MSDhnUzZyd1BwWGFXMVpTazl3d2ZBZmxEX3ZVakljbmpSOU9nbGdSbG9xMHF2M185ZnR4dXBFdW45RUhtdG9CbUdWMmlzVVIwLTR1cmY2YmdzdlNua1M1S2ZERmtvcnliUThWeFVfRFdCWU94UG1ham4tSVlOY2xn?oc=5",
+            "source": "Exchange4Media",
+            "category": "Strategy"
+        },
         {
             "title": "India is a \u2018country of countries\u2019 \u2013 NZ business needs a regional strategy to make the trade deal work - The Conversation",
             "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQektIS3RmSGcwODJXZk1LUUFaajB6SFpHdzAtSGN6VXNuLVhrR0ZWNXJ6Uml2TmtIcE1DLTZFLS1VbGc4Rm15cVNfOEVqYmdUSVJKTzQ2RDVyNjVTM3FGY1MzNzYwTUZSbkptSU01WHZkMTNZc1VSUVpqYnJPVHQ0YmtvenZWQmN6UUdCMlpYMVpxUmNQdTZTSlpKTW9icDl5ZUhobjZaSjd3ODhGbTVnN0Y5dDRlM3BpMzFzZFdXcGhORnFNMGhiNmZyWG0?oc=5",
@@ -21,15 +27,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Divya Rao appointed Marketing Lead for India at Duolingo English Test - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNb3lEdGVSMEprS3RjOFc4SmZDdTE0cWpWVmMyS0VIaGRuSTM0a3hzVHRYb3NiTWluZHhFd19UV2U4czg4ZHM4MklrN080aE13UktscG5HSkJvZWZqU2hUNHN5ZjZxc1J6NG43WVJ6bTlXNFNqakl5NUZqNDRZTTRBdnNhbllQcVVDN25OOFh0RkFqREtWbXhDYngwazJ0YW52SWVBYUNXdWs2aV9wbnlwa0xCeVlIdFFvNFVqakYxdm9WNG8ycUFhUGcyWFI?oc=5",
-            "source": "Exchange4Media",
-            "category": "Strategy"
-        },
-        {
-            "title": "Yokohama India to Rely on Digital-First, Hyper-Local Strategy for Growth, Says Marketing Head - Autocar Professional",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWhUOTN3T2dURDZZb2Y3X1gyRjVSM3N4VWVUNmJKdFFGRXVMRFJSckxfbjVIc0pLUWwxeFJ2YWU1dXlidjByYUNEZS04TlFSWFNrSkhjNHV1OFVyQXpOaE9ZN1MxYzVOVkFvYnc5YmZnaXdZbzFNcXV6LV85NER4NnJ4R1BxRG1lcWpuajd1TE52LXlFUnRSWUN4ZWY5VnBtSmhEemNoV3dSYzhDUGNYSTlMSzBobE9kQ2lfTTkzWlBmdDJyZG42YtIB0AFBVV95cUxNa0t1bF91QjFwZkloLVY2VzFTT2l1OTl4M3ZVMmVYNzM4alEtZjhPc0x5bjFjR1ROelBzVVIzd0NWMHp6cmhjOGZBU3E4cGhqSDQyUVZ2bzBna3MxRWZOZURFUTdpUTc2cjQ5a3M0NmdRVHZEcEpWeERQaTV5X2h2MWQxUkVmVk5ZSHkxVklQUThudzhoV0E2UXR5MGRaZW1wd05jUklSRVNoa2JxWC1UWU5CZ2U3b3RCbVJXRzVhaFZfMGdqcFhtNDN4eGhwWnhD?oc=5",
-            "source": "Autocar Professional",
+            "title": "Duolingo English Test appoints Divya Rao as marketing lead - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeHVhVFM5bUlyNW9EanZYd1FsUUUwcjZUMlkwdEktY0ppN3AzTkYwYWw4Ty1XYXVvWEgzb056dXd4WjVmZWFud3RIY2dqbjBUSWdXaUU5SFJZcV9nTWc3b1E0N0p3WXZQcko0SHA1QkItNUU1VTJGTEd1RlZJeGRxa1NqSWVqbGhlc1RjTHJkOWZKYkFwQW8ycWNESlBFRnFaREhZUVoxNzA5b3pFVHdZNnNadVdPZjREeUF4N3RNeGtMZmR5Sk1EREg5MDY0eS01cDR5bmJaQQ?oc=5",
+            "source": "ET BrandEquity",
             "category": "Strategy"
         },
         {
@@ -51,28 +51,28 @@
             "category": "Retail"
         },
         {
-            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
-            "source": "NIQ",
+            "title": "'The traditional search-led journey is getting busted': Flipkart's Priyanka Bhargav on Gen Z's impact on e-commerce - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYU1QN2xZNUhVdVhSVkh4U3llMkZ1dzhDZ3RMLUwxaW5ibnJURXBEZzFtQ3VNMC16Q1pkZjV0VS0zamJYQVpha3Jic3ItTmc0V3R0R2xIaHVYcWpicFEyY2V6OGUzQ1JIS0pRVTl6ZEx3ckc0LVFrWk5RbzhYOGVKaUp2cnVLYkp3V0x1WTVrMnNtS3o4TUlqT183TU5yNzM3eERTZ1ZoN3lpQ0N6SEFUbW80N3RMbng5cGtJbF9VaVNMQWNVeFNrLWdnRDRITEhnckpNTi1sSHN5emFjUzlmbDNjVVpfWU5FdHlGNEN4NnQ1ZnYxbnfSAfsBQVVfeXFMUEo2X1dmWjFNc3NremhJcnZJenZxb2dleXJtLUdILUlKN2tLb1dlZXdTeXc0aDE4ZEl2YXhvUF9fSVVmU05pWm1NOFFTYVJKY0JDWlNnS2JhRHU2aE1DdFc5UGJKTUdvN0xqWkxuNTN3d2tEUWZrbk9jd1hTQTVWQVp4bGlNdlFCdUJqbG5zZWhKdmtXMDY0SEc1M3gyRXN4ckRUMkpUcklqQ2xDbFNxTXBZSC1mZjdQaFRmemY2NlpaZklXckYxamhsS0JadlZTR25lMkRyX0szdVBVaEpMeTBpM054X1J4bTgyclJSc1VqT01oNjNxekY0YWs?oc=5",
+            "source": "Storyboard18",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
