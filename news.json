@@ -1,13 +1,19 @@
 {
-    "date": "Saturday, 27 June 2026",
+    "date": "Sunday, 28 June 2026",
     "story": {
-        "brand": "Duolingo",
-        "campaign": "Unhinged Mascot Marketing",
-        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
-        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
-        "seed": "duo11"
+        "brand": "Airbnb",
+        "campaign": "Belong Anywhere",
+        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
+        "lesson": "Sell the transformation, not the transaction.",
+        "seed": "airbnb12"
     },
     "news": [
+        {
+            "title": "ABSL AMC appoints Parag Murudkar as marketing head - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGpYaVNjeFF2dm9JaHZTbVB1R011ZTBUTDR4RE1tcXVZemhGRzVTaWlEZDdvQnhDMDVDU0dsM2N0clFHVzh6RkctMUZCRmt0cTY3ZE5wNk5GVk00M2RJaXlnUV9CTHRwM01odWNsNVZkcWY3cUpvY29QbGlwN2NVN1AzVGxwc01FczdpZ05IcnQ3bFpZVzh4QWhKY1J1UFZ4endqU2dMWUNIZUNXU0ZxOTYtRXI?oc=5",
+            "source": "Campaign India",
+            "category": "Strategy"
+        },
         {
             "title": "Saurabh Pandey steps down as Head of Marketing at HP India - Social Samosa",
             "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUo1ckhlYTBtRWZ1WmVQMm1rV0VVakgzcWk3dGZucnYxUlRzdlhDaUFaajRBWERiVkFuWnFwbWJDeFZPZWkwRktaT2FPMTh2cGxMLThkbm5BVVQ3OXgya0x3Nl9rZl9vZ29XYktTQUw5MFFjczRjSWRLY0Fad21EV0haRUNNaTBSVG5zMUt1aS1HUmctSW14cGdod2M3YVp5Um15RHN5aUZjZEnSAasBQVVfeXFMT1FKNXJIZWEwbUVmdVplUDJta1dFVWpIM3FpN3RmbnJ2MVJUc3ZYQ2lBWmo0QVhEYlZBblpxcG1iQ3hWT2VpMEZLWk9hTzE4dnBsTC04ZG5uQVVUNzl4MmtMdzZfa2Zfb2dvV2JLU0FMOTBRY3M0Y0lkS2NBWndtRFdIWkVDTWkwUlRuczFLdWktR1JnLUlteHBnaHdjN2FaeVJteURzeWlGY2RJ?oc=5",
@@ -15,9 +21,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Saurabh Pandey steps down as Head of Marketing at HP India - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWVuTWVYcmtSdVZmYm44eS1idjdhSGhILVRRU0wwaUpleGxTSk45ZWJSSU1pV2tScEtzWGtncDl2MUxVcVNzWHQxYmZWcDAydWhRTjVLZC0ybi1BWE9vSEowSDZhaHpINmxBVko0WHlPQlpOQnVpdXB0Y3hSUGlZQkxabWlXZm53RW5OVGNMMFMwQi1wZ0lBa01FdklVUzM5dzlIMkF3NDZWZnpuZGVfdFVIc0t0UkkyeG5R?oc=5",
-            "source": "Exchange4Media",
+            "title": "Kurlon appoints Tonic Worldwide for digital marketing strategy - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUFZQRzNFeEVWUTNHT1ZDYWEtdklWWnZFU3RVdlRUZFcwMW1Ed0k0XzZXMDcwR1RpYksxN0FmZjdwWWh6bWdlV0JVektBSDV6MGNrMnNPV1lzM1o4eUUxMGJ3Z3ZQREFPZEU5RFE0cXFPWjlpZ0Z3ZElPd0Rnd0w4NjNrRXJpMFBKUXJQWS1SLU8xbUJnY3g0SjFlLThpZlV0a2RTWXZwTmREMTJCdVFfZTV5dWpTT0RSVmtpRzRVQVNkUDNDTzluOHNncldFZktadllmTExZQUpxVUHSAeABQVVfeXFMUERBS254ODFqeTdrdGlobDduR003enM4Y2VRNWpHc2ZIX1AyNGlRTGNZUGJYQ0JLc3RpNkh3cy0xZTA0dmNmcXVYcU5TOUtZMjREZWZaX0NnSFcwYWZmMGI2dG9iODZrdTFTR1dXbjNfS3V1czM5Wi12VEVHSUoxLVpoN0lXNl9GZEZPMjhEaFlabkpzMndDYmhlRXB1OFJiLWFNNTFicXJtNHYyeUZIeXI2bTJyQ2pPMjFoXzJ1YWNOM2FnZ0FpMWRRZjZYNi1UVWhkSXRfOWc5S241ZDdlSG0?oc=5",
+            "source": "ET BrandEquity",
             "category": "Strategy"
         },
         {
@@ -27,21 +33,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Duolingo English Test appoints Divya Rao as marketing lead - ET BrandEquity",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeHVhVFM5bUlyNW9EanZYd1FsUUUwcjZUMlkwdEktY0ppN3AzTkYwYWw4Ty1XYXVvWEgzb056dXd4WjVmZWFud3RIY2dqbjBUSWdXaUU5SFJZcV9nTWc3b1E0N0p3WXZQcko0SHA1QkItNUU1VTJGTEd1RlZJeGRxa1NqSWVqbGhlc1RjTHJkOWZKYkFwQW8ycWNESlBFRnFaREhZUVoxNzA5b3pFVHdZNnNadVdPZjREeUF4N3RNeGtMZmR5Sk1EREg5MDY0eS01cDR5bmJaQQ?oc=5",
-            "source": "ET BrandEquity",
-            "category": "Strategy"
-        },
-        {
             "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
             "source": "Bain & Company",
-            "category": "Retail"
-        },
-        {
-            "title": "India positioned to lead Amazon\u2019s fastest-growing business: CEO Andy Jassy - Telangana Today",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXJBRGxPd1Zka1J2bTVWR1lFLVBQd3VfekwyX3U3N2szMkZkVFBqa3NTM2ttQlQtTWJ1YU1mQW9tYnZheWgzUzRvUUlaRENzVE5MZFB1ckFjakdnVDJkV3dyUE5VckE1SldCWkRtdloyYld4QXRIc0pOMFIyTWpEYXZua3JvMXRkZHQ4cU1UcVNpRjVEQU1QazhwWUpMaS1j?oc=5",
-            "source": "Telangana Today",
             "category": "Retail"
         },
         {
@@ -51,28 +45,34 @@
             "category": "Retail"
         },
         {
-            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
-            "source": "Inc42",
+            "title": "India positioned to lead Amazon\u2019s fastest-growing business: CEO Andy Jassy - Telangana Today",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXJBRGxPd1Zka1J2bTVWR1lFLVBQd3VfekwyX3U3N2szMkZkVFBqa3NTM2ttQlQtTWJ1YU1mQW9tYnZheWgzUzRvUUlaRENzVE5MZFB1ckFjakdnVDJkV3dyUE5VckE1SldCWkRtdloyYld4QXRIc0pOMFIyTWpEYXZua3JvMXRkZHQ4cU1UcVNpRjVEQU1QazhwWUpMaS1j?oc=5",
+            "source": "Telangana Today",
+            "category": "Retail"
+        },
+        {
+            "title": "Revenue growth of ecommerce market in India from 2018 to 2030 - Statista",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUVNEY3JSQXJtWllDcUljc05FaWR6cEpaeWR6WHJpS3JxUUtza3lRc29MY1VhdWRMSnl3LWw1UmxtX0RPcmV1bXliOVQ3QldZMkxKNUtXMEFwUElEUTJVc1hHUkdUc2x3QTZ0Z2tsWGZScTduTG1uRGlhMzZDSXhyb1c2cXJUdw?oc=5",
+            "source": "Statista",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
