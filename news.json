@@ -1,13 +1,19 @@
 {
-    "date": "Sunday, 28 June 2026",
+    "date": "Monday, 29 June 2026",
     "story": {
-        "brand": "Airbnb",
-        "campaign": "Belong Anywhere",
-        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
-        "lesson": "Sell the transformation, not the transaction.",
-        "seed": "airbnb12"
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization.",
+        "seed": "zomato1"
     },
     "news": [
+        {
+            "title": "Think Sports 2026: Sports marketing India -Think with Google APAC - Google Business Profile",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEkxbzA0Y05zXzRkUktJUnU4TXVGYmdGS0hPNFRoZDQzSERqQ0lvUWNTSEtjQk0xUmJWeXFheHJlZVJvZTFUaWRpNzRvZk5tcEFVTDI1UllLLUdIbEhzNXJSR1V5YUtNcjdOVHBIYkJnRl82Z1FzM3ktelQtVUptMkpETF9zd0FVYTdmUzRVc2l2SFpuV2RYMGlPNWFnM2tvejNzUg?oc=5",
+            "source": "Google Business Profile",
+            "category": "Strategy"
+        },
         {
             "title": "ABSL AMC appoints Parag Murudkar as marketing head - Campaign India",
             "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGpYaVNjeFF2dm9JaHZTbVB1R011ZTBUTDR4RE1tcXVZemhGRzVTaWlEZDdvQnhDMDVDU0dsM2N0clFHVzh6RkctMUZCRmt0cTY3ZE5wNk5GVk00M2RJaXlnUV9CTHRwM01odWNsNVZkcWY3cUpvY29QbGlwN2NVN1AzVGxwc01FczdpZ05IcnQ3bFpZVzh4QWhKY1J1UFZ4endqU2dMWUNIZUNXU0ZxOTYtRXI?oc=5",
@@ -15,8 +21,8 @@
             "category": "Strategy"
         },
         {
-            "title": "Saurabh Pandey steps down as Head of Marketing at HP India - Social Samosa",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUo1ckhlYTBtRWZ1WmVQMm1rV0VVakgzcWk3dGZucnYxUlRzdlhDaUFaajRBWERiVkFuWnFwbWJDeFZPZWkwRktaT2FPMTh2cGxMLThkbm5BVVQ3OXgya0x3Nl9rZl9vZ29XYktTQUw5MFFjczRjSWRLY0Fad21EV0haRUNNaTBSVG5zMUt1aS1HUmctSW14cGdod2M3YVp5Um15RHN5aUZjZEnSAasBQVVfeXFMT1FKNXJIZWEwbUVmdVplUDJta1dFVWpIM3FpN3RmbnJ2MVJUc3ZYQ2lBWmo0QVhEYlZBblpxcG1iQ3hWT2VpMEZLWk9hTzE4dnBsTC04ZG5uQVVUNzl4MmtMdzZfa2Zfb2dvV2JLU0FMOTBRY3M0Y0lkS2NBWndtRFdIWkVDTWkwUlRuczFLdWktR1JnLUlteHBnaHdjN2FaeVJteURzeWlGY2RJ?oc=5",
+            "title": "Saurabh Pandey steps down as Head of Commercial Marketing at HP India - Social Samosa",
+            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd1FqOEw3T2d5Sk1pV1VuRW9SeWxMSl95dFVfb1VtM2JyWEJyZk9aX2ZEcjlYV015VGdud1VXVHBzMHl0WTBnWGRmUE1yV0R0dk5UUU5BdXEwZ2VxNGlnY0RCYjRmY3pMdVpEczBfSm0zWEhlRTlYY042dG5sOXEzZFVzUng5QU5JWF9hNFNFYV9qUGPSAZMBQVVfeXFMUHdRajhMN09neUpNaVdVbkVvUnlsTEpfeXRVX29VbTNiclhCcmZPWl9mRHI5WFdNeVRnbndVV1RwczB5dFkwZ1hkZlBNcldEdHZOVFFOQXVxMGdlcTRpZ2NEQmI0ZmN6THVaRHMwX0ptM1hIZUU5WGNONnRubDlxM2RVc1J4OUFOSVhfYTRTRWFfalBj?oc=5",
             "source": "Social Samosa",
             "category": "Strategy"
         },
@@ -24,12 +30,6 @@
             "title": "Kurlon appoints Tonic Worldwide for digital marketing strategy - ET BrandEquity",
             "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUFZQRzNFeEVWUTNHT1ZDYWEtdklWWnZFU3RVdlRUZFcwMW1Ed0k0XzZXMDcwR1RpYksxN0FmZjdwWWh6bWdlV0JVektBSDV6MGNrMnNPV1lzM1o4eUUxMGJ3Z3ZQREFPZEU5RFE0cXFPWjlpZ0Z3ZElPd0Rnd0w4NjNrRXJpMFBKUXJQWS1SLU8xbUJnY3g0SjFlLThpZlV0a2RTWXZwTmREMTJCdVFfZTV5dWpTT0RSVmtpRzRVQVNkUDNDTzluOHNncldFZktadllmTExZQUpxVUHSAeABQVVfeXFMUERBS254ODFqeTdrdGlobDduR003enM4Y2VRNWpHc2ZIX1AyNGlRTGNZUGJYQ0JLc3RpNkh3cy0xZTA0dmNmcXVYcU5TOUtZMjREZWZaX0NnSFcwYWZmMGI2dG9iODZrdTFTR1dXbjNfS3V1czM5Wi12VEVHSUoxLVpoN0lXNl9GZEZPMjhEaFlabkpzMndDYmhlRXB1OFJiLWFNNTFicXJtNHYyeUZIeXI2bTJyQ2pPMjFoXzJ1YWNOM2FnZ0FpMWRRZjZYNi1UVWhkSXRfOWc5S241ZDdlSG0?oc=5",
             "source": "ET BrandEquity",
-            "category": "Strategy"
-        },
-        {
-            "title": "Tourism Ministry plans major overhaul of promotion strategy, to appoint 360-degree marketing partner - The New Indian Express",
-            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSEc3RUppeGs1TU5WRzhwbFRSN3BzajdXTDNlUDEtUFE5aXI5QVdJYmNGcWR5N19oYlZ0a1dGYng0RlhLS281NVlESk9oYmJhbE9DTW9BU25fNkFpa3ZaakdyaGJJaTRXaVZWTjFyOW9wZ3BPQUoxVFMyVFJkeEdOZHFla2JTSG40Q2dDOHp3blljajQ5OXpvVkp4Y0Z5djdUU2NRY3ViRmctNThsWUZmUWF0aW5YdW45WHVhNWlkNEw1V3VXRWxIWEZvdTZaMkFVNXVielRUNEc4VHNGUW5vOUdiaErSAfIBQVVfeXFMT2hULVV1eHVYNW55RUZTczNVS09PamZIbXNOS05SQUFKOTFacnFldFJDRW9nNlQwSGRkU0VPNEROS1FNSEMxLW9pQ01BSGluS0pNTnQ3eFA4VmpsQ1pGT1pzbzhBUzQ3T3hvOHpuR0o1Sm13Z2RBaUJoQUt1ZTM0a0lobW1JQ3g1S09FZmltckFCYW9Cd01lcGdOYXlqdkNVWmY5UzJRaXBZT0F5dUtnUmNpSUNwb3ZFaU56UlZOaW90RzhZLVJ1RlZ4SDEwbms5QjAxd0NGQmpURTBvYUZfak80ZnpVZ3I3a3dJeHB1U3F5WEE?oc=5",
-            "source": "The New Indian Express",
             "category": "Strategy"
         },
         {
@@ -45,34 +45,34 @@
             "category": "Retail"
         },
         {
-            "title": "India positioned to lead Amazon\u2019s fastest-growing business: CEO Andy Jassy - Telangana Today",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXJBRGxPd1Zka1J2bTVWR1lFLVBQd3VfekwyX3U3N2szMkZkVFBqa3NTM2ttQlQtTWJ1YU1mQW9tYnZheWgzUzRvUUlaRENzVE5MZFB1ckFjakdnVDJkV3dyUE5VckE1SldCWkRtdloyYld4QXRIc0pOMFIyTWpEYXZua3JvMXRkZHQ4cU1UcVNpRjVEQU1QazhwWUpMaS1j?oc=5",
-            "source": "Telangana Today",
-            "category": "Retail"
-        },
-        {
             "title": "Revenue growth of ecommerce market in India from 2018 to 2030 - Statista",
             "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUVNEY3JSQXJtWllDcUljc05FaWR6cEpaeWR6WHJpS3JxUUtza3lRc29MY1VhdWRMSnl3LWw1UmxtX0RPcmV1bXliOVQ3QldZMkxKNUtXMEFwUElEUTJVc1hHUkdUc2x3QTZ0Z2tsWGZScTduTG1uRGlhMzZDSXhyb1c2cXJUdw?oc=5",
             "source": "Statista",
+            "category": "Retail"
+        },
+        {
+            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
+            "source": "Inc42",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
