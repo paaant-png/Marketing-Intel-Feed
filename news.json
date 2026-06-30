@@ -1,17 +1,17 @@
 {
-    "date": "Monday, 29 June 2026",
+    "date": "Tuesday, 30 June 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization.",
-        "seed": "zomato1"
+        "brand": "Cred",
+        "campaign": "Indiranagar Ka Gunda",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting a historically calm celebrity (Rahul Dravid) in an angry, chaotic role. This contrast created instant, viral meme material.",
+        "lesson": "Disruption happens when you break an established archetype.",
+        "seed": "cred2"
     },
     "news": [
         {
-            "title": "Think Sports 2026: Sports marketing India -Think with Google APAC - Google Business Profile",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEkxbzA0Y05zXzRkUktJUnU4TXVGYmdGS0hPNFRoZDQzSERqQ0lvUWNTSEtjQk0xUmJWeXFheHJlZVJvZTFUaWRpNzRvZk5tcEFVTDI1UllLLUdIbEhzNXJSR1V5YUtNcjdOVHBIYkJnRl82Z1FzM3ktelQtVUptMkpETF9zd0FVYTdmUzRVc2l2SFpuV2RYMGlPNWFnM2tvejNzUg?oc=5",
-            "source": "Google Business Profile",
+            "title": "How data is redefining the cultural marketing playbook - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNzhyQjBzSlFvQzhmUGVMMHJ1MHdLQ1hxMnRwa1VDSG9zV2tKTVhicFhKcXRDYVZZdVZjTlBFWjRtOVVrUkNUMEVXZm1XaWFkellOVXBuTFg3OHhUVjdUb0Z5VUMzZHFDLTVQbWVlMGpEZy1DTExPdDNxNUVRNUxUa2NXQlowQWxzNEpuSmVvNDRQSnFfOUR5SlFYLVBDc200cktBLWUxZDJZUjhYYmh2ZENB?oc=5",
+            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
@@ -21,21 +21,27 @@
             "category": "Strategy"
         },
         {
-            "title": "Saurabh Pandey steps down as Head of Commercial Marketing at HP India - Social Samosa",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd1FqOEw3T2d5Sk1pV1VuRW9SeWxMSl95dFVfb1VtM2JyWEJyZk9aX2ZEcjlYV015VGdud1VXVHBzMHl0WTBnWGRmUE1yV0R0dk5UUU5BdXEwZ2VxNGlnY0RCYjRmY3pMdVpEczBfSm0zWEhlRTlYY042dG5sOXEzZFVzUng5QU5JWF9hNFNFYV9qUGPSAZMBQVVfeXFMUHdRajhMN09neUpNaVdVbkVvUnlsTEpfeXRVX29VbTNiclhCcmZPWl9mRHI5WFdNeVRnbndVV1RwczB5dFkwZ1hkZlBNcldEdHZOVFFOQXVxMGdlcTRpZ2NEQmI0ZmN6THVaRHMwX0ptM1hIZUU5WGNONnRubDlxM2RVc1J4OUFOSVhfYTRTRWFfalBj?oc=5",
-            "source": "Social Samosa",
-            "category": "Strategy"
-        },
-        {
             "title": "Kurlon appoints Tonic Worldwide for digital marketing strategy - ET BrandEquity",
             "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUFZQRzNFeEVWUTNHT1ZDYWEtdklWWnZFU3RVdlRUZFcwMW1Ed0k0XzZXMDcwR1RpYksxN0FmZjdwWWh6bWdlV0JVektBSDV6MGNrMnNPV1lzM1o4eUUxMGJ3Z3ZQREFPZEU5RFE0cXFPWjlpZ0Z3ZElPd0Rnd0w4NjNrRXJpMFBKUXJQWS1SLU8xbUJnY3g0SjFlLThpZlV0a2RTWXZwTmREMTJCdVFfZTV5dWpTT0RSVmtpRzRVQVNkUDNDTzluOHNncldFZktadllmTExZQUpxVUHSAeABQVVfeXFMUERBS254ODFqeTdrdGlobDduR003enM4Y2VRNWpHc2ZIX1AyNGlRTGNZUGJYQ0JLc3RpNkh3cy0xZTA0dmNmcXVYcU5TOUtZMjREZWZaX0NnSFcwYWZmMGI2dG9iODZrdTFTR1dXbjNfS3V1czM5Wi12VEVHSUoxLVpoN0lXNl9GZEZPMjhEaFlabkpzMndDYmhlRXB1OFJiLWFNNTFicXJtNHYyeUZIeXI2bTJyQ2pPMjFoXzJ1YWNOM2FnZ0FpMWRRZjZYNi1UVWhkSXRfOWc5S241ZDdlSG0?oc=5",
             "source": "ET BrandEquity",
             "category": "Strategy"
         },
         {
+            "title": "Tourism Ministry plans major overhaul of promotion strategy, to appoint 360-degree marketing partner - The New Indian Express",
+            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSEc3RUppeGs1TU5WRzhwbFRSN3BzajdXTDNlUDEtUFE5aXI5QVdJYmNGcWR5N19oYlZ0a1dGYng0RlhLS281NVlESk9oYmJhbE9DTW9BU25fNkFpa3ZaakdyaGJJaTRXaVZWTjFyOW9wZ3BPQUoxVFMyVFJkeEdOZHFla2JTSG40Q2dDOHp3blljajQ5OXpvVkp4Y0Z5djdUU2NRY3ViRmctNThsWUZmUWF0aW5YdW45WHVhNWlkNEw1V3VXRWxIWEZvdTZaMkFVNXVielRUNEc4VHNGUW5vOUdiaErSAfIBQVVfeXFMT2hULVV1eHVYNW55RUZTczNVS09PamZIbXNOS05SQUFKOTFacnFldFJDRW9nNlQwSGRkU0VPNEROS1FNSEMxLW9pQ01BSGluS0pNTnQ3eFA4VmpsQ1pGT1pzbzhBUzQ3T3hvOHpuR0o1Sm13Z2RBaUJoQUt1ZTM0a0lobW1JQ3g1S09FZmltckFCYW9Cd01lcGdOYXlqdkNVWmY5UzJRaXBZT0F5dUtnUmNpSUNwb3ZFaU56UlZOaW90RzhZLVJ1RlZ4SDEwbms5QjAxd0NGQmpURTBvYUZfak80ZnpVZ3I3a3dJeHB1U3F5WEE?oc=5",
+            "source": "The New Indian Express",
+            "category": "Strategy"
+        },
+        {
             "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
             "source": "Bain & Company",
+            "category": "Retail"
+        },
+        {
+            "title": "The D2C Reckoning: Why Unit Economics Will Separate the Winners from the Noise in 2026 - ascendants.in",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGdtWUctZ2lxbDh4SXJ4RXJqTXY2UmN1NExkbmJEd3phWE0wemM0aGRBRWhsMGlGYmlZZ2tianJPaFZ1NHBtVnZwTVhRVGcwSldOVVRzNExRR2FNUTc3OXJzM29HVG9tcGNNR1ZHYlV5NmZoQk5sV2o1UUF1ZlliYno1VDdLWnJOLS1pRA?oc=5",
+            "source": "ascendants.in",
             "category": "Retail"
         },
         {
@@ -49,30 +55,24 @@
             "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUVNEY3JSQXJtWllDcUljc05FaWR6cEpaeWR6WHJpS3JxUUtza3lRc29MY1VhdWRMSnl3LWw1UmxtX0RPcmV1bXliOVQ3QldZMkxKNUtXMEFwUElEUTJVc1hHUkdUc2x3QTZ0Z2tsWGZScTduTG1uRGlhMzZDSXhyb1c2cXJUdw?oc=5",
             "source": "Statista",
             "category": "Retail"
-        },
-        {
-            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
-            "source": "Inc42",
-            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
