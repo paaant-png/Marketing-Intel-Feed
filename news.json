@@ -1,25 +1,13 @@
 {
-    "date": "Tuesday, 30 June 2026",
+    "date": "Wednesday, 01 July 2026",
     "story": {
-        "brand": "Cred",
-        "campaign": "Indiranagar Ka Gunda",
-        "story": "Cred purposefully used 'anti-casting'\u2014putting a historically calm celebrity (Rahul Dravid) in an angry, chaotic role. This contrast created instant, viral meme material.",
-        "lesson": "Disruption happens when you break an established archetype.",
-        "seed": "cred2"
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the ruthless obsession required to win, alienating some to deeply delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging.",
+        "seed": "nike3"
     },
     "news": [
-        {
-            "title": "How data is redefining the cultural marketing playbook - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNzhyQjBzSlFvQzhmUGVMMHJ1MHdLQ1hxMnRwa1VDSG9zV2tKTVhicFhKcXRDYVZZdVZjTlBFWjRtOVVrUkNUMEVXZm1XaWFkellOVXBuTFg3OHhUVjdUb0Z5VUMzZHFDLTVQbWVlMGpEZy1DTExPdDNxNUVRNUxUa2NXQlowQWxzNEpuSmVvNDRQSnFfOUR5SlFYLVBDc200cktBLWUxZDJZUjhYYmh2ZENB?oc=5",
-            "source": "Exchange4Media",
-            "category": "Strategy"
-        },
-        {
-            "title": "ABSL AMC appoints Parag Murudkar as marketing head - Campaign India",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGpYaVNjeFF2dm9JaHZTbVB1R011ZTBUTDR4RE1tcXVZemhGRzVTaWlEZDdvQnhDMDVDU0dsM2N0clFHVzh6RkctMUZCRmt0cTY3ZE5wNk5GVk00M2RJaXlnUV9CTHRwM01odWNsNVZkcWY3cUpvY29QbGlwN2NVN1AzVGxwc01FczdpZ05IcnQ3bFpZVzh4QWhKY1J1UFZ4endqU2dMWUNIZUNXU0ZxOTYtRXI?oc=5",
-            "source": "Campaign India",
-            "category": "Strategy"
-        },
         {
             "title": "Kurlon appoints Tonic Worldwide for digital marketing strategy - ET BrandEquity",
             "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUFZQRzNFeEVWUTNHT1ZDYWEtdklWWnZFU3RVdlRUZFcwMW1Ed0k0XzZXMDcwR1RpYksxN0FmZjdwWWh6bWdlV0JVektBSDV6MGNrMnNPV1lzM1o4eUUxMGJ3Z3ZQREFPZEU5RFE0cXFPWjlpZ0Z3ZElPd0Rnd0w4NjNrRXJpMFBKUXJQWS1SLU8xbUJnY3g0SjFlLThpZlV0a2RTWXZwTmREMTJCdVFfZTV5dWpTT0RSVmtpRzRVQVNkUDNDTzluOHNncldFZktadllmTExZQUpxVUHSAeABQVVfeXFMUERBS254ODFqeTdrdGlobDduR003enM4Y2VRNWpHc2ZIX1AyNGlRTGNZUGJYQ0JLc3RpNkh3cy0xZTA0dmNmcXVYcU5TOUtZMjREZWZaX0NnSFcwYWZmMGI2dG9iODZrdTFTR1dXbjNfS3V1czM5Wi12VEVHSUoxLVpoN0lXNl9GZEZPMjhEaFlabkpzMndDYmhlRXB1OFJiLWFNNTFicXJtNHYyeUZIeXI2bTJyQ2pPMjFoXzJ1YWNOM2FnZ0FpMWRRZjZYNi1UVWhkSXRfOWc5S241ZDdlSG0?oc=5",
@@ -27,9 +15,21 @@
             "category": "Strategy"
         },
         {
-            "title": "Tourism Ministry plans major overhaul of promotion strategy, to appoint 360-degree marketing partner - The New Indian Express",
-            "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSEc3RUppeGs1TU5WRzhwbFRSN3BzajdXTDNlUDEtUFE5aXI5QVdJYmNGcWR5N19oYlZ0a1dGYng0RlhLS281NVlESk9oYmJhbE9DTW9BU25fNkFpa3ZaakdyaGJJaTRXaVZWTjFyOW9wZ3BPQUoxVFMyVFJkeEdOZHFla2JTSG40Q2dDOHp3blljajQ5OXpvVkp4Y0Z5djdUU2NRY3ViRmctNThsWUZmUWF0aW5YdW45WHVhNWlkNEw1V3VXRWxIWEZvdTZaMkFVNXVielRUNEc4VHNGUW5vOUdiaErSAfIBQVVfeXFMT2hULVV1eHVYNW55RUZTczNVS09PamZIbXNOS05SQUFKOTFacnFldFJDRW9nNlQwSGRkU0VPNEROS1FNSEMxLW9pQ01BSGluS0pNTnQ3eFA4VmpsQ1pGT1pzbzhBUzQ3T3hvOHpuR0o1Sm13Z2RBaUJoQUt1ZTM0a0lobW1JQ3g1S09FZmltckFCYW9Cd01lcGdOYXlqdkNVWmY5UzJRaXBZT0F5dUtnUmNpSUNwb3ZFaU56UlZOaW90RzhZLVJ1RlZ4SDEwbms5QjAxd0NGQmpURTBvYUZfak80ZnpVZ3I3a3dJeHB1U3F5WEE?oc=5",
-            "source": "The New Indian Express",
+            "title": "India is a \u2018country of countries\u2019 \u2013 NZ business needs a regional strategy to make the trade deal work - The Conversation",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQektIS3RmSGcwODJXZk1LUUFaajB6SFpHdzAtSGN6VXNuLVhrR0ZWNXJ6Uml2TmtIcE1DLTZFLS1VbGc4Rm15cVNfOEVqYmdUSVJKTzQ2RDVyNjVTM3FGY1MzNzYwTUZSbkptSU01WHZkMTNZc1VSUVpqYnJPVHQ0YmtvenZWQmN6UUdCMlpYMVpxUmNQdTZTSlpKTW9icDl5ZUhobjZaSjd3ODhGbTVnN0Y5dDRlM3BpMzFzZFdXcGhORnFNMGhiNmZyWG0?oc=5",
+            "source": "The Conversation",
+            "category": "Strategy"
+        },
+        {
+            "title": "9 Top Marketing Trends of 2026 - Coursera",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kaWVqd3NtQndNcXNZNGdSVF9lUWdfZmJ6RHQ4VXhmc1F1V05qSDR1UUEweXc3V1V1VV9KSDI4dFplRWNaVDY5aDh1b05Wa3NMZWpiTUJuMzh0bHpTdUJZ?oc=5",
+            "source": "Coursera",
+            "category": "Strategy"
+        },
+        {
+            "title": "Digital Marketing for Retail Stores: 15 Strategies (2026) - Shopify",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYWXZhS2NUMGl6NWh0clpTRkZFZlV3di1UZzVzWFdvdmJqM3p1MXlkaS1EcXZ3dV9hQW1zNy14eXdXWGdtV21nWWlPdGlnTVRQZUJuUnhWVUtvRjNaQVBHY1VIQzFET0lsdnJ2ZW9maw?oc=5",
+            "source": "Shopify",
             "category": "Strategy"
         },
         {
@@ -39,40 +39,40 @@
             "category": "Retail"
         },
         {
-            "title": "The D2C Reckoning: Why Unit Economics Will Separate the Winners from the Noise in 2026 - ascendants.in",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGdtWUctZ2lxbDh4SXJ4RXJqTXY2UmN1NExkbmJEd3phWE0wemM0aGRBRWhsMGlGYmlZZ2tianJPaFZ1NHBtVnZwTVhRVGcwSldOVVRzNExRR2FNUTc3OXJzM29HVG9tcGNNR1ZHYlV5NmZoQk5sV2o1UUF1ZlliYno1VDdLWnJOLS1pRA?oc=5",
-            "source": "ascendants.in",
-            "category": "Retail"
-        },
-        {
-            "title": "E-commerce Market Size, Share | Industry Report, 2035 - Market Research Future",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CdUotSTltd1pRdjVnYVFpMEhZZGktNllRb0U1TDZhLVFZUlVnTmNKc21Uc0ZqVjNQSFVOU3FMbTgzbGdaLVVUREdoZERBdjM0NERlYTQxbnBaS2k0QU9oSmFUanZNX2w0YXBELVNFTExzNDJ4bENZ?oc=5",
-            "source": "Market Research Future",
-            "category": "Retail"
-        },
-        {
-            "title": "Revenue growth of ecommerce market in India from 2018 to 2030 - Statista",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUVNEY3JSQXJtWllDcUljc05FaWR6cEpaeWR6WHJpS3JxUUtza3lRc29MY1VhdWRMSnl3LWw1UmxtX0RPcmV1bXliOVQ3QldZMkxKNUtXMEFwUElEUTJVc1hHUkdUc2x3QTZ0Z2tsWGZScTduTG1uRGlhMzZDSXhyb1c2cXJUdw?oc=5",
+            "title": "E-commerce market size India 2014-2035 - Statista",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alUxbnNDRk5fVmZNMUJ1OERjVlhYckdjTFoxYlJUTTZEdWhyRFVQaV9aLXZaLXRKQjd5MXhQdnFidFJoWHgzU0g1Nl9wVHFKc1pxbGZCMUptYVMtOG1xdG1Ec2Zna3FpQ2RrMUM4SVFoX0pjcFA0M1F6Z2w?oc=5",
             "source": "Statista",
+            "category": "Retail"
+        },
+        {
+            "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
+            "source": "Shiprocket",
+            "category": "Retail"
+        },
+        {
+            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
+            "source": "Inc42",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
