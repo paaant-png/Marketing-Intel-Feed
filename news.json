@@ -1,11 +1,11 @@
 {
-    "date": "Wednesday, 01 July 2026",
+    "date": "Thursday, 02 July 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the ruthless obsession required to win, alienating some to deeply delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging.",
-        "seed": "nike3"
+        "brand": "Spotify",
+        "campaign": "Wrapped: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They playfully roasted users, gamifying data to make sharing a cultural status symbol.",
+        "lesson": "Data is boring. Data identity is viral.",
+        "seed": "spotify4"
     },
     "news": [
         {
@@ -21,9 +21,9 @@
             "category": "Strategy"
         },
         {
-            "title": "9 Top Marketing Trends of 2026 - Coursera",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kaWVqd3NtQndNcXNZNGdSVF9lUWdfZmJ6RHQ4VXhmc1F1V05qSDR1UUEweXc3V1V1VV9KSDI4dFplRWNaVDY5aDh1b05Wa3NMZWpiTUJuMzh0bHpTdUJZ?oc=5",
-            "source": "Coursera",
+            "title": "5 Powerful Digital Marketing Hacks to Increase Sales in 2026 - Salesforce",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHJJQkl5SzlxSTRmR0k1LUExVXZqR0JEM2o2WWxmWTlHdGU3eHg3REkzV1pyQ2k3MlJ5T2xsOWdOSjY3LThIeGV1eWF1S1h5ZVZjNEZXTDlhdnZiZGRQX0tCcFNZZE5nT0RyVkNLNHVoTUk0WGRjdVFISEEzMFVKWVBHQQ?oc=5",
+            "source": "Salesforce",
             "category": "Strategy"
         },
         {
@@ -39,15 +39,15 @@
             "category": "Retail"
         },
         {
-            "title": "E-commerce market size India 2014-2035 - Statista",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41alUxbnNDRk5fVmZNMUJ1OERjVlhYckdjTFoxYlJUTTZEdWhyRFVQaV9aLXZaLXRKQjd5MXhQdnFidFJoWHgzU0g1Nl9wVHFKc1pxbGZCMUptYVMtOG1xdG1Ec2Zna3FpQ2RrMUM4SVFoX0pjcFA0M1F6Z2w?oc=5",
-            "source": "Statista",
-            "category": "Retail"
-        },
-        {
             "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
             "source": "Shiprocket",
+            "category": "Retail"
+        },
+        {
+            "title": "Revenue growth of ecommerce market in India from 2018 to 2030 - Statista",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUVNEY3JSQXJtWllDcUljc05FaWR6cEpaeWR6WHJpS3JxUUtza3lRc29MY1VhdWRMSnl3LWw1UmxtX0RPcmV1bXliOVQ3QldZMkxKNUtXMEFwUElEUTJVc1hHUkdUc2x3QTZ0Z2tsWGZScTduTG1uRGlhMzZDSXhyb1c2cXJUdw?oc=5",
+            "source": "Statista",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
