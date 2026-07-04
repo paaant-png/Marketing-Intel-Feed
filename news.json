@@ -1,23 +1,23 @@
 {
-    "date": "Friday, 03 July 2026",
+    "date": "Saturday, 04 July 2026",
     "story": {
-        "brand": "Liquid Death",
-        "campaign": "Murder Your Thirst",
-        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
-        "lesson": "Packaging and attitude can differentiate a pure commodity.",
-        "seed": "liquid5"
+        "brand": "Oatly",
+        "campaign": "The Meta-Billboard",
+        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
+        "lesson": "Self-referential transparency builds instant trust.",
+        "seed": "oatly6"
     },
     "news": [
         {
-            "title": "Cheil India appoints Shruti Katoch Dhadwal as GM, Strategy for Samsung - IMPACT Magazine",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWHozVXdJQVpBWTQxTld3eFNHdUltbGZEWmtfSFowMDR5VnNfblRKdDE1U1p0RkFmOElnbDdQR2J1R3pWZ3BoUkFBQjBwaVROUUF3NEF6RkpUUDBUMlpHUDVxbXAyYW1HZnVWSXZCc2FkbWtCRzZtR1R6WXNLcnJnSEZORDJTWVgyR3AzNTlsTlExMkc4YTR0TkRUOXB1Yk5nZVl2dWVXUWpXS2dwQm9rX2t6cndfTFNvNExRSVM1alZOb28?oc=5",
-            "source": "IMPACT Magazine",
+            "title": "Caramelo Studio Launches as India-US MarTech Company with Integrated Marketing for Growing Brands - TheWire.in",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTks4S05XMGRhTmdwRmdicGtlMmdGYXZ2bjdfeW0xeXg1T016OTY5anFTWHQ3Z2Z0b0pNcW5zWnJaT2VZckRQRmJUUEczWjctRUlsOTZtNzJGM3JMM2tBa3Q5X1ZYZjRPZmgwcUZ5MHltVUZfV2JtVlNSdFhuNGVIY0l4SnpPT2kyWjFvTlpvbjRpeGJBVnhfSWx0bHdBZC1kaENXVEd1SnRNTkEwY0ZDRmJqbTQ5d3VGWnJwbjE3TXJabUJBX085c0otQk1YYXFvT1BqWlZJONIB1wFBVV95cUxNTks4S05XMGRhTmdwRmdicGtlMmdGYXZ2bjdfeW0xeXg1T016OTY5anFTWHQ3Z2Z0b0pNcW5zWnJaT2VZckRQRmJUUEczWjctRUlsOTZtNzJGM3JMM2tBa3Q5X1ZYZjRPZmgwcUZ5MHltVUZfV2JtVlNSdFhuNGVIY0l4SnpPT2kyWjFvTlpvbjRpeGJBVnhfSWx0bHdBZC1kaENXVEd1SnRNTkEwY0ZDRmJqbTQ5d3VGWnJwbjE3TXJabUJBX085c0otQk1YYXFvT1BqWlZJOA?oc=5",
+            "source": "TheWire.in",
             "category": "Strategy"
         },
         {
-            "title": "Exclusive | No big budgets, just big ideas: How startups are rewriting marketing in India - Mediabrief.com",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wb19wRlRtMXVwVmVNY0J0ejZMN1hLYUpMT05ZOFRsZXhWUEVTLU1XTld5NzlJbUZKemhsNzhpRmYxUXNKbmhHTllwQ2s5MkNXZzhhWXhBWUxZdlFrYzE2OVVvR0Q1ODFvUVZtWXdMcExCV1ItZkN4MU1wSQ?oc=5",
-            "source": "Mediabrief.com",
+            "title": "Audience-first strategy drives media investments as digital continues to grow across the brand\u2019s marketing mix: Gaunik Jeet Singh, Knauf India - MediaNews4U",
+            "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNDdQNGJnU2hVQzZZY05ibVVlZU5NbG4ySmQ4RzdGVHUzZ1diWHZ4bDcwMVdmaEpfcEtVaDJMaGZrREJaemRoWkIya3NPcWFiaGE2OFpWZENNRDFYNk43R3pmYVhTQ0pQN0dTUlI0dlNpck11OUZycTNZY3dTZzVaMFdPaXBqbUNoMzhMSGJYOXNyQ0U3STBzOWRGU0FBb2hUWVlMem1ZYm40YkhHUnlPcVhyOVlGU3N4OUltVHkzSVNPeEhwX2QxQm1CYVdta3VnQTgtOUJyMGxhc2kzb3cyUkp2NG1nR0xtV2k3bmJsckV4NWoyWllxT3FobWI?oc=5",
+            "source": "MediaNews4U",
             "category": "Strategy"
         },
         {
@@ -27,9 +27,9 @@
             "category": "Strategy"
         },
         {
-            "title": "The mid-year marketing report card for India's BFSI industry - Social Samosa",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSV9sOXIxYTJOYjN1aWZnUGtoakxwMnJmZWJuZjRUU1E1dXBxSHVLVkR2NHVjTXBZZU55WkNUWG5rSW1TaGtrMERxbWNKWHFRazdvWDRZSjJmS3A4QWJ3VmhJUTFRS2V6Y0NTcWFqUjFCdnRmdGdLWk9na3JzVXFmbVBVUGRJREtjY2JIby1KdzJhUXFqTEZRRlRJS0RleEdQY3djV3AtR2VGUEXSAasBQVVfeXFMUElfbDlyMWEyTmIzdWlmZ1BraGpMcDJyZmVibmY0VFNRNXVwcUh1S1ZEdjR1Y01wWWVOeVpDVFhua0ltU2hrazBEcW1jSlhxUWs3b1g0WUoyZktwOEFid1ZoSVExUUtlemNDU3FhalIxQnZ0ZnRnS1pPZ2tyc1VxZm1QVVBkSURLY2NiSG8tSncyYVFxakxGUUZUSUtEZXhHUGN3Y1dwLUdlRlBF?oc=5",
-            "source": "Social Samosa",
+            "title": "JW Marriott Mumbai Juhu Appoints New Marketing Director - safariindia.com",
+            "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fWE95dGNnc0lYYmNrUlRfb1o3cG5uYTlQTXJxY1ZmSnZpUXlpeXBpSkpnYndGcVNsRENPcE9URDdrOEZsY3N3V2o4OXdrWXAxblBITkoxVFk2MW5TX2V6Y0lPbkJCT3d3V1FXTV9salp6clBQTHc?oc=5",
+            "source": "safariindia.com",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
