@@ -1,11 +1,11 @@
 {
-    "date": "Saturday, 04 July 2026",
+    "date": "Sunday, 05 July 2026",
     "story": {
-        "brand": "Oatly",
-        "campaign": "The Meta-Billboard",
-        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
-        "lesson": "Self-referential transparency builds instant trust.",
-        "seed": "oatly6"
+        "brand": "Zepto",
+        "campaign": "The 10-Minute Claim",
+        "story": "Instead of vague promises like 'fast delivery', Zepto built their entire brand around a specific, measurable number (10 minutes) and backed it with a countdown timer.",
+        "lesson": "Specific promises always outperform generalized claims.",
+        "seed": "zepto7"
     },
     "news": [
         {
@@ -15,15 +15,15 @@
             "category": "Strategy"
         },
         {
-            "title": "Audience-first strategy drives media investments as digital continues to grow across the brand\u2019s marketing mix: Gaunik Jeet Singh, Knauf India - MediaNews4U",
-            "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNDdQNGJnU2hVQzZZY05ibVVlZU5NbG4ySmQ4RzdGVHUzZ1diWHZ4bDcwMVdmaEpfcEtVaDJMaGZrREJaemRoWkIya3NPcWFiaGE2OFpWZENNRDFYNk43R3pmYVhTQ0pQN0dTUlI0dlNpck11OUZycTNZY3dTZzVaMFdPaXBqbUNoMzhMSGJYOXNyQ0U3STBzOWRGU0FBb2hUWVlMem1ZYm40YkhHUnlPcVhyOVlGU3N4OUltVHkzSVNPeEhwX2QxQm1CYVdta3VnQTgtOUJyMGxhc2kzb3cyUkp2NG1nR0xtV2k3bmJsckV4NWoyWllxT3FobWI?oc=5",
-            "source": "MediaNews4U",
-            "category": "Strategy"
-        },
-        {
             "title": "India's beverage industry bets big on functional hydration - Exchange4Media",
             "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMnhtV1FyZHBvNXV1TTNQRXdsMFpFbzdwWGlMN2JOYV9WOTRRMmZNV081cHFnLTh6WWh2VXFqTHAxMlNjdW1vMEF2Q2I5WFZEXy1JQ1RRZkNpeGpTcmowX2FFU2QxeDRsUnczeWNxdUJ0UGZGX3I0eFZWM3hJbmZtaVh3RWdSX1RVZEtQY0dvM0FGREZqUGx3SkJiZjVkQmtlOWc1YWdvZXR0dWZYQ2wxLVNoblFwUQ?oc=5",
             "source": "Exchange4Media",
+            "category": "Strategy"
+        },
+        {
+            "title": "Siddharth Kirtane Joins Automotive Manufacturers Private Limited as Group Chief Executive Officer - hrtoday.in",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNanV2Zi1mRnZ4RXF4NjNDYU9XcmF2OGxCcTdBeE81b2xPdEMwR0ZrdVpJMkZ1VWpEWFVLZ2MxRUwxTEpRZ1BURFZfMGZBMzNmZHk5QVpSRm14RlBiaHI1YmJpMTZNMXlRMlFOMTQ5U3d3ckRBVXJJcllFTEJLMU9vRm9kdnYwSjB2d19ZR2hRTE1kOEdYQzJPVFg2YXJTalJEWjZ0WWhWS3JxczNFV2R1bTZfUjZxMHNM?oc=5",
+            "source": "hrtoday.in",
             "category": "Strategy"
         },
         {
@@ -39,6 +39,12 @@
             "category": "Retail"
         },
         {
+            "title": "Revenue growth of ecommerce market in India from 2018 to 2030 - Statista",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUVNEY3JSQXJtWllDcUljc05FaWR6cEpaeWR6WHJpS3JxUUtza3lRc29MY1VhdWRMSnl3LWw1UmxtX0RPcmV1bXliOVQ3QldZMkxKNUtXMEFwUElEUTJVc1hHUkdUc2x3QTZ0Z2tsWGZScTduTG1uRGlhMzZDSXhyb1c2cXJUdw?oc=5",
+            "source": "Statista",
+            "category": "Retail"
+        },
+        {
             "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
             "source": "Shiprocket",
@@ -49,30 +55,24 @@
             "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTDl0NTBvc0dhZ2Y3bXRuMWJXbmpheGhWbUhLbmUycE80RTdjSmhkSUJ6V2xzbDF4ODkzSTZNRHVyVkRLUEVjUTVpS3VWVHhDYzFsWUVXYXZFVUJmWERLRWE4UW9waXhJZmNTRUZkR3gtaWZsRVI2SjNyVkNZa0otVWozR05sU0ZqS2ZzVndXVjM3VzlKbUE0dDBFZV9aVVNYdHY0X2FqcWQ2SGU4X3hjMV9uSjhpd2lCUkxMMXN6NnlFV0NySlF4M3ItYlU2WHFWa1Z6aTJqbFBfYzZJX3lGaVRHYmRER1h40gHuAUFVX3lxTE40VHVlV0d5bTlXZG5mWjhMVF9kcmpwYkJvZkxnM0ZYM3FvOVc4Nk5nTTdVZEpfTFg3elZINnRrY0MxVldMX2JwMm5IY2FpXzFoSFRsQVpMdjVJaldITVZ6WVRzSm1HbGtELVBOMUdpeWxxdmMzZGRYamR6OTl6RHNNQmJhSGl1VVZ6TVNwNS1NT3lZWE8xS096eXJRMGF4SGRqY2lIU2hnSWZtc19HTnNkUVh1M282bnVobFVPNE5zRzJUOWZ6cUZSY3RxcUYwQS1KM1Q5eVVQTUQzUk5uS29xOVRRV0REa0VYTUpsdmc?oc=5",
             "source": "ET BrandEquity",
             "category": "Retail"
-        },
-        {
-            "title": "Revenue growth of ecommerce market in India from 2018 to 2030 - Statista",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUVNEY3JSQXJtWllDcUljc05FaWR6cEpaeWR6WHJpS3JxUUtza3lRc29MY1VhdWRMSnl3LWw1UmxtX0RPcmV1bXliOVQ3QldZMkxKNUtXMEFwUElEUTJVc1hHUkdUc2x3QTZ0Z2tsWGZScTduTG1uRGlhMzZDSXhyb1c2cXJUdw?oc=5",
-            "source": "Statista",
-            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
