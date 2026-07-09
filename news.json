@@ -1,17 +1,23 @@
 {
-    "date": "Wednesday, 08 July 2026",
+    "date": "Thursday, 09 July 2026",
     "story": {
-        "brand": "Burger King",
-        "campaign": "The Moldy Whopper",
-        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
-        "lesson": "Ugly truths are more memorable than pretty lies.",
-        "seed": "bk10"
+        "brand": "Duolingo",
+        "campaign": "Unhinged Mascot Marketing",
+        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
+        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
+        "seed": "duo11"
     },
     "news": [
         {
-            "title": "IKEA India appoints Jessamine Avila as chief marketing officer - ET Retail",
-            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZWZPRkcwaEI2WGl1azF5blc1QVFBa2ljcl81RGkzMjJ1b05PTVp0M0x1WTJqRW50N2ptcHVNWmxFeXNyVkVuYVBQRU0xSnpxaE5nckh4N2ZTVTRON3V1eWt2LXRaLV9laU82a0wzcGYwVzJVV1hDOUo3TlZYZ2tYZEN0ZnpQTkxqM1BadnJiclNIOWtBLWIzN05uSEpXSzZrYkVfWkg3OWxNT0RvVmFZVlJqUVd6cDdUM01MM3piZG1sRlNxVkc0aHE3RExNaHEzUl9qckpfS190VWZKNmlPV2hBZ1lVN0Nhb0cxdQ?oc=5",
-            "source": "ET Retail",
+            "title": "Ikea India has appointed Jessamine Avila as its new chief marketing officer - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcFVPWEp5anN5VmRpUFppZktoSlgyQ3NWcVl3UkRzbzgtVmZ6aXR1S3FSZ3JndmpQSkU0Nm4za1lVM3dHVzR2RmJ6NzJiYTdiZ01yX1VuWHZlREFuWUljOVRfRnVDUlA1b1k4c1hFRlBoWDVzNHd5bkkzNFN4WnV3V1A4MHZxWXlmaUY3bHdIV0pIYkMxclZGdFhtbzh4R0d3YjlCbkpJY1NUYU9ZbWxOOF8tOFVLMWFCNGhFc1UyajcwNDBvUExPTk5jYzZWR0dRNmNHejVYQjcxcjNEeF9pZ1N6aUlzRkZ3VlBBVVp30gHzAUFVX3lxTE4zXzExR2gzSkVxUGhaQWhiaWhuMDBabUY0bjJKUTdLWEVMbktSN1dHRWlMVVk0bllEOHEwTVN5SFFNcGFBZXhKc1J4SV92NHZVTTRjRHlhZ0w4NDU2bTE2T3NPVjVSMTVVT045cXR5dF85UEhzQm5NcmdCVWZUTVVfb09rRGdnaVdTYTNLUng0N1JfRm9hVXdRM3djdGN5NjVSSHUzWVFTYjN4VE1wRkhQa1Ftc1ZTcVplRGZWZ1RlLW8yQi1YZG4tS1NFMkkxWnZ3QUlDbjYxRjIwdHpTWVVSclpHZ1VVQjZmZ3lzT1p1cEM2VQ?oc=5",
+            "source": "ET BrandEquity",
+            "category": "Strategy"
+        },
+        {
+            "title": "India Market Entry Strategy for US Investors: Entity, Tax, State Selection, and Compliance - India Briefing",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2dxTVpqSnFua0NseVltVWhTTzFCTlMyMXJBNGVJMmpFWjVXSWRpQnFwWERpeVBNdkRwSjVjbmF6WVJ5NjJGQUZzdDB5SlFPaF92VktSWVJaQnc1eFRPOTN4aWNZSUZFUllDUGlkTFIzck9kbUlmbUtvLVJHZUR3a1E1cE14UGNNMlpFcDMzTy1JUQ?oc=5",
+            "source": "India Briefing",
             "category": "Strategy"
         },
         {
@@ -21,22 +27,10 @@
             "category": "Strategy"
         },
         {
-            "title": "IKEA appoints Jessamine Avila as Chief Marketing Officer for India - Social Samosa",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcE9kOFh4ay1jVjFsVnlpUUVjbkRmY2ZGMDZ4Y3B5dk5nck5LMUI5Q1A2ZE9RSjRtZ0VfMWpTb25SNlBDNUdxVDRLbGg1Rk40bW5HYVpGQ25xaHRkNmFBOWR5Q05LQTBoUV9LenBNaXgwc2FISDRRYm1sZWplaHVoSzJ6R0lLUlF1VG01bXJudkVNUHI2WVR4R3NIU20zcUpnakpQZXMtVjg2YkxJcTYteHJ5VDjSAbQBQVVfeXFMUHBPZDhYeGstY1YxbFZ5aVFFY25EZmNmRjA2eGNweXZOZ3JOSzFCOUNQNmRPUUo0bWdFXzFqU29uUjZQQzVHcVQ0S2xoNUZONG1uR2FaRkNucWh0ZDZhQTlkeUNOS0EwaFFfS3pwTWl4MHNhSEg0UWJtbGVqZWh1aEsyekdJS1JRdVRtNW1ybnZFTVByNllUeEdzSFNtM3FKZ2pKUGVzLVY4NmJMSXE2LXhyeVQ4?oc=5",
-            "source": "Social Samosa",
-            "category": "Strategy"
-        },
-        {
             "title": "IKEA India appoints Jessamine Avila as CMO - BusinessLine",
             "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkVFcjdCUEVuNU5qMTNCTnBuQ0R6bzVTX3VnTVpqWGZIaHhhaThrZDVtQWNfeExueWhHT05DOHFWVk02bzVGRVlnaFNTMm1Qd2NMQ3VBd0VxY0FDTTNLTVdGem42cGtEdmhvbi1UQ3c2YzRJeFpnblNrY0NzZVFiR1NuNF85dDNaUF9IaXVHcXk2d2xCLTFKOXVDOWJyVkg1aGZhNFE0aDIyS19qUjNZcWVJbmw1VVdRUnhTUkdsVnQxb3BDcXdIRtIBzwFBVV95cUxPSGEwb1ptMGFlLXd0ZEp4LUhOVFhCekdMWnNJemhFUzVQTzJYd3dfYXM0YS1idW1FMDJJZzFUM2FmbEhKeVdYMUJiM0RyZU9tV1QtN3djSVJ4ODNSVDhNUnE3OW5KVmNSNDNMV3B1bGhCbkxEOC1LeG1KeVhaUVRtV2s2WEtxT1BFOVZ4R3R2bEJSSThhQmRvSFlUWVBxR0RxWmFVZGZ1M3UzZWdjcVNnS3ZZSS1kZmJ6WkM0S1dXc0FXbGxSdWhoNURhWGtad2M?oc=5",
             "source": "BusinessLine",
             "category": "Strategy"
-        },
-        {
-            "title": "How India Shops Online 2026 - Bain & Company",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
-            "source": "Bain & Company",
-            "category": "Retail"
         },
         {
             "title": "Revenue growth of ecommerce market in India from 2018 to 2030 - Statista",
@@ -45,34 +39,40 @@
             "category": "Retail"
         },
         {
-            "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
-            "source": "Shiprocket",
+            "title": "How India Shops Online 2026 - Bain & Company",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
+            "source": "Bain & Company",
             "category": "Retail"
         },
         {
-            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
-            "source": "Inc42",
+            "title": "'The traditional search-led journey is getting busted': Flipkart's Priyanka Bhargav on Gen Z's impact on e-commerce - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYU1QN2xZNUhVdVhSVkh4U3llMkZ1dzhDZ3RMLUwxaW5ibnJURXBEZzFtQ3VNMC16Q1pkZjV0VS0zamJYQVpha3Jic3ItTmc0V3R0R2xIaHVYcWpicFEyY2V6OGUzQ1JIS0pRVTl6ZEx3ckc0LVFrWk5RbzhYOGVKaUp2cnVLYkp3V0x1WTVrMnNtS3o4TUlqT183TU5yNzM3eERTZ1ZoN3lpQ0N6SEFUbW80N3RMbng5cGtJbF9VaVNMQWNVeFNrLWdnRDRITEhnckpNTi1sSHN5emFjUzlmbDNjVVpfWU5FdHlGNEN4NnQ1ZnYxbnfSAfsBQVVfeXFMUEo2X1dmWjFNc3NremhJcnZJenZxb2dleXJtLUdILUlKN2tLb1dlZXdTeXc0aDE4ZEl2YXhvUF9fSVVmU05pWm1NOFFTYVJKY0JDWlNnS2JhRHU2aE1DdFc5UGJKTUdvN0xqWkxuNTN3d2tEUWZrbk9jd1hTQTVWQVp4bGlNdlFCdUJqbG5zZWhKdmtXMDY0SEc1M3gyRXN4ckRUMkpUcklqQ2xDbFNxTXBZSC1mZjdQaFRmemY2NlpaZklXckYxamhsS0JadlZTR25lMkRyX0szdVBVaEpMeTBpM054X1J4bTgyclJSc1VqT01oNjNxekY0YWs?oc=5",
+            "source": "Storyboard18",
+            "category": "Retail"
+        },
+        {
+            "title": "CashKaro FY26 Results: Revenue Jumps 72% To Rs 600 Crore - ascendants.in",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ3BTSkV0Y29ob1pBZXpKb0wteDEwM19heURON0dValUtN0xyZlZDUVplTHVmdGRpSHgxSmJHN1I2OXc1WWwwcDloMHpzdDlkYjNydEhlMmJ1R3ZGdXlXWktLWVEzX0NmWjhxT21sb1FqdHZQa2xxSVVLTGlGc2xQRDlHdFRZSTJ5UGR3bE9QdWYzVXppZEtZSTRGYw?oc=5",
+            "source": "ascendants.in",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
