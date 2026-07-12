@@ -1,11 +1,11 @@
 {
-    "date": "Saturday, 11 July 2026",
+    "date": "Sunday, 12 July 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization.",
-        "seed": "zomato1"
+        "brand": "Cred",
+        "campaign": "Indiranagar Ka Gunda",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting a historically calm celebrity (Rahul Dravid) in an angry, chaotic role. This contrast created instant, viral meme material.",
+        "lesson": "Disruption happens when you break an established archetype.",
+        "seed": "cred2"
     },
     "news": [
         {
@@ -21,9 +21,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Piyush Arora takes on expanded role at \u0160koda Auto Volkswagen India, overseeing sales and marketing - ET BrandEquity",
-            "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMlc2dDZLd2dGV1hDRkZsdkIwR21nRjBQc3JGNWhDR1p4WmdrbHhNaWVMS0xTUU56akZreTVqbGNyMmVtR3ZZMjJfaC0yc05uSHZPVUN6bkNQQkF6alJnR0NpWFNVRmhlcGs0QVpkS0x0aXg4VmpsZXlNaXNncWtBQzRmRTNoX2RKbDdQbEkyY3M4VWl0bjhSTU8zRnlScTMzdHc2eTRYTzEzbnFYZTZla3dERXFTT1A5bVdHOXdBZDM1SVVDZzRva3YxeEp6djBud3RiMjBBYWd2N3pTRXJXdmljaEZseEdsVjZiNFlZajYya1huRDNCbExmVjBfbE5NcldNUEpKRHlzd9IBjwJBVV95cUxOSVFLV3pvRUUzV2JWcmprTEJvYzFDcmc2MVF4aXJmV2JsZkU0MEsyUlhmVGRGR25xS0lyNTZUSzZVNXZjUjJkS3Z2dzVXd2R4VXBSNU45RTBCNVhMR2hrUXFpRHBYYk0xSk5IektUTmtkdjVMdkkxRUhUY1lTMUxTWTNacFROcV8zTlNhTnE4VjhraDNQQTIzZnF6TFFqejFfQTRCdmw1Nk9EVGJYajhhNXY4elh4ZnMxc2tPRjJUeEN3TlloaGd6a2k0U3dzZW1tUDFwM3BfSWhSWHdxSnNNenhGa1JnSzFtUFNPRldxYS1OaEc1YVAzNy16VGs1R0k5cVdkend4NDU4eV9ETzFz?oc=5",
-            "source": "ET BrandEquity",
+            "title": "Talent Tracker of the Week: Top leadership moves across media, marketing and tech - bestmediainfo.com",
+            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWhLZnhLQUlBMEx5Vl9MQzBhcDM0MmVLbjd5ZE9nNW5HYmk5bFEtcEYxSGlYNFoxN1BhV1FHb0djLVdQVzZBMm5kSjQ3bzlWaGZkenlXbkd3QldVcy02ZWdSal9VU1ByMHhhaWFHeXVicWtFSWtaV1FCV3lFdWtuUERlVGVFYXhfSUdjQTBuSlRmeEtiTW5hdmYxUEdYRGR0a0ZpUjVaWHU5YkxSUkVSQ3d4bmlONjdvcmo1U0EzLUplSHB2SlliOHk5NldpNm9qUDJGS2lpeE9UYjl10gHcAUFVX3lxTE1BaEtmeEtBSUEwTHlWX0xDMGFwMzQyZUtuN3lkT2c1bkdiaTlsUS1wRjFIaVg0WjE3UGFXUUdvR2MtV1BXNkEybmRKNDdvOVZoZmR6eVduR3dCV1VzLTZlZ1JqX1VTUHIweGFpYUd5dWJxa0VJa1pXUUJXeUV1a25QRGVUZUVheF9JR2NBMG5KVGZ4S2JNbmF2ZjFQR1hEZHRrRmlSNVpYdTliTFJSRVJDd3huaU42N29yajVTQTMtSmVIcHZKWWI4eTk2V2k2b2pQMkZLaWl4T1RiOXU?oc=5",
+            "source": "bestmediainfo.com",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
