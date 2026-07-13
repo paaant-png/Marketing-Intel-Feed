@@ -1,23 +1,17 @@
 {
-    "date": "Sunday, 12 July 2026",
+    "date": "Monday, 13 July 2026",
     "story": {
-        "brand": "Cred",
-        "campaign": "Indiranagar Ka Gunda",
-        "story": "Cred purposefully used 'anti-casting'\u2014putting a historically calm celebrity (Rahul Dravid) in an angry, chaotic role. This contrast created instant, viral meme material.",
-        "lesson": "Disruption happens when you break an established archetype.",
-        "seed": "cred2"
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the ruthless obsession required to win, alienating some to deeply delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging.",
+        "seed": "nike3"
     },
     "news": [
         {
-            "title": "Beyond Cricket: How brands are expanding India\u2019s sports marketing playbook - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPemo0Z3pVeFZQOHIwNXY3VXc3aUhpOFFiM1FBV2RCNUFKZ1RxUXFSSzFZMEFMQlpFS3hXeE0xMjFjemxxUUtGeWFwYWs3YnpPMFhPUWVrbTg2MTY5ZWVoekdCRTdGTTNIUjJ4RnFKYmh6R0VmSXhqUUZTMWVXMTg5U3ZYUGVucDVTZmlQUkRJRUFYU3d3WGZ0d0xtTDJ4N1ZDM1plTDFrRkpiUzZNZERJZm5FRGhHVWNIV2FnSkMtR3JITUNXWFYtUFdR?oc=5",
-            "source": "Exchange4Media",
-            "category": "Strategy"
-        },
-        {
-            "title": "DHL bets EUR 1 billion on India to accelerate growth under Strategy 2030 - Social Samosa",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMndHaHNDeHFNYWlNMnJNUFdQa2JMQVVENk9IMHpaXzBJZkFEWGFFOXhfTUJUeFRkUmN4c1JmUXVnRXpwc3VPeVJXdGNlQVdRYnVtWVFsRTBBcnZIWV9rdTZHd0JBdThCX1FVSVFGX0JMS0h3N1VtWkMzMVJvVVlOMHE0RjBtZWhNN2JsM1R1OXd5c2d4blBHS3U3cVY4S1hyc1ljdUE4ZTZsRzl4VW5aYmRPQ0g4VEVNNllwRFJn0gG-AUFVX3lxTE4yd0doc0N4cU1haU0yck1QV1BrYkxBVUQ2T0gwelpfMElmQURYYUU5eF9NQlR4VGRSY3hzUmZRdWdFenBzdU95Uld0Y2VBV1FidW1ZUWxFMEFydkhZX2t1Nkd3QkF1OEJfUVVJUUZfQkxLSHc3VW1aQzMxUm9VWU4wcTRGMG1laE03YmwzVHU5d3lzZ3huUEdLdTdxVjhLWHJzWWN1QThlNmxHOXhVblpiZE9DSDhURU02WXBEUmc?oc=5",
-            "source": "Social Samosa",
+            "title": "Yash's Toxic: Women, Tabaahi and a marketing strategy built on provocation? - India Today",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX2c5NU84WVVsNlUxZVZiZmxycnhOeUFzd2FXZ3B0dHQzbjY4YjNWU25wY1gtOEhud0h4ZlZLR0I5NmZqS05sQnZ1MWMzWU1tLVEzd2tibnlKU3VMbXloOHJXNVVXRUdVdnBBc2ljTTVNWTBkeHhaQk0xc1pQVUU3cUNPSWl2Ulk5OV8wSnRxZjhNTlAxNVZGSkJDYnZzSm5xWTBWdzlNT2lqVHdEblpuZi0wcnpXU0tDNk53VXJ2UlYzdXVxbUNlSGRpeHZnUDBxTE04dkFYd05MRG9qdFHSAeMBQVVfeXFMTTNqQXZYMTRXUk5na2xlZWtfSWFCTlBGX2pSM3lYXzl0M1hMX3JiY1VGZDkwNGhNZnJoclVfZERFOFBLblFqdTNOS25WVnFIc1lxTWRKa21acmhqWTVqX1h0RDZTcF9KNkVQOUZ1cFAzVHdNdFBIMkQ0UHhqVEg2T3hKZWhQRlVvVUd0cUM1VkUtd193YmgzUXlCVzVoaWhObDl3NzY3a2NwQVJwem80WXNLZk5oU3ViY0J0ODlPcVF4LWIzbjN0T2hZemlBenJneVRwdEdWakFHUE1qZnA4emVJRk0?oc=5",
+            "source": "India Today",
             "category": "Strategy"
         },
         {
@@ -27,9 +21,15 @@
             "category": "Strategy"
         },
         {
-            "title": "India Market Entry Strategy for US Investors: Entity, Tax, State Selection, and Compliance - India Briefing",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2dxTVpqSnFua0NseVltVWhTTzFCTlMyMXJBNGVJMmpFWjVXSWRpQnFwWERpeVBNdkRwSjVjbmF6WVJ5NjJGQUZzdDB5SlFPaF92VktSWVJaQnc1eFRPOTN4aWNZSUZFUllDUGlkTFIzck9kbUlmbUtvLVJHZUR3a1E1cE14UGNNMlpFcDMzTy1JUQ?oc=5",
-            "source": "India Briefing",
+            "title": "Top 100 MLM Companies List for 2026 Global Network Marketing Company - Epixel MLM Software",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84eDIzdFlsR0JTM205QU51ZUxrR3RzclEwaGFHVXZQS3JGaHRmN01pejRfMFYzYWxuY29wQ0J2UUdkZExBb1d3bUlWNUZJaDE3UmRUa0c5bnBfWE1fUko5UWlQN0VSdWdfSWlrYjBLaW1MRmU4dmNnc1BQZHk2ajg?oc=5",
+            "source": "Epixel MLM Software",
+            "category": "Strategy"
+        },
+        {
+            "title": "Experiential marketing for Indian brands - EY",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjZMemJOcjNOU2V4M3JlQlZqaGNiZzY2RE5PUloxSkpRb2U3b2gtSzd5MjRDY1hqdGJqcTlvQjZYQklNS3d6bkU3VU0xMHEzUm04SU4xUHhvaTc3eDlGc0FIcGtsclRncS1iYWpjWjNSVnlmMDhlSE9ZSVN5ckktRnNRWDV5RTZoN2k4WU4zTDg2cHp5d2JOQXlmXzIyOTg2VFhzWHB6VzJDSHhRZVJwNw?oc=5",
+            "source": "EY",
             "category": "Strategy"
         },
         {
@@ -51,28 +51,28 @@
             "category": "Retail"
         },
         {
-            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
-            "source": "Inc42",
+            "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
+            "source": "Shiprocket",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
