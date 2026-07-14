@@ -1,35 +1,35 @@
 {
-    "date": "Monday, 13 July 2026",
+    "date": "Tuesday, 14 July 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the ruthless obsession required to win, alienating some to deeply delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging.",
-        "seed": "nike3"
+        "brand": "Spotify",
+        "campaign": "Wrapped: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They playfully roasted users, gamifying data to make sharing a cultural status symbol.",
+        "lesson": "Data is boring. Data identity is viral.",
+        "seed": "spotify4"
     },
     "news": [
         {
+            "title": "IKEA India ropes in Jessamine Avila as CMO - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDgzbnhhSTFBV2VoWS01T3BELTZQaF9VMjZITlc5R2dkdFZaVi1sZ2Y3OUJ0QVRDQjI4NzhNZ3dWZXN3V1lhbFlsekdaZnlfVzExUWkzd0NzbENNNGlJSHpxZXpRR25BN2J4OHpmMDY4aEpDcktlTFBNcEFzVGdoUkktTUtHdFFFMVRva0hIM2pTaHA2TFloaW9jdlBzaS1VZXZSN1JqeXpFLUVsOWxKaWZPLTcxdw?oc=5",
+            "source": "Campaign India",
+            "category": "Strategy"
+        },
+        {
+            "title": "Ashwin Rajendran elevated as Marketing Lead \u2013 India, ASEAN & Africa for Siemens' Electrical Products Business - MediaNews4U",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUF9vaFdYUl9rYXA0bEU5SGdScGQwNXhTQjVNQlZpd05wRUFJNWNDbWVIMXFMQUF2TERwZEl1ZFJ3TUZqVG9ULUxFUHNITllwZHNObWdmRTZnTXpaaEtSSHNLZ1ctMFZxTzhjSHNMX2hvREhwMENCZDIxcFhRdDRvVG1GUGdYZnNuTkI5czNxeWVsemZNdTdYX093b2Vib2ZZNW8xV1pDVlJEblpLR2ZhSHJYQm1yZlFJeURmVDZiMkhvc3pjZjBUV1RvZFM?oc=5",
+            "source": "MediaNews4U",
+            "category": "Strategy"
+        },
+        {
+            "title": "Mercedes-Benz India elevates Nandita Godbole as Head of Marketing - IMPACT Magazine",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUowYXFFVGVRQkU0ZUE3YklzTTdpZTAza1RiQThpcXduby1CMWpUX0h3R1Jxa2xvOEdHME8yaGhGdlZnNHA5UE5BV05hU05mQXduNlVVUHFIR0lrQzI2SXFPQ09mSnNZZnZhZlNfX3k3WDRtNVI4UGcyWTh1VjNmS0x2ZnFQblZ5S29YLW5nUkNaVHJVcmhfRlNwR2w1Wi1aVnBCRW1vY05Eajd4QXMza3VQcTJzN05DVXhKc1ln?oc=5",
+            "source": "IMPACT Magazine",
+            "category": "Strategy"
+        },
+        {
             "title": "Yash's Toxic: Women, Tabaahi and a marketing strategy built on provocation? - India Today",
-            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX2c5NU84WVVsNlUxZVZiZmxycnhOeUFzd2FXZ3B0dHQzbjY4YjNWU25wY1gtOEhud0h4ZlZLR0I5NmZqS05sQnZ1MWMzWU1tLVEzd2tibnlKU3VMbXloOHJXNVVXRUdVdnBBc2ljTTVNWTBkeHhaQk0xc1pQVUU3cUNPSWl2Ulk5OV8wSnRxZjhNTlAxNVZGSkJDYnZzSm5xWTBWdzlNT2lqVHdEblpuZi0wcnpXU0tDNk53VXJ2UlYzdXVxbUNlSGRpeHZnUDBxTE04dkFYd05MRG9qdFHSAeMBQVVfeXFMTTNqQXZYMTRXUk5na2xlZWtfSWFCTlBGX2pSM3lYXzl0M1hMX3JiY1VGZDkwNGhNZnJoclVfZERFOFBLblFqdTNOS25WVnFIc1lxTWRKa21acmhqWTVqX1h0RDZTcF9KNkVQOUZ1cFAzVHdNdFBIMkQ0UHhqVEg2T3hKZWhQRlVvVUd0cUM1VkUtd193YmgzUXlCVzVoaWhObDl3NzY3a2NwQVJwem80WXNLZk5oU3ViY0J0ODlPcVF4LWIzbjN0T2hZemlBenJneVRwdEdWakFHUE1qZnA4emVJRk0?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM2pBdlgxNFdSTmdrbGVla19JYUJOUEZfalIzeVhfOXQzWExfcmJjVUZkOTA0aE1mcmhyVV9kREU4UEtuUWp1M05LblZWcUhzWXFNZEprbVpyaGpZNWpfWHRENlNwX0o2RVA5RnVwUDNUd010UEgyRDRQeGpUSDZPeEplaFBGVW9VR3RxQzVWRS13X3diaDNReUJXNWhpaE5sOXc3NjdrY3BBUnB6bzRZc0tmTmhTdWJjQnQ4OU9xUXgtYjNuM3RPaFl6aUF6cmd5VHB0R1ZqQUdQTWpmcDh6ZUlGTdIB4wFBVV95cUxNM2pBdlgxNFdSTmdrbGVla19JYUJOUEZfalIzeVhfOXQzWExfcmJjVUZkOTA0aE1mcmhyVV9kREU4UEtuUWp1M05LblZWcUhzWXFNZEprbVpyaGpZNWpfWHRENlNwX0o2RVA5RnVwUDNUd010UEgyRDRQeGpUSDZPeEplaFBGVW9VR3RxQzVWRS13X3diaDNReUJXNWhpaE5sOXc3NjdrY3BBUnB6bzRZc0tmTmhTdWJjQnQ4OU9xUXgtYjNuM3RPaFl6aUF6cmd5VHB0R1ZqQUdQTWpmcDh6ZUlGTQ?oc=5",
             "source": "India Today",
-            "category": "Strategy"
-        },
-        {
-            "title": "Talent Tracker of the Week: Top leadership moves across media, marketing and tech - bestmediainfo.com",
-            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQWhLZnhLQUlBMEx5Vl9MQzBhcDM0MmVLbjd5ZE9nNW5HYmk5bFEtcEYxSGlYNFoxN1BhV1FHb0djLVdQVzZBMm5kSjQ3bzlWaGZkenlXbkd3QldVcy02ZWdSal9VU1ByMHhhaWFHeXVicWtFSWtaV1FCV3lFdWtuUERlVGVFYXhfSUdjQTBuSlRmeEtiTW5hdmYxUEdYRGR0a0ZpUjVaWHU5YkxSUkVSQ3d4bmlONjdvcmo1U0EzLUplSHB2SlliOHk5NldpNm9qUDJGS2lpeE9UYjl10gHcAUFVX3lxTE1BaEtmeEtBSUEwTHlWX0xDMGFwMzQyZUtuN3lkT2c1bkdiaTlsUS1wRjFIaVg0WjE3UGFXUUdvR2MtV1BXNkEybmRKNDdvOVZoZmR6eVduR3dCV1VzLTZlZ1JqX1VTUHIweGFpYUd5dWJxa0VJa1pXUUJXeUV1a25QRGVUZUVheF9JR2NBMG5KVGZ4S2JNbmF2ZjFQR1hEZHRrRmlSNVpYdTliTFJSRVJDd3huaU42N29yajVTQTMtSmVIcHZKWWI4eTk2V2k2b2pQMkZLaWl4T1RiOXU?oc=5",
-            "source": "bestmediainfo.com",
-            "category": "Strategy"
-        },
-        {
-            "title": "Top 100 MLM Companies List for 2026 Global Network Marketing Company - Epixel MLM Software",
-            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84eDIzdFlsR0JTM205QU51ZUxrR3RzclEwaGFHVXZQS3JGaHRmN01pejRfMFYzYWxuY29wQ0J2UUdkZExBb1d3bUlWNUZJaDE3UmRUa0c5bnBfWE1fUko5UWlQN0VSdWdfSWlrYjBLaW1MRmU4dmNnc1BQZHk2ajg?oc=5",
-            "source": "Epixel MLM Software",
-            "category": "Strategy"
-        },
-        {
-            "title": "Experiential marketing for Indian brands - EY",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjZMemJOcjNOU2V4M3JlQlZqaGNiZzY2RE5PUloxSkpRb2U3b2gtSzd5MjRDY1hqdGJqcTlvQjZYQklNS3d6bkU3VU0xMHEzUm04SU4xUHhvaTc3eDlGc0FIcGtsclRncS1iYWpjWjNSVnlmMDhlSE9ZSVN5ckktRnNRWDV5RTZoN2k4WU4zTDg2cHp5d2JOQXlmXzIyOTg2VFhzWHB6VzJDSHhRZVJwNw?oc=5",
-            "source": "EY",
             "category": "Strategy"
         },
         {
@@ -51,28 +51,28 @@
             "category": "Retail"
         },
         {
-            "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
-            "source": "Shiprocket",
+            "title": "The D2C Reckoning: Why Unit Economics Will Separate the Winners from the Noise in 2026 - ascendants.in",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGdtWUctZ2lxbDh4SXJ4RXJqTXY2UmN1NExkbmJEd3phWE0wemM0aGRBRWhsMGlGYmlZZ2tianJPaFZ1NHBtVnZwTVhRVGcwSldOVVRzNExRR2FNUTc3OXJzM29HVG9tcGNNR1ZHYlV5NmZoQk5sV2o1UUF1ZlliYno1VDdLWnJOLS1pRA?oc=5",
+            "source": "ascendants.in",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
