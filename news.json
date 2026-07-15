@@ -1,29 +1,17 @@
 {
-    "date": "Tuesday, 14 July 2026",
+    "date": "Wednesday, 15 July 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They playfully roasted users, gamifying data to make sharing a cultural status symbol.",
-        "lesson": "Data is boring. Data identity is viral.",
-        "seed": "spotify4"
+        "brand": "Liquid Death",
+        "campaign": "Murder Your Thirst",
+        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
+        "lesson": "Packaging and attitude can differentiate a pure commodity.",
+        "seed": "liquid5"
     },
     "news": [
         {
-            "title": "IKEA India ropes in Jessamine Avila as CMO - Campaign India",
+            "title": "IKEA India names Jessamine Avila as marketing chief - Campaign India",
             "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDgzbnhhSTFBV2VoWS01T3BELTZQaF9VMjZITlc5R2dkdFZaVi1sZ2Y3OUJ0QVRDQjI4NzhNZ3dWZXN3V1lhbFlsekdaZnlfVzExUWkzd0NzbENNNGlJSHpxZXpRR25BN2J4OHpmMDY4aEpDcktlTFBNcEFzVGdoUkktTUtHdFFFMVRva0hIM2pTaHA2TFloaW9jdlBzaS1VZXZSN1JqeXpFLUVsOWxKaWZPLTcxdw?oc=5",
             "source": "Campaign India",
-            "category": "Strategy"
-        },
-        {
-            "title": "Ashwin Rajendran elevated as Marketing Lead \u2013 India, ASEAN & Africa for Siemens' Electrical Products Business - MediaNews4U",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUF9vaFdYUl9rYXA0bEU5SGdScGQwNXhTQjVNQlZpd05wRUFJNWNDbWVIMXFMQUF2TERwZEl1ZFJ3TUZqVG9ULUxFUHNITllwZHNObWdmRTZnTXpaaEtSSHNLZ1ctMFZxTzhjSHNMX2hvREhwMENCZDIxcFhRdDRvVG1GUGdYZnNuTkI5czNxeWVsemZNdTdYX093b2Vib2ZZNW8xV1pDVlJEblpLR2ZhSHJYQm1yZlFJeURmVDZiMkhvc3pjZjBUV1RvZFM?oc=5",
-            "source": "MediaNews4U",
-            "category": "Strategy"
-        },
-        {
-            "title": "Mercedes-Benz India elevates Nandita Godbole as Head of Marketing - IMPACT Magazine",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUowYXFFVGVRQkU0ZUE3YklzTTdpZTAza1RiQThpcXduby1CMWpUX0h3R1Jxa2xvOEdHME8yaGhGdlZnNHA5UE5BV05hU05mQXduNlVVUHFIR0lrQzI2SXFPQ09mSnNZZnZhZlNfX3k3WDRtNVI4UGcyWTh1VjNmS0x2ZnFQblZ5S29YLW5nUkNaVHJVcmhfRlNwR2w1Wi1aVnBCRW1vY05Eajd4QXMza3VQcTJzN05DVXhKc1ln?oc=5",
-            "source": "IMPACT Magazine",
             "category": "Strategy"
         },
         {
@@ -33,9 +21,27 @@
             "category": "Strategy"
         },
         {
-            "title": "India's AI-Led E-commerce Market to Touch $250 Bn by 2030: Shiprocket-Deloitte Report - Analytics India Magazine",
+            "title": "Mercedes-Benz India elevates Nandita Godbole as Head of Marketing - IMPACT Magazine",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUowYXFFVGVRQkU0ZUE3YklzTTdpZTAza1RiQThpcXduby1CMWpUX0h3R1Jxa2xvOEdHME8yaGhGdlZnNHA5UE5BV05hU05mQXduNlVVUHFIR0lrQzI2SXFPQ09mSnNZZnZhZlNfX3k3WDRtNVI4UGcyWTh1VjNmS0x2ZnFQblZ5S29YLW5nUkNaVHJVcmhfRlNwR2w1Wi1aVnBCRW1vY05Eajd4QXMza3VQcTJzN05DVXhKc1ln?oc=5",
+            "source": "IMPACT Magazine",
+            "category": "Strategy"
+        },
+        {
+            "title": "Rini Nandy appointed Head of Marketing for BabyShop India - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0g0TURTOGlfdUNOVmxsOHFFQk1wWmNDOFlNbFFjMGhNRGYzdk5jS2M2eUNSdi0xZkZ5R3Njck5xeFpOY05TMU1mdFd2NVF6TEQxZExmWXRkVlk3Zm9kN2l4UUd4SDFyd193WW5uLVdZVVo3M2xyTGdxVzNVMGQ2NW9BcVNMcUpyeVNsc09lNm9nNHd1TW5rd2VyZVpGRzJibGJKb0d5ZUljRF91U2pESFdPNnc5QklkZWpwVFFB?oc=5",
+            "source": "Exchange4Media",
+            "category": "Strategy"
+        },
+        {
+            "title": "India's AI-Led E-commerce Market to Touch $250 Bn by 2030: Shiprocket-Deloitte Report - analyticsindiamag.com",
             "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
-            "source": "Analytics India Magazine",
+            "source": "analyticsindiamag.com",
+            "category": "Retail"
+        },
+        {
+            "title": "The D2C Reckoning: Why Unit Economics Will Separate the Winners from the Noise in 2026 - ascendants.in",
+            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGdtWUctZ2lxbDh4SXJ4RXJqTXY2UmN1NExkbmJEd3phWE0wemM0aGRBRWhsMGlGYmlZZ2tianJPaFZ1NHBtVnZwTVhRVGcwSldOVVRzNExRR2FNUTc3OXJzM29HVG9tcGNNR1ZHYlV5NmZoQk5sV2o1UUF1ZlliYno1VDdLWnJOLS1pRA?oc=5",
+            "source": "ascendants.in",
             "category": "Retail"
         },
         {
@@ -49,30 +55,24 @@
             "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUVNEY3JSQXJtWllDcUljc05FaWR6cEpaeWR6WHJpS3JxUUtza3lRc29MY1VhdWRMSnl3LWw1UmxtX0RPcmV1bXliOVQ3QldZMkxKNUtXMEFwUElEUTJVc1hHUkdUc2x3QTZ0Z2tsWGZScTduTG1uRGlhMzZDSXhyb1c2cXJUdw?oc=5",
             "source": "Statista",
             "category": "Retail"
-        },
-        {
-            "title": "The D2C Reckoning: Why Unit Economics Will Separate the Winners from the Noise in 2026 - ascendants.in",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGdtWUctZ2lxbDh4SXJ4RXJqTXY2UmN1NExkbmJEd3phWE0wemM0aGRBRWhsMGlGYmlZZ2tianJPaFZ1NHBtVnZwTVhRVGcwSldOVVRzNExRR2FNUTc3OXJzM29HVG9tcGNNR1ZHYlV5NmZoQk5sV2o1UUF1ZlliYno1VDdLWnJOLS1pRA?oc=5",
-            "source": "ascendants.in",
-            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
