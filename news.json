@@ -1,13 +1,19 @@
 {
-    "date": "Wednesday, 15 July 2026",
+    "date": "Thursday, 16 July 2026",
     "story": {
-        "brand": "Liquid Death",
-        "campaign": "Murder Your Thirst",
-        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
-        "lesson": "Packaging and attitude can differentiate a pure commodity.",
-        "seed": "liquid5"
+        "brand": "Oatly",
+        "campaign": "The Meta-Billboard",
+        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
+        "lesson": "Self-referential transparency builds instant trust.",
+        "seed": "oatly6"
     },
     "news": [
+        {
+            "title": "Nikhil Mehrotra Joins Zscaler as Senior Director of Marketing - hrtoday.in",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa1NTUnVuT3ZNVzRjV2VFbW1CMGtjbGRJQjNHdWtPUFBwU2c2a2F6aURCZWFCTVhIT2tpd3pBVW11eVdvdzJtUkRmb2FjUjRfb091cUNUTjZBOVRPQ0dTcVhSZ2RHblFzcTd1cUhHbHZmckpBb3UwSmtNRXhMTEJ2SUlLZ2IzdW5x?oc=5",
+            "source": "hrtoday.in",
+            "category": "Strategy"
+        },
         {
             "title": "IKEA India names Jessamine Avila as marketing chief - Campaign India",
             "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDgzbnhhSTFBV2VoWS01T3BELTZQaF9VMjZITlc5R2dkdFZaVi1sZ2Y3OUJ0QVRDQjI4NzhNZ3dWZXN3V1lhbFlsekdaZnlfVzExUWkzd0NzbENNNGlJSHpxZXpRR25BN2J4OHpmMDY4aEpDcktlTFBNcEFzVGdoUkktTUtHdFFFMVRva0hIM2pTaHA2TFloaW9jdlBzaS1VZXZSN1JqeXpFLUVsOWxKaWZPLTcxdw?oc=5",
@@ -21,27 +27,15 @@
             "category": "Strategy"
         },
         {
-            "title": "Mercedes-Benz India elevates Nandita Godbole as Head of Marketing - IMPACT Magazine",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUowYXFFVGVRQkU0ZUE3YklzTTdpZTAza1RiQThpcXduby1CMWpUX0h3R1Jxa2xvOEdHME8yaGhGdlZnNHA5UE5BV05hU05mQXduNlVVUHFIR0lrQzI2SXFPQ09mSnNZZnZhZlNfX3k3WDRtNVI4UGcyWTh1VjNmS0x2ZnFQblZ5S29YLW5nUkNaVHJVcmhfRlNwR2w1Wi1aVnBCRW1vY05Eajd4QXMza3VQcTJzN05DVXhKc1ln?oc=5",
-            "source": "IMPACT Magazine",
-            "category": "Strategy"
-        },
-        {
-            "title": "Rini Nandy appointed Head of Marketing for BabyShop India - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV0g0TURTOGlfdUNOVmxsOHFFQk1wWmNDOFlNbFFjMGhNRGYzdk5jS2M2eUNSdi0xZkZ5R3Njck5xeFpOY05TMU1mdFd2NVF6TEQxZExmWXRkVlk3Zm9kN2l4UUd4SDFyd193WW5uLVdZVVo3M2xyTGdxVzNVMGQ2NW9BcVNMcUpyeVNsc09lNm9nNHd1TW5rd2VyZVpGRzJibGJKb0d5ZUljRF91U2pESFdPNnc5QklkZWpwVFFB?oc=5",
-            "source": "Exchange4Media",
+            "title": "IKEA targets \u20b98,000 crore India revenue, plans 25 new stores by 2030 - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd19rT1Z5NzQxb3J0WUpGQjdLVlVTamFLSjJ6N0g2S1lxc3c4T3NFVWRCNGo1ZDg4RHB3eFV4UjRvRFFRVWdWVkg5WGt2azdnZkZpa3dseHV6RXg2alctUTZPcXI5QVNqYW5MOFJiQ0FKb0dYcGRrVVU1bVFCWWhlU3k1M21Nem5fZEVlUmM3RVd2U1BVZm5fT095RGFBdkFUbGl0S2Iwa1QyRzU2b29lOXlnYnRCS1JSUkN2ZWI0akhLZ0ZaYnY0MFZhSdIB0AFBVV95cUxQczdoY3Z3aTJkVnlTQ1FuVGhiNGNHQ0FFNTlKb0tLSDZXc2JEQk1zaDBndEExX0NIRWhBbm5RalhnaFYxcWJHR2pXVV9aNm1UdmZqNW1Lai05cExZRXVQXzBTZTI0TnI4TlRiNXNHSzU1TUlaTFZFMWduaVZVcEhNUFl3Tng5NXVKNWtSbS1MUERqQ1Y4QUlVR1dHNmZhREVPU1FFM1dMVDZlU2xhNGM2LTdBcEZ0a054TUd5a3JqV3dXcmdDWTctMHo2OFo0aDlC?oc=5",
+            "source": "Storyboard18",
             "category": "Strategy"
         },
         {
             "title": "India's AI-Led E-commerce Market to Touch $250 Bn by 2030: Shiprocket-Deloitte Report - analyticsindiamag.com",
             "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
             "source": "analyticsindiamag.com",
-            "category": "Retail"
-        },
-        {
-            "title": "The D2C Reckoning: Why Unit Economics Will Separate the Winners from the Noise in 2026 - ascendants.in",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeGdtWUctZ2lxbDh4SXJ4RXJqTXY2UmN1NExkbmJEd3phWE0wemM0aGRBRWhsMGlGYmlZZ2tianJPaFZ1NHBtVnZwTVhRVGcwSldOVVRzNExRR2FNUTc3OXJzM29HVG9tcGNNR1ZHYlV5NmZoQk5sV2o1UUF1ZlliYno1VDdLWnJOLS1pRA?oc=5",
-            "source": "ascendants.in",
             "category": "Retail"
         },
         {
@@ -55,24 +49,30 @@
             "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUVNEY3JSQXJtWllDcUljc05FaWR6cEpaeWR6WHJpS3JxUUtza3lRc29MY1VhdWRMSnl3LWw1UmxtX0RPcmV1bXliOVQ3QldZMkxKNUtXMEFwUElEUTJVc1hHUkdUc2x3QTZ0Z2tsWGZScTduTG1uRGlhMzZDSXhyb1c2cXJUdw?oc=5",
             "source": "Statista",
             "category": "Retail"
+        },
+        {
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
+            "source": "NIQ",
+            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
