@@ -1,29 +1,23 @@
 {
-    "date": "Thursday, 16 July 2026",
+    "date": "Friday, 17 July 2026",
     "story": {
-        "brand": "Oatly",
-        "campaign": "The Meta-Billboard",
-        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
-        "lesson": "Self-referential transparency builds instant trust.",
-        "seed": "oatly6"
+        "brand": "Zepto",
+        "campaign": "The 10-Minute Claim",
+        "story": "Instead of vague promises like 'fast delivery', Zepto built their entire brand around a specific, measurable number (10 minutes) and backed it with a countdown timer.",
+        "lesson": "Specific promises always outperform generalized claims.",
+        "seed": "zepto7"
     },
     "news": [
+        {
+            "title": "Yash's Toxic: Women, Tabaahi and a marketing strategy built on provocation? - India Today",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX2c5NU84WVVsNlUxZVZiZmxycnhOeUFzd2FXZ3B0dHQzbjY4YjNWU25wY1gtOEhud0h4ZlZLR0I5NmZqS05sQnZ1MWMzWU1tLVEzd2tibnlKU3VMbXloOHJXNVVXRUdVdnBBc2ljTTVNWTBkeHhaQk0xc1pQVUU3cUNPSWl2Ulk5OV8wSnRxZjhNTlAxNVZGSkJDYnZzSm5xWTBWdzlNT2lqVHdEblpuZi0wcnpXU0tDNk53VXJ2UlYzdXVxbUNlSGRpeHZnUDBxTE04dkFYd05MRG9qdFHSAeMBQVVfeXFMTTNqQXZYMTRXUk5na2xlZWtfSWFCTlBGX2pSM3lYXzl0M1hMX3JiY1VGZDkwNGhNZnJoclVfZERFOFBLblFqdTNOS25WVnFIc1lxTWRKa21acmhqWTVqX1h0RDZTcF9KNkVQOUZ1cFAzVHdNdFBIMkQ0UHhqVEg2T3hKZWhQRlVvVUd0cUM1VkUtd193YmgzUXlCVzVoaWhObDl3NzY3a2NwQVJwem80WXNLZk5oU3ViY0J0ODlPcVF4LWIzbjN0T2hZemlBenJneVRwdEdWakFHUE1qZnA4emVJRk0?oc=5",
+            "source": "India Today",
+            "category": "Strategy"
+        },
         {
             "title": "Nikhil Mehrotra Joins Zscaler as Senior Director of Marketing - hrtoday.in",
             "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa1NTUnVuT3ZNVzRjV2VFbW1CMGtjbGRJQjNHdWtPUFBwU2c2a2F6aURCZWFCTVhIT2tpd3pBVW11eVdvdzJtUkRmb2FjUjRfb091cUNUTjZBOVRPQ0dTcVhSZ2RHblFzcTd1cUhHbHZmckpBb3UwSmtNRXhMTEJ2SUlLZ2IzdW5x?oc=5",
             "source": "hrtoday.in",
-            "category": "Strategy"
-        },
-        {
-            "title": "IKEA India names Jessamine Avila as marketing chief - Campaign India",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUDgzbnhhSTFBV2VoWS01T3BELTZQaF9VMjZITlc5R2dkdFZaVi1sZ2Y3OUJ0QVRDQjI4NzhNZ3dWZXN3V1lhbFlsekdaZnlfVzExUWkzd0NzbENNNGlJSHpxZXpRR25BN2J4OHpmMDY4aEpDcktlTFBNcEFzVGdoUkktTUtHdFFFMVRva0hIM2pTaHA2TFloaW9jdlBzaS1VZXZSN1JqeXpFLUVsOWxKaWZPLTcxdw?oc=5",
-            "source": "Campaign India",
-            "category": "Strategy"
-        },
-        {
-            "title": "Yash's Toxic: Women, Tabaahi and a marketing strategy built on provocation? - India Today",
-            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM2pBdlgxNFdSTmdrbGVla19JYUJOUEZfalIzeVhfOXQzWExfcmJjVUZkOTA0aE1mcmhyVV9kREU4UEtuUWp1M05LblZWcUhzWXFNZEprbVpyaGpZNWpfWHRENlNwX0o2RVA5RnVwUDNUd010UEgyRDRQeGpUSDZPeEplaFBGVW9VR3RxQzVWRS13X3diaDNReUJXNWhpaE5sOXc3NjdrY3BBUnB6bzRZc0tmTmhTdWJjQnQ4OU9xUXgtYjNuM3RPaFl6aUF6cmd5VHB0R1ZqQUdQTWpmcDh6ZUlGTdIB4wFBVV95cUxNM2pBdlgxNFdSTmdrbGVla19JYUJOUEZfalIzeVhfOXQzWExfcmJjVUZkOTA0aE1mcmhyVV9kREU4UEtuUWp1M05LblZWcUhzWXFNZEprbVpyaGpZNWpfWHRENlNwX0o2RVA5RnVwUDNUd010UEgyRDRQeGpUSDZPeEplaFBGVW9VR3RxQzVWRS13X3diaDNReUJXNWhpaE5sOXc3NjdrY3BBUnB6bzRZc0tmTmhTdWJjQnQ4OU9xUXgtYjNuM3RPaFl6aUF6cmd5VHB0R1ZqQUdQTWpmcDh6ZUlGTQ?oc=5",
-            "source": "India Today",
             "category": "Strategy"
         },
         {
@@ -33,9 +27,15 @@
             "category": "Strategy"
         },
         {
-            "title": "India's AI-Led E-commerce Market to Touch $250 Bn by 2030: Shiprocket-Deloitte Report - analyticsindiamag.com",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
-            "source": "analyticsindiamag.com",
+            "title": "Word-of-Mouth Marketing Strategy: Complete Guide (2026) - Shopify",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wZnJjYWJyWGRtclBYekJxU3ZCcUpQYjNYT3pSQ0pfcklKZFY3NjA1eFlLRThhNDR1cG9xUnFCUUkxQWFOM21qUEFzZVM0RF95cVNsQm8xeVIzekw0UEdvRWVYSjI1Zw?oc=5",
+            "source": "Shopify",
+            "category": "Strategy"
+        },
+        {
+            "title": "Trends Report 2026: AI, subscriptions and digital payments reshape Asia Pacific e-commerce - Media OutReach Newswire",
+            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWUNvTVotaWhBd3JNY2xEbmNGR21yVGhwYlYxYmJWSWN3ZDhVX3B3ZWo4V1pKMHFoRnFkaFZpMEMtRzloeS0zX3FEbTdyQUpxUVFhZUxFLTI5WUJZUnBBd2ZOTUp1bFhZNVQ4SDQ1NFlwbndBdjBWSHZ3eTl2cG9Dam9XUzRYRjh4NjJwX2VmbS1YVUJPaTNhX1dkVEdZazFPb1V1TC1Ub1NnVG9LU2N1elcyVXc1VmJiUVZNWXdmV0NwMV9mNVZiVVBJSUlvd3I5UnVZaUp1S2s5UVhDQmFzQkcxR1M0blFk?oc=5",
+            "source": "Media OutReach Newswire",
             "category": "Retail"
         },
         {
@@ -45,9 +45,9 @@
             "category": "Retail"
         },
         {
-            "title": "Revenue growth of ecommerce market in India from 2018 to 2030 - Statista",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUVNEY3JSQXJtWllDcUljc05FaWR6cEpaeWR6WHJpS3JxUUtza3lRc29MY1VhdWRMSnl3LWw1UmxtX0RPcmV1bXliOVQ3QldZMkxKNUtXMEFwUElEUTJVc1hHUkdUc2x3QTZ0Z2tsWGZScTduTG1uRGlhMzZDSXhyb1c2cXJUdw?oc=5",
-            "source": "Statista",
+            "title": "How Will AI Transform India's E-commerce Market by 2030? | AIM - analyticsindiamag.com",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
+            "source": "analyticsindiamag.com",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
