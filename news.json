@@ -1,13 +1,25 @@
 {
-    "date": "Friday, 17 July 2026",
+    "date": "Saturday, 18 July 2026",
     "story": {
-        "brand": "Zepto",
-        "campaign": "The 10-Minute Claim",
-        "story": "Instead of vague promises like 'fast delivery', Zepto built their entire brand around a specific, measurable number (10 minutes) and backed it with a countdown timer.",
-        "lesson": "Specific promises always outperform generalized claims.",
-        "seed": "zepto7"
+        "brand": "Dove",
+        "campaign": "Reverse Digital Distortion",
+        "story": "Dove actively campaigned against the 'Bold Glamour' AI filter on TikTok, urging users to turn their backs to the camera to protest synthetic beauty standards.",
+        "lesson": "Taking a stand against a platform trend can win immense loyalty.",
+        "seed": "dove8"
     },
     "news": [
+        {
+            "title": "Decoding Switzerland Tourism\u2019s Marketing Strategy in India: A Conversation with Simon Bosshart - IMPACT Magazine",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1N6WXVGdkFIbDRyeUg2eUMwQkVFc2laUGhObTU4V1BEb1JUbFBaLUYyVTV3R2VZRXJ1TXh5RHRPLTE2OC12bjlMY2lmazJKYk5ndjM1Vzc1NXBvVGJMSFNlVnFYRWJfVHRZT0MtbkNEb0lZZmJSRDR3Vk1uNXBGOHpmYkRLNGlpVHJBSjhuaTNKMUxuNFBtM0M0Q3RYSGNuaXZZUkNzQkoxcDVnQ1lKMUFrLXZVNzc3bUdXZm95V2F5RjFMTGxoc1h2SnM0R1BqVWc?oc=5",
+            "source": "IMPACT Magazine",
+            "category": "Strategy"
+        },
+        {
+            "title": "How India\u2019s Toy Market Is Evolving with D2C, Retail and IP - Indian Retailer",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVjRwdHBuWjNxQWUyTFdvcVA4VWtkLTlMcTRFMnZhQ0lBQWR6eFRjMnhSaXhoRElQWV8zZFlFUUtac2hwTG9YTVZjcHlBYWVhZGFwaURTSXdhWF9tTWxUdWllZDlFTlotdTV6SVBRa3R4MElXTDhyVXRTUWQ0OUR6ZEZBUzVNRlN0R1pVVzBVb19hcFptbU9qRkY3Ni1heFo5bW4xWFhfZUN5aU1nalpmcnNFYjhSNzRnWEdN?oc=5",
+            "source": "Indian Retailer",
+            "category": "Strategy"
+        },
         {
             "title": "Yash's Toxic: Women, Tabaahi and a marketing strategy built on provocation? - India Today",
             "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX2c5NU84WVVsNlUxZVZiZmxycnhOeUFzd2FXZ3B0dHQzbjY4YjNWU25wY1gtOEhud0h4ZlZLR0I5NmZqS05sQnZ1MWMzWU1tLVEzd2tibnlKU3VMbXloOHJXNVVXRUdVdnBBc2ljTTVNWTBkeHhaQk0xc1pQVUU3cUNPSWl2Ulk5OV8wSnRxZjhNTlAxNVZGSkJDYnZzSm5xWTBWdzlNT2lqVHdEblpuZi0wcnpXU0tDNk53VXJ2UlYzdXVxbUNlSGRpeHZnUDBxTE04dkFYd05MRG9qdFHSAeMBQVVfeXFMTTNqQXZYMTRXUk5na2xlZWtfSWFCTlBGX2pSM3lYXzl0M1hMX3JiY1VGZDkwNGhNZnJoclVfZERFOFBLblFqdTNOS25WVnFIc1lxTWRKa21acmhqWTVqX1h0RDZTcF9KNkVQOUZ1cFAzVHdNdFBIMkQ0UHhqVEg2T3hKZWhQRlVvVUd0cUM1VkUtd193YmgzUXlCVzVoaWhObDl3NzY3a2NwQVJwem80WXNLZk5oU3ViY0J0ODlPcVF4LWIzbjN0T2hZemlBenJneVRwdEdWakFHUE1qZnA4emVJRk0?oc=5",
@@ -15,27 +27,15 @@
             "category": "Strategy"
         },
         {
-            "title": "Nikhil Mehrotra Joins Zscaler as Senior Director of Marketing - hrtoday.in",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa1NTUnVuT3ZNVzRjV2VFbW1CMGtjbGRJQjNHdWtPUFBwU2c2a2F6aURCZWFCTVhIT2tpd3pBVW11eVdvdzJtUkRmb2FjUjRfb091cUNUTjZBOVRPQ0dTcVhSZ2RHblFzcTd1cUhHbHZmckpBb3UwSmtNRXhMTEJ2SUlLZ2IzdW5x?oc=5",
-            "source": "hrtoday.in",
+            "title": "Picture Perfect, Reimagined: Simon Bosshart on Switzerland Tourism's India Brand Strategy - IMPACT Magazine",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUFp5TDhoVVVRZHJ6UkxObFh3blc4d2FNdzZSU2phOEp4TmpQcEhKaERKMEJUQTMxVzJCSkUyV21Lb1NGTDJWVVlucnlZMDc5Mjc0UjJZbTNTdlJ5bzVTNlpBWHBsUy1zQTlXbDk2Z2dPVzlUWjU4a2NXSUFrMjFuMVNFX0VvSjYtOU1FX0tlNXBfeG8zajJMaTlzc0QySk9Bb0ZZTUlWRUVvdVl3ekFrUHNkc3NPYUI5SXliODd6NWp6RDd4LVZtZTdCMmdCSmtjbFpPcWQ4aw?oc=5",
+            "source": "IMPACT Magazine",
             "category": "Strategy"
         },
         {
-            "title": "IKEA targets \u20b98,000 crore India revenue, plans 25 new stores by 2030 - Storyboard18",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd19rT1Z5NzQxb3J0WUpGQjdLVlVTamFLSjJ6N0g2S1lxc3c4T3NFVWRCNGo1ZDg4RHB3eFV4UjRvRFFRVWdWVkg5WGt2azdnZkZpa3dseHV6RXg2alctUTZPcXI5QVNqYW5MOFJiQ0FKb0dYcGRrVVU1bVFCWWhlU3k1M21Nem5fZEVlUmM3RVd2U1BVZm5fT095RGFBdkFUbGl0S2Iwa1QyRzU2b29lOXlnYnRCS1JSUkN2ZWI0akhLZ0ZaYnY0MFZhSdIB0AFBVV95cUxQczdoY3Z3aTJkVnlTQ1FuVGhiNGNHQ0FFNTlKb0tLSDZXc2JEQk1zaDBndEExX0NIRWhBbm5RalhnaFYxcWJHR2pXVV9aNm1UdmZqNW1Lai05cExZRXVQXzBTZTI0TnI4TlRiNXNHSzU1TUlaTFZFMWduaVZVcEhNUFl3Tng5NXVKNWtSbS1MUERqQ1Y4QUlVR1dHNmZhREVPU1FFM1dMVDZlU2xhNGM2LTdBcEZ0a054TUd5a3JqV3dXcmdDWTctMHo2OFo0aDlC?oc=5",
-            "source": "Storyboard18",
-            "category": "Strategy"
-        },
-        {
-            "title": "Word-of-Mouth Marketing Strategy: Complete Guide (2026) - Shopify",
-            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wZnJjYWJyWGRtclBYekJxU3ZCcUpQYjNYT3pSQ0pfcklKZFY3NjA1eFlLRThhNDR1cG9xUnFCUUkxQWFOM21qUEFzZVM0RF95cVNsQm8xeVIzekw0UEdvRWVYSjI1Zw?oc=5",
-            "source": "Shopify",
-            "category": "Strategy"
-        },
-        {
-            "title": "Trends Report 2026: AI, subscriptions and digital payments reshape Asia Pacific e-commerce - Media OutReach Newswire",
-            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWUNvTVotaWhBd3JNY2xEbmNGR21yVGhwYlYxYmJWSWN3ZDhVX3B3ZWo4V1pKMHFoRnFkaFZpMEMtRzloeS0zX3FEbTdyQUpxUVFhZUxFLTI5WUJZUnBBd2ZOTUp1bFhZNVQ4SDQ1NFlwbndBdjBWSHZ3eTl2cG9Dam9XUzRYRjh4NjJwX2VmbS1YVUJPaTNhX1dkVEdZazFPb1V1TC1Ub1NnVG9LU2N1elcyVXc1VmJiUVZNWXdmV0NwMV9mNVZiVVBJSUlvd3I5UnVZaUp1S2s5UVhDQmFzQkcxR1M0blFk?oc=5",
-            "source": "Media OutReach Newswire",
+            "title": "DHL survey: AI trust gap widens in APAC e-commerce - Vietnam Investment Review - VIR",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2FFeG5nRG1TSm9uSUhLQXFsZHktUFp0NUotMHdVRWtCY3R4Q3VsZ0V1NUpnTXkxdUhab1hsc2RjcmR0OUlCVEoxLXpDOENqNXdKR05sdXVjc0E5N0lIdkVXTHhzTXJVblBsTENQV2ZNLXlpM2RXT05kN0dqNTN0emxVX3pKMHc?oc=5",
+            "source": "Vietnam Investment Review - VIR",
             "category": "Retail"
         },
         {
@@ -45,34 +45,34 @@
             "category": "Retail"
         },
         {
-            "title": "How Will AI Transform India's E-commerce Market by 2030? | AIM - analyticsindiamag.com",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
-            "source": "analyticsindiamag.com",
+            "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
+            "source": "Shiprocket",
             "category": "Retail"
         },
         {
-            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
-            "source": "NIQ",
+            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
+            "source": "Inc42",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
