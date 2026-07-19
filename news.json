@@ -1,23 +1,23 @@
 {
-    "date": "Saturday, 18 July 2026",
+    "date": "Sunday, 19 July 2026",
     "story": {
-        "brand": "Dove",
-        "campaign": "Reverse Digital Distortion",
-        "story": "Dove actively campaigned against the 'Bold Glamour' AI filter on TikTok, urging users to turn their backs to the camera to protest synthetic beauty standards.",
-        "lesson": "Taking a stand against a platform trend can win immense loyalty.",
-        "seed": "dove8"
+        "brand": "Patagonia",
+        "campaign": "Don't Buy This Jacket",
+        "story": "On Black Friday, Patagonia ran a full-page ad telling people NOT to buy their products unless absolutely necessary, highlighting the environmental cost of consumerism.",
+        "lesson": "Anti-marketing is the ultimate form of brand authenticity.",
+        "seed": "patagonia9"
     },
     "news": [
         {
-            "title": "Decoding Switzerland Tourism\u2019s Marketing Strategy in India: A Conversation with Simon Bosshart - IMPACT Magazine",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1N6WXVGdkFIbDRyeUg2eUMwQkVFc2laUGhObTU4V1BEb1JUbFBaLUYyVTV3R2VZRXJ1TXh5RHRPLTE2OC12bjlMY2lmazJKYk5ndjM1Vzc1NXBvVGJMSFNlVnFYRWJfVHRZT0MtbkNEb0lZZmJSRDR3Vk1uNXBGOHpmYkRLNGlpVHJBSjhuaTNKMUxuNFBtM0M0Q3RYSGNuaXZZUkNzQkoxcDVnQ1lKMUFrLXZVNzc3bUdXZm95V2F5RjFMTGxoc1h2SnM0R1BqVWc?oc=5",
-            "source": "IMPACT Magazine",
+            "title": "Indian Marketing Voices 100 - Indian Startup Times",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SaEZ5X1VzQTZIMEE2RDlWNHJ3MWZaa1kwRE13X3J6SlZVdnlmY193ZnYxN2lwRDZreW5hRjJjQURzYUtRVjNZbUNFQTN1Q1pudkdLSGFWWjYzVUZhOHhVdjV0djhJaS05VURXWXF1TEpPOVBnZ2xj?oc=5",
+            "source": "Indian Startup Times",
             "category": "Strategy"
         },
         {
-            "title": "How India\u2019s Toy Market Is Evolving with D2C, Retail and IP - Indian Retailer",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVjRwdHBuWjNxQWUyTFdvcVA4VWtkLTlMcTRFMnZhQ0lBQWR6eFRjMnhSaXhoRElQWV8zZFlFUUtac2hwTG9YTVZjcHlBYWVhZGFwaURTSXdhWF9tTWxUdWllZDlFTlotdTV6SVBRa3R4MElXTDhyVXRTUWQ0OUR6ZEZBUzVNRlN0R1pVVzBVb19hcFptbU9qRkY3Ni1heFo5bW4xWFhfZUN5aU1nalpmcnNFYjhSNzRnWEdN?oc=5",
-            "source": "Indian Retailer",
+            "title": "Picture Perfect, Reimagined: Simon Bosshart on Switzerland Tourism's India Brand Strategy - IMPACT Magazine",
+            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUFp5TDhoVVVRZHJ6UkxObFh3blc4d2FNdzZSU2phOEp4TmpQcEhKaERKMEJUQTMxVzJCSkUyV21Lb1NGTDJWVVlucnlZMDc5Mjc0UjJZbTNTdlJ5bzVTNlpBWHBsUy1zQTlXbDk2Z2dPVzlUWjU4a2NXSUFrMjFuMVNFX0VvSjYtOU1FX0tlNXBfeG8zajJMaTlzc0QySk9Bb0ZZTUlWRUVvdVl3ekFrUHNkc3NPYUI5SXliODd6NWp6RDd4LVZtZTdCMmdCSmtjbFpPcWQ4aw?oc=5",
+            "source": "IMPACT Magazine",
             "category": "Strategy"
         },
         {
@@ -27,9 +27,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Picture Perfect, Reimagined: Simon Bosshart on Switzerland Tourism's India Brand Strategy - IMPACT Magazine",
-            "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUFp5TDhoVVVRZHJ6UkxObFh3blc4d2FNdzZSU2phOEp4TmpQcEhKaERKMEJUQTMxVzJCSkUyV21Lb1NGTDJWVVlucnlZMDc5Mjc0UjJZbTNTdlJ5bzVTNlpBWHBsUy1zQTlXbDk2Z2dPVzlUWjU4a2NXSUFrMjFuMVNFX0VvSjYtOU1FX0tlNXBfeG8zajJMaTlzc0QySk9Bb0ZZTUlWRUVvdVl3ekFrUHNkc3NPYUI5SXliODd6NWp6RDd4LVZtZTdCMmdCSmtjbFpPcWQ4aw?oc=5",
-            "source": "IMPACT Magazine",
+            "title": "Burger King India Expands Menu with Peri-Peri Fest and New Marketing Campaign - Indian Retailer",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU3dNMVZ6MWdLN1I3bnZLa2FJZ18tUTJObFBlQ1BNU181em5YUDU0VUpUY201ZjBCZHhfS0F3Nld4ajgyLVBTQ1lYa2ZCZVpmMEJIenEzVVAybzBrQl82LWZOYzlTVWFleG5qQ0FSUzBZOVgweUpjYzRvV1RhWUlmVFJETlBaUXhzcDZDUkxKYi12djBjQzhpRXV1MFk4d0t3THE4X18tRi1pOHVnbWFSQTQwVDJ1eDNLSjhzXzBfencxcXZYSGpybjhoWHE?oc=5",
+            "source": "Indian Retailer",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
