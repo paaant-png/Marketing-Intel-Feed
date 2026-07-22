@@ -1,13 +1,25 @@
 {
-    "date": "Tuesday, 21 July 2026",
+    "date": "Wednesday, 22 July 2026",
     "story": {
-        "brand": "Duolingo",
-        "campaign": "Unhinged Mascot Marketing",
-        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
-        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
-        "seed": "duo11"
+        "brand": "Airbnb",
+        "campaign": "Belong Anywhere",
+        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
+        "lesson": "Sell the transformation, not the transaction.",
+        "seed": "airbnb12"
     },
     "news": [
+        {
+            "title": "Wildflower Goa appoints Global Destinations to lead India market strategy - Travel Trends Today",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFhwM29VT3BGWmhZYzVWaTlmTlRSUnlSangxYjVkUXNkZm5BRExkYlVyREFKaHhfVEVsVGVSTElJX3lSRERUTzZYb2FFWjVZbDBMUlNXc0ZwLWVvZ3ZXaUxrR1lBc0lLQ3JCT2p5UHZNeDFTTXFEeW5NZjdiUDdtbmxLVjhpem1nRmhKMzZuZUdTZlpMMFRlUGhuVUF6WER0WGJ5R19KLWFwUQ?oc=5",
+            "source": "Travel Trends Today",
+            "category": "Strategy"
+        },
+        {
+            "title": "Consumer tech brand Wozoyo selects Liqvd Asia to drive integrated marketing strategy - Mediabrief.com",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVVV2N19Nb05fVEFuYTluZHlzUEJRU252NGJkbWtfVU1VYnlwS3Etd2x1T3VXMF80UzZMczBtdVJuVHV1MmVIVEdGanRFN2hsMFdiX3c0TTFqblpyUXdmSUExa2xJUTRLbnR1aGpQSkRpdHFhbGZTWVNmeEV1OWxrc00zSy1SWWtrUkZZYWo3TkVXUQ?oc=5",
+            "source": "Mediabrief.com",
+            "category": "Strategy"
+        },
         {
             "title": "Decoding Switzerland Tourism\u2019s Marketing Strategy in India: A Conversation with Simon Bosshart - IMPACT Magazine",
             "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1N6WXVGdkFIbDRyeUg2eUMwQkVFc2laUGhObTU4V1BEb1JUbFBaLUYyVTV3R2VZRXJ1TXh5RHRPLTE2OC12bjlMY2lmazJKYk5ndjM1Vzc1NXBvVGJMSFNlVnFYRWJfVHRZT0MtbkNEb0lZZmJSRDR3Vk1uNXBGOHpmYkRLNGlpVHJBSjhuaTNKMUxuNFBtM0M0Q3RYSGNuaXZZUkNzQkoxcDVnQ1lKMUFrLXZVNzc3bUdXZm95V2F5RjFMTGxoc1h2SnM0R1BqVWc?oc=5",
@@ -15,33 +27,15 @@
             "category": "Strategy"
         },
         {
-            "title": "Premiumisation, media fragmentation and AI to redefine FMCG marketing: Nitin Saini - ET BrandEquity",
-            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdjJGMlktdWhaUkJtOTMwWU1CV0h4SkllRklGdUhHV3NhNkdQdTN3VXZBck1ONGxZWXRmcGlfVzJwdFk1M1dVY1cwQzRMOXBvWllkYll5ZXlJM1VIdGV2MXpBYVhob2JDRU1PXzlmaEU5OWF6cnJHNHIxRnRHY1lOa3NXT0dUVDNWbUpMc0JGMFc0MDZldkhfSEVUdk5QVG9HWk5QMzBkTlZtdmxxRFFhZGZjaUhEcnJJdzlWeWlVaDFHMU1nYlM1T3o1Y2o5ckgtS3l2V1gxVENrQ25LV3hIZGx2TGliNDRxNHfSAe8BQVVfeXFMUE9NOGJhMXBoeWRtZVpsWkZmSFNxaFM1SDIycGdrNVlwV09oZFg5ZmRoeFV0NjhLc3BURTZTNklWSFJ4V21iOXJRM2ljZHFuUXA5MEctUzVoWmJBX0djcF9MV1VEMTBzZ1Jad2FIV3VzVkFCUDY0QTl3YmtYcGRVeVhPRHF2Tl9iazM0S29LTFV2dk5jUkFLVnpkczZXSWlJMENRdllxMTdzUC1JZ1A5Z3ZqRGpjTHFIa2VNblhfUllQdFR6NHhrYlUybkx1VldfQnlYcklVSERiZ20yLUlOaTBGSDQ5R3dvbHltTFVod00?oc=5",
-            "source": "ET BrandEquity",
-            "category": "Strategy"
-        },
-        {
-            "title": "Sachin Chhabra joins CFA Institute as Senior Director - Marketing, India - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZG9ZeHZSX0Y4Z3dmRjJxYnRhYWswTUZVVmx3cVp0UlQyU2pNVU5sUFAxWjNpc2NZTklESW50Mmp1ek5VSEN3QzJ2VGhaQjZ6SzFmamdMYkZJU3ZCWkMzT1FOeW41V1hhTFA5NS1vS00yb2IzVS1NLTJIZk9qckVrMUMyME1FVUZDVXNiajQwbGhDMFBudTI1OXFqZHdxSkxacUowZTNoQmVLSDE1cTU0TFJfejM4SW11S0I2Q3paUXlhVWpXODNXOXFjZk5UeF9YMms4Yg?oc=5",
-            "source": "Exchange4Media",
-            "category": "Strategy"
-        },
-        {
-            "title": "Iron Mountain India Appoints Megha Talwar as Marketing Leader - CXO Digitalpulse",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVVlBTkRyZlF4Z1U4UmFSSHpHa0w5S2dNWkVMMmJWMGJIdVJWeDBNR1pLelZTeEUzemdPRXNxTmkta19hZFZVX2Z4Yl9WUFlDR0JQQmVEamxrOHJONXpMUjZiUWdFQjlIVENicUhYU2xNN3MzVmhWX2dsOGx4Qzg4bFVIYWpVUXlUdWNFenZnUHV1NTNmWG13RlNB?oc=5",
-            "source": "CXO Digitalpulse",
+            "title": "Rini Nandy Appointed Head of Marketing for Babyshop India - hrtoday.in",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGlPcmt1RmZxakZiTE5vTDVhcHRsMmRKRUl4OHVJZHg2UUsxYWJpbWRXUFNQTWJlTTFTNVJDNU8wcEREMEdyZGlWZXM5dXJEaHdkU19HUmxpTXk1YVI2aFJydEJDUExmbXJZWG1nSE82R3NCc1VmOG85cEZKdDJzdlNYbw?oc=5",
+            "source": "hrtoday.in",
             "category": "Strategy"
         },
         {
             "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
             "source": "Bain & Company",
-            "category": "Retail"
-        },
-        {
-            "title": "DHL survey: AI trust gap widens in APAC e-commerce - Vietnam Investment Review - VIR",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2FFeG5nRG1TSm9uSUhLQXFsZHktUFp0NUotMHdVRWtCY3R4Q3VsZ0V1NUpnTXkxdUhab1hsc2RjcmR0OUlCVEoxLXpDOENqNXdKR05sdXVjc0E5N0lIdkVXTHhzTXJVblBsTENQV2ZNLXlpM2RXT05kN0dqNTN0emxVX3pKMHc?oc=5",
-            "source": "Vietnam Investment Review - VIR",
             "category": "Retail"
         },
         {
@@ -55,24 +49,30 @@
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
             "source": "Shiprocket",
             "category": "Retail"
+        },
+        {
+            "title": "DHL survey: AI trust gap widens in APAC e-commerce - Vietnam Investment Review - VIR",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2FFeG5nRG1TSm9uSUhLQXFsZHktUFp0NUotMHdVRWtCY3R4Q3VsZ0V1NUpnTXkxdUhab1hsc2RjcmR0OUlCVEoxLXpDOENqNXdKR05sdXVjc0E5N0lIdkVXTHhzTXJVblBsTENQV2ZNLXlpM2RXT05kN0dqNTN0emxVX3pKMHc?oc=5",
+            "source": "Vietnam Investment Review - VIR",
+            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
