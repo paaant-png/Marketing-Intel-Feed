@@ -1,11 +1,11 @@
 {
-    "date": "Wednesday, 22 July 2026",
+    "date": "Thursday, 23 July 2026",
     "story": {
-        "brand": "Airbnb",
-        "campaign": "Belong Anywhere",
-        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
-        "lesson": "Sell the transformation, not the transaction.",
-        "seed": "airbnb12"
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization.",
+        "seed": "zomato1"
     },
     "news": [
         {
@@ -15,21 +15,21 @@
             "category": "Strategy"
         },
         {
-            "title": "Consumer tech brand Wozoyo selects Liqvd Asia to drive integrated marketing strategy - Mediabrief.com",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVVV2N19Nb05fVEFuYTluZHlzUEJRU252NGJkbWtfVU1VYnlwS3Etd2x1T3VXMF80UzZMczBtdVJuVHV1MmVIVEdGanRFN2hsMFdiX3c0TTFqblpyUXdmSUExa2xJUTRLbnR1aGpQSkRpdHFhbGZTWVNmeEV1OWxrc00zSy1SWWtrUkZZYWo3TkVXUQ?oc=5",
-            "source": "Mediabrief.com",
-            "category": "Strategy"
-        },
-        {
             "title": "Decoding Switzerland Tourism\u2019s Marketing Strategy in India: A Conversation with Simon Bosshart - IMPACT Magazine",
             "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1N6WXVGdkFIbDRyeUg2eUMwQkVFc2laUGhObTU4V1BEb1JUbFBaLUYyVTV3R2VZRXJ1TXh5RHRPLTE2OC12bjlMY2lmazJKYk5ndjM1Vzc1NXBvVGJMSFNlVnFYRWJfVHRZT0MtbkNEb0lZZmJSRDR3Vk1uNXBGOHpmYkRLNGlpVHJBSjhuaTNKMUxuNFBtM0M0Q3RYSGNuaXZZUkNzQkoxcDVnQ1lKMUFrLXZVNzc3bUdXZm95V2F5RjFMTGxoc1h2SnM0R1BqVWc?oc=5",
             "source": "IMPACT Magazine",
             "category": "Strategy"
         },
         {
-            "title": "Rini Nandy Appointed Head of Marketing for Babyshop India - hrtoday.in",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGlPcmt1RmZxakZiTE5vTDVhcHRsMmRKRUl4OHVJZHg2UUsxYWJpbWRXUFNQTWJlTTFTNVJDNU8wcEREMEdyZGlWZXM5dXJEaHdkU19HUmxpTXk1YVI2aFJydEJDUExmbXJZWG1nSE82R3NCc1VmOG85cEZKdDJzdlNYbw?oc=5",
-            "source": "hrtoday.in",
+            "title": "Premiumisation, media fragmentation and AI to redefine FMCG marketing: Nitin Saini - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdjJGMlktdWhaUkJtOTMwWU1CV0h4SkllRklGdUhHV3NhNkdQdTN3VXZBck1ONGxZWXRmcGlfVzJwdFk1M1dVY1cwQzRMOXBvWllkYll5ZXlJM1VIdGV2MXpBYVhob2JDRU1PXzlmaEU5OWF6cnJHNHIxRnRHY1lOa3NXT0dUVDNWbUpMc0JGMFc0MDZldkhfSEVUdk5QVG9HWk5QMzBkTlZtdmxxRFFhZGZjaUhEcnJJdzlWeWlVaDFHMU1nYlM1T3o1Y2o5ckgtS3l2V1gxVENrQ25LV3hIZGx2TGliNDRxNHfSAe8BQVVfeXFMUE9NOGJhMXBoeWRtZVpsWkZmSFNxaFM1SDIycGdrNVlwV09oZFg5ZmRoeFV0NjhLc3BURTZTNklWSFJ4V21iOXJRM2ljZHFuUXA5MEctUzVoWmJBX0djcF9MV1VEMTBzZ1Jad2FIV3VzVkFCUDY0QTl3YmtYcGRVeVhPRHF2Tl9iazM0S29LTFV2dk5jUkFLVnpkczZXSWlJMENRdllxMTdzUC1JZ1A5Z3ZqRGpjTHFIa2VNblhfUllQdFR6NHhrYlUybkx1VldfQnlYcklVSERiZ20yLUlOaTBGSDQ5R3dvbHltTFVod00?oc=5",
+            "source": "ET BrandEquity",
+            "category": "Strategy"
+        },
+        {
+            "title": "Iron Mountain India appoints Megha Talwar as marketing leader - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOal9lbTMyT282S1MzUHpxNWcyU0stUFZ2cHJhNWlIdFBtajVKWGhzQnB5Zkl6R0lUdmhwdXZWSnZ6d2NFdlQ5Y1I5X0QtNU9UX0JubktlV1o0cGJsS1Ztd2RQeUJvWTJfeEVSMGJ1SmVrNFZoM0NNdEI2cXRZMGxJUXVHbGFabTl4aWdHRFlGTVRPcjZsMldCWElyV1lOeUgzMnB5OWQzQ09EcHdhd05JdUpSUkFIaVpTQWsxeEUwd19NRlBYU1E?oc=5",
+            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
@@ -51,28 +51,28 @@
             "category": "Retail"
         },
         {
-            "title": "DHL survey: AI trust gap widens in APAC e-commerce - Vietnam Investment Review - VIR",
-            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2FFeG5nRG1TSm9uSUhLQXFsZHktUFp0NUotMHdVRWtCY3R4Q3VsZ0V1NUpnTXkxdUhab1hsc2RjcmR0OUlCVEoxLXpDOENqNXdKR05sdXVjc0E5N0lIdkVXTHhzTXJVblBsTENQV2ZNLXlpM2RXT05kN0dqNTN0emxVX3pKMHc?oc=5",
-            "source": "Vietnam Investment Review - VIR",
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
+            "source": "NIQ",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
