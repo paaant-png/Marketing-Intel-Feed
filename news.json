@@ -1,13 +1,19 @@
 {
-    "date": "Thursday, 23 July 2026",
+    "date": "Friday, 24 July 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization.",
-        "seed": "zomato1"
+        "brand": "Cred",
+        "campaign": "Indiranagar Ka Gunda",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting a historically calm celebrity (Rahul Dravid) in an angry, chaotic role. This contrast created instant, viral meme material.",
+        "lesson": "Disruption happens when you break an established archetype.",
+        "seed": "cred2"
     },
     "news": [
+        {
+            "title": "Fahad Ahmed named Head of Marketing \u2013 Residential at Gopalan Enterprises India - MediaNews4U",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1owVEZLMmJQSGVwX0hVU242TnNWb0pfSE04MVQ1QnU0OUlXVFYyWEF4Q2x0QmNWZ3lnWkVjeUpIdG1LMUl2azkxXy1reXJaNHJSbVhxWEhtcnBnVGRERG14WlE1aExfaDFfcDNFWE83QWJ1b1dJYXpETG9OMEJ1QWJtV3dCQm9LeWI4R3NHQkY3WHlZX2NTNmhveTh4b05TNkE3b3dEcVo?oc=5",
+            "source": "MediaNews4U",
+            "category": "Strategy"
+        },
         {
             "title": "Wildflower Goa appoints Global Destinations to lead India market strategy - Travel Trends Today",
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFhwM29VT3BGWmhZYzVWaTlmTlRSUnlSangxYjVkUXNkZm5BRExkYlVyREFKaHhfVEVsVGVSTElJX3lSRERUTzZYb2FFWjVZbDBMUlNXc0ZwLWVvZ3ZXaUxrR1lBc0lLQ3JCT2p5UHZNeDFTTXFEeW5NZjdiUDdtbmxLVjhpem1nRmhKMzZuZUdTZlpMMFRlUGhuVUF6WER0WGJ5R19KLWFwUQ?oc=5",
@@ -15,33 +21,27 @@
             "category": "Strategy"
         },
         {
-            "title": "Decoding Switzerland Tourism\u2019s Marketing Strategy in India: A Conversation with Simon Bosshart - IMPACT Magazine",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1N6WXVGdkFIbDRyeUg2eUMwQkVFc2laUGhObTU4V1BEb1JUbFBaLUYyVTV3R2VZRXJ1TXh5RHRPLTE2OC12bjlMY2lmazJKYk5ndjM1Vzc1NXBvVGJMSFNlVnFYRWJfVHRZT0MtbkNEb0lZZmJSRDR3Vk1uNXBGOHpmYkRLNGlpVHJBSjhuaTNKMUxuNFBtM0M0Q3RYSGNuaXZZUkNzQkoxcDVnQ1lKMUFrLXZVNzc3bUdXZm95V2F5RjFMTGxoc1h2SnM0R1BqVWc?oc=5",
-            "source": "IMPACT Magazine",
+            "title": "Anthropic is nearly invisible in India\u2019s creator economy. Is that a strategy or a missed opportunity? - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeVBCTnJpaFpBN1hKYWZmaDRlUGE0RVhSTWdZeEVVUkJNOTd1elBZekZmOFMwVGtlcTNHeXlMREdZemlSWUVxRDVBMEJabTlTckpQX1lSeFNKd3c2WnlCNEpGTnVkT1FtQ3ZKMmxDdzRfSGJnRFZCX1RhUGdhTGdvdnlyTTZTNjVVbVN6Z1FMRS1fSnNkT1dKSjdCX3oxdzJoandfNUVUTVZ0ZW5HUkd3VjJyNWxRQTNWVjZVd0RQb1NyOTg3TGdhak1jTzdtTmtCQzQ2ZWYwcF9nU1d2VVlja3ZfemdqMXpDMm0xUFFfMDbSAfYBQVVfeXFMT0twR2RENlQ3UThBdTMwVHFkbVRRSW5fNjR4elp2TVl2NkFjVWo5bkt1YWtaLXlNX3VadzdYc3VXUXVCWjEtaDF1aEl0c2hOTllJcG5ROGJtMW9VdGl0MnN1TF92dEhRQzREc1A0RExubVBXaXpLZ1lGenFMVktBVVFTZWNWRUFHWTJiM2JTYU5kVGdyNzIzOVFTT3NXMXpaNXpoSElRcDhXUTlnNlMzTFJCQndMQ202NXZUSUpERFBFN0ZncU12TklPbXV5d3lLUnBIS2JnZlJuZ3hYN25xNnNYS2JVVWtNam5ycFl3SFRSbmJSa3l3?oc=5",
+            "source": "Storyboard18",
             "category": "Strategy"
         },
         {
-            "title": "Premiumisation, media fragmentation and AI to redefine FMCG marketing: Nitin Saini - ET BrandEquity",
-            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdjJGMlktdWhaUkJtOTMwWU1CV0h4SkllRklGdUhHV3NhNkdQdTN3VXZBck1ONGxZWXRmcGlfVzJwdFk1M1dVY1cwQzRMOXBvWllkYll5ZXlJM1VIdGV2MXpBYVhob2JDRU1PXzlmaEU5OWF6cnJHNHIxRnRHY1lOa3NXT0dUVDNWbUpMc0JGMFc0MDZldkhfSEVUdk5QVG9HWk5QMzBkTlZtdmxxRFFhZGZjaUhEcnJJdzlWeWlVaDFHMU1nYlM1T3o1Y2o5ckgtS3l2V1gxVENrQ25LV3hIZGx2TGliNDRxNHfSAe8BQVVfeXFMUE9NOGJhMXBoeWRtZVpsWkZmSFNxaFM1SDIycGdrNVlwV09oZFg5ZmRoeFV0NjhLc3BURTZTNklWSFJ4V21iOXJRM2ljZHFuUXA5MEctUzVoWmJBX0djcF9MV1VEMTBzZ1Jad2FIV3VzVkFCUDY0QTl3YmtYcGRVeVhPRHF2Tl9iazM0S29LTFV2dk5jUkFLVnpkczZXSWlJMENRdllxMTdzUC1JZ1A5Z3ZqRGpjTHFIa2VNblhfUllQdFR6NHhrYlUybkx1VldfQnlYcklVSERiZ20yLUlOaTBGSDQ5R3dvbHltTFVod00?oc=5",
-            "source": "ET BrandEquity",
-            "category": "Strategy"
-        },
-        {
-            "title": "Iron Mountain India appoints Megha Talwar as marketing leader - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOal9lbTMyT282S1MzUHpxNWcyU0stUFZ2cHJhNWlIdFBtajVKWGhzQnB5Zkl6R0lUdmhwdXZWSnZ6d2NFdlQ5Y1I5X0QtNU9UX0JubktlV1o0cGJsS1Ztd2RQeUJvWTJfeEVSMGJ1SmVrNFZoM0NNdEI2cXRZMGxJUXVHbGFabTl4aWdHRFlGTVRPcjZsMldCWElyV1lOeUgzMnB5OWQzQ09EcHdhd05JdUpSUkFIaVpTQWsxeEUwd19NRlBYU1E?oc=5",
+            "title": "Bullet Microdrama appoints Apurba Sen as Vice President, Business Strategy & Sales - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjFYRElBSGV3N2lDUzllbDJLb3FOTTBUR0s1d1g1dnhtTVZPV3VNYlY4T19WaUxzWG9VaWtSUkJDZ0E1el9DbFY2anJVb0ViYl9QLUpRVzBMdGY3WWwwWXFoYW9vcy1mRUp1UWlVRUlyV1pQTDJTWEJBQnJMSjNWOXNGeVJlYms2REp3UkJoc1BSR1FXd3NVb2syeEIzSXFuWE9PRi1yRFcyN2RITUtuY0Y1UXhqZE5yanIweWU4N2l1ckVqdkgxY3Bycm1zS0pWTEUwMjdyaVJ5a0k?oc=5",
             "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
-            "title": "How India Shops Online 2026 - Bain & Company",
+            "title": "How India Shops Online 2026 - Bain",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
-            "source": "Bain & Company",
+            "source": "Bain",
             "category": "Retail"
         },
         {
-            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
-            "source": "Inc42",
+            "title": "DHL survey: AI trust gap widens in APAC e-commerce - Vietnam Investment Review - VIR",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN2FFeG5nRG1TSm9uSUhLQXFsZHktUFp0NUotMHdVRWtCY3R4Q3VsZ0V1NUpnTXkxdUhab1hsc2RjcmR0OUlCVEoxLXpDOENqNXdKR05sdXVjc0E5N0lIdkVXTHhzTXJVblBsTENQV2ZNLXlpM2RXT05kN0dqNTN0emxVX3pKMHc?oc=5",
+            "source": "Vietnam Investment Review - VIR",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
