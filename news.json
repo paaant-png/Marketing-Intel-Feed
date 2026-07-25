@@ -1,17 +1,17 @@
 {
-    "date": "Friday, 24 July 2026",
+    "date": "Saturday, 25 July 2026",
     "story": {
-        "brand": "Cred",
-        "campaign": "Indiranagar Ka Gunda",
-        "story": "Cred purposefully used 'anti-casting'\u2014putting a historically calm celebrity (Rahul Dravid) in an angry, chaotic role. This contrast created instant, viral meme material.",
-        "lesson": "Disruption happens when you break an established archetype.",
-        "seed": "cred2"
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the ruthless obsession required to win, alienating some to deeply delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging.",
+        "seed": "nike3"
     },
     "news": [
         {
-            "title": "Fahad Ahmed named Head of Marketing \u2013 Residential at Gopalan Enterprises India - MediaNews4U",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd1owVEZLMmJQSGVwX0hVU242TnNWb0pfSE04MVQ1QnU0OUlXVFYyWEF4Q2x0QmNWZ3lnWkVjeUpIdG1LMUl2azkxXy1reXJaNHJSbVhxWEhtcnBnVGRERG14WlE1aExfaDFfcDNFWE83QWJ1b1dJYXpETG9OMEJ1QWJtV3dCQm9LeWI4R3NHQkY3WHlZX2NTNmhveTh4b05TNkE3b3dEcVo?oc=5",
-            "source": "MediaNews4U",
+            "title": "India\u2019s influencer marketing future is national in scale, regional in strategy - Adgully.com",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeTZ1cGh6NmNneURWNnJmd0NIemNLejE1bXBnaGNReE1SOW8wWV8weFNnNk1aaVMzN05WWktBdHJkY3d0WWk4a0VTWWRWTFNaMGg4N09fYmRLOGh3SlQ1bFBWeVV0cHZGamRVcnJaaFZUWnowSmg4QTBFMUhfMEVLRlhRdWViTElPdV82R25tckxKLTlNcm9BMUZtNDVwbTg1RExWcVoxR1lNZmxBQWl2Sw?oc=5",
+            "source": "Adgully.com",
             "category": "Strategy"
         },
         {
@@ -27,15 +27,15 @@
             "category": "Strategy"
         },
         {
-            "title": "Bullet Microdrama appoints Apurba Sen as Vice President, Business Strategy & Sales - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjFYRElBSGV3N2lDUzllbDJLb3FOTTBUR0s1d1g1dnhtTVZPV3VNYlY4T19WaUxzWG9VaWtSUkJDZ0E1el9DbFY2anJVb0ViYl9QLUpRVzBMdGY3WWwwWXFoYW9vcy1mRUp1UWlVRUlyV1pQTDJTWEJBQnJMSjNWOXNGeVJlYms2REp3UkJoc1BSR1FXd3NVb2syeEIzSXFuWE9PRi1yRFcyN2RITUtuY0Y1UXhqZE5yanIweWU4N2l1ckVqdkgxY3Bycm1zS0pWTEUwMjdyaVJ5a0k?oc=5",
-            "source": "Exchange4Media",
+            "title": "Decoding Switzerland Tourism\u2019s Marketing Strategy in India: A Conversation with Simon Bosshart - IMPACT Magazine",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1N6WXVGdkFIbDRyeUg2eUMwQkVFc2laUGhObTU4V1BEb1JUbFBaLUYyVTV3R2VZRXJ1TXh5RHRPLTE2OC12bjlMY2lmazJKYk5ndjM1Vzc1NXBvVGJMSFNlVnFYRWJfVHRZT0MtbkNEb0lZZmJSRDR3Vk1uNXBGOHpmYkRLNGlpVHJBSjhuaTNKMUxuNFBtM0M0Q3RYSGNuaXZZUkNzQkoxcDVnQ1lKMUFrLXZVNzc3bUdXZm95V2F5RjFMTGxoc1h2SnM0R1BqVWc?oc=5",
+            "source": "IMPACT Magazine",
             "category": "Strategy"
         },
         {
-            "title": "How India Shops Online 2026 - Bain",
+            "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
-            "source": "Bain",
+            "source": "Bain & Company",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
