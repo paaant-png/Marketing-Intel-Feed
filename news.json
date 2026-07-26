@@ -1,29 +1,17 @@
 {
-    "date": "Saturday, 25 July 2026",
+    "date": "Sunday, 26 July 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the ruthless obsession required to win, alienating some to deeply delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging.",
-        "seed": "nike3"
+        "brand": "Spotify",
+        "campaign": "Wrapped: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They playfully roasted users, gamifying data to make sharing a cultural status symbol.",
+        "lesson": "Data is boring. Data identity is viral.",
+        "seed": "spotify4"
     },
     "news": [
-        {
-            "title": "India\u2019s influencer marketing future is national in scale, regional in strategy - Adgully.com",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeTZ1cGh6NmNneURWNnJmd0NIemNLejE1bXBnaGNReE1SOW8wWV8weFNnNk1aaVMzN05WWktBdHJkY3d0WWk4a0VTWWRWTFNaMGg4N09fYmRLOGh3SlQ1bFBWeVV0cHZGamRVcnJaaFZUWnowSmg4QTBFMUhfMEVLRlhRdWViTElPdV82R25tckxKLTlNcm9BMUZtNDVwbTg1RExWcVoxR1lNZmxBQWl2Sw?oc=5",
-            "source": "Adgully.com",
-            "category": "Strategy"
-        },
         {
             "title": "Wildflower Goa appoints Global Destinations to lead India market strategy - Travel Trends Today",
             "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFhwM29VT3BGWmhZYzVWaTlmTlRSUnlSangxYjVkUXNkZm5BRExkYlVyREFKaHhfVEVsVGVSTElJX3lSRERUTzZYb2FFWjVZbDBMUlNXc0ZwLWVvZ3ZXaUxrR1lBc0lLQ3JCT2p5UHZNeDFTTXFEeW5NZjdiUDdtbmxLVjhpem1nRmhKMzZuZUdTZlpMMFRlUGhuVUF6WER0WGJ5R19KLWFwUQ?oc=5",
             "source": "Travel Trends Today",
-            "category": "Strategy"
-        },
-        {
-            "title": "Anthropic is nearly invisible in India\u2019s creator economy. Is that a strategy or a missed opportunity? - Storyboard18",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeVBCTnJpaFpBN1hKYWZmaDRlUGE0RVhSTWdZeEVVUkJNOTd1elBZekZmOFMwVGtlcTNHeXlMREdZemlSWUVxRDVBMEJabTlTckpQX1lSeFNKd3c2WnlCNEpGTnVkT1FtQ3ZKMmxDdzRfSGJnRFZCX1RhUGdhTGdvdnlyTTZTNjVVbVN6Z1FMRS1fSnNkT1dKSjdCX3oxdzJoandfNUVUTVZ0ZW5HUkd3VjJyNWxRQTNWVjZVd0RQb1NyOTg3TGdhak1jTzdtTmtCQzQ2ZWYwcF9nU1d2VVlja3ZfemdqMXpDMm0xUFFfMDbSAfYBQVVfeXFMT0twR2RENlQ3UThBdTMwVHFkbVRRSW5fNjR4elp2TVl2NkFjVWo5bkt1YWtaLXlNX3VadzdYc3VXUXVCWjEtaDF1aEl0c2hOTllJcG5ROGJtMW9VdGl0MnN1TF92dEhRQzREc1A0RExubVBXaXpLZ1lGenFMVktBVVFTZWNWRUFHWTJiM2JTYU5kVGdyNzIzOVFTT3NXMXpaNXpoSElRcDhXUTlnNlMzTFJCQndMQ202NXZUSUpERFBFN0ZncU12TklPbXV5d3lLUnBIS2JnZlJuZ3hYN25xNnNYS2JVVWtNam5ycFl3SFRSbmJSa3l3?oc=5",
-            "source": "Storyboard18",
             "category": "Strategy"
         },
         {
@@ -33,9 +21,21 @@
             "category": "Strategy"
         },
         {
-            "title": "How India Shops Online 2026 - Bain & Company",
+            "title": "Experiential marketing for Indian brands - EY",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjZMemJOcjNOU2V4M3JlQlZqaGNiZzY2RE5PUloxSkpRb2U3b2gtSzd5MjRDY1hqdGJqcTlvQjZYQklNS3d6bkU3VU0xMHEzUm04SU4xUHhvaTc3eDlGc0FIcGtsclRncS1iYWpjWjNSVnlmMDhlSE9ZSVN5ckktRnNRWDV5RTZoN2k4WU4zTDg2cHp5d2JOQXlmXzIyOTg2VFhzWHB6VzJDSHhRZVJwNw?oc=5",
+            "source": "EY",
+            "category": "Strategy"
+        },
+        {
+            "title": "Word-of-Mouth Marketing Strategy: Complete Guide (2026) - Shopify",
+            "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wZnJjYWJyWGRtclBYekJxU3ZCcUpQYjNYT3pSQ0pfcklKZFY3NjA1eFlLRThhNDR1cG9xUnFCUUkxQWFOM21qUEFzZVM0RF95cVNsQm8xeVIzekw0UEdvRWVYSjI1Zw?oc=5",
+            "source": "Shopify",
+            "category": "Strategy"
+        },
+        {
+            "title": "How India Shops Online 2026 - Bain",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
-            "source": "Bain & Company",
+            "source": "Bain",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
