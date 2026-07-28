@@ -1,41 +1,41 @@
 {
-    "date": "Monday, 27 July 2026",
+    "date": "Tuesday, 28 July 2026",
     "story": {
-        "brand": "Liquid Death",
-        "campaign": "Murder Your Thirst",
-        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
-        "lesson": "Packaging and attitude can differentiate a pure commodity.",
-        "seed": "liquid5"
+        "brand": "Oatly",
+        "campaign": "The Meta-Billboard",
+        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
+        "lesson": "Self-referential transparency builds instant trust.",
+        "seed": "oatly6"
     },
     "news": [
         {
-            "title": "KFC bets on creators, culture and value to win Gen Z diners - Storyboard18",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3V1VmdCdUh4aWVWZ3NwUmtmNkFXV3czNTctWmlLM0w0SXBvcjZ4NEUxWUZISnN6R2tEUXRDSEFGNkZCUzJ3STE1bnk2T05EQjk4WjNJZjNOMUlPdVBPUG92Z1YyNlQ2TUo2aXNrc0VMSXBKa2M4UUpCcnIwZDBtS0lXVkRzcWNERG9RX0NjTGZ4Nm1tX28wd3BlTnJTQVd4TmkxYTRIOE4wZm15NENna0VnR3pYd9IBtgFBVV95cUxPR3V1VmdCdUh4aWVWZ3NwUmtmNkFXV3czNTctWmlLM0w0SXBvcjZ4NEUxWUZISnN6R2tEUXRDSEFGNkZCUzJ3STE1bnk2T05EQjk4WjNJZjNOMUlPdVBPUG92Z1YyNlQ2TUo2aXNrc0VMSXBKa2M4UUpCcnIwZDBtS0lXVkRzcWNERG9RX0NjTGZ4Nm1tX28wd3BlTnJTQVd4TmkxYTRIOE4wZm15NENna0VnR3pYdw?oc=5",
-            "source": "Storyboard18",
+            "title": "Rini Nandy Appointed Head of Marketing for Babyshop India - hrtoday.in",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGlPcmt1RmZxakZiTE5vTDVhcHRsMmRKRUl4OHVJZHg2UUsxYWJpbWRXUFNQTWJlTTFTNVJDNU8wcEREMEdyZGlWZXM5dXJEaHdkU19HUmxpTXk1YVI2aFJydEJDUExmbXJZWG1nSE82R3NCc1VmOG85cEZKdDJzdlNYbw?oc=5",
+            "source": "hrtoday.in",
             "category": "Strategy"
         },
         {
-            "title": "Wildflower Goa appoints Global Destinations to lead India market strategy - Travel Trends Today",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFhwM29VT3BGWmhZYzVWaTlmTlRSUnlSangxYjVkUXNkZm5BRExkYlVyREFKaHhfVEVsVGVSTElJX3lSRERUTzZYb2FFWjVZbDBMUlNXc0ZwLWVvZ3ZXaUxrR1lBc0lLQ3JCT2p5UHZNeDFTTXFEeW5NZjdiUDdtbmxLVjhpem1nRmhKMzZuZUdTZlpMMFRlUGhuVUF6WER0WGJ5R19KLWFwUQ?oc=5",
-            "source": "Travel Trends Today",
+            "title": "Indian Marketing Voices 100 - Indian Startup Times",
+            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xbHA1dEx5ZUpBaU56czZ4SXEydmhCLUJXQW9OLVBuSjBJTHM3UjhIbFpJbndHMnJJcmU3Q1VBdGdiaUg4QU1MSUxwMHBsS21vc0E0eWVTODk5eUJTUVdrQkJ2VC1VS1dOTDBLUzBtMUhhM080UjRtb3pwcUE?oc=5",
+            "source": "Indian Startup Times",
             "category": "Strategy"
         },
         {
-            "title": "Decoding Switzerland Tourism\u2019s Marketing Strategy in India: A Conversation with Simon Bosshart - IMPACT Magazine",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX1N6WXVGdkFIbDRyeUg2eUMwQkVFc2laUGhObTU4V1BEb1JUbFBaLUYyVTV3R2VZRXJ1TXh5RHRPLTE2OC12bjlMY2lmazJKYk5ndjM1Vzc1NXBvVGJMSFNlVnFYRWJfVHRZT0MtbkNEb0lZZmJSRDR3Vk1uNXBGOHpmYkRLNGlpVHJBSjhuaTNKMUxuNFBtM0M0Q3RYSGNuaXZZUkNzQkoxcDVnQ1lKMUFrLXZVNzc3bUdXZm95V2F5RjFMTGxoc1h2SnM0R1BqVWc?oc=5",
+            "title": "Neha Kant, Founder, Clovia on the Evolution of India's Intimate Wear Market - IMPACT Magazine",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlNMZDJ0bzVxaE9hUGRUMjF0M240VHAzTzNfenJuSW5sam9nMVR6WnlPQkt5WXRNbmpiVGdmcEsxZXRvMGR6WVNKM0lnQkFQYjE4SkVnSWU0X2NGTEZKelBVa20taHdnb0R3VHZpRnJleEFCN01ycnlmeklObWpoVjV2ampaLS14WG1XZlFGR2lLSzlZX1Q0OHVCTWpTNWpuZ1NrU3pTNTRRZlBDbGZMRkNvUWh4OEk?oc=5",
             "source": "IMPACT Magazine",
             "category": "Strategy"
         },
         {
-            "title": "Experiential marketing for Indian brands - EY",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjZMemJOcjNOU2V4M3JlQlZqaGNiZzY2RE5PUloxSkpRb2U3b2gtSzd5MjRDY1hqdGJqcTlvQjZYQklNS3d6bkU3VU0xMHEzUm04SU4xUHhvaTc3eDlGc0FIcGtsclRncS1iYWpjWjNSVnlmMDhlSE9ZSVN5ckktRnNRWDV5RTZoN2k4WU4zTDg2cHp5d2JOQXlmXzIyOTg2VFhzWHB6VzJDSHhRZVJwNw?oc=5",
-            "source": "EY",
+            "title": "Mercedes-Benz India keeps marketing spend flat despite record H1 sales - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb19saS15UW5DaXYzLWwzNG5pNlFnLXd1d3JQd29QSTRUMHJsRzZVc0QxY2lvaHlwNVcwT0x4VEVCbTktSk9FQ2dPbnRoR2xaZVJkdXdiVERtLTREVnkwSVE5RVZaOUtZRXc5dEctQlo0T3FPTUNSU21KTkNHZVVRMkZSNEk3X1FMUUVITlh1MjhYNVlNSG9sX0pTcG9YUHpxZFM1RVhwR0UzNUR6emRrb0xQcG10UdIBuwFBVV95cUxQa0wxU08yTWhSVDJwNnJYOW5YR1dOM2piZXVJZE1QVWVXcjl0amFUdDNsaVg0UEdLUTZVRUtEaXYxaV9vVFVVa2RDVUdUY19BWmNyOVV2ZlBLeE93MGxjX0xiOU1FYXI4Q09pUC1BdE00SWc3dUhkSEdsLW9DSXpyWjdzZTRpZGppcmxoOXN4cHp1OFVuY3pGb0Fha0NmOGl4Vmh3bWVxVG5yOU5qd0hGemJ0RlBKTmRYT01v?oc=5",
+            "source": "Storyboard18",
             "category": "Strategy"
         },
         {
-            "title": "How India Shops Online 2026 - Bain",
+            "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
-            "source": "Bain",
+            "source": "Bain & Company",
             "category": "Retail"
         },
         {
@@ -51,28 +51,28 @@
             "category": "Retail"
         },
         {
-            "title": "Trends Report 2026: AI, subscriptions and digital payments reshape Asia Pacific e-commerce - Media OutReach Newswire",
-            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWUNvTVotaWhBd3JNY2xEbmNGR21yVGhwYlYxYmJWSWN3ZDhVX3B3ZWo4V1pKMHFoRnFkaFZpMEMtRzloeS0zX3FEbTdyQUpxUVFhZUxFLTI5WUJZUnBBd2ZOTUp1bFhZNVQ4SDQ1NFlwbndBdjBWSHZ3eTl2cG9Dam9XUzRYRjh4NjJwX2VmbS1YVUJPaTNhX1dkVEdZazFPb1V1TC1Ub1NnVG9LU2N1elcyVXc1VmJiUVZNWXdmV0NwMV9mNVZiVVBJSUlvd3I5UnVZaUp1S2s5UVhDQmFzQkcxR1M0blFk?oc=5",
-            "source": "Media OutReach Newswire",
+            "title": "Top Fashion eCommerce Trends & Strategies for 2025 - Salesforce",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KdVNod0tNVWFnWXVmVC1jcm1fMnpZblpEZ1dtUEMwOHNyYnJjQ29RQVc0NUppNk1rbGhkek9uREhUQkloUWpVQU13c09sTHhDVjRqbE5UUDJheDRiMlpDQTM0M3JmTG12bDYwRFc1UXl3bkhkUlY4WTZ3?oc=5",
+            "source": "Salesforce",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
