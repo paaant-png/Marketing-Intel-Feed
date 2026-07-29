@@ -1,13 +1,25 @@
 {
-    "date": "Tuesday, 28 July 2026",
+    "date": "Wednesday, 29 July 2026",
     "story": {
-        "brand": "Oatly",
-        "campaign": "The Meta-Billboard",
-        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
-        "lesson": "Self-referential transparency builds instant trust.",
-        "seed": "oatly6"
+        "brand": "Zepto",
+        "campaign": "The 10-Minute Claim",
+        "story": "Instead of vague promises like 'fast delivery', Zepto built their entire brand around a specific, measurable number (10 minutes) and backed it with a countdown timer.",
+        "lesson": "Specific promises always outperform generalized claims.",
+        "seed": "zepto7"
     },
     "news": [
+        {
+            "title": "PepsiCo India names Tanvi Swami as Marketing Director for Pepsi, 7UP and Mirinda - MediaNews4U",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamxrOUNfQ3djX1JncXVmMGM2cUFVSEp4Z3ZCeTVGaTFpNU5UOTZMSGljcFBRcGFfMGZKMkN3ZHlnbG5DQVV5V3RxT1lkM0JIaWdsWWJ5MjN5TnpJX19xZzVqTUthT1VYQ09KQnZibUpnSUlZYV94RC15T2JwMDlzZnlTUGZta3lRbEdYckNlVmtQa19qMExhTnNnb2N4emFNc3BKSDV3QXByM1Bh?oc=5",
+            "source": "MediaNews4U",
+            "category": "Strategy"
+        },
+        {
+            "title": "Mercedes-Benz India keeps marketing spend flat despite record H1 sales - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb19saS15UW5DaXYzLWwzNG5pNlFnLXd1d3JQd29QSTRUMHJsRzZVc0QxY2lvaHlwNVcwT0x4VEVCbTktSk9FQ2dPbnRoR2xaZVJkdXdiVERtLTREVnkwSVE5RVZaOUtZRXc5dEctQlo0T3FPTUNSU21KTkNHZVVRMkZSNEk3X1FMUUVITlh1MjhYNVlNSG9sX0pTcG9YUHpxZFM1RVhwR0UzNUR6emRrb0xQcG10UdIBuwFBVV95cUxQa0wxU08yTWhSVDJwNnJYOW5YR1dOM2piZXVJZE1QVWVXcjl0amFUdDNsaVg0UEdLUTZVRUtEaXYxaV9vVFVVa2RDVUdUY19BWmNyOVV2ZlBLeE93MGxjX0xiOU1FYXI4Q09pUC1BdE00SWc3dUhkSEdsLW9DSXpyWjdzZTRpZGppcmxoOXN4cHp1OFVuY3pGb0Fha0NmOGl4Vmh3bWVxVG5yOU5qd0hGemJ0RlBKTmRYT01v?oc=5",
+            "source": "Storyboard18",
+            "category": "Strategy"
+        },
         {
             "title": "Rini Nandy Appointed Head of Marketing for Babyshop India - hrtoday.in",
             "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGlPcmt1RmZxakZiTE5vTDVhcHRsMmRKRUl4OHVJZHg2UUsxYWJpbWRXUFNQTWJlTTFTNVJDNU8wcEREMEdyZGlWZXM5dXJEaHdkU19HUmxpTXk1YVI2aFJydEJDUExmbXJZWG1nSE82R3NCc1VmOG85cEZKdDJzdlNYbw?oc=5",
@@ -21,21 +33,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Neha Kant, Founder, Clovia on the Evolution of India's Intimate Wear Market - IMPACT Magazine",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlNMZDJ0bzVxaE9hUGRUMjF0M240VHAzTzNfenJuSW5sam9nMVR6WnlPQkt5WXRNbmpiVGdmcEsxZXRvMGR6WVNKM0lnQkFQYjE4SkVnSWU0X2NGTEZKelBVa20taHdnb0R3VHZpRnJleEFCN01ycnlmeklObWpoVjV2ampaLS14WG1XZlFGR2lLSzlZX1Q0OHVCTWpTNWpuZ1NrU3pTNTRRZlBDbGZMRkNvUWh4OEk?oc=5",
-            "source": "IMPACT Magazine",
-            "category": "Strategy"
-        },
-        {
-            "title": "Mercedes-Benz India keeps marketing spend flat despite record H1 sales - Storyboard18",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb19saS15UW5DaXYzLWwzNG5pNlFnLXd1d3JQd29QSTRUMHJsRzZVc0QxY2lvaHlwNVcwT0x4VEVCbTktSk9FQ2dPbnRoR2xaZVJkdXdiVERtLTREVnkwSVE5RVZaOUtZRXc5dEctQlo0T3FPTUNSU21KTkNHZVVRMkZSNEk3X1FMUUVITlh1MjhYNVlNSG9sX0pTcG9YUHpxZFM1RVhwR0UzNUR6emRrb0xQcG10UdIBuwFBVV95cUxQa0wxU08yTWhSVDJwNnJYOW5YR1dOM2piZXVJZE1QVWVXcjl0amFUdDNsaVg0UEdLUTZVRUtEaXYxaV9vVFVVa2RDVUdUY19BWmNyOVV2ZlBLeE93MGxjX0xiOU1FYXI4Q09pUC1BdE00SWc3dUhkSEdsLW9DSXpyWjdzZTRpZGppcmxoOXN4cHp1OFVuY3pGb0Fha0NmOGl4Vmh3bWVxVG5yOU5qd0hGemJ0RlBKTmRYT01v?oc=5",
-            "source": "Storyboard18",
-            "category": "Strategy"
-        },
-        {
-            "title": "How India Shops Online 2026 - Bain & Company",
+            "title": "How India Shops Online 2026 - Bain",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
-            "source": "Bain & Company",
+            "source": "Bain",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
