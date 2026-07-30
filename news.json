@@ -1,35 +1,35 @@
 {
-    "date": "Wednesday, 29 July 2026",
+    "date": "Thursday, 30 July 2026",
     "story": {
-        "brand": "Zepto",
-        "campaign": "The 10-Minute Claim",
-        "story": "Instead of vague promises like 'fast delivery', Zepto built their entire brand around a specific, measurable number (10 minutes) and backed it with a countdown timer.",
-        "lesson": "Specific promises always outperform generalized claims.",
-        "seed": "zepto7"
+        "brand": "Dove",
+        "campaign": "Reverse Digital Distortion",
+        "story": "Dove actively campaigned against the 'Bold Glamour' AI filter on TikTok, urging users to turn their backs to the camera to protest synthetic beauty standards.",
+        "lesson": "Taking a stand against a platform trend can win immense loyalty.",
+        "seed": "dove8"
     },
     "news": [
         {
-            "title": "PepsiCo India names Tanvi Swami as Marketing Director for Pepsi, 7UP and Mirinda - MediaNews4U",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamxrOUNfQ3djX1JncXVmMGM2cUFVSEp4Z3ZCeTVGaTFpNU5UOTZMSGljcFBRcGFfMGZKMkN3ZHlnbG5DQVV5V3RxT1lkM0JIaWdsWWJ5MjN5TnpJX19xZzVqTUthT1VYQ09KQnZibUpnSUlZYV94RC15T2JwMDlzZnlTUGZta3lRbEdYckNlVmtQa19qMExhTnNnb2N4emFNc3BKSDV3QXByM1Bh?oc=5",
-            "source": "MediaNews4U",
+            "title": "How to Build an India GTM Strategy: A Playbook for Product Companies Entering India - Nasscom",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHF6VUY4dnlhTnRobXFCSzIzZ0JNWHZPMVBCX0ZOYVV5QmpGUEs3YThKR2dlbzctQWFseUhiaDdOWnBTMUhIRXo0UUpEd2V1ajEwV01JSEx5dU9Pbm9uWVVTWDl2eDVmb2JVUVdDSmRDNXZ0eUZlNU1qa0djcGdYQVlrd0FrVGxpYy1WSHN0VDNTUVNlemUwa1JkbU1UTXc1bzVQRHdlT3Q4MFJRbUpuLUFJZlFsVGVVOWFtbC1WeWExbHdEWHc?oc=5",
+            "source": "Nasscom",
+            "category": "Strategy"
+        },
+        {
+            "title": "Devyani International sharpens AI, creator-led marketing strategy across KFC, Pizza Hut and Costa Coffee - India Retailing",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1RRdnl4S3Zpa19yU2lpREU4MmwtVE85Y0lreTVzZ2w2OVVpZ1BCZUdkRWQ3Rm1ZWExnVjhVdEdwczk3U3VWODUyOGxUNHY1bVd2bWlFNFQxNDdzeTFqSXpKVVBtY09YUXdNdnJVR1M3d0xPNkpxcEdPVGxZZkV5V0FiOFNkb2x5SmZkNjk4M2U3UFN2Wi1veFA0YWJyUjdUSWszaXpxMl8yMDAxMWZmZjVNdk9YV1Q1aFZ2Y0FNdmlTTUdrQ3c5R2h4amo?oc=5",
+            "source": "India Retailing",
+            "category": "Strategy"
+        },
+        {
+            "title": "India's premiumisation story is just beginning: Vitesh Barar, BMW Group India - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVHV3ajZPS3VVR3dBTmkxMzhsY0tlZjQzX2JfbDBPa0FXX1l5ekJLanQ4bW93b3hORENHZThyMklsN0lISnVMbC1haVZtMGdWc3JQcnB1WjMyRUxFeUdaeG5EcjRseGlWcG4xSE5VTWJuT21QaTEwU3UySlp2SThLb2QtMmE3VDc0QVN0bVY0a2tkT3RXN3BfS0dkUDdHSDl5U2tvRVZ3R0Y5WGRnNzBrUncyWmpNYWVKTlZ5ZTAwdkJfOURVTkZOVFhnZzE?oc=5",
+            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
             "title": "Mercedes-Benz India keeps marketing spend flat despite record H1 sales - Storyboard18",
             "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb19saS15UW5DaXYzLWwzNG5pNlFnLXd1d3JQd29QSTRUMHJsRzZVc0QxY2lvaHlwNVcwT0x4VEVCbTktSk9FQ2dPbnRoR2xaZVJkdXdiVERtLTREVnkwSVE5RVZaOUtZRXc5dEctQlo0T3FPTUNSU21KTkNHZVVRMkZSNEk3X1FMUUVITlh1MjhYNVlNSG9sX0pTcG9YUHpxZFM1RVhwR0UzNUR6emRrb0xQcG10UdIBuwFBVV95cUxQa0wxU08yTWhSVDJwNnJYOW5YR1dOM2piZXVJZE1QVWVXcjl0amFUdDNsaVg0UEdLUTZVRUtEaXYxaV9vVFVVa2RDVUdUY19BWmNyOVV2ZlBLeE93MGxjX0xiOU1FYXI4Q09pUC1BdE00SWc3dUhkSEdsLW9DSXpyWjdzZTRpZGppcmxoOXN4cHp1OFVuY3pGb0Fha0NmOGl4Vmh3bWVxVG5yOU5qd0hGemJ0RlBKTmRYT01v?oc=5",
             "source": "Storyboard18",
-            "category": "Strategy"
-        },
-        {
-            "title": "Rini Nandy Appointed Head of Marketing for Babyshop India - hrtoday.in",
-            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGlPcmt1RmZxakZiTE5vTDVhcHRsMmRKRUl4OHVJZHg2UUsxYWJpbWRXUFNQTWJlTTFTNVJDNU8wcEREMEdyZGlWZXM5dXJEaHdkU19HUmxpTXk1YVI2aFJydEJDUExmbXJZWG1nSE82R3NCc1VmOG85cEZKdDJzdlNYbw?oc=5",
-            "source": "hrtoday.in",
-            "category": "Strategy"
-        },
-        {
-            "title": "Indian Marketing Voices 100 - Indian Startup Times",
-            "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xbHA1dEx5ZUpBaU56czZ4SXEydmhCLUJXQW9OLVBuSjBJTHM3UjhIbFpJbndHMnJJcmU3Q1VBdGdiaUg4QU1MSUxwMHBsS21vc0E0eWVTODk5eUJTUVdrQkJ2VC1VS1dOTDBLUzBtMUhhM080UjRtb3pwcUE?oc=5",
-            "source": "Indian Startup Times",
             "category": "Strategy"
         },
         {
@@ -45,9 +45,9 @@
             "category": "Retail"
         },
         {
-            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - nielseniq.com",
             "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
-            "source": "NIQ",
+            "source": "nielseniq.com",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
