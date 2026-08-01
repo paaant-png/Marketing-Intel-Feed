@@ -1,11 +1,11 @@
 {
-    "date": "Friday, 31 July 2026",
+    "date": "Saturday, 01 August 2026",
     "story": {
-        "brand": "Patagonia",
-        "campaign": "Don't Buy This Jacket",
-        "story": "On Black Friday, Patagonia ran a full-page ad telling people NOT to buy their products unless absolutely necessary, highlighting the environmental cost of consumerism.",
-        "lesson": "Anti-marketing is the ultimate form of brand authenticity.",
-        "seed": "patagonia9"
+        "brand": "Burger King",
+        "campaign": "The Moldy Whopper",
+        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
+        "lesson": "Ugly truths are more memorable than pretty lies.",
+        "seed": "bk10"
     },
     "news": [
         {
@@ -21,15 +21,15 @@
             "category": "Strategy"
         },
         {
-            "title": "Devyani International sharpens AI, creator-led marketing strategy across KFC, Pizza Hut and Costa Coffee - India Retailing",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1RRdnl4S3Zpa19yU2lpREU4MmwtVE85Y0lreTVzZ2w2OVVpZ1BCZUdkRWQ3Rm1ZWExnVjhVdEdwczk3U3VWODUyOGxUNHY1bVd2bWlFNFQxNDdzeTFqSXpKVVBtY09YUXdNdnJVR1M3d0xPNkpxcEdPVGxZZkV5V0FiOFNkb2x5SmZkNjk4M2U3UFN2Wi1veFA0YWJyUjdUSWszaXpxMl8yMDAxMWZmZjVNdk9YV1Q1aFZ2Y0FNdmlTTUdrQ3c5R2h4amo?oc=5",
-            "source": "India Retailing",
+            "title": "Manisha Singh joins Marshall Group to lead brand marketing for India - Indian Television Dot Com",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHV0V1lnV0ZoR1dJTEZHZFhTdVIyWjFIMXdOZXZaRWNWUU90Z2MyUk5lR2V1T1EyVEhKMWNUOVJ4emEweDF2ZGlLR0Y3cmtDOUF6SXRkQ25oWkQ2eE9LcUhERkZxUHJFVUx3QzhTOERWNGlFblVqUGRNRzJhQkEwU2FGVzFyRVNrWVI4NmdYd0cxY0xYRG5fOWJ4VFRDNF9fS2RXMA?oc=5",
+            "source": "Indian Television Dot Com",
             "category": "Strategy"
         },
         {
-            "title": "India's premiumisation story is just beginning: Vitesh Barar, BMW Group India - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVHV3ajZPS3VVR3dBTmkxMzhsY0tlZjQzX2JfbDBPa0FXX1l5ekJLanQ4bW93b3hORENHZThyMklsN0lISnVMbC1haVZtMGdWc3JQcnB1WjMyRUxFeUdaeG5EcjRseGlWcG4xSE5VTWJuT21QaTEwU3UySlp2SThLb2QtMmE3VDc0QVN0bVY0a2tkT3RXN3BfS0dkUDdHSDl5U2tvRVZ3R0Y5WGRnNzBrUncyWmpNYWVKTlZ5ZTAwdkJfOURVTkZOVFhnZzE?oc=5",
-            "source": "Exchange4Media",
+            "title": "Manisha Singh Joins Marshall Group as India Marketing Lead - MediaNews4U",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeFh1YmRQTXVCVXpnNUJ1a1FFanlmWi1SSk5xSGpmQXozY0puaE5rS3prQVBDY2JqaU9vNllNOWRyTDZXanZJRGxyLXlPUHFVNWd1RW1ITWRrUk5QcXZVTTFMV3FYWGhXaTBwc0JMQXZPQzNMZ1ItdlB1S3hvaktOdXhEcXZ0a3Z1YTRMelhiZ3g?oc=5",
+            "source": "MediaNews4U",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
