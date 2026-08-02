@@ -1,11 +1,11 @@
 {
-    "date": "Saturday, 01 August 2026",
+    "date": "Sunday, 02 August 2026",
     "story": {
-        "brand": "Burger King",
-        "campaign": "The Moldy Whopper",
-        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
-        "lesson": "Ugly truths are more memorable than pretty lies.",
-        "seed": "bk10"
+        "brand": "Duolingo",
+        "campaign": "Unhinged Mascot Marketing",
+        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
+        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
+        "seed": "duo11"
     },
     "news": [
         {
@@ -15,9 +15,9 @@
             "category": "Strategy"
         },
         {
-            "title": "How East India\u2019s cultural depth is influencing national marketing strategies - Adgully.com",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV0xLS3RvV2FfRDc5OTduUFAxZmVaTTEtYWlZLURoT2d3WGRCOVRwREljY296eXRCMEFtdmoyY21hdkI3OWZWZ0o0XzVWN1J3ZlExNExYa3hqVFVVT18wbC03eFI3ZzY5X0kxT3BzcmFUekVic2ZjYlFIWGhxTG15SHY3U1ZCWVM4eWtWTjVRNF8wLVNZUzJtSTNkZkVITUM0LVZmS2I2Z2lhRlNKeVRF?oc=5",
-            "source": "Adgully.com",
+            "title": "IndiGo's New Tourism Partnership Aims To Put India On More Global Travel Wishlists - Outlook Traveller",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaUdYU2xYakZ5R0JwQXZGLWsxUE4ydEUtV1FmTzZOcXdubVAtQ0xfN3ZtYkp2ckpvOWlHS0ZWTEkzMWJQV2Zha3pzWmZaamhqZUhRdnZIOWptN3BmMzJublZaamJkaXIzYU1ySHRzX080U3hod2FXeUZQWXQ2MWt3VVFFN0REYUNaMUd0YXVwYUdFeVRFd2NQTUpvVzFSSVVuRFJ6eWUtN3VGVVlJYXE4?oc=5",
+            "source": "Outlook Traveller",
             "category": "Strategy"
         },
         {
@@ -27,9 +27,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Manisha Singh Joins Marshall Group as India Marketing Lead - MediaNews4U",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeFh1YmRQTXVCVXpnNUJ1a1FFanlmWi1SSk5xSGpmQXozY0puaE5rS3prQVBDY2JqaU9vNllNOWRyTDZXanZJRGxyLXlPUHFVNWd1RW1ITWRrUk5QcXZVTTFMV3FYWGhXaTBwc0JMQXZPQzNMZ1ItdlB1S3hvaktOdXhEcXZ0a3Z1YTRMelhiZ3g?oc=5",
-            "source": "MediaNews4U",
+            "title": "Devyani International sharpens AI, creator-led marketing strategy across KFC, Pizza Hut and Costa Coffee - India Retailing",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1RRdnl4S3Zpa19yU2lpREU4MmwtVE85Y0lreTVzZ2w2OVVpZ1BCZUdkRWQ3Rm1ZWExnVjhVdEdwczk3U3VWODUyOGxUNHY1bVd2bWlFNFQxNDdzeTFqSXpKVVBtY09YUXdNdnJVR1M3d0xPNkpxcEdPVGxZZkV5V0FiOFNkb2x5SmZkNjk4M2U3UFN2Wi1veFA0YWJyUjdUSWszaXpxMl8yMDAxMWZmZjVNdk9YV1Q1aFZ2Y0FNdmlTTUdrQ3c5R2h4amo?oc=5",
+            "source": "India Retailing",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
