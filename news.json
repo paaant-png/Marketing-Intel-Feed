@@ -1,11 +1,11 @@
 {
-    "date": "Monday, 03 August 2026",
+    "date": "Tuesday, 04 August 2026",
     "story": {
-        "brand": "Airbnb",
-        "campaign": "Belong Anywhere",
-        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
-        "lesson": "Sell the transformation, not the transaction.",
-        "seed": "airbnb12"
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization.",
+        "seed": "zomato1"
     },
     "news": [
         {
@@ -15,15 +15,15 @@
             "category": "Strategy"
         },
         {
-            "title": "P&G Korea appoints India sales chief as CEO - The Korea Herald",
-            "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41dTFZa2NkWWFLMWQ4dVAzODdFbnZhOE05RlBnc0N5NXBFQXJQRzJkVlhld09NdThHb3l0amVaYjRpcGR1VThheGo3ZlhWRmt3OUVVOXVZcw?oc=5",
-            "source": "The Korea Herald",
-            "category": "Strategy"
-        },
-        {
             "title": "IndiGo's New Tourism Partnership Aims To Put India On More Global Travel Wishlists - Outlook Traveller",
             "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaUdYU2xYakZ5R0JwQXZGLWsxUE4ydEUtV1FmTzZOcXdubVAtQ0xfN3ZtYkp2ckpvOWlHS0ZWTEkzMWJQV2Zha3pzWmZaamhqZUhRdnZIOWptN3BmMzJublZaamJkaXIzYU1ySHRzX080U3hod2FXeUZQWXQ2MWt3VVFFN0REYUNaMUd0YXVwYUdFeVRFd2NQTUpvVzFSSVVuRFJ6eWUtN3VGVVlJYXE4?oc=5",
             "source": "Outlook Traveller",
+            "category": "Strategy"
+        },
+        {
+            "title": "Hilton Mumbai Intnl. Airport Appoints New Marketing Manager - safariindia.com",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tVWp1ZmV5S1BuOXZtbDVkQ1B3N1lfZXJaVlRDcWM0YkZVWGJ5S05UWmNTbmFYdy1KUG1uSHVuX245MHEyT1hJWWZ5Wm5RMGEwZkwySjZWX1lrQkRrYXo1MTNfaVZ6ZlE?oc=5",
+            "source": "safariindia.com",
             "category": "Strategy"
         },
         {
@@ -51,28 +51,28 @@
             "category": "Retail"
         },
         {
-            "title": "Top Fashion eCommerce Trends & Strategies for 2025 - salesforce.com",
+            "title": "Top Fashion eCommerce Trends & Strategies for 2025 - Salesforce",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KdVNod0tNVWFnWXVmVC1jcm1fMnpZblpEZ1dtUEMwOHNyYnJjQ29RQVc0NUppNk1rbGhkek9uREhUQkloUWpVQU13c09sTHhDVjRqbE5UUDJheDRiMlpDQTM0M3JmTG12bDYwRFc1UXl3bkhkUlY4WTZ3?oc=5",
-            "source": "salesforce.com",
+            "source": "Salesforce",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
