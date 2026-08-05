@@ -1,13 +1,25 @@
 {
-    "date": "Tuesday, 04 August 2026",
+    "date": "Wednesday, 05 August 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization.",
-        "seed": "zomato1"
+        "brand": "Cred",
+        "campaign": "Indiranagar Ka Gunda",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting a historically calm celebrity (Rahul Dravid) in an angry, chaotic role. This contrast created instant, viral meme material.",
+        "lesson": "Disruption happens when you break an established archetype.",
+        "seed": "cred2"
     },
     "news": [
+        {
+            "title": "Hyundai holds ad spend at \u20b9687 crore as AI takes centre stage in marketing strategy - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPeUV1RGhQNVU0OTlldXN3aDAyZExUb1ZXRXNyUllPQzNQblQzTjVjUzd0OWcxRlpKYmgwYXFZdkdfRG05NVpXRDhnNk0wUUNHaEt2RFdXXzNpY0NaaFFQdVZWWTkyN0RPTFpWeGtBVjdfdldOa3JYSndhODdpZ1dVUXlVTGVnRExUZXhqNVJ6SVhBWUQ1QzNoVHRlcVlkVUFac2RkWkFCa0NYajAzb0YyLVZVTkVsVlljTjk4UmJJTHdoZjJCWVA0SnhPUVUyMGd1T0R5bkJmRkY1N2FxZnVUZDZNX0tra2_SAewBQVVfeXFMTmNKQURKUi1vb3djMzNfME95VmVzZHJkemczbmNQUXdmUVFXdFp0UlZXVC00azVxYnpueE9QLXQzOFpnR1Vwd09RalJJY0NqWVFBa0NpYTN4cFU4eUJ6WENrcUF1R3NDZlRVb0NKZ280Z21vVFY3OUdWZzEtQzNvY1JkVHdHR0dLTkNqMF9kSVBWc0NqYTZBR3AxTTN5aGJSd0hMU20tcU5XQy1BUEJCUm10c1JURU5INWZfR0luMFlVQWRvRVpzSklqVV82OGFycElVbUI5S2xoQWxSdkdXSUlOMkIwZTBUY29WVDQ?oc=5",
+            "source": "Storyboard18",
+            "category": "Strategy"
+        },
+        {
+            "title": "Cond\u00e9 Nast India appoints Kunjalik B as Director \u2013 IPs & Events - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU20xUVNqTkpDOTNsd3BFSjdYSUpqQzVUNUdaOE9odGEteDBONzdDamdEQzdpUTFGV2RHZURwNDBySWRaNDFwbEc3VmxlWjdnZVZfS01iVmhLUHdWTjFiZHJhTzBWbFRmVnlDRkhhR2dMWmhHVkNnTkxsVmdHTDdQWEE0M0xudjJNLUNKM3pmS1MtdkxQbnVRT1IxU2FIZmJ2RDF0bHN0bzFrV3JpaENKbVlIb3VNbTZXMUotbzhBekM?oc=5",
+            "source": "Exchange4Media",
+            "category": "Strategy"
+        },
         {
             "title": "Marketing Matters: Medimix\u2019s formula to woo young consumers - ET BrandEquity",
             "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd0haY0NDVkp3UzhTcnZfMm9XV004WEFmeC1TNWljSUdNWm9UdUY0NlRNNFhkOEVtOVlTV25TcUxBUF9GZW1kejkyX050b2drWDVucmJnVlFCdzJRZ2tReXEwTHpZd0l1ZG9QMU9DZmQzTDN5ZVlMRkRXd2FhX0tldDE2SVM3M3lLWjRlSFV5cE1nUXZaaXYxN3FaanFwMWttSTFtdmtFU3BCUW0yc0ZPU0hKbXc3bE42azFzSm1ORl9jSk1xSGwzWDQ4NNIB0AFBVV95cUxPRGRTRFFCZ21QdEJuV0ViZ3pkTmk3NEZnZlhsSDBoc1F0VmJYSUFpUjhNNnNJUjhubUhTa0VjZmcwMThkX1pXZzdzaFZrZDJ4aDBnQmdnSUR1OUl2eTZueTdsdUJkV2xBVDQ2ak8yLVJIUzVBZHJzWHlmUy0tcnNweHRsTjlqWm80eTYwV0ZSQnpMdEk0S0hNMGlvb0hsZ2tPN3k5LXk3d2dGTkNyeTg5azRBRHhMemR3Vk9GU2E4aC1sdVFqcnh4dk0wN1otazhY?oc=5",
@@ -21,21 +33,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Hilton Mumbai Intnl. Airport Appoints New Marketing Manager - safariindia.com",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tVWp1ZmV5S1BuOXZtbDVkQ1B3N1lfZXJaVlRDcWM0YkZVWGJ5S05UWmNTbmFYdy1KUG1uSHVuX245MHEyT1hJWWZ5Wm5RMGEwZkwySjZWX1lrQkRrYXo1MTNfaVZ6ZlE?oc=5",
-            "source": "safariindia.com",
-            "category": "Strategy"
-        },
-        {
-            "title": "Devyani International sharpens AI, creator-led marketing strategy across KFC, Pizza Hut and Costa Coffee - India Retailing",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1RRdnl4S3Zpa19yU2lpREU4MmwtVE85Y0lreTVzZ2w2OVVpZ1BCZUdkRWQ3Rm1ZWExnVjhVdEdwczk3U3VWODUyOGxUNHY1bVd2bWlFNFQxNDdzeTFqSXpKVVBtY09YUXdNdnJVR1M3d0xPNkpxcEdPVGxZZkV5V0FiOFNkb2x5SmZkNjk4M2U3UFN2Wi1veFA0YWJyUjdUSWszaXpxMl8yMDAxMWZmZjVNdk9YV1Q1aFZ2Y0FNdmlTTUdrQ3c5R2h4amo?oc=5",
-            "source": "India Retailing",
-            "category": "Strategy"
-        },
-        {
-            "title": "How India Shops Online 2026 - Bain & Company",
+            "title": "How India Shops Online 2026 - Bain",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
-            "source": "Bain & Company",
+            "source": "Bain",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
