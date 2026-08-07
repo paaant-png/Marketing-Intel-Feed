@@ -1,13 +1,19 @@
 {
-    "date": "Thursday, 06 August 2026",
+    "date": "Friday, 07 August 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the ruthless obsession required to win, alienating some to deeply delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging.",
-        "seed": "nike3"
+        "brand": "Spotify",
+        "campaign": "Wrapped: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They playfully roasted users, gamifying data to make sharing a cultural status symbol.",
+        "lesson": "Data is boring. Data identity is viral.",
+        "seed": "spotify4"
     },
     "news": [
+        {
+            "title": "9 Top Marketing Trends of 2026 - coursera.org",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kaWVqd3NtQndNcXNZNGdSVF9lUWdfZmJ6RHQ4VXhmc1F1V05qSDR1UUEweXc3V1V1VV9KSDI4dFplRWNaVDY5aDh1b05Wa3NMZWpiTUJuMzh0bHpTdUJZ?oc=5",
+            "source": "coursera.org",
+            "category": "Strategy"
+        },
         {
             "title": "We chose a joint venture because India deserved more than a franchise model: Andy Hornby - manifest-media.in",
             "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbWFscnlVbXRYOHYtd01oaExpWk5KRTdpU0RTUDNHSHFyVkdDWFQ3enFaZUJfdlB3Wmk0YkZ6RmdTY3VsV3owaUpRVUQzbWY4TlF1RVFUQ0dZSUxTYldWcUFzNTlLYXRfTFJKQk5CWWN5c2tHSHU0OVBfdmtRVFNKalJ1VmdtbzlOLXVUVVFjb1pBUm1GWkhKTk4tQkR5WjFaYVdOOXRMZXpyOTVGdWhIQUdvVzN4YTJzQTdoX1h3?oc=5",
@@ -21,21 +27,21 @@
             "category": "Strategy"
         },
         {
-            "title": "Driving Growth in India\u2019s Display Market: MMD Singapore\u2019s Dual- Brand Strategy - IT Voice Media Pvt. Ltd.",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQnpEc0Q1U1JpalhOTXppNU5teHltMTlQcFBaVW9IU0U5SEpqU3NOQ0ZFN29tTDN1MW5HWTdIRnFLUWZXY0lfMUFYakF6a2dqYTBaTkNDNmEzbEluTjAycDVzWTczZXRjNmNXSzNCR250SjNieHl4VlluZDFUbzNaaVlDSjF3ckswVFM3YWQtN21xQjhIamNDa21FTXZFZ3I1?oc=5",
-            "source": "IT Voice Media Pvt. Ltd.",
-            "category": "Strategy"
-        },
-        {
-            "title": "Cond\u00e9 Nast India appoints Kunjalik B as Director \u2013 IPs & Events - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU20xUVNqTkpDOTNsd3BFSjdYSUpqQzVUNUdaOE9odGEteDBONzdDamdEQzdpUTFGV2RHZURwNDBySWRaNDFwbEc3VmxlWjdnZVZfS01iVmhLUHdWTjFiZHJhTzBWbFRmVnlDRkhhR2dMWmhHVkNnTkxsVmdHTDdQWEE0M0xudjJNLUNKM3pmS1MtdkxQbnVRT1IxU2FIZmJ2RDF0bHN0bzFrV3JpaENKbVlIb3VNbTZXMUotbzhBekM?oc=5",
-            "source": "Exchange4Media",
+            "title": "Capital One India appoints Aanandita Bhatnagar as Head of Corporate Communications - Passionate In Marketing",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWTVfV2FzUlZ5OHVOcnJYcTljVmVUVjV4QW5uR213RWFUOGpHaWtnQnE0TkdCSWJqY3EyUFNZcFlremJkZjNMRXdJSEZSel91bEVhd0xnREZHNEZwM25YSHRfcEE4RnNGbjJtYktlU3lMMzI2RG5Cek5fTFJDOEctdGV5UFgwNVk0NW04dmJsZjJocWZlSE1wSlBFNng5OExLazc1VEZMQ25zZU9yYlFKdXBPRkJEQ1kxR2hYcm1R?oc=5",
+            "source": "Passionate In Marketing",
             "category": "Strategy"
         },
         {
             "title": "How India Shops Online 2026 - Bain",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
             "source": "Bain",
+            "category": "Retail"
+        },
+        {
+            "title": "List of 90 Rural Ecommerce Startups in India & Market Trends (Aug 2026) - Tracxn",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVWQ0cjRlUmFxc1B4WVNBMEJwdTVxdkVhZWpocURCdGp5dEFTS0JlMnEzZlY2R01HSjVLM2lEUGY3T25Sb25CMjRJTEdkcUhEZ3RabC11RERrYnl1dElnUTk5ZHVyRTdFUzl2REViV1J4NzNySWNrMkR0eUZuOHRlYklOZXhaT1RYYW80eUNYMTdnend1VnpMam1aNTBjTGVfbDlWNnNRa2ZWbHZS?oc=5",
+            "source": "Tracxn",
             "category": "Retail"
         },
         {
@@ -49,30 +55,24 @@
             "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
             "source": "NIQ",
             "category": "Retail"
-        },
-        {
-            "title": "Beyond Easy Growth: How Indian Ecommerce Will Be Tested In 2026? - Inc42",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEtVeWMwd0RXSGdOYnZWa0NRRHQ5RGJTNWxyZ3NYNFBtYnF0UWptcTJYb2JxTENyYnRmVl90b3dYNGU3VHp6ZmFmd04tTTJxaEJYU21PeTlvN2Z6WW9lYjJrLWZFcmY4Yzhpb2N2NGVzYWQ4RjMwVmc5cGJxd3BrNVl6WnFGWUZRWVFB?oc=5",
-            "source": "Inc42",
-            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
