@@ -1,23 +1,23 @@
 {
-    "date": "Saturday, 08 August 2026",
+    "date": "Sunday, 09 August 2026",
     "story": {
-        "brand": "Liquid Death",
-        "campaign": "Murder Your Thirst",
-        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
-        "lesson": "Packaging and attitude can differentiate a pure commodity.",
-        "seed": "liquid5"
+        "brand": "Oatly",
+        "campaign": "The Meta-Billboard",
+        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
+        "lesson": "Self-referential transparency builds instant trust.",
+        "seed": "oatly6"
     },
     "news": [
         {
-            "title": "Binit Kumar Elevated as Head of Marketing \u2013 Health Supplements, Hydration & Baby Care at Dabur India Limited - hrtoday.in",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMWJvZjkxRElUQXVvSGFLZ0tydkhEUzlXWTc0M2tfaVJKR3lnbmliN1JZbmFYRjdZNGE3aXJkZVY5dWdyMmdPTW83eWdLUXEzQ2RoVmF2WDNmTDRiM3dzdGtqM0dwYldlZEhDNG1xS01za0huNWg0dXFWSzdJWElUa21ZdlU0blhoX0VDdmV3eFR0MjdfUGlpRTZtNDBuZVlWcHdTZm5MeGI4V2tMTW5MQy02d253LThjanNNSHNDY04?oc=5",
-            "source": "hrtoday.in",
+            "title": "Marketing Matters: Why Omnigel marched to Kanwar Yatra - brandequity.economictimes.indiatimes.com",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdmZMZVlCaWxPdkNwdnpKRDUtSGprR1pXazRqbXFxSFlqbWh1d3lWX0NIV0xZSldBdGpIRDRyZUJLNmREVDJfUE1BaThMWGU3bTA1bl8wNVlBNUpRX1IwZWpyenVGVWpuQ0kyT1R2UmVMM0xOV3VaZHRJVEROYnJRLU8wVm9VRi1mRUQ4U0x3T2NUTW1jYlR5NzNzdU11a2ZkaVV1MlZrQ05CcHU0U1U1OG5pS0lHejhSNmVQLWF5X3JFWV9Ya0HSAcsBQVVfeXFMT3dzVmlHNXIybWdlQnFkaXA4TFlrTWU0d3RhRTlOTDJFeWpLc0hpeWpNMzZxMjdVUEt4bW9SQ2V6dmFNOHlDQlFBVDFLd21YR3NFYW8teGtVTUJPRmhKNVltUUpGWXJ0dl96Y2pndW1nQkRnM1FicE9TX1VaaUhkTno1X0RWRGQ4RV9XQ2V4UWNwZFhQcFZsMXBWR0NfM1VMbnJmdkFMbjBUODNHU3A0bEFXWUNlcl95cGRzQU9icGZ1ZzdfQ1gwWVo2Rkk?oc=5",
+            "source": "brandequity.economictimes.indiatimes.com",
             "category": "Strategy"
         },
         {
-            "title": "Aanandita Bhatnagar joins Capital One India as Head of Corporate Communications - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOblNXUmhmdE1kVEkzS01EWGl5SzRvS0N0cUZUU0otcHVUb1ZvNk9kQUoxZ0I1NUVIcmlkWEx1M1QwN1FrLWxyeUVtbU41MVVlRDI3d2NOUmYxWmVXYUkwR2xDYkQ1RUJNdXRkRm1YSjhZQ0RhUHdVUVZsSUJwd2V1VWM5eWJob0V3Qm9HeVVBb3RlVjJqOUVrbVktZFR5YXpfam1rYjBURTNDYk16VUpfcEpFZ3dhLW43bXhKV3BBekgtUk9NeWJBdDZsWW91S01YZm9EdDVVaGNvUmYxczVmQkdmUlg3RHF2NUJZNUtwNA?oc=5",
-            "source": "Exchange4Media",
+            "title": "9 Top Marketing Trends of 2026 - Coursera",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kaWVqd3NtQndNcXNZNGdSVF9lUWdfZmJ6RHQ4VXhmc1F1V05qSDR1UUEweXc3V1V1VV9KSDI4dFplRWNaVDY5aDh1b05Wa3NMZWpiTUJuMzh0bHpTdUJZ?oc=5",
+            "source": "Coursera",
             "category": "Strategy"
         },
         {
@@ -33,46 +33,46 @@
             "category": "Strategy"
         },
         {
-            "title": "How India Shops Online 2026 - Bain",
+            "title": "AI And E-Commerce To Drive India's Consumer Economy To $1.9 Trillion By 2030 - Rediff",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXVRTHVYVEgyemJadE8yb29jSlVwaURCN09YQ3pBZFRKTk1NSzdrUVFlQWgxcWd1TENLeDdyZ29ya0lQZFhjdXNScDhOOTRnQV94TjFGMW12MHlTczNnWndmRzAzVG1BT1ZVRE4yNnk3SGEyZTkzeWY4MEhZUUNja2tWeF96VTVmZHNFQUNZSFRZSTFtUVdkU2hVZnV4SHVRbGlEWC16SdIBqgFBVV95cUxOOFBMZ0Z2UVdTOUluRTFwWmRVNGpGRjEwWko5OEQ2azRDRzB6MTlCaVBrTk5HR3NHNE4ycW00QzFlZ2xwbjlCdnNzeEw3aUxFV3dPZno2dS1QeXBGTENULWF2NU9lMnhYVUFxTE05SERRZk5jaVROQ0IwdjROSzlXUlZKSFl6WHZDZDFJdUtxRndndTh2Q193U3BFTjY3X3RXTExKRFN1MHV5UQ?oc=5",
+            "source": "Rediff",
+            "category": "Retail"
+        },
+        {
+            "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
-            "source": "Bain",
+            "source": "Bain & Company",
             "category": "Retail"
         },
         {
-            "title": "Shopping Trends in India: Insights, Categories & Growth - shiprocket.in",
+            "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
-            "source": "shiprocket.in",
+            "source": "Shiprocket",
             "category": "Retail"
         },
         {
-            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - nielseniq.com",
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
             "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
-            "source": "nielseniq.com",
-            "category": "Retail"
-        },
-        {
-            "title": "List of 90 Rural Ecommerce Startups in India & Market Trends (Aug 2026) - Tracxn",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVWQ0cjRlUmFxc1B4WVNBMEJwdTVxdkVhZWpocURCdGp5dEFTS0JlMnEzZlY2R01HSjVLM2lEUGY3T25Sb25CMjRJTEdkcUhEZ3RabC11RERrYnl1dElnUTk5ZHVyRTdFUzl2REViV1J4NzNySWNrMkR0eUZuOHRlYklOZXhaT1RYYW80eUNYMTdnend1VnpMam1aNTBjTGVfbDlWNnNRa2ZWbHZS?oc=5",
-            "source": "Tracxn",
+            "source": "NIQ",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
