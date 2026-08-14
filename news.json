@@ -1,17 +1,17 @@
 {
-    "date": "Thursday, 13 August 2026",
+    "date": "Friday, 14 August 2026",
     "story": {
-        "brand": "Burger King",
-        "campaign": "The Moldy Whopper",
-        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
-        "lesson": "Ugly truths are more memorable than pretty lies.",
-        "seed": "bk10"
+        "brand": "Duolingo",
+        "campaign": "Unhinged Mascot Marketing",
+        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
+        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
+        "seed": "duo11"
     },
     "news": [
         {
-            "title": "Quora appoints The Nimble Labs as authorized sales partner for India - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM1FBbExsU2cwOFo1NmtWRGZzRV9WM0RQTnZTdm5BMEhyVFFkZk0wM3FCTVVwcnpQRmtwelZGM0FMQXM0S0I1RG9HRXFLOEh0dFZLY3Jtb2xLa0RPeEswOGxzX2YyXzhCNENsT0JWekhvR3VjLXUtbGE1SE01OGgtVjRNOWNHTnZJanNTYmhDazZleUVhUkIxQl9RN3VHTHVJNk5nNFlZUWZJcldDc0VGTHFuVmZXMmFuQjhTcUV2XzRublRZRzhqS3FoWmdqZDg?oc=5",
-            "source": "Exchange4Media",
+            "title": "Wild Stone: Building a Masculine Brand Positioning in India's Deodorant Market - MarkHub24",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTU2Z2xWMTFNek16Y2dReTU1c0l1Vl9HY0p1VFVLbDdSNy1HUXk5MFotVkU4dHFUTkNKVm1UQWhjeWk3amwtdjdReVd2N3YyTzNQWl9nVEs0Tl9McmtVMkd4YXNrZGlUbTNkUmI2d0hvM0tDSXhFYnBsVmdoZng3UHVPa3ZPMVRrWXNyak5SbnhRZjNqMFBTektmT2JFaWtsUk9acjJXbFBxT05K?oc=5",
+            "source": "MarkHub24",
             "category": "Strategy"
         },
         {
@@ -21,15 +21,15 @@
             "category": "Strategy"
         },
         {
-            "title": "Schneider Electric Elevates Ratnesh Pandey to Chief Marketing Officer & Vice President \u2013 Marketing, India - hrtoday.in",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPME1hdVdVWld3c1JzZWhqR25oWWktYnVQOHdJcVVFY09ZZE0tZDdreFhCSHI0VEJ4Nk9nZEs0RE1aTGJ0RGw0VlZiSXhiUHZ3V3Z6NXM1X1RRYmh2TGhNMVlUY2pSQ3lRQ2FyTTRWNFZZS0F2YW1ZWFZSNGNWQmN4U25GOExsa2twWFlvSUVVUXRwczdNRVJ1NFhJWVotMENtbUJrb1ptNnFQckpFNm5wa2tTRmdXczJENG9wNA?oc=5",
-            "source": "hrtoday.in",
+            "title": "Swadeshi 1.0 vs. Made in India 2.0: How India turned a 1905 boycott into a 2026 business strategy - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOOTdhZG5EeVVwMUlrbk1STmNfamx3UmY5dFNXOFlyTGZXWGNPSXpvdWI3cDZjR1JWd0dCWlo2aDVvdjc5ZkQydk50NUhVazNZX2tsc3ptVTNLUHlpN0xsM0ZVLVU1WC1QaEN5TG16VWdfT0xvSWo4V3RPM0dMV2xKLXNrZkFlMTJMU2FvQUJ1aFFSYkdSdHJkZ3dEWVFNU1FyNU5xZDA2emlXQkNsd0dQS01PNWhQRXBpVWRmajB6amFPeHI1SVZnb1RNRkxqS2J3N0M2MGhxSHg3aFp1dVZVb2h5a1BvRU0zSkQ2azhWZE10TjdiR3hkeHBOcWpRR05OZUpDam0yNjB4dlhlMnhCVlBKU0Z1R3ZLdTYwcm5xYzFwUlhTdUZsVnpxazdFRHpYYnJhWXktR0pTRVAyWmlPMtIBxgJBVV95cUxQM014N1loX3JqLVBIdmFkQ2VUQjBkNWd4dUdqODl1TndBdEsybWU1ajJETEZqSE5UM3R4TFlIT3JnMXlyZmx3cUhkZjhRTEpUaDB1bHVYbENrR2pXZjFZNUFLZjZjN1duT2ZOQS05Q2pwNGVqcGRMVko2LXVrd1Qya0stWEF3TDNVTkJPMFAtWGgtV2x1c2dITUtOVWFYb1BlZ0h3UDF4cTlaUmg4QktmVjVTeWdrb1dKTEdEV2trSk1XdGI0QUFMRnBkSmxlVnl6WU5yVnBUZl9mLWxrcWJ6RHZvUGtXZElDUEtKbHh0dDhCTHpnVmxVdUpfaXB4X3NHemVPWjFRQmdMaEpxVUpoMUpiMTN6ei1keE14X21zVHBzb0VFQ1NxNEVwMFlsaEcxaS1oZjZERnN5Q0xpY29uLUhzVC1vQQ?oc=5",
+            "source": "The Economic Times",
             "category": "Strategy"
         },
         {
-            "title": "Schneider Electric elevates Ratnesh Pandey as Vice President, Marketing in India - bestmediainfo.com",
-            "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ2ttLUYyYkFIbk1fb001Xzd1bUFyM2tXdDByeEhmYmlPaGI3SHdUemxjcU9heENhcEdMc0lYb3pESV9jNFk1d3FRWW9IVUlhQjBRNTMyNHdyakJZN0xnNUxMM1Z2azdxMnFwZWxDcXc4UXRUb0Rkelo1YU1RQXR2TFBBZnNJNURBSGQ4Ymozc0lsSHNacVI5U3JseEp0YlEwaVNiQnAxLUpNNGlsaS1LNUlpVGJRM3pJdklCUm4zdG9rM0hmczhVeUV2a1FXd3FlUXNFaW1BdWQzWElZ0gHcAUFVX3lxTE1Da20tRjJiQUhuTV9vTTVfN3VtQXIza1d0MHJ4SGZiaU9oYjdId1R6bGNxT2F4Q2FwR0xzSVhvekRJX2M0WTV3cVFZb0hVSWFCMFE1MzI0d3JqQlk3TGc1TEwzVnZrN3EycXBlbENxdzhRdFRvRGR6WjVhTVFBdHZMUEFmc0k1REFIZDhiajNzSWxIc1pxUjlTcmx4SnRiUTBpU2JCcDEtSk00aWxpLUs1SWlUYlEzekl2SUJSbjN0b2szSGZzOFV5RXZrUVd3cWVRc0VpbUF1ZDNYSVk?oc=5",
-            "source": "bestmediainfo.com",
+            "title": "DoubleTree by Hilton Pune Appoints New Asst. Marketing Manager - safariindia.com",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3OGh4ZDVHZFpkQVF2am1uY1YzdG80U0MtU05Nc2c2VTZ3bVdmVkRYcThpWnNqUDB6MFFEODN5MlFRNWF1cTRWMm8wamltX0hwMWcwMXI2YVk0MGpic3NiYUktVE1VSmVXVEJ2dkROTXRFWi1aQmJOV01n?oc=5",
+            "source": "safariindia.com",
             "category": "Strategy"
         },
         {
@@ -39,15 +39,15 @@
             "category": "Retail"
         },
         {
-            "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
-            "source": "Shiprocket",
-            "category": "Retail"
-        },
-        {
             "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
             "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
             "source": "NIQ",
+            "category": "Retail"
+        },
+        {
+            "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
+            "source": "Shiprocket",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
