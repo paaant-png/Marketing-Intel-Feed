@@ -1,19 +1,13 @@
 {
-    "date": "Sunday, 16 August 2026",
+    "date": "Monday, 17 August 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization.",
-        "seed": "zomato1"
+        "brand": "Cred",
+        "campaign": "Indiranagar Ka Gunda",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting a historically calm celebrity (Rahul Dravid) in an angry, chaotic role. This contrast created instant, viral meme material.",
+        "lesson": "Disruption happens when you break an established archetype.",
+        "seed": "cred2"
     },
     "news": [
-        {
-            "title": "Schneider Electric Elevates Ratnesh Pandey to Lead the Marketing Function in India - ET BrandEquity",
-            "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcUpnWENIU2JoMndEWnhBWXJUbERXQmVkSzAwZHN4Sl9adG1VWDdRVGhteGZmdE9fR2tRSG5sN25sS1B6Rm56R052MjRvbkRBOGNhdkZEbGdRZ1NXdXFiYlpZeDJvRVpvVHMxbFJxeFJ0emJTd1o2NlFsR0p0bkUwOWJWeDhubTI0UmVTV2lUc0xHeFRGM2JBTkdRX2xUR21pNVlTajk5MlE3dG1wM3RZQlNfSFNLX3lXb3hkRF9WdFhOV1gyZFVYQk9LWEdQbTB3Smpya051eWxnVzNacy1OZU1NN3BFOVJvQWFDVGp3aU5ZYlRtRnhj0gH8AUFVX3lxTE1wdnRUQVNvWUFyZ3NXcHpqaXRmUEdLOHFOLWZ0bVR5VHJDWU1uRHh5V0xsYzZSYm5HTHZUTy00clQzQ0dFTG9ZaFU1V1dwa29kaGVjV3AwTFhyZnI3ei1IVG1hU1NRaV9wUENDemhSdTNheUFnMmNPT2kzNjQ3STdkVGZkRnVLaDVCV21WeklUWWRlYUR4S2paZUtfdmZRa0tVVUU0QnBub3VrYXFXLUNsWEs5YUM2Q04yOG5RWjlFVmpnT2Zyb3JldmxyblJ5aXM0UjR4ajVCUXhVZDRwSXRmN1FqUXVydDg1WVBvb2tzV3VyQU9scUxtSThmbA?oc=5",
-            "source": "ET BrandEquity",
-            "category": "Strategy"
-        },
         {
             "title": "Swadeshi 1.0 vs. Made in India 2.0: How India turned a 1905 boycott into a 2026 business strategy - The Economic Times",
             "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOOTdhZG5EeVVwMUlrbk1STmNfamx3UmY5dFNXOFlyTGZXWGNPSXpvdWI3cDZjR1JWd0dCWlo2aDVvdjc5ZkQydk50NUhVazNZX2tsc3ptVTNLUHlpN0xsM0ZVLVU1WC1QaEN5TG16VWdfT0xvSWo4V3RPM0dMV2xKLXNrZkFlMTJMU2FvQUJ1aFFSYkdSdHJkZ3dEWVFNU1FyNU5xZDA2emlXQkNsd0dQS01PNWhQRXBpVWRmajB6amFPeHI1SVZnb1RNRkxqS2J3N0M2MGhxSHg3aFp1dVZVb2h5a1BvRU0zSkQ2azhWZE10TjdiR3hkeHBOcWpRR05OZUpDam0yNjB4dlhlMnhCVlBKU0Z1R3ZLdTYwcm5xYzFwUlhTdUZsVnpxazdFRHpYYnJhWXktR0pTRVAyWmlPMtIBxgJBVV95cUxQM014N1loX3JqLVBIdmFkQ2VUQjBkNWd4dUdqODl1TndBdEsybWU1ajJETEZqSE5UM3R4TFlIT3JnMXlyZmx3cUhkZjhRTEpUaDB1bHVYbENrR2pXZjFZNUFLZjZjN1duT2ZOQS05Q2pwNGVqcGRMVko2LXVrd1Qya0stWEF3TDNVTkJPMFAtWGgtV2x1c2dITUtOVWFYb1BlZ0h3UDF4cTlaUmg4QktmVjVTeWdrb1dKTEdEV2trSk1XdGI0QUFMRnBkSmxlVnl6WU5yVnBUZl9mLWxrcWJ6RHZvUGtXZElDUEtKbHh0dDhCTHpnVmxVdUpfaXB4X3NHemVPWjFRQmdMaEpxVUpoMUpiMTN6ei1keE14X21zVHBzb0VFQ1NxNEVwMFlsaEcxaS1oZjZERnN5Q0xpY29uLUhzVC1vQQ?oc=5",
@@ -21,9 +15,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Ashwini Ramakrishnan joins Levi Strauss & Co. as Brand Lead \u2013 India - exchange4media.com",
+            "title": "Ashwini Ramakrishnan joins Levi Strauss & Co. as Brand Lead \u2013 India - Exchange4Media",
             "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONXhiMFowRW9ub29ta0Q3Y2xSbGpHZU80aDBsSnJhWWJRNENvSnRReDlNc1pBN0lsUTZBbGdjYXEwRjJzWGRaVWtGY3QyanRHamhLOUwwRDE1Q0hSOUxULXRUX0g4T0FHN0Z6eXd3VmxQTGt5Z0FZc21tNFNxT2RiS2h6cXVwQWxWUEVvTkFZVWdMVXh1eDVELXFZRWtwXzlnT3JVNWRQMEhKWl83Q2loaTlIQWU1ODNBaDloT0VFbFhwaEIy?oc=5",
-            "source": "exchange4media.com",
+            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
@@ -33,9 +27,27 @@
             "category": "Strategy"
         },
         {
-            "title": "E-commerce Impact on Agarbatti Market News, Insights & Timeline - exchange4media.com",
+            "title": "Schneider Electric Elevates Ratnesh Pandey to Lead the Marketing Function in India - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcUpnWENIU2JoMndEWnhBWXJUbERXQmVkSzAwZHN4Sl9adG1VWDdRVGhteGZmdE9fR2tRSG5sN25sS1B6Rm56R052MjRvbkRBOGNhdkZEbGdRZ1NXdXFiYlpZeDJvRVpvVHMxbFJxeFJ0emJTd1o2NlFsR0p0bkUwOWJWeDhubTI0UmVTV2lUc0xHeFRGM2JBTkdRX2xUR21pNVlTajk5MlE3dG1wM3RZQlNfSFNLX3lXb3hkRF9WdFhOV1gyZFVYQk9LWEdQbTB3Smpya051eWxnVzNacy1OZU1NN3BFOVJvQWFDVGp3aU5ZYlRtRnhj0gH8AUFVX3lxTE1wdnRUQVNvWUFyZ3NXcHpqaXRmUEdLOHFOLWZ0bVR5VHJDWU1uRHh5V0xsYzZSYm5HTHZUTy00clQzQ0dFTG9ZaFU1V1dwa29kaGVjV3AwTFhyZnI3ei1IVG1hU1NRaV9wUENDemhSdTNheUFnMmNPT2kzNjQ3STdkVGZkRnVLaDVCV21WeklUWWRlYUR4S2paZUtfdmZRa0tVVUU0QnBub3VrYXFXLUNsWEs5YUM2Q04yOG5RWjlFVmpnT2Zyb3JldmxyblJ5aXM0UjR4ajVCUXhVZDRwSXRmN1FqUXVydDg1WVBvb2tzV3VyQU9scUxtSThmbA?oc=5",
+            "source": "ET BrandEquity",
+            "category": "Strategy"
+        },
+        {
+            "title": "E-commerce Impact on Agarbatti Market News, Insights & Timeline - Exchange4Media",
             "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenJGNDlLT01FOU5WcENGdkoyWmIyV1cwVWpUMkI2X2JyT1NwUkEycnZWYlFGaEt0Z1F2NDgxRDFsNWo4NEtkT1h0RTVBNWNUWW9VTGlnVnhKa3pDanJFLUNoMHEwaHc5N29qN1V6dmwxcFo0aDhPd0JrNW94aWhWa3E4MXExR0JMV1VzTTFRcWZHb3JaMXc?oc=5",
-            "source": "exchange4media.com",
+            "source": "Exchange4Media",
+            "category": "Retail"
+        },
+        {
+            "title": "India\u2019s Digital Market Growth, E-commerce Logistics, Food Delivery Trends - RS Web Solutions",
+            "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQVWV5RjNySVBFMjIxd3ltbVFac0NBUUpOd3BQVjF6cGxIQ1NTRVF1ZjktZVR2Y0FjYVBXb0tuaHkzd0trRTJpRzBMckprWTRlSnRQS1lCb0RyOWhURUh5Z1ljQWI1YXF3UGNmYWFUVE9CbXpkUGxLUHgwdDVZUlR6bG8xeXVxdV9qS3B3ZjZsQmRuY195ZW5EZVZFcExnZGZsc3F2MW9tdTNvbTVqTGlXZE4yOGlLN3NxcDFZUkdiLS01a0g0dTdIYy1UXzFFblpmWDUzc0RxblZWUE15dnpXNHQwbW12RG1GNFJudzZPclJkMlROM2VlZm1RQk9HRVhhMjEzdmFTWFJ0LUJZaXI0UGxRTVpNQXIzcVMyV3lyRXNZUmtpR1hTZnd3?oc=5",
+            "source": "RS Web Solutions",
+            "category": "Retail"
+        },
+        {
+            "title": "List of 1,871 E-Commerce Enablers Startups in India & Market Trends (Jul 2026) - Tracxn",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYVo2cDF3dzJQTVM1eGpfZ3RkemN5Ql9wa1FUNFV0ZXNwbmxpQ01iN2xnbDlLLVB6c241dU5KVXZsLWVyUFRSMTN6QkYxZXF3Z3dLYVNacGJYTlNmRHpiMlMweUlnLS1vX0dSdnVfbE5VcVc3aVV6TkNjaE4zM2VXdE9XUExuSlJsSWYxRFcyZkdpQWFERzdoMFV6S2F6WThILXFvWGJ3ZkttSEs1RVM5WXN3?oc=5",
+            "source": "Tracxn",
             "category": "Retail"
         },
         {
@@ -43,36 +55,24 @@
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
             "source": "Bain & Company",
             "category": "Retail"
-        },
-        {
-            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
-            "source": "NIQ",
-            "category": "Retail"
-        },
-        {
-            "title": "Shopping Trends in India: Insights, Categories & Growth - shiprocket.in",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
-            "source": "shiprocket.in",
-            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
