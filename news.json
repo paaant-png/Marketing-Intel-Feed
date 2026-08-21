@@ -1,35 +1,35 @@
 {
-    "date": "Thursday, 20 August 2026",
+    "date": "Friday, 21 August 2026",
     "story": {
-        "brand": "Liquid Death",
-        "campaign": "Murder Your Thirst",
-        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
-        "lesson": "Packaging and attitude can differentiate a pure commodity.",
-        "seed": "liquid5"
+        "brand": "Oatly",
+        "campaign": "The Meta-Billboard",
+        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
+        "lesson": "Self-referential transparency builds instant trust.",
+        "seed": "oatly6"
     },
     "news": [
         {
-            "title": "Siguler Guff raises $500 mn for India mid-market private equity strategy - The Economic Times",
-            "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUHZZcDVKZldvajB0aWhDQWN1V0xadzlFS3g5WVdyUWdlWXRxZmhyZWN6OElvOExiOHFqbk81eUdRRWFwTmVXOFJPTUVCRWVjenFJZmktcmRJdjFXYnlYZkhzQ1Z5QkJKV3FSLWo1QnlZRnVhU2gwdGFnWHJWbFU3TEhydmdyYUZwRkM0dm1DNXItdkVoOHpwNkZzT2hkRXUtRlJwcDhQTG5CbVYzOVV2bVdHQ3RqRlJVaFZzSXNzUjZHaTktdlNEVUs4WDFzbHdocDV4Ynd1NGkwZGM5aThXTXE3SDQ5b25mNEN2UVdDZG16UGNK0gH6AUFVX3lxTE5JdE1sUUlia0xHN3dNYVYxTloyLVBSSnVSaUZvanlvdjVaTGR4YnRPLXJyYjE1WGtqMncyb2ZVUUhCR253bzE2cWRwS2F1WUNxSVFQSE9vN2c0ZlFJM1NCRC1adWs2WTNBOE13MmxyY3hZMFB4TkhQZ1lyYUM5QkJNN0hCRHFiei1RN0p3TUtjeGhYNUhOa1B1YlFFeHVmdEt4SWxkVjc5M01aR2dJVFpITElpVDFvZlBvRERobnppWWtLX3Y3UDV1YTgxX3JDbnZhN3h6WlhYMWU1aWN5aGVzLWtxZ0h0ZXVtZ3lRQ3R6VWJPazBEZFVLV1E?oc=5",
-            "source": "The Economic Times",
+            "title": "Daikin India's Premium Brand Strategy in Residential Air Conditioning - MarkHub24",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORWFEcGpsQjYyXzlmS3NzWnZmMDFDRW5KMkhFa2FOS3NiSmRDNHpLYUs4cFhyODVqNnc5UkNhVGNTRFN0U0dQNkk2NUtiMmVKME9FTkEtS29LbXI1MW9IUW9sUHMzdm9zSnZkNjQtSlUzMVRMMWxrYmxpR19mak1EVXJNRWNsYWpZOGFOZjNQVHYtODZHa1RuQVZfcGptd1VQZFE?oc=5",
+            "source": "MarkHub24",
             "category": "Strategy"
         },
         {
-            "title": "9 Top Marketing Trends of 2026 - Coursera",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kaWVqd3NtQndNcXNZNGdSVF9lUWdfZmJ6RHQ4VXhmc1F1V05qSDR1UUEweXc3V1V1VV9KSDI4dFplRWNaVDY5aDh1b05Wa3NMZWpiTUJuMzh0bHpTdUJZ?oc=5",
-            "source": "Coursera",
+            "title": "Vineet Waldia appointed Area Director of Digital Marketing at Hyatt Regency Dehradun Resort And Spa - Hotelier India",
+            "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc0JrNTJCTTdkd2tKa1QwM1RSaHJ4THlTem8xd2VqNTBzeHpwY1kwMVg0czhySUNLNEZkSm83SktKeWtqZF9ON2J1Tzdwbjc1c3l1VlVJYUJJeW9HSkhDcENpYjJneHRLLV9WcGtBUXRiRFoxNXF4ODliakx1VmI3UmNUMXotWVBEd0E3cGhpeVB2SXFNeVVhMktzSERCM0xNRE81MVRGVjNhLWdCVTJ4Rjlja0wxQ3kwZmNNYjJnOC1QRzhBN1FTaXh5ZDFYX2g1eV9kTXROR0RaQQ?oc=5",
+            "source": "Hotelier India",
             "category": "Strategy"
         },
         {
-            "title": "Ratnesh Pandey named VP of Marketing at Schneider Electric India - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU1dtLTlYazUzWUdURUNkcXc3cjEyTmxNdXhJUGNta1djc0hPUW9ablVUZWFySmFaMjRvX0I0YlRBOWQtX25JODdhYkZRRTRGVTBiMUlQSjBoSl9kdXctUjJpeDhKTmRYSXRrbmtRSUJGZkN2UmZub1o5aWUycW15Rjl6T1V3TlVPRnlMb1pIYndudm9JN3p4bDRYenlteVhXOGFDMmp1a0ZsaU9YTGJVSTVZaVF3Sm1uWXoxMHVYYkUtaVYySV93?oc=5",
-            "source": "Exchange4Media",
+            "title": "From Risk Management To Business Strategy: Evolution Of Corporate Legal In India - Live Law",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFBVVUtMRVRpOWFCS3EtSTIwMW9FbHdHX0g2dGNwVktJVGZGM3BqVnBBVXJIVjJRbHFzRmdVaE9yNE5EWXdab2VQQU1FSjE3LWl3bHNpdWdMR3lPWk5acmZQN1kxOFhWWWtYQUtrUmZuU1JHYktPM01HV0JpTmRtMndab25TTE8zMDdfenJmUWhsR1FsWU9jRFJPcF9wTVpGYkxsZjFiQmdIQi1vMm1oOEdCWXbSAboBQVVfeXFMTk52dkwteXk1cVdfamNTcU54aExjcUhscVZrdEZ2dmhXNm5fbGlYUHdXcXBnSFQ1Ql85cTNyblRkalIwcFZhVEZ3cHFXLUtWWWtqdGNUQ3l3MlpMRm9kdlZrX3J0TWJCbmZyZ3FPNE0tOTQwR3FLUWFkeV93c2NnOFlmbExuY1g0dFVOS2laSWtLLVRfUThKeU1VMld6d1lfNDhFcHd2bGQ0aHZGNC0yaDg0djlBN05rRGhR?oc=5",
+            "source": "Live Law",
             "category": "Strategy"
         },
         {
-            "title": "India is a \u2018country of countries\u2019 \u2013 NZ business needs a regional strategy to make the trade deal work - The Conversation",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQektIS3RmSGcwODJXZk1LUUFaajB6SFpHdzAtSGN6VXNuLVhrR0ZWNXJ6Uml2TmtIcE1DLTZFLS1VbGc4Rm15cVNfOEVqYmdUSVJKTzQ2RDVyNjVTM3FGY1MzNzYwTUZSbkptSU01WHZkMTNZc1VSUVpqYnJPVHQ0YmtvenZWQmN6UUdCMlpYMVpxUmNQdTZTSlpKTW9icDl5ZUhobjZaSjd3ODhGbTVnN0Y5dDRlM3BpMzFzZFdXcGhORnFNMGhiNmZyWG0?oc=5",
-            "source": "The Conversation",
+            "title": "Shivani Goel Takes Charge as Head of Marketing for Reliance Brands\u2019 Luxury Portfolio in India - CXO Digitalpulse",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYm5sMTFzMC1Ea0xHckN2WUN6dkdXQTNobWNac3duVzZCZGJJcnBDTEhmWTBtOVByN1oyRlh5ODRnNXRiMWxuNEl0MjU1cV9VNUd1VVZveDFneDYwOFdxTndZMmVQemx4WXQyU0NNYmpoWHdQOEc0VEhtWUJJemZfbVV6Wk5mZ0taTWFzMmFDb2xBeXRwcF81a3BQN01ZU2ZPRW04Z0l4ak04NEtJalRkblByYk40eVoxenlnWDhuVDdvdWM?oc=5",
+            "source": "CXO Digitalpulse",
             "category": "Strategy"
         },
         {
@@ -39,15 +39,15 @@
             "category": "Retail"
         },
         {
-            "title": "E-commerce Impact on Agarbatti Market News, Insights & Timeline - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenJGNDlLT01FOU5WcENGdkoyWmIyV1cwVWpUMkI2X2JyT1NwUkEycnZWYlFGaEt0Z1F2NDgxRDFsNWo4NEtkT1h0RTVBNWNUWW9VTGlnVnhKa3pDanJFLUNoMHEwaHc5N29qN1V6dmwxcFo0aDhPd0JrNW94aWhWa3E4MXExR0JMV1VzTTFRcWZHb3JaMXc?oc=5",
-            "source": "Exchange4Media",
-            "category": "Retail"
-        },
-        {
             "title": "How India Shops Online 2026 - Bain",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
             "source": "Bain",
+            "category": "Retail"
+        },
+        {
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
+            "source": "NIQ",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
