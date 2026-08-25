@@ -1,42 +1,36 @@
 {
-    "date": "Monday, 24 August 2026",
+    "date": "Tuesday, 25 August 2026",
     "story": {
-        "brand": "Patagonia",
-        "campaign": "Don't Buy This Jacket",
-        "story": "On Black Friday, Patagonia ran a full-page ad telling people NOT to buy their products unless absolutely necessary, highlighting the environmental cost of consumerism.",
-        "lesson": "Anti-marketing is the ultimate form of brand authenticity.",
-        "seed": "patagonia9"
+        "brand": "Burger King",
+        "campaign": "The Moldy Whopper",
+        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
+        "lesson": "Ugly truths are more memorable than pretty lies.",
+        "seed": "bk10"
     },
     "news": [
+        {
+            "title": "Garden Vareli appoints SW Network to drive performance marketing strategy - marketech apac",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVJyV1FTT3N2RzlJalYyd21FVjVUWmZrVEZNSTBOWHBQOGR1VGdNUEZqNndHZ1VIUlhpcm8tcjVhWFkxbzdvMWU4WkNKZ09rZFFIOVFOOHRGNVh5RVk2UFk4ZHd3WHcwMVVDN3VxSXd2SkUxMGx5WlROU0t5U09Pc25Kd1N0RzhfcjV3MzJGODJkOUFTM3hvMFp5WHFUQWs1aTFv?oc=5",
+            "source": "marketech apac",
+            "category": "Strategy"
+        },
+        {
+            "title": "Vijay Chauhan elevated to AVP Digital Media at Havas India - MediaNews4U",
+            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlhGRHQwNVVzWHRHaHA4Z0NwTVVFbmpiaTN2dEJIelFoN1ZXenY3bkhlY1UybDZhQU5pSEVodG5ZcXRJNjNxUXhyZXdZWmI4YVhodElTT1k3eFJhMmJSaWZURllYMExwd3ZYdDFUbExaQUhEVGViN1c1V1Faa3psRjNoS2dvWW9FM2w1R19qODQ?oc=5",
+            "source": "MediaNews4U",
+            "category": "Strategy"
+        },
+        {
+            "title": "ONE Atmosphere Appoints New Marketing Manager - safariindia.com",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IZFNjRExZY0JCZ1RGMVFqQXA2aWs2ZW0tQ3ZpdHpoV3dGbjhaX0ljQjQ1Y1pRWVhkZ2JnWGNKNzBSWGlpbEhhVmxtMWQwMzhEX09UaUhqaXU4MnVHM0FBalNIczRScy1Cd1lSaWNGUDNHbHppZ1E3aXR3?oc=5",
+            "source": "safariindia.com",
+            "category": "Strategy"
+        },
         {
             "title": "From Risk Management To Business Strategy: Evolution Of Corporate Legal In India - Live Law",
             "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFBVVUtMRVRpOWFCS3EtSTIwMW9FbHdHX0g2dGNwVktJVGZGM3BqVnBBVXJIVjJRbHFzRmdVaE9yNE5EWXdab2VQQU1FSjE3LWl3bHNpdWdMR3lPWk5acmZQN1kxOFhWWWtYQUtrUmZuU1JHYktPM01HV0JpTmRtMndab25TTE8zMDdfenJmUWhsR1FsWU9jRFJPcF9wTVpGYkxsZjFiQmdIQi1vMm1oOEdCWXbSAboBQVVfeXFMTk52dkwteXk1cVdfamNTcU54aExjcUhscVZrdEZ2dmhXNm5fbGlYUHdXcXBnSFQ1Ql85cTNyblRkalIwcFZhVEZ3cHFXLUtWWWtqdGNUQ3l3MlpMRm9kdlZrX3J0TWJCbmZyZ3FPNE0tOTQwR3FLUWFkeV93c2NnOFlmbExuY1g0dFVOS2laSWtLLVRfUThKeU1VMld6d1lfNDhFcHd2bGQ0aHZGNC0yaDg0djlBN05rRGhR?oc=5",
             "source": "Live Law",
             "category": "Strategy"
-        },
-        {
-            "title": "Bahrain Tourism appoints Intrepid Marketing as India trade representation partner - ET TravelWorld",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb0VTQWtySEZYYXFvM2JfaUNuMmlBd0ZrOFU1VlFYMWZBdWNOUkdVQlRtV2lSSlQ2UEFUVGZNaGxHV1MzTTIzVG45VXZlYjRablZGQzlNM0dMUzlpOHo0ako0YWc5MkkxXy1SUi1pMnN4MnFlTlVwb1VwdXFaLWRaeFd5dEJsc2w0NkZudDlyRG9ZaFpHQndmeTFwdFRtOXgxdlBtdzZqNUdxeUkyNHplUnJnMFg0OFZkS2tUVkJsc0NUNF9zUmttY2pqTjJfdm5jRDJVVG5ZMm50dnBuUHJFWUsydm1oZE9LNl93aDVqOWrSAfQBQVVfeXFMTTZqRkdPUUZaSXktYzBrNDlkc0NFak1adV9meWtrdkVnTC0zZTdvTjVRSnFuNWNpMzhWamdGWG1rVmhuLU9NU0lsVi1xOEhlN0pYb2tPUEYxUkljR053TlQxRUJtTGdoYzU2dG4zNTBzeThTWUZRMmNIeXpWQV9KM1JCckViTXVfOEhmVXN4ZG5sdjFOQ0poYlExU09CRUE2YjdXWHlGc21iX0Jsa2pVSlNxcDFONUUtcXhwU2dTaFg4S0Nrb0xRcEhqREdzdEwxSnV4cGt4SXpzZXpOM3ItRkRFcHhXR1UzUUJDN1NPek5fVmZrdw?oc=5",
-            "source": "ET TravelWorld",
-            "category": "Strategy"
-        },
-        {
-            "title": "Sir Martin Sorrell Joins India\u2019s Marketing Leaders For An Intimate Evening In New Delhi - BW Marketing World",
-            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTmJSMnJyRWpvclc1TEtEQjNPbE4xMU80RzAzQTZkdExRQUowNmMwUEpfYlJuY0tZekY1eUd1NmlXcjlBNlFzbkNCVU4xWTl4T2V3MExrR3VzUGlpTkhlQ0l6ZS0xM0RhWHk3WlVkR09TaVBGTE16SEVJbjBzRU9WdjA3NlpVdG54SDVYREdISUxKZjlWNHpQa2h4QkFwdFhFOF8yT2RwSlpKY1F2TFNNb2NUZzlrS19lZ2Zub3I1N2V5RGVjN3I1U2ZSaTB2dkds?oc=5",
-            "source": "BW Marketing World",
-            "category": "Strategy"
-        },
-        {
-            "title": "The 'Missing Link' in India\u2019s MICE ambition - Travel Trends Today",
-            "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JbUwzMUdsbkJZRHB3S3Y4d0o5WDRJM2YtNmFzdTcya1NGakhIN1pJRGhPZFRuUERibWxvM0VidEU5ZE1iVHkwOWd0RXQ5S05UMU4tblhlZENtcXdGVkNtb2lYUGZ1aVU2d0xwOWlwejY3Zl9oenJQVVRVd3FnZw?oc=5",
-            "source": "Travel Trends Today",
-            "category": "Strategy"
-        },
-        {
-            "title": "India Ecommerce Platform Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTZBRnJHcUEyRG1kOTY1YzdiN2JMVUpnZTFaQXlfQTJ1V3I3Wm42LTU2VVBnbjhPLW9HWG0zdDh0emYzMjZqVGZFR05DaC1xRlg2c21rN2dUU1Z1ZlRqRlAwTHNnb2o2c0lOYkRHNkhHZ19tQUhnRGpEWFk2UG1EOF9uUEtEWEdicWJLdWpoVDIyQVFG?oc=5",
-            "source": "MarketsandMarkets",
-            "category": "Retail"
         },
         {
             "title": "How India Shops Online 2026 - Bain",
@@ -45,9 +39,15 @@
             "category": "Retail"
         },
         {
-            "title": "How Will AI Transform India's E-commerce Market by 2030? - analyticsindiamag.com",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
-            "source": "analyticsindiamag.com",
+            "title": "India Ecommerce Platform Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTZBRnJHcUEyRG1kOTY1YzdiN2JMVUpnZTFaQXlfQTJ1V3I3Wm42LTU2VVBnbjhPLW9HWG0zdDh0emYzMjZqVGZFR05DaC1xRlg2c21rN2dUU1Z1ZlRqRlAwTHNnb2o2c0lOYkRHNkhHZ19tQUhnRGpEWFk2UG1EOF9uUEtEWEdicWJLdWpoVDIyQVFG?oc=5",
+            "source": "MarketsandMarkets",
+            "category": "Retail"
+        },
+        {
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
+            "source": "NIQ",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
