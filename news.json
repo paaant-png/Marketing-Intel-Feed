@@ -1,13 +1,25 @@
 {
-    "date": "Tuesday, 25 August 2026",
+    "date": "Wednesday, 26 August 2026",
     "story": {
-        "brand": "Burger King",
-        "campaign": "The Moldy Whopper",
-        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
-        "lesson": "Ugly truths are more memorable than pretty lies.",
-        "seed": "bk10"
+        "brand": "Duolingo",
+        "campaign": "Unhinged Mascot Marketing",
+        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
+        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
+        "seed": "duo11"
     },
     "news": [
+        {
+            "title": "Treebo Hospitality Ventures appoints Nancy Bhasin Singh as SVP & Head of Brand & Marketing - Hotelier India",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRE9tT3Q3VzJiWTUxeUJCcWhibktPWDdTV1FsR1RiLUhwNE1vVk4zNVc2OHpOU1g0ODJvUWNHWmNYYW4yMUFVekpkc2VuODgzaUFVT094ZFhlOXJOenVJb0haWGJDbkRReU0tZnJ4dmpqWklNMU5xb0Jpd1pSUEFCdThmQVduWDVGNlAwVzVoLWVHWHJoRkMwLURZSFVvWEpzOWJwRmZXU0xvSUJpSmNPcVJBYTN2XzV4N1FRVUNYbTFfTmlhaENELQ?oc=5",
+            "source": "Hotelier India",
+            "category": "Strategy"
+        },
+        {
+            "title": "FestiveBrandBrief26 | Digital is at the core of our festive marketing strategy: Sooraj Balakrishnan of Acer India - MediaBrief",
+            "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWEhMa0FTTzc4bTI3RVJOcWZpblZyd0RjZXBQdkdDaHR1ZGJ1QmlaSFdaZzhKOURGLUdYLWZGYXdjOTFlTEZRajNZS3ZOeVMxa3hYU3M5ODc0ak9SNjBXVm0xWjEzVFcwd3hpUGVuVG00ZVRZVjdsai0yZ3B4cW5XQ0VQbw?oc=5",
+            "source": "MediaBrief",
+            "category": "Strategy"
+        },
         {
             "title": "Garden Vareli appoints SW Network to drive performance marketing strategy - marketech apac",
             "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVJyV1FTT3N2RzlJalYyd21FVjVUWmZrVEZNSTBOWHBQOGR1VGdNUEZqNndHZ1VIUlhpcm8tcjVhWFkxbzdvMWU4WkNKZ09rZFFIOVFOOHRGNVh5RVk2UFk4ZHd3WHcwMVVDN3VxSXd2SkUxMGx5WlROU0t5U09Pc25Kd1N0RzhfcjV3MzJGODJkOUFTM3hvMFp5WHFUQWs1aTFv?oc=5",
@@ -21,33 +33,21 @@
             "category": "Strategy"
         },
         {
-            "title": "ONE Atmosphere Appoints New Marketing Manager - safariindia.com",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IZFNjRExZY0JCZ1RGMVFqQXA2aWs2ZW0tQ3ZpdHpoV3dGbjhaX0ljQjQ1Y1pRWVhkZ2JnWGNKNzBSWGlpbEhhVmxtMWQwMzhEX09UaUhqaXU4MnVHM0FBalNIczRScy1Cd1lSaWNGUDNHbHppZ1E3aXR3?oc=5",
-            "source": "safariindia.com",
-            "category": "Strategy"
-        },
-        {
-            "title": "From Risk Management To Business Strategy: Evolution Of Corporate Legal In India - Live Law",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFBVVUtMRVRpOWFCS3EtSTIwMW9FbHdHX0g2dGNwVktJVGZGM3BqVnBBVXJIVjJRbHFzRmdVaE9yNE5EWXdab2VQQU1FSjE3LWl3bHNpdWdMR3lPWk5acmZQN1kxOFhWWWtYQUtrUmZuU1JHYktPM01HV0JpTmRtMndab25TTE8zMDdfenJmUWhsR1FsWU9jRFJPcF9wTVpGYkxsZjFiQmdIQi1vMm1oOEdCWXbSAboBQVVfeXFMTk52dkwteXk1cVdfamNTcU54aExjcUhscVZrdEZ2dmhXNm5fbGlYUHdXcXBnSFQ1Ql85cTNyblRkalIwcFZhVEZ3cHFXLUtWWWtqdGNUQ3l3MlpMRm9kdlZrX3J0TWJCbmZyZ3FPNE0tOTQwR3FLUWFkeV93c2NnOFlmbExuY1g0dFVOS2laSWtLLVRfUThKeU1VMld6d1lfNDhFcHd2bGQ0aHZGNC0yaDg0djlBN05rRGhR?oc=5",
-            "source": "Live Law",
-            "category": "Strategy"
-        },
-        {
             "title": "How India Shops Online 2026 - Bain",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
             "source": "Bain",
             "category": "Retail"
         },
         {
-            "title": "India Ecommerce Platform Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTZBRnJHcUEyRG1kOTY1YzdiN2JMVUpnZTFaQXlfQTJ1V3I3Wm42LTU2VVBnbjhPLW9HWG0zdDh0emYzMjZqVGZFR05DaC1xRlg2c21rN2dUU1Z1ZlRqRlAwTHNnb2o2c0lOYkRHNkhHZ19tQUhnRGpEWFk2UG1EOF9uUEtEWEdicWJLdWpoVDIyQVFG?oc=5",
-            "source": "MarketsandMarkets",
-            "category": "Retail"
-        },
-        {
             "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
             "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
             "source": "NIQ",
+            "category": "Retail"
+        },
+        {
+            "title": "How Will AI Transform India's E-commerce Market by 2030? - analyticsindiamag.com",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
+            "source": "analyticsindiamag.com",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
