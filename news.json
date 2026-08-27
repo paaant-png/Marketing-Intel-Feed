@@ -1,17 +1,29 @@
 {
-    "date": "Wednesday, 26 August 2026",
+    "date": "Thursday, 27 August 2026",
     "story": {
-        "brand": "Duolingo",
-        "campaign": "Unhinged Mascot Marketing",
-        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
-        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
-        "seed": "duo11"
+        "brand": "Airbnb",
+        "campaign": "Belong Anywhere",
+        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
+        "lesson": "Sell the transformation, not the transaction.",
+        "seed": "airbnb12"
     },
     "news": [
         {
-            "title": "Treebo Hospitality Ventures appoints Nancy Bhasin Singh as SVP & Head of Brand & Marketing - Hotelier India",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRE9tT3Q3VzJiWTUxeUJCcWhibktPWDdTV1FsR1RiLUhwNE1vVk4zNVc2OHpOU1g0ODJvUWNHWmNYYW4yMUFVekpkc2VuODgzaUFVT094ZFhlOXJOenVJb0haWGJDbkRReU0tZnJ4dmpqWklNMU5xb0Jpd1pSUEFCdThmQVduWDVGNlAwVzVoLWVHWHJoRkMwLURZSFVvWEpzOWJwRmZXU0xvSUJpSmNPcVJBYTN2XzV4N1FRVUNYbTFfTmlhaENELQ?oc=5",
-            "source": "Hotelier India",
+            "title": "Ecommerce Digital Marketing Strategy: 2026 Guide - Shopify",
+            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeTVLcWtuekRUeUpwOTc3TWhUTVRySW5VU1Roc2o1QW5KSkhHZjlvbmhsQ1dXQUM0Rm9PX3ctSmVSbXVzMU8wZzhKbS02R1U3ZTVWMlJTMEdMYmNzNlVmVHRZd25ZLUJxOXRhOGZvR0tnR0pBaVVUYk04aFd3SXUxRVhZTFBLdw?oc=5",
+            "source": "Shopify",
+            "category": "Strategy"
+        },
+        {
+            "title": "Vinayak Singh Appointed Executive Director at PwC India - CXO Digitalpulse",
+            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlU0anpTR290THdjTTdhd0tRNHZtcmk3aGM4QVYxLWlBWkFteVJhaWdZOGV3dndPeVFJaFF4LXU5R0ZURlVrdWVhYWZaR3RJRE9WcnZOZ29hLTRLTGVLMGwzd09xdDdrb18zaDN2b2k0M3FxeDN2bEtsc0pNdkpVQWxhQXZWOEw1bUxVc1VLMURxUQ?oc=5",
+            "source": "CXO Digitalpulse",
+            "category": "Strategy"
+        },
+        {
+            "title": "Sanyukta Dutta Joins Ruder Finn India As Chief Strategy Officer - BW Marketing World",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWUdwaWFvTTd4SVlkTU5Ia1FlcHUwUjhsbzJkaTZQeTNkZEd2ZDVaZTdLczFNUUs3T1lCYlZFMUtVaUZ5MmZPNlBUTE9LY1d3aHBaWXdfakZFRDYzRWNLQnMtbFRsLWlpVHlQUzM5YUtRU3NmYXd0SzFHMDhpTG9TbGM0RnJZYWJiVHlYcFNwdnlVbFNvS2loZW5vUWJZcHlrcEVYUUFobnkwSlNxaHRmUA?oc=5",
+            "source": "BW Marketing World",
             "category": "Strategy"
         },
         {
@@ -21,27 +33,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Garden Vareli appoints SW Network to drive performance marketing strategy - marketech apac",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVJyV1FTT3N2RzlJalYyd21FVjVUWmZrVEZNSTBOWHBQOGR1VGdNUEZqNndHZ1VIUlhpcm8tcjVhWFkxbzdvMWU4WkNKZ09rZFFIOVFOOHRGNVh5RVk2UFk4ZHd3WHcwMVVDN3VxSXd2SkUxMGx5WlROU0t5U09Pc25Kd1N0RzhfcjV3MzJGODJkOUFTM3hvMFp5WHFUQWs1aTFv?oc=5",
-            "source": "marketech apac",
-            "category": "Strategy"
-        },
-        {
-            "title": "Vijay Chauhan elevated to AVP Digital Media at Havas India - MediaNews4U",
-            "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlhGRHQwNVVzWHRHaHA4Z0NwTVVFbmpiaTN2dEJIelFoN1ZXenY3bkhlY1UybDZhQU5pSEVodG5ZcXRJNjNxUXhyZXdZWmI4YVhodElTT1k3eFJhMmJSaWZURllYMExwd3ZYdDFUbExaQUhEVGViN1c1V1Faa3psRjNoS2dvWW9FM2w1R19qODQ?oc=5",
-            "source": "MediaNews4U",
-            "category": "Strategy"
-        },
-        {
-            "title": "How India Shops Online 2026 - Bain",
+            "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
-            "source": "Bain",
-            "category": "Retail"
-        },
-        {
-            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
-            "source": "NIQ",
+            "source": "Bain & Company",
             "category": "Retail"
         },
         {
@@ -55,24 +49,30 @@
             "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLW5hWE5TMm1fVC1ISnF0c2o4QjZwbVBRMG1Jc2ZFOG4xZ2JSZ0NEMUZZSHM0dkFDek9Jb1R4WUc5N0dEMDZoRl9UZ1QzbzUtbldPcmFxSU1RNU83aDBvWk92bGRoOFZnLWFxd0Z5T1hBdjIwbVhJTVkzMW9lRjRFNm1IOXp4TU82b0FaT3RTcWo0VGxER3BMUDI3V2JtbnRvSFRoSEJvNk9QSC1RQlpBRUlHa3lPMU1KaXlXQUhVbnFKdw?oc=5",
             "source": "Agriculture and Agri-food Canada",
             "category": "Retail"
+        },
+        {
+            "title": "10 Ecommerce Trends That Will Influence Online Shopping in 2026 - Salesforce",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0NEVuNVByM2d6MzVLdG5BUEhsZS11VGJGSEgwaXZteG5DU1RoV1BoUzBubGI1d0lWVlVwWUtoVXlERFFSUWZCNTJWLWRLaVA5Wkx2M3hrUFh4WE5mNnJlWnp3?oc=5",
+            "source": "Salesforce",
+            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
