@@ -1,11 +1,11 @@
 {
-    "date": "Thursday, 27 August 2026",
+    "date": "Friday, 28 August 2026",
     "story": {
-        "brand": "Airbnb",
-        "campaign": "Belong Anywhere",
-        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
-        "lesson": "Sell the transformation, not the transaction.",
-        "seed": "airbnb12"
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization.",
+        "seed": "zomato1"
     },
     "news": [
         {
@@ -15,15 +15,15 @@
             "category": "Strategy"
         },
         {
-            "title": "Vinayak Singh Appointed Executive Director at PwC India - CXO Digitalpulse",
-            "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlU0anpTR290THdjTTdhd0tRNHZtcmk3aGM4QVYxLWlBWkFteVJhaWdZOGV3dndPeVFJaFF4LXU5R0ZURlVrdWVhYWZaR3RJRE9WcnZOZ29hLTRLTGVLMGwzd09xdDdrb18zaDN2b2k0M3FxeDN2bEtsc0pNdkpVQWxhQXZWOEw1bUxVc1VLMURxUQ?oc=5",
-            "source": "CXO Digitalpulse",
+            "title": "'Localisation can quickly become gimmicky': Bringing Spider-Man into India's cultural conversation - manifest-media.in",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQzk2cmZYLWdMeHZnTG5YTkN6d3UzWko4THloWi05TVBuU093aGp5SDZqb1RCLUg1TGRreV9sU2dKLXpicFVxbEFEZno5MVdmT2tQUVhtR1dwTlRpa0c2bGV5VXBkT2g4emk3cEJtTWdmNzZlYTBUTFdtYTdQZ25VUkJCTUYyZl9GajJWT29ackZrek5wTllud1BrcGpRVm9Qc2F4VHJlSmFmZmJzaFQwY0RNaHE4Mm8?oc=5",
+            "source": "manifest-media.in",
             "category": "Strategy"
         },
         {
-            "title": "Sanyukta Dutta Joins Ruder Finn India As Chief Strategy Officer - BW Marketing World",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWUdwaWFvTTd4SVlkTU5Ia1FlcHUwUjhsbzJkaTZQeTNkZEd2ZDVaZTdLczFNUUs3T1lCYlZFMUtVaUZ5MmZPNlBUTE9LY1d3aHBaWXdfakZFRDYzRWNLQnMtbFRsLWlpVHlQUzM5YUtRU3NmYXd0SzFHMDhpTG9TbGM0RnJZYWJiVHlYcFNwdnlVbFNvS2loZW5vUWJZcHlrcEVYUUFobnkwSlNxaHRmUA?oc=5",
-            "source": "BW Marketing World",
+            "title": "From keywords to conversations: OpenAI's India bet on decision-stage advertising - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMHdWeTh1ckk4S3paSFhtYmhIaDhrRTVwMFBRZUFMbUdULU80NnBDZHRIU3JwMFZYVG5VZGlxRmllbGNGZXVDTWdSZ09Dci04NzhtVVczbWo1bnR0Q00xYzF6MTlUcHFpamluNDdiRHBoTFhsdTdrWGJ0d3dlUk9vY1Mta09KN3JsRFd3aGVIczF3R1NreUpfQ1VnRE9naWUtV3hLTGI4UWg5NTg3YUxIQXVFY3FURnJFUWpYOHVJS2RoSjFN0gHKAUFVX3lxTE1fQnZFd0ltSDNpLTdISXZPSERZOFRiT05INjN0SXliRG1RUlhaaF91X1M4NzVYcUsxWDNvX0VER1l0OXl5d0g4UDFmUnR2SnAtVlpPZ0FzNmZxLUdTYmFXUEs0SmVaSmozcFpMd0EzMzY0VGhuZHJYU3VJT1VaOFlQTTFXWERIQ2RpaG9SX1I3TVJja0thbDVOR3hqa2d6M29QRHo2czF0LXFpV3Rpei1rXzVWN0Z3cFhnNVlvMlZlWVV1UzQ2eWo3VFE?oc=5",
+            "source": "Storyboard18",
             "category": "Strategy"
         },
         {
@@ -33,21 +33,9 @@
             "category": "Strategy"
         },
         {
-            "title": "How India Shops Online 2026 - Bain & Company",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
-            "source": "Bain & Company",
-            "category": "Retail"
-        },
-        {
             "title": "How Will AI Transform India's E-commerce Market by 2030? - analyticsindiamag.com",
             "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
             "source": "analyticsindiamag.com",
-            "category": "Retail"
-        },
-        {
-            "title": "Sector Trend Analysis \u2013 E-commerce market trends in India - Agriculture and Agri-food Canada",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLW5hWE5TMm1fVC1ISnF0c2o4QjZwbVBRMG1Jc2ZFOG4xZ2JSZ0NEMUZZSHM0dkFDek9Jb1R4WUc5N0dEMDZoRl9UZ1QzbzUtbldPcmFxSU1RNU83aDBvWk92bGRoOFZnLWFxd0Z5T1hBdjIwbVhJTVkzMW9lRjRFNm1IOXp4TU82b0FaT3RTcWo0VGxER3BMUDI3V2JtbnRvSFRoSEJvNk9QSC1RQlpBRUlHa3lPMU1KaXlXQUhVbnFKdw?oc=5",
-            "source": "Agriculture and Agri-food Canada",
             "category": "Retail"
         },
         {
@@ -55,24 +43,36 @@
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0NEVuNVByM2d6MzVLdG5BUEhsZS11VGJGSEgwaXZteG5DU1RoV1BoUzBubGI1d0lWVlVwWUtoVXlERFFSUWZCNTJWLWRLaVA5Wkx2M3hrUFh4WE5mNnJlWnp3?oc=5",
             "source": "Salesforce",
             "category": "Retail"
+        },
+        {
+            "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
+            "source": "Shiprocket",
+            "category": "Retail"
+        },
+        {
+            "title": "India Automotive E Commerce Market Size, Share & Growth Report 2035 | MRFR - Market Research Future",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTk1Ud21tS1pzVi1IOWxNLTlYNWx0OTB2eG5uZGxyRjR0cTh2eE1kQmpnSUs0dW9INHRyQjFYeWFJY1B3a3RYUGw2ZDNOQmR5Z2FmLTRwanoxM05DdHoyUy1iOW04R2MzajRLNFZGdEFTU0QydmtCdUp6Y2F1WndRYkY0MXZVMEt1MllUX3Nn?oc=5",
+            "source": "Market Research Future",
+            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
