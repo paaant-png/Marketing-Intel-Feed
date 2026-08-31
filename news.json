@@ -1,11 +1,11 @@
 {
-    "date": "Sunday, 30 August 2026",
+    "date": "Monday, 31 August 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the ruthless obsession required to win, alienating some to deeply delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging.",
-        "seed": "nike3"
+        "brand": "Spotify",
+        "campaign": "Wrapped: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They playfully roasted users, gamifying data to make sharing a cultural status symbol.",
+        "lesson": "Data is boring. Data identity is viral.",
+        "seed": "spotify4"
     },
     "news": [
         {
@@ -15,9 +15,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Colgate India brings in Bombay Shaving Company to drive Palmolive\u2019s D2C push - marketech apac",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0tYR3o5RE9IVmdhZW1RVlRJd0dZZk5Ecl9JanVfRnpPaU1zb0p4a3dKUkg1VW1idklpUGdzMVAtN1dYZk5BSE1ZbnJEdnNqWUdtZGxqamV3Z2RSLVFsaG9QZlZ6aUUzMEhxTjBqVGREcWhDSFZxZFVieGV0bnNBTlVtY19GczNGTjJHS2pYWmlBWlNyMTViUTJybGNSbGI3NFdVWEFR?oc=5",
-            "source": "marketech apac",
+            "title": "Why India\u2019s Rs 900-crore festive creator market is moving beyond discovery - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdnlzM0xwMFc1TWhmUVdybTh4ck93NGxsY3B3WmhyTGFReHl2NjkwOFBHd0ZGU3ZEUEVGamZFUHgyQTZGNzZxaWZxYmp1SzZtdklUb2NNV1V3cDU2cnBRcG1PSVQyVEwyVXh3RGJZcUhYNUYxelZLZ3V5eS1tTGNVQmVvMDc0Rlh2a2pvdnp5VkJDUzZHM1d5MWpGSVByeGx1NGhFeGFrZjEwa00yYmRDM1ZHYk1vb3BuZHE4b1NxR2QwMnF5R2N1RG5JeUlsNl85ZXc?oc=5",
+            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
@@ -27,10 +27,16 @@
             "category": "Strategy"
         },
         {
-            "title": "Why India\u2019s Rs 900-crore festive creator market is moving beyond discovery - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdnlzM0xwMFc1TWhmUVdybTh4ck93NGxsY3B3WmhyTGFReHl2NjkwOFBHd0ZGU3ZEUEVGamZFUHgyQTZGNzZxaWZxYmp1SzZtdklUb2NNV1V3cDU2cnBRcG1PSVQyVEwyVXh3RGJZcUhYNUYxelZLZ3V5eS1tTGNVQmVvMDc0Rlh2a2pvdnp5VkJDUzZHM1d5MWpGSVByeGx1NGhFeGFrZjEwa00yYmRDM1ZHYk1vb3BuZHE4b1NxR2QwMnF5R2N1RG5JeUlsNl85ZXc?oc=5",
-            "source": "Exchange4Media",
+            "title": "India is a \u2018country of countries\u2019 \u2013 NZ business needs a regional strategy to make the trade deal work - The Conversation",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQektIS3RmSGcwODJXZk1LUUFaajB6SFpHdzAtSGN6VXNuLVhrR0ZWNXJ6Uml2TmtIcE1DLTZFLS1VbGc4Rm15cVNfOEVqYmdUSVJKTzQ2RDVyNjVTM3FGY1MzNzYwTUZSbkptSU01WHZkMTNZc1VSUVpqYnJPVHQ0YmtvenZWQmN6UUdCMlpYMVpxUmNQdTZTSlpKTW9icDl5ZUhobjZaSjd3ODhGbTVnN0Y5dDRlM3BpMzFzZFdXcGhORnFNMGhiNmZyWG0?oc=5",
+            "source": "The Conversation",
             "category": "Strategy"
+        },
+        {
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
+            "source": "NIQ",
+            "category": "Retail"
         },
         {
             "title": "How Will AI Transform India's E-commerce Market by 2030? - analyticsindiamag.com",
@@ -49,30 +55,24 @@
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0NEVuNVByM2d6MzVLdG5BUEhsZS11VGJGSEgwaXZteG5DU1RoV1BoUzBubGI1d0lWVlVwWUtoVXlERFFSUWZCNTJWLWRLaVA5Wkx2M3hrUFh4WE5mNnJlWnp3?oc=5",
             "source": "Salesforce",
             "category": "Retail"
-        },
-        {
-            "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
-            "source": "Shiprocket",
-            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
