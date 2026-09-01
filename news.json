@@ -1,11 +1,11 @@
 {
-    "date": "Monday, 31 August 2026",
+    "date": "Tuesday, 01 September 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They playfully roasted users, gamifying data to make sharing a cultural status symbol.",
-        "lesson": "Data is boring. Data identity is viral.",
-        "seed": "spotify4"
+        "brand": "Liquid Death",
+        "campaign": "Murder Your Thirst",
+        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
+        "lesson": "Packaging and attitude can differentiate a pure commodity.",
+        "seed": "liquid5"
     },
     "news": [
         {
@@ -33,12 +33,6 @@
             "category": "Strategy"
         },
         {
-            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
-            "source": "NIQ",
-            "category": "Retail"
-        },
-        {
             "title": "How Will AI Transform India's E-commerce Market by 2030? - analyticsindiamag.com",
             "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
             "source": "analyticsindiamag.com",
@@ -55,24 +49,30 @@
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0NEVuNVByM2d6MzVLdG5BUEhsZS11VGJGSEgwaXZteG5DU1RoV1BoUzBubGI1d0lWVlVwWUtoVXlERFFSUWZCNTJWLWRLaVA5Wkx2M3hrUFh4WE5mNnJlWnp3?oc=5",
             "source": "Salesforce",
             "category": "Retail"
+        },
+        {
+            "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops - about.fb.com",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpCOGtyclF1d1cwYThramZmbWFocTVTdlFramYzNUdMdW5tb0ktMUpnMldoMTBuYU9zV3hTbnMxcGlBLWJHMVllLUNOTFBFeGc5Zm1vb0txRWpLaW9tM3JJTXRPU0ZMcHROUG5TRTJnWUFpYmdndGoySlhGbDFnU3RCOTNPUW9Fejd2ZkZ1bEEzaHNqamZ4SXd5ONIBoAFBVV95cUxNN1ppbDVOYlhkRjg4NDdIWHF0UGVVcDE2azJpNUFVeGk0cXFEZ0V2eFBQQUNFUDFvX3c5V2NMRkJnQXNVb0xzLW52cDkzYmhaVXZWQl9URFVibnl0TzM1Z3VRYWoxM3I0RjdETXlTU1doTWZtWE9hNnJSZUJYWWI3OVFCZ2tjR1hoT0lBbHRxc1lsSUNjVHFfazNmcUFrbTBV?oc=5",
+            "source": "about.fb.com",
+            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
