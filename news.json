@@ -1,13 +1,25 @@
 {
-    "date": "Friday, 04 September 2026",
+    "date": "Saturday, 05 September 2026",
     "story": {
-        "brand": "Dove",
-        "campaign": "Reverse Digital Distortion",
-        "story": "Dove actively campaigned against the 'Bold Glamour' AI filter on TikTok, urging users to turn their backs to the camera to protest synthetic beauty standards.",
-        "lesson": "Taking a stand against a platform trend can win immense loyalty.",
-        "seed": "dove8"
+        "brand": "Patagonia",
+        "campaign": "Don't Buy This Jacket",
+        "story": "On Black Friday, Patagonia ran a full-page ad telling people NOT to buy their products unless absolutely necessary, highlighting the environmental cost of consumerism.",
+        "lesson": "Anti-marketing is the ultimate form of brand authenticity.",
+        "seed": "patagonia9"
     },
     "news": [
+        {
+            "title": "YRF appoints Hemant Kundnani as head of marketing - campaignindia.in",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkNueTRCSm9MS2xzMUdsUU1EZEV3LXRGc0VBckQ3UV9KSDR5c0xlWUxyVXI5cHF0NVI0Z3F5LXhUQ1VMZFQzdVJ5T2pSdkNUTlBUZmV0aWtIa2RHNEdNZ0NUV0toSXY2Mnh3TkFxUG1wNGpQOEZRQ0paNWIzSHVGekMwTlIzVHpJQVliTlM2Y3hqUXpWZS1PM1BCODlPd3cxbW9DeWx3UFVzaUNDVHpzQ2NpMA?oc=5",
+            "source": "campaignindia.in",
+            "category": "Strategy"
+        },
+        {
+            "title": "Why 'Free' Is One of India's Most Powerful Marketing Words - BW Marketing World",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMlNqRmxweENqd0UtZkNfMUdQTTBVd3dCZmpNN0w0d19YbEFndDZWYlItTl84SjgtaW13SE1US2l6UkpCdzEzZG0yNmlRcGlzT1YwMjNkMnpCWmZHU1d1VllHMXhOa1d0alEzd2hoc0gxaGNRUG1ZZGJPQzF4VEl2RW9aLWVjcThYU2UxazJHMnFsdmZlaFN6T1U4TEUwRko4aXhCaG9DMA?oc=5",
+            "source": "BW Marketing World",
+            "category": "Strategy"
+        },
         {
             "title": "From Technology to Outcomes: A Customer-Centric Marketing Strategy - varindia.com",
             "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY3c4Rk1CbzdDeEtTVUFVZFRhcExqbC1pUE55LTZvdU15ek9NUXF3Q1N5TzY0M1VwNkZtZkJjbnVKbGNSa0VNRVJPUzdsMDVkajRxXzhBeHl5MFNXUG91V0cyclR6Uk1vcHBFUU5oa3FwMFU3VlZHU21MV2tYck01NDdmVlUyaDZWZV8wa09SWkhyQnJRZW5ETkFQYw?oc=5",
@@ -15,27 +27,21 @@
             "category": "Strategy"
         },
         {
-            "title": "India has learned to assemble, time to move to value addition: OnePlus India\u2019s Varun Jha - manufacturing.economictimes.indiatimes.com",
-            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNEp6WE50QlE3Q2ZRX21NZ002cHNXVWNGVXR2WW5WNjBESktWamZ6MUtMX0tURmVMYzRQS1A4UGxsMXdfR1NNbW1LV3Z3QWRiWGdQcFNNR0RHV2ZDdUYyQkxTY1dKYi0xMWJDdVk0NG1GMWVjZ1RRSFVhVVVoeFdnNkJUQTJWcGFnM3djc21aWG9xVE5OSVh0N3F0ZjVCUTktNnFUWm13NzNCWll3cXZrek9KZk93NVozX3lEUzZRd3REQ1g4TkVidVJ0X3lOVk51aFExYk1ydHE5amxZZVJOWlZLbjNraHRCakEycTNQdEbSAfYBQVVfeXFMTUdmZS14bVB2ZXREVHViblh0ZzV2YzRjZC16LUFxOU9kUDJBbk80eU1mMTByanFHUTMwY2daMTkzMHNUQ2x4dk1mRTE5Z0o5RW1Ddms2ZnFDcm94RkJMSl9JRVR1dFB3SzduT3U4Q1JqVDA4QzhWbDhfcFllUkUzbGJFY0RRM0hMVk1hd2tEc0dVeTF4ajE2Um41eG1JMF9EclZldTJkeHRwaGF1UFhHQWtnSURxd2U2VUFhaGctdnFJa2MzMDFPdExSVWdFVjlHSlY5T0NLSW5kMmZKZjFXVHZXaHMwdzVuTHBMXzJ1VDluRnZZa01B?oc=5",
-            "source": "manufacturing.economictimes.indiatimes.com",
-            "category": "Strategy"
-        },
-        {
-            "title": "Asus India Looking at Marketing Performance Beyond Traditional Measures - varindia.com",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnpTQ0NJakgtT2tEb3NlODFVbklaWGh6SF9NUnVZd1lpbUR3c2J3NG5oZDcyTHNjQk1lTnpNNFkwN2pGZ0JGNUo5bHh5R3RvcG5YMFpKRWlGSzNZUXZyYl8wQjFWa2JFZVNGWjNPZWZhbGtQa3UyUzFjMjZjNG1iaXFaZHdJaU8tT1RydXB1N0dLRE5ISEVmdGhVMTcwcjZzN0RZ?oc=5",
-            "source": "varindia.com",
-            "category": "Strategy"
-        },
-        {
-            "title": "Why modern enterprise architects must understand AI, cloud, data and business strategy - India.com",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPd3BJcEUtazBEb0d2N3FLNS05NTZRNEVCYjdFUnoyaGM2M25lYVFsbDJCZVY2dE9uaDFUa1FtRUdiU19Ia0taTTdYVDFoZkdHZGVUcEJweVhhNjVYVWlZY1E4bnlPekg1eWNBaWg0MkFOM01leXp4TlRKbEhhUXlOS1d1OXk4aGYtdjVzc1Z3NUY2TVpPazZUUkJYNDB2QVJtZFVMWW5kQjNDZWNzMW83N0o1UVlBbUZXUUdxTWNB0gHDAUFVX3lxTE5HbXVtRkJ4Qy1QWktOLVNlYjMzMi1OV2M3d1ZyVURQUzRqN2hjQmgxbW5nQVM4b1Zkc2RKVVFxNVN0TnR5OVBQODdUZ2pONDVDcGNTclJqblE1VUVLYU5JQzNrOEEyZEZsM2s2dll4dC1ObXRXQnhRdFR2NXpjVjJlelZxdmFFd1Qyc3RQblVOWU53YlF6TnpSV1BNaEZXOHE2ZTZjNkxXX0w1aXFnZW0zaFNLOUt1bVlzUmlJZ0hwUTlfNA?oc=5",
-            "source": "India.com",
+            "title": "Finolex Pipes' Brand Leadership Strategy in India's Plumbing Industry - MarkHub24",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVE9YUXRhMmV5UWlGWm9PUjVTTmVHcEZWelYyeTV5b2ZkTThGRDhiLVJ4d05TYWczT2tvWmQzVTJQZlNNVjJZenFIYzZ2Tk9qMnM2Yi1OSFlHclVHdHZteVlPSlN5b1Q3ZnVFNlVMcnRLa3diZUl4TkJpbkg5RVNid0VGOWM3SnNTcGJsTmxHcWJZREtDT1JqbVM0Y01xZXhN?oc=5",
+            "source": "MarkHub24",
             "category": "Strategy"
         },
         {
             "title": "Global AI, digital-commerce trends to improve monetisation, profitability for Indian internet firms: Report - ANI News",
             "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcjFBV0JxTUphbnpZd3NITnVpLUFrN0RVYjBVdmozREJ4cDF5QlhxcUJhZXV1Q0R4b0w1amtLdTE0S0xkbUQ0S0lVVG9odXY4NnM1cU9pOFlPOHV4Q0s4YmFvTEVQZWI2N3ItaUZvcG55WjREQ09vU0hKNTVUOGVraDRSOV92eWJpOXhYVmpqbzNlNjd6QVA2bHFqbTk4R190MEZVNEZraVNmQzFwMEs1X0IyREJfaUs0Z0lKNzJ4NngtS2J2Q094UEVJNVoyY1dEMTNLZlJGb2xSWDE2RDN5Y2xkUEplQVJaMlJn?oc=5",
             "source": "ANI News",
+            "category": "Retail"
+        },
+        {
+            "title": "India Ecommerce Platform Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTZBRnJHcUEyRG1kOTY1YzdiN2JMVUpnZTFaQXlfQTJ1V3I3Wm42LTU2VVBnbjhPLW9HWG0zdDh0emYzMjZqVGZFR05DaC1xRlg2c21rN2dUU1Z1ZlRqRlAwTHNnb2o2c0lOYkRHNkhHZ19tQUhnRGpEWFk2UG1EOF9uUEtEWEdicWJLdWpoVDIyQVFG?oc=5",
+            "source": "MarketsandMarkets",
             "category": "Retail"
         },
         {
@@ -49,30 +55,24 @@
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0NEVuNVByM2d6MzVLdG5BUEhsZS11VGJGSEgwaXZteG5DU1RoV1BoUzBubGI1d0lWVlVwWUtoVXlERFFSUWZCNTJWLWRLaVA5Wkx2M3hrUFh4WE5mNnJlWnp3?oc=5",
             "source": "Salesforce",
             "category": "Retail"
-        },
-        {
-            "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
-            "source": "Shiprocket",
-            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
