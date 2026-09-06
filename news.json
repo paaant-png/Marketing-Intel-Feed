@@ -1,17 +1,17 @@
 {
-    "date": "Saturday, 05 September 2026",
+    "date": "Sunday, 06 September 2026",
     "story": {
-        "brand": "Patagonia",
-        "campaign": "Don't Buy This Jacket",
-        "story": "On Black Friday, Patagonia ran a full-page ad telling people NOT to buy their products unless absolutely necessary, highlighting the environmental cost of consumerism.",
-        "lesson": "Anti-marketing is the ultimate form of brand authenticity.",
-        "seed": "patagonia9"
+        "brand": "Burger King",
+        "campaign": "The Moldy Whopper",
+        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
+        "lesson": "Ugly truths are more memorable than pretty lies.",
+        "seed": "bk10"
     },
     "news": [
         {
-            "title": "YRF appoints Hemant Kundnani as head of marketing - campaignindia.in",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkNueTRCSm9MS2xzMUdsUU1EZEV3LXRGc0VBckQ3UV9KSDR5c0xlWUxyVXI5cHF0NVI0Z3F5LXhUQ1VMZFQzdVJ5T2pSdkNUTlBUZmV0aWtIa2RHNEdNZ0NUV0toSXY2Mnh3TkFxUG1wNGpQOEZRQ0paNWIzSHVGekMwTlIzVHpJQVliTlM2Y3hqUXpWZS1PM1BCODlPd3cxbW9DeWx3UFVzaUNDVHpzQ2NpMA?oc=5",
-            "source": "campaignindia.in",
+            "title": "Treebo appoints Nancy Bhasin Singh to lead brand marketing - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc3liMURwZm95VXBwRU1yY2tuNXNCOGdramdkaVVYckNnOWlPNzFyN3dGbFpjNFJ6SWxCMDJLLW1TU3ZnTlY1QlFOQ2k0eUtBUEtSaVQ0dHVXNUNnTWw4NjZSRGgtc2toc040ZDJBV09PdldiSV9BWFJ2Z0FraHFreEZ6Zkd6WC1HQjFxeTA1ZEw1WDRxMDAycWkzMl9QUVA3Y3VNTUQ4WXJ2MGJpclB1WVI1SWtZSzhlSWk2MzFEZw?oc=5",
+            "source": "Campaign India",
             "category": "Strategy"
         },
         {
@@ -21,15 +21,15 @@
             "category": "Strategy"
         },
         {
-            "title": "From Technology to Outcomes: A Customer-Centric Marketing Strategy - varindia.com",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY3c4Rk1CbzdDeEtTVUFVZFRhcExqbC1pUE55LTZvdU15ek9NUXF3Q1N5TzY0M1VwNkZtZkJjbnVKbGNSa0VNRVJPUzdsMDVkajRxXzhBeHl5MFNXUG91V0cyclR6Uk1vcHBFUU5oa3FwMFU3VlZHU21MV2tYck01NDdmVlUyaDZWZV8wa09SWkhyQnJRZW5ETkFQYw?oc=5",
-            "source": "varindia.com",
-            "category": "Strategy"
-        },
-        {
             "title": "Finolex Pipes' Brand Leadership Strategy in India's Plumbing Industry - MarkHub24",
             "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVE9YUXRhMmV5UWlGWm9PUjVTTmVHcEZWelYyeTV5b2ZkTThGRDhiLVJ4d05TYWczT2tvWmQzVTJQZlNNVjJZenFIYzZ2Tk9qMnM2Yi1OSFlHclVHdHZteVlPSlN5b1Q3ZnVFNlVMcnRLa3diZUl4TkJpbkg5RVNid0VGOWM3SnNTcGJsTmxHcWJZREtDT1JqbVM0Y01xZXhN?oc=5",
             "source": "MarkHub24",
+            "category": "Strategy"
+        },
+        {
+            "title": "India has learned to assemble, time to move to value addition: OnePlus India\u2019s Varun Jha - ET Manufacturing",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNEp6WE50QlE3Q2ZRX21NZ002cHNXVWNGVXR2WW5WNjBESktWamZ6MUtMX0tURmVMYzRQS1A4UGxsMXdfR1NNbW1LV3Z3QWRiWGdQcFNNR0RHV2ZDdUYyQkxTY1dKYi0xMWJDdVk0NG1GMWVjZ1RRSFVhVVVoeFdnNkJUQTJWcGFnM3djc21aWG9xVE5OSVh0N3F0ZjVCUTktNnFUWm13NzNCWll3cXZrek9KZk93NVozX3lEUzZRd3REQ1g4TkVidVJ0X3lOVk51aFExYk1ydHE5amxZZVJOWlZLbjNraHRCakEycTNQdEbSAfYBQVVfeXFMTUdmZS14bVB2ZXREVHViblh0ZzV2YzRjZC16LUFxOU9kUDJBbk80eU1mMTByanFHUTMwY2daMTkzMHNUQ2x4dk1mRTE5Z0o5RW1Ddms2ZnFDcm94RkJMSl9JRVR1dFB3SzduT3U4Q1JqVDA4QzhWbDhfcFllUkUzbGJFY0RRM0hMVk1hd2tEc0dVeTF4ajE2Um41eG1JMF9EclZldTJkeHRwaGF1UFhHQWtnSURxd2U2VUFhaGctdnFJa2MzMDFPdExSVWdFVjlHSlY5T0NLSW5kMmZKZjFXVHZXaHMwdzVuTHBMXzJ1VDluRnZZa01B?oc=5",
+            "source": "ET Manufacturing",
             "category": "Strategy"
         },
         {
@@ -45,34 +45,34 @@
             "category": "Retail"
         },
         {
-            "title": "How Will AI Transform India's E-commerce Market by 2030? - analyticsindiamag.com",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
-            "source": "analyticsindiamag.com",
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
+            "source": "NIQ",
             "category": "Retail"
         },
         {
-            "title": "10 Ecommerce Trends That Will Influence Online Shopping in 2026 - Salesforce",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0NEVuNVByM2d6MzVLdG5BUEhsZS11VGJGSEgwaXZteG5DU1RoV1BoUzBubGI1d0lWVlVwWUtoVXlERFFSUWZCNTJWLWRLaVA5Wkx2M3hrUFh4WE5mNnJlWnp3?oc=5",
-            "source": "Salesforce",
+            "title": "How Will AI Transform India's E-commerce Market by 2030? - analyticsindiamag.com",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
+            "source": "analyticsindiamag.com",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
