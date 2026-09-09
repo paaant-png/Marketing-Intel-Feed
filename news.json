@@ -1,19 +1,13 @@
 {
-    "date": "Tuesday, 08 September 2026",
+    "date": "Wednesday, 09 September 2026",
     "story": {
-        "brand": "Airbnb",
-        "campaign": "Belong Anywhere",
-        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
-        "lesson": "Sell the transformation, not the transaction.",
-        "seed": "airbnb12"
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization.",
+        "seed": "zomato1"
     },
     "news": [
-        {
-            "title": "Edo Briola elevated to Head of Enterprise Marketing Strategy & Performance at Unilever - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ2JKZGM2a0VKVmd0czdPWm0xTU1lVEtSYThvN1NqYlFwMlp0LWVkelB2dTN6VW9IYk10eS1JUkNUQ2pIc3V1MXZsMVI5NzlqX3lKWkN5ekZwanQ3b0VSYTdCck9uclFWcnl6QVhVRnFITTdIS0tBOHF0UU8xekVOdnFxVV91VTdzOEwzbnk4VHRTYnBfQUtQeGFzQ2pxLWpSTkJMdmNNelJUbFlNM1JudG05cUF2TkpCMkE4b3FUYkZzZEJYdjg4TWczSnhnVmlzaUNuQ0llNm14amNJc0JScmZB?oc=5",
-            "source": "Exchange4Media",
-            "category": "Strategy"
-        },
         {
             "title": "Swiss Military's Big India Play: MD Anuj Sawhney on New Sub-Brand and Growth Strategy - IMPACT Magazine",
             "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnJlOGVnQ2tWUTN6Y01BQnlNc0VMdTM0LXpFTjBtRzlfWUtkTXVUV3hieEdOeFVUOUpRZ3RyVFI4ZTZyOWVacFJGT25UMXdrd3Nzbjg0YWhBVFdSa0xldE5lNUx0bFVEOWhRaUQ0cEZxbzVzUnNXdFlHazRuV05Ia3VrWDNfMVFONkJsTXFPOGhGNjBLcmRmSmU4RHhOdEtNQmhvY1JRQVhuYnF2WmdSQTkzMmhIdVJJVHUxYmlhU2ZmSk5JSGc?oc=5",
@@ -21,15 +15,21 @@
             "category": "Strategy"
         },
         {
-            "title": "Hyundai India targets 20% women executives by 2030 as talent strategy enters a new phase - Storyboard18",
-            "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODlkQllsUVdvRWVBb25pd0IxLWxwNkhTMmxfMmx6V1dsanNQMHlYaDNyNEQtMnRBdnJVY2VBZXpZM0RabG5Cc1BHaTNpUERwbWYwVjZ0UHpHLWdYUmZzLVVFVzNsX25zLWJiWEpMbmk0SGphcDBBbm52TjFBZmlZR2pNaFpVbkNHYnJ2emRfOW1KaHY2c1NJYkV2QUdIT182WllUNC1aaVJ6NHZDeXA5UDRzRHhFbndIQjNJSTBlMUjSAcYBQVVfeXFMTnREV2lydnJzNnNTNmtqRmlHTjVIREhJSjZkQlRhNmtfZHdIN1NsTF9XQlhHWmN1dHNPSlZKeGhjczN6al9LU1JGYXBrSWJfdnpnaGZCMi1MVWhSaDdmRkFQOTlKYUs0d2k1LTZQUzlKSkRia3JQbXJIc2lQVjgySmZUZ3N5YWZSTGlZZkR0a1FPRU8tT3NMSEpacjdEbzVzZmZGSGRTNXcteHNzMWJoclFodjg5ZDhMMGFXbXBmSXI2WkFDaGlR?oc=5",
-            "source": "Storyboard18",
+            "title": "Haier India's \"Smart Living\" Communication Strategy - MarkHub24",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTjdPcTBCcThZTE9ZVDVUWUtvWkQtWG9TV0U4UEdWT3JCQmRsSFphSllfVmp6QmM2M25PZTlSSjRraU4wSWdkSWNXaUxaQlJBaUNGUTJPSU52V29UZHV3QVFZblJNWE92OVM4Z2tndlNyRFVYRklheGR1c0F5SU8wVVpQenZwc1k?oc=5",
+            "source": "MarkHub24",
             "category": "Strategy"
         },
         {
-            "title": "Experiential marketing for Indian brands - EY",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjZMemJOcjNOU2V4M3JlQlZqaGNiZzY2RE5PUloxSkpRb2U3b2gtSzd5MjRDY1hqdGJqcTlvQjZYQklNS3d6bkU3VU0xMHEzUm04SU4xUHhvaTc3eDlGc0FIcGtsclRncS1iYWpjWjNSVnlmMDhlSE9ZSVN5ckktRnNRWDV5RTZoN2k4WU4zTDg2cHp5d2JOQXlmXzIyOTg2VFhzWHB6VzJDSHhRZVJwNw?oc=5",
-            "source": "EY",
+            "title": "Edo Briola elevated to Head of Enterprise Marketing Strategy & Performance at Unilever - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQ2JKZGM2a0VKVmd0czdPWm0xTU1lVEtSYThvN1NqYlFwMlp0LWVkelB2dTN6VW9IYk10eS1JUkNUQ2pIc3V1MXZsMVI5NzlqX3lKWkN5ekZwanQ3b0VSYTdCck9uclFWcnl6QVhVRnFITTdIS0tBOHF0UU8xekVOdnFxVV91VTdzOEwzbnk4VHRTYnBfQUtQeGFzQ2pxLWpSTkJMdmNNelJUbFlNM1JudG05cUF2TkpCMkE4b3FUYkZzZEJYdjg4TWczSnhnVmlzaUNuQ0llNm14amNJc0JScmZB?oc=5",
+            "source": "Exchange4Media",
+            "category": "Strategy"
+        },
+        {
+            "title": "Edrington India appoints Anish Arora to lead marketing - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3lwcnFLLUxJRzQ1VGRKTXp0Z1FCOFFCd241XzlnOGJldGpKMnhnU1c0NDlWTDhIc21XTHdaeTJudV8xQUU0bFhIc3JiZFAzS0NxbzQ4bUZSd1VFb2pVVVRsaUdmVjBvMFZDckZxbUFGRGpjVmtka3Njb0doTUV4MkNieE5CQ3M0bXdhcnAwLXZ4ZUU5WXRlUDEzbW9zUFM1czNUQUk5Zm85NzJSOGpJaGQzVUl0TFNJV1E?oc=5",
+            "source": "Campaign India",
             "category": "Strategy"
         },
         {
@@ -51,28 +51,28 @@
             "category": "Retail"
         },
         {
-            "title": "Global AI, digital-commerce trends to improve monetisation, profitability for Indian internet firms: Report - ANI News",
-            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcjFBV0JxTUphbnpZd3NITnVpLUFrN0RVYjBVdmozREJ4cDF5QlhxcUJhZXV1Q0R4b0w1amtLdTE0S0xkbUQ0S0lVVG9odXY4NnM1cU9pOFlPOHV4Q0s4YmFvTEVQZWI2N3ItaUZvcG55WjREQ09vU0hKNTVUOGVraDRSOV92eWJpOXhYVmpqbzNlNjd6QVA2bHFqbTk4R190MEZVNEZraVNmQzFwMEs1X0IyREJfaUs0Z0lKNzJ4NngtS2J2Q094UEVJNVoyY1dEMTNLZlJGb2xSWDE2RDN5Y2xkUEplQVJaMlJn?oc=5",
-            "source": "ANI News",
+            "title": "How Will AI Transform India's E-commerce Market by 2030? - analyticsindiamag.com",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
+            "source": "analyticsindiamag.com",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
