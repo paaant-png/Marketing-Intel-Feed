@@ -1,11 +1,11 @@
 {
-    "date": "Friday, 11 September 2026",
+    "date": "Saturday, 12 September 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the ruthless obsession required to win, alienating some to deeply delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging.",
-        "seed": "nike3"
+        "brand": "Spotify",
+        "campaign": "Wrapped: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They playfully roasted users, gamifying data to make sharing a cultural status symbol.",
+        "lesson": "Data is boring. Data identity is viral.",
+        "seed": "spotify4"
     },
     "news": [
         {
@@ -15,9 +15,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Google India\u2019s creator mandate up for grabs; agency review underway - exchange4media.com",
+            "title": "Google India\u2019s creator mandate up for grabs; agency review underway - Exchange4Media",
             "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb2ZZakd3QVA3bnRLSDV3UnRYSEV3X3VkSFdaNlcybXUyTFRJWkc1TUtpUWktVHBocnEzRzFfTzBudVJGZ2QzMzdKeG9CZXhKUWNHR2FSR1Z1ZnVBR2tGZEFJVjN1UTAxckhLRThLZXlWZkJtdmRoQmNTYU5iYWZIMHFpN2prWk9pUkJfekpIc0hBbm5ESEtjRHF1NmlOYXlVUUFocmt5UHQ0cl9qVE91LUJLOHlLWndTQ0E2X2NR?oc=5",
-            "source": "exchange4media.com",
+            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
@@ -27,15 +27,21 @@
             "category": "Strategy"
         },
         {
-            "title": "Edrington India appoints Anish Arora to lead marketing - Campaign India",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3lwcnFLLUxJRzQ1VGRKTXp0Z1FCOFFCd241XzlnOGJldGpKMnhnU1c0NDlWTDhIc21XTHdaeTJudV8xQUU0bFhIc3JiZFAzS0NxbzQ4bUZSd1VFb2pVVVRsaUdmVjBvMFZDckZxbUFGRGpjVmtka3Njb0doTUV4MkNieE5CQ3M0bXdhcnAwLXZ4ZUU5WXRlUDEzbW9zUFM1czNUQUk5Zm85NzJSOGpJaGQzVUl0TFNJV1E?oc=5",
-            "source": "Campaign India",
+            "title": "Why 'Free' Is One of India's Most Powerful Marketing Words - BW Marketing World",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMlNqRmxweENqd0UtZkNfMUdQTTBVd3dCZmpNN0w0d19YbEFndDZWYlItTl84SjgtaW13SE1US2l6UkpCdzEzZG0yNmlRcGlzT1YwMjNkMnpCWmZHU1d1VllHMXhOa1d0alEzd2hoc0gxaGNRUG1ZZGJPQzF4VEl2RW9aLWVjcThYU2UxazJHMnFsdmZlaFN6T1U4TEUwRko4aXhCaG9DMA?oc=5",
+            "source": "BW Marketing World",
             "category": "Strategy"
         },
         {
-            "title": "India's festive season promises strong show as quick commerce reshapes online shopping battle - retail.economictimes.indiatimes.com",
+            "title": "India's festive season promises strong show as quick commerce reshapes online shopping battle - ET Retail",
             "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQW11RVk0QVZaU29kUnNDQ29FWGxYQk94eHY4ZHN4MVZRX2U3WlBULWZRT1Y0a3ZOQnQ5M1U0STFGbVlNdFdfUDV2SnF5MUUxZE80djRJTE5SYmVUX0VRZ2w1bWtqc2puZkdIcXZuZkVtUGQ2LUJYMlM0Nl8zejN4RE5uQ2ZZUHI5Sk9ZX2ZTVVctWGF1LWc4M0YzeDlBVHZ5YzNhMFVKWUhUOWp0OVFDaVN5QUd6bXRTS3NfY09wVkZTd3JkRTA2Tkl0VEtZQzZtc1RZZDVCaUpnd1FMQnJnNlhSN3Vwb0tZUWYtZWE3TGt1Y3NsRk55U2lsRjRNVWxUcnc?oc=5",
-            "source": "retail.economictimes.indiatimes.com",
+            "source": "ET Retail",
+            "category": "Retail"
+        },
+        {
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
+            "source": "NIQ",
             "category": "Retail"
         },
         {
@@ -45,34 +51,28 @@
             "category": "Retail"
         },
         {
-            "title": "Global AI, digital-commerce trends to improve monetisation, profitability for Indian internet firms: Report - ANI News",
-            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcjFBV0JxTUphbnpZd3NITnVpLUFrN0RVYjBVdmozREJ4cDF5QlhxcUJhZXV1Q0R4b0w1amtLdTE0S0xkbUQ0S0lVVG9odXY4NnM1cU9pOFlPOHV4Q0s4YmFvTEVQZWI2N3ItaUZvcG55WjREQ09vU0hKNTVUOGVraDRSOV92eWJpOXhYVmpqbzNlNjd6QVA2bHFqbTk4R190MEZVNEZraVNmQzFwMEs1X0IyREJfaUs0Z0lKNzJ4NngtS2J2Q094UEVJNVoyY1dEMTNLZlJGb2xSWDE2RDN5Y2xkUEplQVJaMlJn?oc=5",
-            "source": "ANI News",
-            "category": "Retail"
-        },
-        {
-            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
-            "source": "NIQ",
+            "title": "Sector Trend Analysis \u2013 E-commerce market trends in India - Agriculture and Agri-food Canada",
+            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLW5hWE5TMm1fVC1ISnF0c2o4QjZwbVBRMG1Jc2ZFOG4xZ2JSZ0NEMUZZSHM0dkFDek9Jb1R4WUc5N0dEMDZoRl9UZ1QzbzUtbldPcmFxSU1RNU83aDBvWk92bGRoOFZnLWFxd0Z5T1hBdjIwbVhJTVkzMW9lRjRFNm1IOXp4TU82b0FaT3RTcWo0VGxER3BMUDI3V2JtbnRvSFRoSEJvNk9QSC1RQlpBRUlHa3lPMU1KaXlXQUhVbnFKdw?oc=5",
+            "source": "Agriculture and Agri-food Canada",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
