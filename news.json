@@ -1,13 +1,19 @@
 {
-    "date": "Monday, 14 September 2026",
+    "date": "Tuesday, 15 September 2026",
     "story": {
-        "brand": "Oatly",
-        "campaign": "The Meta-Billboard",
-        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
-        "lesson": "Self-referential transparency builds instant trust.",
-        "seed": "oatly6"
+        "brand": "Zepto",
+        "campaign": "The 10-Minute Claim",
+        "story": "Instead of vague promises like 'fast delivery', Zepto built their entire brand around a specific, measurable number (10 minutes) and backed it with a countdown timer.",
+        "lesson": "Specific promises always outperform generalized claims.",
+        "seed": "zepto7"
     },
     "news": [
+        {
+            "title": "Aurora Anguilla Resort Appoints New Exec. Marketing Director - safariindia.com",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4dC1zVG81WnNkcmRtSFQ1bmx4bUJXazdyT29xb0RxUWdTWGVwbEtoUHl4ek5mMGNCZkN6SW1kb2pySFpZVk0xbHVYeS1EMktacEtRWC1ybXBFU2JSVmlDRTNrVEtFYTB6LWtvZ0s3WU45YnNHREhLMDNNNA?oc=5",
+            "source": "safariindia.com",
+            "category": "Strategy"
+        },
         {
             "title": "JK Tyre's Brand Strategy in India's Replacement Tyre Market - MarkHub24",
             "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdFk2SzJ6amNhMXBwVkhpTDhCWV84UWZodk9uVnQ3UktmVmR1VGQwVGl2SWxHb1NKVk9jQ1VYSUlhbFdmQkdfR0pld1dlNExSOVFrd1Z5M19vNTVKV3g0MVZhM2tfbFVBUFd5WkthSm5XVFBCaGlPQ1hpRGhzSi1ESEJYVkRrOU96QlBrbFhESDdjcThQ?oc=5",
@@ -15,27 +21,21 @@
             "category": "Strategy"
         },
         {
-            "title": "Formula One gives us an opportunity to connect with a highly engaged audience beyond traditional auto market.. - ET BrandEquity",
-            "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxORXA1NzBXeGsyYlNscy04TVZObjhrVko4azVKR21QTXJZamllakRVeWpSQ0hOQ0Rwc1pZdmVHUnQ1bGJaN215dW9vLWljeF9mTEZLZFRJaWRUaE9YM2M5S1Nrc2cwYlQxYWNhNW1HN0FCd1BSMFo3V211WC1tVWc0ZzR4VHF3dUFaX2ZKSEQwT0ZoSmllYzdVYU5va3UwQ1BPUkFoX0ZOU19JajZKdG1CSmdyVTQxamh1SVUtZldHRm14NUo3ZUVBN1Bmb0JfbVkzOTVLQzVmVXZIR2R0bVBWdXRxbFJOcnUwNlZBX1oyV3pORzByZFZqOGFDQlVNNk5MbTkwa0dpX0FhSkdabmwwVGZQTmxSMlcwRjBOSUgwcV91RFR5aHfSAasCQVVfeXFMUHJTNEVCLWtyenFXQU4zQjBGMUxtV1lWS0R3V2xHal9pMExUTmNyOXhDZnVUOXd4d2hfbFUyQmdaRTltbzBwcTRkZnlBOGxKT1ZjUW9CcXRmRWNuU2k3V25Hajk3S1RidDVpbHdBZVZSdFFYSUtWYThmTlNRUjF4a3JxVl9mcDBSVnVFM1h0cmw1eThNWkQ3dF9WTDV1c0ozcnZ2c1FVaFdpT3cyZ01ycmpLWGpaajZxZkpvUGlBbFU5Q2loc21ucFBnZUdfMTdwMGZiR3RTRVpFOGRfSkNremQ1RDIxajMxVUxPaDltOWliUkRJekhNY3UyNUFhQ1NPSUdCWld2Z3BSUGh4UUVmRWc5dUJuczRtTVp6X180c0JVWTczMlB5NE5QQjA?oc=5",
-            "source": "ET BrandEquity",
-            "category": "Strategy"
-        },
-        {
-            "title": "Cilicant Onboards Prabhsharan Kaur Director \u2013 Marketing, India & Global Markets - BW Marketing World",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQai1ZdUtWRE55U1l2elBlblFXSG41M2lrWVlDbUdzTnhETFhzVm1IOE9aMHJVdk1MNzlQa2RCUkNoblRUOFRuaTk4cmdldHJONEdLLVJIMDhPT2MwZVU5UW80Z0J4Mlh1X0ZoWE0yNnNlRmx2M0xUSlMySnZkRGt0S05ZbEpmM2dGZlBYeERJQXg5OGlnWF9xQ2QzdEVXYVRhdFRuZVhzSnRQY2ttODNnWWVtSWlmUjdONnlBWDVsSQ?oc=5",
-            "source": "BW Marketing World",
-            "category": "Strategy"
-        },
-        {
-            "title": "Google India\u2019s creator mandate up for grabs; agency review underway - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb2ZZakd3QVA3bnRLSDV3UnRYSEV3X3VkSFdaNlcybXUyTFRJWkc1TUtpUWktVHBocnEzRzFfTzBudVJGZ2QzMzdKeG9CZXhKUWNHR2FSR1Z1ZnVBR2tGZEFJVjN1UTAxckhLRThLZXlWZkJtdmRoQmNTYU5iYWZIMHFpN2prWk9pUkJfekpIc0hBbm5ESEtjRHF1NmlOYXlVUUFocmt5UHQ0cl9qVE91LUJLOHlLWndTQ0E2X2NR?oc=5",
+            "title": "Yash S. elevated to Senior Country Insights & Strategy Manager at Procter & Gamble India - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMkVtVi1MWldqd09JR1J5YzdCZjZVblp4Rkw2aThMSEJ6UjV4Ri13eFJUYThhTjVXQTYwX1FEcE8tdHhzeUFCZnpldVVsZHZfb3lBcVZOcWVJLWw0b2hKTkdKRHdRUUdPQk40VEwxVnlnX0czWDV3WHpVZU50VnFpcHVqMGhuaWxhNU5Ycmp1S1oxOS1zNWM2dWw5ODlweWNCaVQtbjZyUEhMVFk0c2hzNUpTOHFGSW1oZGlkOWR1UFJyNHpNeDdFbXNrcFlpblVi?oc=5",
             "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
-            "title": "India's festive season promises strong show as quick commerce reshapes online shopping battle - retail.economictimes.indiatimes.com",
+            "title": "mlHealth360 onboards Prashant Naidu as Chief Business Officer for India & Emerging Markets - Passionate In Marketing",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd1ppbk9LRzhYRF9kQ1NyRGdIdmIzSjlxUHpZNkVvMlhFdDAwbm9RTTB5cHNmVU04WFljeWRRclNVamZ5b3VHWTRJRTJSOXZnTE9nLThMd2pUVFhsYkpOX0txSmpwN0IySXBuVTRzZElPUm4zcWZuZWpRR2ZZbExwN3pDLUEydDdnVGFkRXRkSjBLa180bkhRSFpUZllyUVZzelJ5Z0FIVkdvZ2hybGdZaU85U2ZiQms5bEg2NHJnN0gwaWtINFE?oc=5",
+            "source": "Passionate In Marketing",
+            "category": "Strategy"
+        },
+        {
+            "title": "India's festive season promises strong show as quick commerce reshapes online shopping battle - ET Retail",
             "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQW11RVk0QVZaU29kUnNDQ29FWGxYQk94eHY4ZHN4MVZRX2U3WlBULWZRT1Y0a3ZOQnQ5M1U0STFGbVlNdFdfUDV2SnF5MUUxZE80djRJTE5SYmVUX0VRZ2w1bWtqc2puZkdIcXZuZkVtUGQ2LUJYMlM0Nl8zejN4RE5uQ2ZZUHI5Sk9ZX2ZTVVctWGF1LWc4M0YzeDlBVHZ5YzNhMFVKWUhUOWp0OVFDaVN5QUd6bXRTS3NfY09wVkZTd3JkRTA2Tkl0VEtZQzZtc1RZZDVCaUpnd1FMQnJnNlhSN3Vwb0tZUWYtZWE3TGt1Y3NsRk55U2lsRjRNVWxUcnc?oc=5",
-            "source": "retail.economictimes.indiatimes.com",
+            "source": "ET Retail",
             "category": "Retail"
         },
         {
@@ -45,34 +45,34 @@
             "category": "Retail"
         },
         {
-            "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops - meta.com",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpCOGtyclF1d1cwYThramZmbWFocTVTdlFramYzNUdMdW5tb0ktMUpnMldoMTBuYU9zV3hTbnMxcGlBLWJHMVllLUNOTFBFeGc5Zm1vb0txRWpLaW9tM3JJTXRPU0ZMcHROUG5TRTJnWUFpYmdndGoySlhGbDFnU3RCOTNPUW9Fejd2ZkZ1bEEzaHNqamZ4SXd5ONIBoAFBVV95cUxNN1ppbDVOYlhkRjg4NDdIWHF0UGVVcDE2azJpNUFVeGk0cXFEZ0V2eFBQQUNFUDFvX3c5V2NMRkJnQXNVb0xzLW52cDkzYmhaVXZWQl9URFVibnl0TzM1Z3VRYWoxM3I0RjdETXlTU1doTWZtWE9hNnJSZUJYWWI3OVFCZ2tjR1hoT0lBbHRxc1lsSUNjVHFfazNmcUFrbTBV?oc=5",
-            "source": "meta.com",
-            "category": "Retail"
-        },
-        {
             "title": "How Will AI Transform India's E-commerce Market by 2030? - analyticsindiamag.com",
             "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
             "source": "analyticsindiamag.com",
+            "category": "Retail"
+        },
+        {
+            "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops - meta.com",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpCOGtyclF1d1cwYThramZmbWFocTVTdlFramYzNUdMdW5tb0ktMUpnMldoMTBuYU9zV3hTbnMxcGlBLWJHMVllLUNOTFBFeGc5Zm1vb0txRWpLaW9tM3JJTXRPU0ZMcHROUG5TRTJnWUFpYmdndGoySlhGbDFnU3RCOTNPUW9Fejd2ZkZ1bEEzaHNqamZ4SXd5ONIBoAFBVV95cUxNN1ppbDVOYlhkRjg4NDdIWHF0UGVVcDE2azJpNUFVeGk0cXFEZ0V2eFBQQUNFUDFvX3c5V2NMRkJnQXNVb0xzLW52cDkzYmhaVXZWQl9URFVibnl0TzM1Z3VRYWoxM3I0RjdETXlTU1doTWZtWE9hNnJSZUJYWWI3OVFCZ2tjR1hoT0lBbHRxc1lsSUNjVHFfazNmcUFrbTBV?oc=5",
+            "source": "meta.com",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
