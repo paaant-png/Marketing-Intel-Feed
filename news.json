@@ -1,13 +1,19 @@
 {
-    "date": "Friday, 18 September 2026",
+    "date": "Saturday, 19 September 2026",
     "story": {
-        "brand": "Burger King",
-        "campaign": "The Moldy Whopper",
-        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
-        "lesson": "Ugly truths are more memorable than pretty lies.",
-        "seed": "bk10"
+        "brand": "Duolingo",
+        "campaign": "Unhinged Mascot Marketing",
+        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
+        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
+        "seed": "duo11"
     },
     "news": [
+        {
+            "title": "Digital captures 60% of India's ad spend as total AdEx set to cross Rs 2 lakh crore in 2026: Report - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMUZzVzhlb0tvM205cE4xYTFvSzlaT3BkU3V2ZW1UZFdjM19UdldwU1ltREFfR3E0aHI1Rk43eEhJZWgwMmdvbHkyc0RueVZIa29vS04zd1k0RlpyS3N5UWdoQ0ZWdzFnQ3ZJWWhBSHNVMjZWRVJURVp1XzRIN2lPMWJOMHJHUUZVbS1ocHVEZm5nbEc5VHgxRDhKaUhJWDdxNjQtaG1Md1o1TFlMRVBSYmZ5ejlpR0hFR3cyUWVVYlJGdnNxLUd2akpKV1RLZzdtMHF3cFB5dGg1Rk5UcURwdFkxRUtTTXRobzVmeVRDZFliZTM3VEQwTnFEZlBGd9IBgwJBVV95cUxNaXpHb0FDQUdKcXR4aTBlbkJhNDd0MFc3YXdSNnRDR3NhSzRuNXBQeUliY1dCZnBOc1VIUmVFZ1F5MVpBb2c3dW1xamdYMXg2bzd0a2FoVW9FWVlzVFhCSjFxZk5YQVBrTzBmUzdvb2JsYmVRYTRWSmtYRDB3WTVHTHZScGJxNGZtUzBTMU5JdUdMNm9FdzN3NFZhM3dtVXVpeWx4Nk11dUFBUHlIVTdLZV9MM2tYYmZSd0JFUVkySVRaQWY0eVZhTExqQXVWb2pWemFseHZSLW5KSGJtSzdxSzhTdTVETGpiSVdoLVFqLVJaOFhpT1l1dVMzSHJwcDFhcmxv?oc=5",
+            "source": "ET BrandEquity",
+            "category": "Strategy"
+        },
         {
             "title": "Turtle Wax elevates Dibya Swarup Panigrahi to lead Marketing & Growth Strategy across ASEAN - Social Samosa",
             "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjU3WVl4cGtFZDlnSDh0bDZGR1JCNWZ6eGV6dzNFdXpyRFF3U0hPZEllZWp4eGhhczhQVW5nRDIzODFhcUZlZF9mQkVfcDlmdWtqa1RjbjhtRlFleDNtWHg3V1VzaXI4aFItQ2Itb09BNTFqNG1mOWZVaGNkRm9BUGJGTDhubEdHWVBvMms0NWZBRkJ4Z1lfYi1Na01jM09IQnlmaFUxX0MyME56LWs0b2ZVRzV1SGNRZ3BCSFBvMFVkaDTSAcMBQVVfeXFMUFY1N1lZeHBrRWQ5Z0g4dGw2RkdSQjVmenhlenczRXV6ckRRd1NIT2RJZWVqeHhoYXM4UFVuZ0QyMzgxYXFGZWRfZkJFX3A5ZnVramtUY244bUZRZXgzbVh4N1dVc2lyOGhSLUNiLW9PQTUxajRtZjlmVWhjZEZvQVBiRkw4bmxHR1lQbzJrNDVmQUZCeGdZX2ItTWtNYzNPSEJ5ZmhVMV9DMjBOei1rNG9mVUc1dUhjUWdwQkhQbzBVZGg0?oc=5",
@@ -15,9 +21,9 @@
             "category": "Strategy"
         },
         {
-            "title": "The Growth of Social Commerce in India: From Browsing to Buying - MarkHub24",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdzNzN0lRYkNhUXBSSHlldTlPM25kcFNRb3FTNThoNzRQYUdSTVlBTWhWV3oxOWNNVklVNHFLZ3FFWllXN3JRVHhIWThIaTM3UUNSMDVhRFBTaEx2aTdJSmxKZ3VfZ1pJdGJySnJ0SHVaMzIyN0k1Nm1MV1lZYVpYQWVla1Q4SlhuQS1GN0pXbWNiamF6alVLQg?oc=5",
-            "source": "MarkHub24",
+            "title": "Honasa Consumer Elevates Neha Gupta to Senior Vice President - hrtoday.in",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0RTV3NyZ1JsUl9KMklVZVhzNkNoRmhMaXVIcThNcE1Cb1dZYk94NVJ3MmlMQnZrLUk0Rzc3a0xPbzJ0RHlHTFBpOGVidGl0SHk2TE9OR3BUZnEwU05MbFU4NDAzM3JSMmp2OS1jNnRfVkdRdjBRMEw2bVNFQ3dmV1VwcWVmcXM?oc=5",
+            "source": "hrtoday.in",
             "category": "Strategy"
         },
         {
@@ -27,27 +33,15 @@
             "category": "Strategy"
         },
         {
-            "title": "Turtle Wax elevates Dibya Swarup Panigrahi to lead marketing and growth strategy across India and ASEAN - MediaNews4U",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVIxamtpbnBfb1dYT0ZMTnZZOEV6dzVnRnFCNkdERTJYcW0xUGNXUjBLN3dSS01qWUY5UWxmMzY4a0xSZTc5SUlpSEI4WUlsdmRDYk9EN1hWNklNUUtFamVHeUc1elhFdnh1OXlTdGtoeXFBMnBGY3hRLS1SQUJVN0pGQWF2OW9CTWFfY0hqaF9ENFU4UnV3b0xHSlJBenVtR2kzNEZBUTlibGlnV0RjTWh3cXpIM2NhbWZ3ZVE2YWNCcE5FRVJVMThKdFI?oc=5",
-            "source": "MediaNews4U",
-            "category": "Strategy"
-        },
-        {
             "title": "India's festive season promises strong show as quick commerce reshapes online shopping battle - ET Retail",
             "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOQW11RVk0QVZaU29kUnNDQ29FWGxYQk94eHY4ZHN4MVZRX2U3WlBULWZRT1Y0a3ZOQnQ5M1U0STFGbVlNdFdfUDV2SnF5MUUxZE80djRJTE5SYmVUX0VRZ2w1bWtqc2puZkdIcXZuZkVtUGQ2LUJYMlM0Nl8zejN4RE5uQ2ZZUHI5Sk9ZX2ZTVVctWGF1LWc4M0YzeDlBVHZ5YzNhMFVKWUhUOWp0OVFDaVN5QUd6bXRTS3NfY09wVkZTd3JkRTA2Tkl0VEtZQzZtc1RZZDVCaUpnd1FMQnJnNlhSN3Vwb0tZUWYtZWE3TGt1Y3NsRk55U2lsRjRNVWxUcnc?oc=5",
             "source": "ET Retail",
             "category": "Retail"
         },
         {
-            "title": "Consumer Market in India Opportunities for Domestic and Global Brands - ibef.org",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlIteExLNF9PSHVJc2VGQ2VXTVhQUmk5YTgwZGZyenZFWHJnNElralJjakp1eXBDWGhiaFUxYVJlcEhpVFNkRHM5amN2ckpjRHUwUWJ1NEE2QnNKZjFxZjVSWFR3MzB5bUxQM25uZkU1ZVB6RV9GNE5ldzdEYVM0T1VzYUh6STJid0d6QzA0cDd3Vk1iMnV0NTZvTE4?oc=5",
-            "source": "ibef.org",
-            "category": "Retail"
-        },
-        {
-            "title": "Global AI, digital-commerce trends to improve monetisation, profitability for Indian internet firms: Report - aninews.in",
+            "title": "Global AI, digital-commerce trends to improve monetisation, profitability for Indian internet firms: Report - ANI News",
             "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcjFBV0JxTUphbnpZd3NITnVpLUFrN0RVYjBVdmozREJ4cDF5QlhxcUJhZXV1Q0R4b0w1amtLdTE0S0xkbUQ0S0lVVG9odXY4NnM1cU9pOFlPOHV4Q0s4YmFvTEVQZWI2N3ItaUZvcG55WjREQ09vU0hKNTVUOGVraDRSOV92eWJpOXhYVmpqbzNlNjd6QVA2bHFqbTk4R190MEZVNEZraVNmQzFwMEs1X0IyREJfaUs0Z0lKNzJ4NngtS2J2Q094UEVJNVoyY1dEMTNLZlJGb2xSWDE2RDN5Y2xkUEplQVJaMlJn?oc=5",
-            "source": "aninews.in",
+            "source": "ANI News",
             "category": "Retail"
         },
         {
@@ -55,24 +49,30 @@
             "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
             "source": "nielseniq.com",
             "category": "Retail"
+        },
+        {
+            "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops - meta.com",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpCOGtyclF1d1cwYThramZmbWFocTVTdlFramYzNUdMdW5tb0ktMUpnMldoMTBuYU9zV3hTbnMxcGlBLWJHMVllLUNOTFBFeGc5Zm1vb0txRWpLaW9tM3JJTXRPU0ZMcHROUG5TRTJnWUFpYmdndGoySlhGbDFnU3RCOTNPUW9Fejd2ZkZ1bEEzaHNqamZ4SXd5ONIBoAFBVV95cUxNN1ppbDVOYlhkRjg4NDdIWHF0UGVVcDE2azJpNUFVeGk0cXFEZ0V2eFBQQUNFUDFvX3c5V2NMRkJnQXNVb0xzLW52cDkzYmhaVXZWQl9URFVibnl0TzM1Z3VRYWoxM3I0RjdETXlTU1doTWZtWE9hNnJSZUJYWWI3OVFCZ2tjR1hoT0lBbHRxc1lsSUNjVHFfazNmcUFrbTBV?oc=5",
+            "source": "meta.com",
+            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
