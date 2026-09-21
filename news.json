@@ -1,53 +1,53 @@
 {
-    "date": "Sunday, 20 September 2026",
+    "date": "Monday, 21 September 2026",
     "story": {
-        "brand": "Airbnb",
-        "campaign": "Belong Anywhere",
-        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
-        "lesson": "Sell the transformation, not the transaction.",
-        "seed": "airbnb12"
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization.",
+        "seed": "zomato1"
     },
     "news": [
         {
-            "title": "Digital captures 60% of India's ad spend as total AdEx set to cross Rs 2 lakh crore in 2026: Report - ET BrandEquity",
+            "title": "Tata Nano may get a new marketing strategy in India - CarDekho",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY1pWZnNRSTRacEZHQUppNEZPWmd0RTg3UFR5SG9QbzlXcFd1Z1YtYU4ycDU0cVVEMFQ5Skx4b1ZfQTY2MWh6bjhmYXFfYUJubFVBcWxRVHlmMUhFLUkwSmtDWVlXMXpibjUtRjhLbHRpcUJLT3E2LTVGREk3cVJRYTV0a2pCZWpIeTBKWGptRkxUeVhkbWJzN0NPaWw2Tk9RYkJYbjh6b9IBpwFBVV95cUxPY1pWZnNRSTRacEZHQUppNEZPWmd0RTg3UFR5SG9QbzlXcFd1Z1YtYU4ycDU0cVVEMFQ5Skx4b1ZfQTY2MWh6bjhmYXFfYUJubFVBcWxRVHlmMUhFLUkwSmtDWVlXMXpibjUtRjhLbHRpcUJLT3E2LTVGREk3cVJRYTV0a2pCZWpIeTBKWGptRkxUeVhkbWJzN0NPaWw2Tk9RYkJYbjh6bw?oc=5",
+            "source": "CarDekho",
+            "category": "Strategy"
+        },
+        {
+            "title": "DCODE 2.0: Retail media, Q-comm, and AI drive India\u2019s digital ad shift - afaqs!",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2dPV2NkM2dYY3U2bGtOQkFETjBRdk9iQUVhci1BV3gwLUdtZlZ1WHo5SktXanVhdjNmNVlUYjZFaW1KZ0JxRnB3U05mYmNNSnp0RmhhWkFZdW9CUXZDNmp6ZU9ndXRER2ZGejNZV05SSU5aTUJQZEd0b0J5c2tfWE53Zmd2MTh6NmJpZ0xqNmpiUmNkY1JXWWsyOXBHMEFHWm5SWEZkaGNqU2s?oc=5",
+            "source": "afaqs!",
+            "category": "Strategy"
+        },
+        {
+            "title": "Digital captures 60% of India's ad spend as total AdEx set to cross Rs 2 lakh crore in 2026: Report - brandequity.economictimes.indiatimes.com",
             "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMUZzVzhlb0tvM205cE4xYTFvSzlaT3BkU3V2ZW1UZFdjM19UdldwU1ltREFfR3E0aHI1Rk43eEhJZWgwMmdvbHkyc0RueVZIa29vS04zd1k0RlpyS3N5UWdoQ0ZWdzFnQ3ZJWWhBSHNVMjZWRVJURVp1XzRIN2lPMWJOMHJHUUZVbS1ocHVEZm5nbEc5VHgxRDhKaUhJWDdxNjQtaG1Md1o1TFlMRVBSYmZ5ejlpR0hFR3cyUWVVYlJGdnNxLUd2akpKV1RLZzdtMHF3cFB5dGg1Rk5UcURwdFkxRUtTTXRobzVmeVRDZFliZTM3VEQwTnFEZlBGd9IBgwJBVV95cUxNaXpHb0FDQUdKcXR4aTBlbkJhNDd0MFc3YXdSNnRDR3NhSzRuNXBQeUliY1dCZnBOc1VIUmVFZ1F5MVpBb2c3dW1xamdYMXg2bzd0a2FoVW9FWVlzVFhCSjFxZk5YQVBrTzBmUzdvb2JsYmVRYTRWSmtYRDB3WTVHTHZScGJxNGZtUzBTMU5JdUdMNm9FdzN3NFZhM3dtVXVpeWx4Nk11dUFBUHlIVTdLZV9MM2tYYmZSd0JFUVkySVRaQWY0eVZhTExqQXVWb2pWemFseHZSLW5KSGJtSzdxSzhTdTVETGpiSVdoLVFqLVJaOFhpT1l1dVMzSHJwcDFhcmxv?oc=5",
-            "source": "ET BrandEquity",
+            "source": "brandequity.economictimes.indiatimes.com",
             "category": "Strategy"
         },
         {
-            "title": "9 Top Marketing Trends of 2026 - Coursera",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kaWVqd3NtQndNcXNZNGdSVF9lUWdfZmJ6RHQ4VXhmc1F1V05qSDR1UUEweXc3V1V1VV9KSDI4dFplRWNaVDY5aDh1b05Wa3NMZWpiTUJuMzh0bHpTdUJZ?oc=5",
-            "source": "Coursera",
-            "category": "Strategy"
-        },
-        {
-            "title": "JK Tyre's Brand Strategy in India's Replacement Tyre Market - MarkHub24",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdFk2SzJ6amNhMXBwVkhpTDhCWV84UWZodk9uVnQ3UktmVmR1VGQwVGl2SWxHb1NKVk9jQ1VYSUlhbFdmQkdfR0pld1dlNExSOVFrd1Z5M19vNTVKV3g0MVZhM2tfbFVBUFd5WkthSm5XVFBCaGlPQ1hpRGhzSi1ESEJYVkRrOU96QlBrbFhESDdjcThQ?oc=5",
+            "title": "Amazon Music India's \"Hello India. Love, Amazon Music\" Campaign: When Nostalgia Becomes The Brand Bridge - MarkHub24",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV2pybXFYelE0aXpOQ0hFVjJ0bFR1OGZubzNuUEVBT0ZXekREeFpacjduTW9aNmZmN0VQVU5QQUxQQWpCczYwaTlaT2dyaXJKOU4tZzNYZ0tld3pLdzFSa2tpUUI5NkhiazN1Znh2Q3d4SDlfTXFKQ184bHFXWlM5VUE3OVpJWnc5ak1ZQ2ttNS12bFBOT0Q2S0JNbkwwVnVkY012NDZHd3luYUxWTVJGUFg1TFVWcFZtZHJJZ3ptdjI4VkRJ?oc=5",
             "source": "MarkHub24",
             "category": "Strategy"
         },
         {
-            "title": "In India, advertisers searching for outcomes turn to commerce media - thecurrent.com",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRXlwZ1d2YmVDSGk1LU1hdUVrYUtKUFRyb0k3OWp1eTJZWDdaSXY1TWQxVDNVYjhUVUNWV2dJMVU5YXkySmFiZ1ZTX1V0UkJ6UGgwWEcxaWpTbHl0SUVDMGY3ejRTNWYtVHo2Zml2cWNUb0RQWHVWaE82QnVESlUzQWpNSm5oSVdST0xpcXQ4YldET3BrRUptT2FRWjFBa1NJN3Jvb0I4UWRJekNDMnJ0XzMzN1NVSFdzdlRv?oc=5",
-            "source": "thecurrent.com",
-            "category": "Strategy"
-        },
-        {
-            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - nielseniq.com",
             "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
-            "source": "NIQ",
+            "source": "nielseniq.com",
             "category": "Retail"
         },
         {
-            "title": "India's festive season promises strong show as quick commerce reshapes online shopping battle - The Economic Times",
+            "title": "India's festive season promises strong show as quick commerce reshapes online shopping battle - economictimes.com",
             "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMHpOZDU2bzBhRzFkd0Y4MzNfeW5Jb0kyOTRHbS1DYWt5M3RYSjBOSVdRZUptRHV1MWE5UVllYVdHWTN3NVJQSmFrb3J1VFNrRkZEdU5JWDZiWV9RdmJJa0VoczdPNVl5UXVYd19YTVktc280Mjhhbm9obGRMMDRKVHJRY2NMVFVvU1pHTzJxVE9VWjRxcno1dEdRWFdGVzhrV1NzOGtQY043dW02TjRoV3hDYm02VTVVZW5aelRmeXB5czhhU0JmNXEzTHdseWtSQjlTMHlCMUJKOFBhOFN5WWpfTzVlTW0tOGlSdmFaQTQ1RW9TZ0hRS2NlbHBhSUJS0gGGAkFVX3lxTE9pVXc5djQ3eG1qSmJ2T1lPZWUwZFA0b1hGZnNndllrdHdRM1dVeVB4VFR6UkNGd1pPMDlNb2tWblFpUWh3NHJZTDRZaGp4SVBIVDAwdFZ3MWRIWHBWcWNJblloVFlxOUlvZGw0RTg2Q0JUVUNXOEtuNHpWdXZ4aXhjMUo0MjRBdkV2Q2owNTByLXpJNHRKOERJcDQ1NjdUMUFRYkZOWmxHaHRfN2tXTXhWOFdzX2hfOFZFV3pYZ3FCSVVGeEpzMGcyckpNLTBQTEpsbmFhZjU1MHdRSzZyUkxMbEhMMzNrZU5WbmJsTXc2bmpCNGpqTlZiellYYWhKX216anRFZEE?oc=5",
-            "source": "The Economic Times",
+            "source": "economictimes.com",
             "category": "Retail"
         },
         {
-            "title": "Global AI, digital-commerce trends to improve monetisation, profitability for Indian internet firms: Report - ANI News",
+            "title": "Global AI, digital-commerce trends to improve monetisation, profitability for Indian internet firms: Report - aninews.in",
             "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcjFBV0JxTUphbnpZd3NITnVpLUFrN0RVYjBVdmozREJ4cDF5QlhxcUJhZXV1Q0R4b0w1amtLdTE0S0xkbUQ0S0lVVG9odXY4NnM1cU9pOFlPOHV4Q0s4YmFvTEVQZWI2N3ItaUZvcG55WjREQ09vU0hKNTVUOGVraDRSOV92eWJpOXhYVmpqbzNlNjd6QVA2bHFqbTk4R190MEZVNEZraVNmQzFwMEs1X0IyREJfaUs0Z0lKNzJ4NngtS2J2Q094UEVJNVoyY1dEMTNLZlJGb2xSWDE2RDN5Y2xkUEplQVJaMlJn?oc=5",
-            "source": "ANI News",
+            "source": "aninews.in",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
