@@ -1,17 +1,23 @@
 {
-    "date": "Monday, 21 September 2026",
+    "date": "Tuesday, 22 September 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization.",
-        "seed": "zomato1"
+        "brand": "Cred",
+        "campaign": "Indiranagar Ka Gunda",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting a historically calm celebrity (Rahul Dravid) in an angry, chaotic role. This contrast created instant, viral meme material.",
+        "lesson": "Disruption happens when you break an established archetype.",
+        "seed": "cred2"
     },
     "news": [
         {
-            "title": "Tata Nano may get a new marketing strategy in India - CarDekho",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY1pWZnNRSTRacEZHQUppNEZPWmd0RTg3UFR5SG9QbzlXcFd1Z1YtYU4ycDU0cVVEMFQ5Skx4b1ZfQTY2MWh6bjhmYXFfYUJubFVBcWxRVHlmMUhFLUkwSmtDWVlXMXpibjUtRjhLbHRpcUJLT3E2LTVGREk3cVJRYTV0a2pCZWpIeTBKWGptRkxUeVhkbWJzN0NPaWw2Tk9RYkJYbjh6b9IBpwFBVV95cUxPY1pWZnNRSTRacEZHQUppNEZPWmd0RTg3UFR5SG9QbzlXcFd1Z1YtYU4ycDU0cVVEMFQ5Skx4b1ZfQTY2MWh6bjhmYXFfYUJubFVBcWxRVHlmMUhFLUkwSmtDWVlXMXpibjUtRjhLbHRpcUJLT3E2LTVGREk3cVJRYTV0a2pCZWpIeTBKWGptRkxUeVhkbWJzN0NPaWw2Tk9RYkJYbjh6bw?oc=5",
-            "source": "CarDekho",
+            "title": "Parul Budhiraja joins Ogilvy as Executive Vice President - bestmediainfo.com",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd3p5Z0dBX1VxVDJ0Y1NRQlB3Z2RPU3VMZnZ2MUZ5ckRtVHBldkJLVDBuS282RjBZTzZ0SksyRm5rZ0FNa0RGS3RnTEFoQTczd1lGSUprblpzZV9yRmU2R1lXdnMtNGh4eXF4SS1ETmd3MnlGRTJmWnVib3BUVUFLVlFWcVEtbjNnVXRWVVBCd1B3RnRfTHc4NTFmM3dwQnlkenRtcTkzZVV1ZkJwazRDbHJmONIBswFBVV95cUxOd3p5Z0dBX1VxVDJ0Y1NRQlB3Z2RPU3VMZnZ2MUZ5ckRtVHBldkJLVDBuS282RjBZTzZ0SksyRm5rZ0FNa0RGS3RnTEFoQTczd1lGSUprblpzZV9yRmU2R1lXdnMtNGh4eXF4SS1ETmd3MnlGRTJmWnVib3BUVUFLVlFWcVEtbjNnVXRWVVBCd1B3RnRfTHc4NTFmM3dwQnlkenRtcTkzZVV1ZkJwazRDbHJmOA?oc=5",
+            "source": "bestmediainfo.com",
+            "category": "Strategy"
+        },
+        {
+            "title": "Ankit Dhameja joins WPP Media as SVP - Strategy for Google India - Social Samosa",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbk80c3JqRmR5aXdRMnVvZ1RwT2FtOWh1cTRtbkV0cFNOV0hubVd6elRqeEcwV3REMXdXcW9MUEtxRjIwNUZreFQ4eUZ6SnpkX0FkYV9BSy1mdUdsdUNrdG5RTlRIUHBSWFM0c2hyVnNCMEZ5c0ZPYmFtVHBNOHZfZDAyQnBycmJyOTZxRzVSWmpSdG1aVDRRbjNUMElhdWZ4b0w2bGtHSdIBpwFBVV95cUxPbk80c3JqRmR5aXdRMnVvZ1RwT2FtOWh1cTRtbkV0cFNOV0hubVd6elRqeEcwV3REMXdXcW9MUEtxRjIwNUZreFQ4eUZ6SnpkX0FkYV9BSy1mdUdsdUNrdG5RTlRIUHBSWFM0c2hyVnNCMEZ5c0ZPYmFtVHBNOHZfZDAyQnBycmJyOTZxRzVSWmpSdG1aVDRRbjNUMElhdWZ4b0w2bGtHSQ?oc=5",
+            "source": "Social Samosa",
             "category": "Strategy"
         },
         {
@@ -21,33 +27,27 @@
             "category": "Strategy"
         },
         {
-            "title": "Digital captures 60% of India's ad spend as total AdEx set to cross Rs 2 lakh crore in 2026: Report - brandequity.economictimes.indiatimes.com",
-            "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMUZzVzhlb0tvM205cE4xYTFvSzlaT3BkU3V2ZW1UZFdjM19UdldwU1ltREFfR3E0aHI1Rk43eEhJZWgwMmdvbHkyc0RueVZIa29vS04zd1k0RlpyS3N5UWdoQ0ZWdzFnQ3ZJWWhBSHNVMjZWRVJURVp1XzRIN2lPMWJOMHJHUUZVbS1ocHVEZm5nbEc5VHgxRDhKaUhJWDdxNjQtaG1Md1o1TFlMRVBSYmZ5ejlpR0hFR3cyUWVVYlJGdnNxLUd2akpKV1RLZzdtMHF3cFB5dGg1Rk5UcURwdFkxRUtTTXRobzVmeVRDZFliZTM3VEQwTnFEZlBGd9IBgwJBVV95cUxNaXpHb0FDQUdKcXR4aTBlbkJhNDd0MFc3YXdSNnRDR3NhSzRuNXBQeUliY1dCZnBOc1VIUmVFZ1F5MVpBb2c3dW1xamdYMXg2bzd0a2FoVW9FWVlzVFhCSjFxZk5YQVBrTzBmUzdvb2JsYmVRYTRWSmtYRDB3WTVHTHZScGJxNGZtUzBTMU5JdUdMNm9FdzN3NFZhM3dtVXVpeWx4Nk11dUFBUHlIVTdLZV9MM2tYYmZSd0JFUVkySVRaQWY0eVZhTExqQXVWb2pWemFseHZSLW5KSGJtSzdxSzhTdTVETGpiSVdoLVFqLVJaOFhpT1l1dVMzSHJwcDFhcmxv?oc=5",
-            "source": "brandequity.economictimes.indiatimes.com",
+            "title": "9 Top Marketing Trends of 2026 - Coursera",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kaWVqd3NtQndNcXNZNGdSVF9lUWdfZmJ6RHQ4VXhmc1F1V05qSDR1UUEweXc3V1V1VV9KSDI4dFplRWNaVDY5aDh1b05Wa3NMZWpiTUJuMzh0bHpTdUJZ?oc=5",
+            "source": "Coursera",
             "category": "Strategy"
         },
         {
-            "title": "Amazon Music India's \"Hello India. Love, Amazon Music\" Campaign: When Nostalgia Becomes The Brand Bridge - MarkHub24",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV2pybXFYelE0aXpOQ0hFVjJ0bFR1OGZubzNuUEVBT0ZXekREeFpacjduTW9aNmZmN0VQVU5QQUxQQWpCczYwaTlaT2dyaXJKOU4tZzNYZ0tld3pLdzFSa2tpUUI5NkhiazN1Znh2Q3d4SDlfTXFKQ184bHFXWlM5VUE3OVpJWnc5ak1ZQ2ttNS12bFBOT0Q2S0JNbkwwVnVkY012NDZHd3luYUxWTVJGUFg1TFVWcFZtZHJJZ3ptdjI4VkRJ?oc=5",
-            "source": "MarkHub24",
-            "category": "Strategy"
-        },
-        {
-            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - nielseniq.com",
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
             "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
-            "source": "nielseniq.com",
+            "source": "NIQ",
             "category": "Retail"
         },
         {
-            "title": "India's festive season promises strong show as quick commerce reshapes online shopping battle - economictimes.com",
+            "title": "India's festive season promises strong show as quick commerce reshapes online shopping battle - The Economic Times",
             "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMHpOZDU2bzBhRzFkd0Y4MzNfeW5Jb0kyOTRHbS1DYWt5M3RYSjBOSVdRZUptRHV1MWE5UVllYVdHWTN3NVJQSmFrb3J1VFNrRkZEdU5JWDZiWV9RdmJJa0VoczdPNVl5UXVYd19YTVktc280Mjhhbm9obGRMMDRKVHJRY2NMVFVvU1pHTzJxVE9VWjRxcno1dEdRWFdGVzhrV1NzOGtQY043dW02TjRoV3hDYm02VTVVZW5aelRmeXB5czhhU0JmNXEzTHdseWtSQjlTMHlCMUJKOFBhOFN5WWpfTzVlTW0tOGlSdmFaQTQ1RW9TZ0hRS2NlbHBhSUJS0gGGAkFVX3lxTE9pVXc5djQ3eG1qSmJ2T1lPZWUwZFA0b1hGZnNndllrdHdRM1dVeVB4VFR6UkNGd1pPMDlNb2tWblFpUWh3NHJZTDRZaGp4SVBIVDAwdFZ3MWRIWHBWcWNJblloVFlxOUlvZGw0RTg2Q0JUVUNXOEtuNHpWdXZ4aXhjMUo0MjRBdkV2Q2owNTByLXpJNHRKOERJcDQ1NjdUMUFRYkZOWmxHaHRfN2tXTXhWOFdzX2hfOFZFV3pYZ3FCSVVGeEpzMGcyckpNLTBQTEpsbmFhZjU1MHdRSzZyUkxMbEhMMzNrZU5WbmJsTXc2bmpCNGpqTlZiellYYWhKX216anRFZEE?oc=5",
-            "source": "economictimes.com",
+            "source": "The Economic Times",
             "category": "Retail"
         },
         {
-            "title": "Global AI, digital-commerce trends to improve monetisation, profitability for Indian internet firms: Report - aninews.in",
+            "title": "Global AI, digital-commerce trends to improve monetisation, profitability for Indian internet firms: Report - ANI News",
             "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcjFBV0JxTUphbnpZd3NITnVpLUFrN0RVYjBVdmozREJ4cDF5QlhxcUJhZXV1Q0R4b0w1amtLdTE0S0xkbUQ0S0lVVG9odXY4NnM1cU9pOFlPOHV4Q0s4YmFvTEVQZWI2N3ItaUZvcG55WjREQ09vU0hKNTVUOGVraDRSOV92eWJpOXhYVmpqbzNlNjd6QVA2bHFqbTk4R190MEZVNEZraVNmQzFwMEs1X0IyREJfaUs0Z0lKNzJ4NngtS2J2Q094UEVJNVoyY1dEMTNLZlJGb2xSWDE2RDN5Y2xkUEplQVJaMlJn?oc=5",
-            "source": "aninews.in",
+            "source": "ANI News",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
