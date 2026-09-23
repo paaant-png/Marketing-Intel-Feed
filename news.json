@@ -1,35 +1,35 @@
 {
-    "date": "Tuesday, 22 September 2026",
+    "date": "Wednesday, 23 September 2026",
     "story": {
-        "brand": "Cred",
-        "campaign": "Indiranagar Ka Gunda",
-        "story": "Cred purposefully used 'anti-casting'\u2014putting a historically calm celebrity (Rahul Dravid) in an angry, chaotic role. This contrast created instant, viral meme material.",
-        "lesson": "Disruption happens when you break an established archetype.",
-        "seed": "cred2"
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the ruthless obsession required to win, alienating some to deeply delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging.",
+        "seed": "nike3"
     },
     "news": [
+        {
+            "title": "\u0160koda Auto India Unveils New Marketing Campaign for Kylaq Sportline SUV - Indian Retailer",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYXlFb2FnV29ZUzhra0NtTmdRTHRDMkxKV05EVFJkcUFpRHFDV0xMTTVJcTd3TzdFbzJEVThjNlZzMUo2ZDhZTTB3N0c3WWhVcmZyMEhKSlVjenRJZjdPNzVnLU5ZQ3l2bDU4QlJqT0RCZnJCNlRDZUJ6d21RZ3Q0aF9LTGlWclEzd0xsWDZGakN0UkRydUxSS1RUSHRNU2hNWE5HZVljLVk4MGJUMDlqY1dCWHRRUDFZY2UwbV9OMkhscGtYYU9NdmIxRQ?oc=5",
+            "source": "Indian Retailer",
+            "category": "Strategy"
+        },
+        {
+            "title": "EssilorLuxottica Names Ashwin Uppal As Head - Marketing, Greater India - BW Marketing World",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWRXYmhNMWRjU1VCaE5KelNzTlhYTEdWd21McWNyQW1LNGk4dWtNYkhGYmRSRXE3YWl2Wi1fV21rYVJKUDZib3dkWDNKazJpTTFmRmtOTjZVd1l3UjJsMXlRQXQ0d08zNWIzbTFQRzNIQnpGY0ZXeFlvLUJKZE53Z0RBNC1DdmFzWFN0Y3ozeGlIVE9BMERMZ0tPNmNEcy13dVhNUXVrejRsSjRrclhYU1g5V2VMQQ?oc=5",
+            "source": "BW Marketing World",
+            "category": "Strategy"
+        },
+        {
+            "title": "Essilor Luxottica appoints Ashwin Uppal as Head of Marketing, Greater India - exchange4media.com",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWkNGMTQwUE5pVWYzRWRIMFVINXhJZ04zcFZKNndYQlBmQVJoZVdjUE1qb1hqSkw5UktyaUZkYTVVSkxMaGJCMllUWUhlb2pfZXRWR3NiOUNPT1JoNnBBejRoTk5vdTgyb280TGtFTDhKajBGTHpUT3ZvT1dtc3QtR1owWTR3VHh0eWh0LXVFYXowNGJabm9UUnU1VmIzcy1EYl9GSF91Y2xqUDRqS0NIeDdkaVFyYXdkWmhKRFJ6dEx6LTYtUjBLbXF2UHdWclRDYmExMA?oc=5",
+            "source": "exchange4media.com",
+            "category": "Strategy"
+        },
         {
             "title": "Parul Budhiraja joins Ogilvy as Executive Vice President - bestmediainfo.com",
             "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd3p5Z0dBX1VxVDJ0Y1NRQlB3Z2RPU3VMZnZ2MUZ5ckRtVHBldkJLVDBuS282RjBZTzZ0SksyRm5rZ0FNa0RGS3RnTEFoQTczd1lGSUprblpzZV9yRmU2R1lXdnMtNGh4eXF4SS1ETmd3MnlGRTJmWnVib3BUVUFLVlFWcVEtbjNnVXRWVVBCd1B3RnRfTHc4NTFmM3dwQnlkenRtcTkzZVV1ZkJwazRDbHJmONIBswFBVV95cUxOd3p5Z0dBX1VxVDJ0Y1NRQlB3Z2RPU3VMZnZ2MUZ5ckRtVHBldkJLVDBuS282RjBZTzZ0SksyRm5rZ0FNa0RGS3RnTEFoQTczd1lGSUprblpzZV9yRmU2R1lXdnMtNGh4eXF4SS1ETmd3MnlGRTJmWnVib3BUVUFLVlFWcVEtbjNnVXRWVVBCd1B3RnRfTHc4NTFmM3dwQnlkenRtcTkzZVV1ZkJwazRDbHJmOA?oc=5",
             "source": "bestmediainfo.com",
-            "category": "Strategy"
-        },
-        {
-            "title": "Ankit Dhameja joins WPP Media as SVP - Strategy for Google India - Social Samosa",
-            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbk80c3JqRmR5aXdRMnVvZ1RwT2FtOWh1cTRtbkV0cFNOV0hubVd6elRqeEcwV3REMXdXcW9MUEtxRjIwNUZreFQ4eUZ6SnpkX0FkYV9BSy1mdUdsdUNrdG5RTlRIUHBSWFM0c2hyVnNCMEZ5c0ZPYmFtVHBNOHZfZDAyQnBycmJyOTZxRzVSWmpSdG1aVDRRbjNUMElhdWZ4b0w2bGtHSdIBpwFBVV95cUxPbk80c3JqRmR5aXdRMnVvZ1RwT2FtOWh1cTRtbkV0cFNOV0hubVd6elRqeEcwV3REMXdXcW9MUEtxRjIwNUZreFQ4eUZ6SnpkX0FkYV9BSy1mdUdsdUNrdG5RTlRIUHBSWFM0c2hyVnNCMEZ5c0ZPYmFtVHBNOHZfZDAyQnBycmJyOTZxRzVSWmpSdG1aVDRRbjNUMElhdWZ4b0w2bGtHSQ?oc=5",
-            "source": "Social Samosa",
-            "category": "Strategy"
-        },
-        {
-            "title": "DCODE 2.0: Retail media, Q-comm, and AI drive India\u2019s digital ad shift - afaqs!",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2dPV2NkM2dYY3U2bGtOQkFETjBRdk9iQUVhci1BV3gwLUdtZlZ1WHo5SktXanVhdjNmNVlUYjZFaW1KZ0JxRnB3U05mYmNNSnp0RmhhWkFZdW9CUXZDNmp6ZU9ndXRER2ZGejNZV05SSU5aTUJQZEd0b0J5c2tfWE53Zmd2MTh6NmJpZ0xqNmpiUmNkY1JXWWsyOXBHMEFHWm5SWEZkaGNqU2s?oc=5",
-            "source": "afaqs!",
-            "category": "Strategy"
-        },
-        {
-            "title": "9 Top Marketing Trends of 2026 - Coursera",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kaWVqd3NtQndNcXNZNGdSVF9lUWdfZmJ6RHQ4VXhmc1F1V05qSDR1UUEweXc3V1V1VV9KSDI4dFplRWNaVDY5aDh1b05Wa3NMZWpiTUJuMzh0bHpTdUJZ?oc=5",
-            "source": "Coursera",
             "category": "Strategy"
         },
         {
@@ -45,34 +45,34 @@
             "category": "Retail"
         },
         {
-            "title": "Global AI, digital-commerce trends to improve monetisation, profitability for Indian internet firms: Report - ANI News",
-            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcjFBV0JxTUphbnpZd3NITnVpLUFrN0RVYjBVdmozREJ4cDF5QlhxcUJhZXV1Q0R4b0w1amtLdTE0S0xkbUQ0S0lVVG9odXY4NnM1cU9pOFlPOHV4Q0s4YmFvTEVQZWI2N3ItaUZvcG55WjREQ09vU0hKNTVUOGVraDRSOV92eWJpOXhYVmpqbzNlNjd6QVA2bHFqbTk4R190MEZVNEZraVNmQzFwMEs1X0IyREJfaUs0Z0lKNzJ4NngtS2J2Q094UEVJNVoyY1dEMTNLZlJGb2xSWDE2RDN5Y2xkUEplQVJaMlJn?oc=5",
-            "source": "ANI News",
-            "category": "Retail"
-        },
-        {
             "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops - meta.com",
             "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpCOGtyclF1d1cwYThramZmbWFocTVTdlFramYzNUdMdW5tb0ktMUpnMldoMTBuYU9zV3hTbnMxcGlBLWJHMVllLUNOTFBFeGc5Zm1vb0txRWpLaW9tM3JJTXRPU0ZMcHROUG5TRTJnWUFpYmdndGoySlhGbDFnU3RCOTNPUW9Fejd2ZkZ1bEEzaHNqamZ4SXd5ONIBoAFBVV95cUxNN1ppbDVOYlhkRjg4NDdIWHF0UGVVcDE2azJpNUFVeGk0cXFEZ0V2eFBQQUNFUDFvX3c5V2NMRkJnQXNVb0xzLW52cDkzYmhaVXZWQl9URFVibnl0TzM1Z3VRYWoxM3I0RjdETXlTU1doTWZtWE9hNnJSZUJYWWI3OVFCZ2tjR1hoT0lBbHRxc1lsSUNjVHFfazNmcUFrbTBV?oc=5",
             "source": "meta.com",
+            "category": "Retail"
+        },
+        {
+            "title": "India B2C E-Commerce Market Size to Attain USD 2008.83 Million by 2035 - precedenceresearch.com",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQkpLbEpaOEUyUTgxWkE4R3NIS0lUT3VubmpEQjh1NmhSNmhQYy1fTFZ3TzRMTWNweXhVTjZsZ2Q4Mko4bk1yX29PZ1Zzd3VaUWlzZjNPNkhjSUNtQ3ZHbEFMTVBnVmpQTHNIdU1oYw?oc=5",
+            "source": "precedenceresearch.com",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
