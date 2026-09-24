@@ -1,35 +1,35 @@
 {
-    "date": "Wednesday, 23 September 2026",
+    "date": "Thursday, 24 September 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the ruthless obsession required to win, alienating some to deeply delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging.",
-        "seed": "nike3"
+        "brand": "Spotify",
+        "campaign": "Wrapped: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They playfully roasted users, gamifying data to make sharing a cultural status symbol.",
+        "lesson": "Data is boring. Data identity is viral.",
+        "seed": "spotify4"
     },
     "news": [
         {
-            "title": "\u0160koda Auto India Unveils New Marketing Campaign for Kylaq Sportline SUV - Indian Retailer",
+            "title": "India emerges as a test bed for Unilever\u2019s climate strategy, with AI driving factory efficiency - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ2NrQTVTczdpV3NPZXBrNUp0STRoVmFpSFFoV0dsY3hqLXhwbG5uQzcyb3UyMkJBRGo1WGFBYlZUcHpFSUdXaXl4cEtuQ0o0QVFLUGoyX0RHcnBRRU9PLWF0Y091ajE4S051OU9RSFVxXzVZOXVtSkg5bmc5OTNjLXdPMVlxN21GN2ZPcGplQl91UlFOTXJ2TFBDdFZIZ0RfZHg0NG5ESDFuRTdJMENONmlPQjM1VXFOYmVSaWZyTklZM2tkVXIwV1dQYWZxYUE4MThhUDJUMk5tZ2ZrT1ZkRXM2RdIB6AFBVV95cUxOSWFQN3FIcGIwaGlfeDU5SVk4UTN0ZXl2TV9XYUdsZkFKZGl3Ui0zU3Voc1lfRVpVcE4xZHE4NzF0QW53YU5kYXBVNXhaajBuM29tTW9vaGFrcl9PVlJMVlZPckY5Q2E3UFRfSXBoVUlYRUhrSjlZOGd3REZnTUpybGQ0RHdzcUQ3aEJYT0FuX2xITjI3Q1FVNmZXN0JaM2FaLXBYLXJycm9MTE9ZMXVhU1BJMHRmeTR6cHNVQnQxSlpJSGlpSjlDM0JBbWVYcmNGZC1UMWowSFRjRVlDeGNhTmN3VXVDdml1?oc=5",
+            "source": "Storyboard18",
+            "category": "Strategy"
+        },
+        {
+            "title": "\u0160koda Auto India Unveils New Marketing Campaign for Kylaq Sportline SUV - indianretailer.com",
             "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYXlFb2FnV29ZUzhra0NtTmdRTHRDMkxKV05EVFJkcUFpRHFDV0xMTTVJcTd3TzdFbzJEVThjNlZzMUo2ZDhZTTB3N0c3WWhVcmZyMEhKSlVjenRJZjdPNzVnLU5ZQ3l2bDU4QlJqT0RCZnJCNlRDZUJ6d21RZ3Q0aF9LTGlWclEzd0xsWDZGakN0UkRydUxSS1RUSHRNU2hNWE5HZVljLVk4MGJUMDlqY1dCWHRRUDFZY2UwbV9OMkhscGtYYU9NdmIxRQ?oc=5",
-            "source": "Indian Retailer",
+            "source": "indianretailer.com",
+            "category": "Strategy"
+        },
+        {
+            "title": "Essilor Luxottica appoints Ashwin Uppal as Head of Marketing, Greater India - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWkNGMTQwUE5pVWYzRWRIMFVINXhJZ04zcFZKNndYQlBmQVJoZVdjUE1qb1hqSkw5UktyaUZkYTVVSkxMaGJCMllUWUhlb2pfZXRWR3NiOUNPT1JoNnBBejRoTk5vdTgyb280TGtFTDhKajBGTHpUT3ZvT1dtc3QtR1owWTR3VHh0eWh0LXVFYXowNGJabm9UUnU1VmIzcy1EYl9GSF91Y2xqUDRqS0NIeDdkaVFyYXdkWmhKRFJ6dEx6LTYtUjBLbXF2UHdWclRDYmExMA?oc=5",
+            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
             "title": "EssilorLuxottica Names Ashwin Uppal As Head - Marketing, Greater India - BW Marketing World",
             "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWRXYmhNMWRjU1VCaE5KelNzTlhYTEdWd21McWNyQW1LNGk4dWtNYkhGYmRSRXE3YWl2Wi1fV21rYVJKUDZib3dkWDNKazJpTTFmRmtOTjZVd1l3UjJsMXlRQXQ0d08zNWIzbTFQRzNIQnpGY0ZXeFlvLUJKZE53Z0RBNC1DdmFzWFN0Y3ozeGlIVE9BMERMZ0tPNmNEcy13dVhNUXVrejRsSjRrclhYU1g5V2VMQQ?oc=5",
             "source": "BW Marketing World",
-            "category": "Strategy"
-        },
-        {
-            "title": "Essilor Luxottica appoints Ashwin Uppal as Head of Marketing, Greater India - exchange4media.com",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWkNGMTQwUE5pVWYzRWRIMFVINXhJZ04zcFZKNndYQlBmQVJoZVdjUE1qb1hqSkw5UktyaUZkYTVVSkxMaGJCMllUWUhlb2pfZXRWR3NiOUNPT1JoNnBBejRoTk5vdTgyb280TGtFTDhKajBGTHpUT3ZvT1dtc3QtR1owWTR3VHh0eWh0LXVFYXowNGJabm9UUnU1VmIzcy1EYl9GSF91Y2xqUDRqS0NIeDdkaVFyYXdkWmhKRFJ6dEx6LTYtUjBLbXF2UHdWclRDYmExMA?oc=5",
-            "source": "exchange4media.com",
-            "category": "Strategy"
-        },
-        {
-            "title": "Parul Budhiraja joins Ogilvy as Executive Vice President - bestmediainfo.com",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd3p5Z0dBX1VxVDJ0Y1NRQlB3Z2RPU3VMZnZ2MUZ5ckRtVHBldkJLVDBuS282RjBZTzZ0SksyRm5rZ0FNa0RGS3RnTEFoQTczd1lGSUprblpzZV9yRmU2R1lXdnMtNGh4eXF4SS1ETmd3MnlGRTJmWnVib3BUVUFLVlFWcVEtbjNnVXRWVVBCd1B3RnRfTHc4NTFmM3dwQnlkenRtcTkzZVV1ZkJwazRDbHJmONIBswFBVV95cUxOd3p5Z0dBX1VxVDJ0Y1NRQlB3Z2RPU3VMZnZ2MUZ5ckRtVHBldkJLVDBuS282RjBZTzZ0SksyRm5rZ0FNa0RGS3RnTEFoQTczd1lGSUprblpzZV9yRmU2R1lXdnMtNGh4eXF4SS1ETmd3MnlGRTJmWnVib3BUVUFLVlFWcVEtbjNnVXRWVVBCd1B3RnRfTHc4NTFmM3dwQnlkenRtcTkzZVV1ZkJwazRDbHJmOA?oc=5",
-            "source": "bestmediainfo.com",
             "category": "Strategy"
         },
         {
@@ -51,28 +51,28 @@
             "category": "Retail"
         },
         {
-            "title": "India B2C E-Commerce Market Size to Attain USD 2008.83 Million by 2035 - precedenceresearch.com",
+            "title": "India B2C E-Commerce Market Size to Attain USD 2008.83 Million by 2035 - Precedence Research",
             "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQkpLbEpaOEUyUTgxWkE4R3NIS0lUT3VubmpEQjh1NmhSNmhQYy1fTFZ3TzRMTWNweXhVTjZsZ2Q4Mko4bk1yX29PZ1Zzd3VaUWlzZjNPNkhjSUNtQ3ZHbEFMTVBnVmpQTHNIdU1oYw?oc=5",
-            "source": "precedenceresearch.com",
+            "source": "Precedence Research",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
