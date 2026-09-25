@@ -1,35 +1,35 @@
 {
-    "date": "Thursday, 24 September 2026",
+    "date": "Friday, 25 September 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They playfully roasted users, gamifying data to make sharing a cultural status symbol.",
-        "lesson": "Data is boring. Data identity is viral.",
-        "seed": "spotify4"
+        "brand": "Liquid Death",
+        "campaign": "Murder Your Thirst",
+        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
+        "lesson": "Packaging and attitude can differentiate a pure commodity.",
+        "seed": "liquid5"
     },
     "news": [
         {
-            "title": "India emerges as a test bed for Unilever\u2019s climate strategy, with AI driving factory efficiency - Storyboard18",
-            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ2NrQTVTczdpV3NPZXBrNUp0STRoVmFpSFFoV0dsY3hqLXhwbG5uQzcyb3UyMkJBRGo1WGFBYlZUcHpFSUdXaXl4cEtuQ0o0QVFLUGoyX0RHcnBRRU9PLWF0Y091ajE4S051OU9RSFVxXzVZOXVtSkg5bmc5OTNjLXdPMVlxN21GN2ZPcGplQl91UlFOTXJ2TFBDdFZIZ0RfZHg0NG5ESDFuRTdJMENONmlPQjM1VXFOYmVSaWZyTklZM2tkVXIwV1dQYWZxYUE4MThhUDJUMk5tZ2ZrT1ZkRXM2RdIB6AFBVV95cUxOSWFQN3FIcGIwaGlfeDU5SVk4UTN0ZXl2TV9XYUdsZkFKZGl3Ui0zU3Voc1lfRVpVcE4xZHE4NzF0QW53YU5kYXBVNXhaajBuM29tTW9vaGFrcl9PVlJMVlZPckY5Q2E3UFRfSXBoVUlYRUhrSjlZOGd3REZnTUpybGQ0RHdzcUQ3aEJYT0FuX2xITjI3Q1FVNmZXN0JaM2FaLXBYLXJycm9MTE9ZMXVhU1BJMHRmeTR6cHNVQnQxSlpJSGlpSjlDM0JBbWVYcmNGZC1UMWowSFRjRVlDeGNhTmN3VXVDdml1?oc=5",
-            "source": "Storyboard18",
-            "category": "Strategy"
-        },
-        {
-            "title": "\u0160koda Auto India Unveils New Marketing Campaign for Kylaq Sportline SUV - indianretailer.com",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYXlFb2FnV29ZUzhra0NtTmdRTHRDMkxKV05EVFJkcUFpRHFDV0xMTTVJcTd3TzdFbzJEVThjNlZzMUo2ZDhZTTB3N0c3WWhVcmZyMEhKSlVjenRJZjdPNzVnLU5ZQ3l2bDU4QlJqT0RCZnJCNlRDZUJ6d21RZ3Q0aF9LTGlWclEzd0xsWDZGakN0UkRydUxSS1RUSHRNU2hNWE5HZVljLVk4MGJUMDlqY1dCWHRRUDFZY2UwbV9OMkhscGtYYU9NdmIxRQ?oc=5",
-            "source": "indianretailer.com",
-            "category": "Strategy"
-        },
-        {
-            "title": "Essilor Luxottica appoints Ashwin Uppal as Head of Marketing, Greater India - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWkNGMTQwUE5pVWYzRWRIMFVINXhJZ04zcFZKNndYQlBmQVJoZVdjUE1qb1hqSkw5UktyaUZkYTVVSkxMaGJCMllUWUhlb2pfZXRWR3NiOUNPT1JoNnBBejRoTk5vdTgyb280TGtFTDhKajBGTHpUT3ZvT1dtc3QtR1owWTR3VHh0eWh0LXVFYXowNGJabm9UUnU1VmIzcy1EYl9GSF91Y2xqUDRqS0NIeDdkaVFyYXdkWmhKRFJ6dEx6LTYtUjBLbXF2UHdWclRDYmExMA?oc=5",
+            "title": "Xiaomi India ropes in Ruchita Sharma as Senior Media Marketing Manager - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2FNZ3EwMkxPUlRHVUQ0NDRTQ3dxZ09fSVYxQjh3MkpIY0t5SXZDb25VR2tNZDBCZkJhQWU0SjN4NnA0LWJKTk5FOVdCSVppdk14dl9FVkVJYXdTU2k5Ty1DLUN1NHNUTmlDZFY4UHRWUUsxYlZIZXIxZ1pLbjg0TUVsblVVb3VJWC1TR0NOWEJtMjlUVFgyTlR5ZllUTlZfel90cUJ2THdqQW92MXZhTzFzMnIyLUF0bzRRMEw5TXdRMVlkWDRkNjdhUVY3LVE?oc=5",
             "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
-            "title": "EssilorLuxottica Names Ashwin Uppal As Head - Marketing, Greater India - BW Marketing World",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWRXYmhNMWRjU1VCaE5KelNzTlhYTEdWd21McWNyQW1LNGk4dWtNYkhGYmRSRXE3YWl2Wi1fV21rYVJKUDZib3dkWDNKazJpTTFmRmtOTjZVd1l3UjJsMXlRQXQ0d08zNWIzbTFQRzNIQnpGY0ZXeFlvLUJKZE53Z0RBNC1DdmFzWFN0Y3ozeGlIVE9BMERMZ0tPNmNEcy13dVhNUXVrejRsSjRrclhYU1g5V2VMQQ?oc=5",
-            "source": "BW Marketing World",
+            "title": "Publicis Groupe India names Shiv Acharjee VP \u2013 Strategy - IMPACT Magazine",
+            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNDZHdWJTYnR2YXhGeWZjUjZjSFEyc194QUpwTjM0S3JJd2tZZzZWbUdCTlplcjlxQVpoWDJTbVA0a1NEYld0UHltOG5wdDEyTW5sUGNHcTMtTmFPMXo2NW90LTJfSEY2MWc4WWRsbU5FTUNZX29nYWVKQ19KM295RDc5c0t1YTBLYlBhLTBiWk8zWjdwd3hvUnlMTFg1QS1CSHZjVnY2bGdlTFNvRkE?oc=5",
+            "source": "IMPACT Magazine",
+            "category": "Strategy"
+        },
+        {
+            "title": "DailyObjects appoints Zeenah Vilcassim as Global Chief Marketing Officer - bestmediainfo.com",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0puTmJ5MGZTWWYyN0FoT3ZDOGJ5QjRuRlpBbDI0WnZLOTVXNEIwYUZ6S0NVU0JKQWVWbEdZN1BoNnhHdGtBSkJnMEM0WVhPd09tR3hfM3FjSFZvWXFWQ2p2VzZPejJxQzZWcW1iaFhlZmhCZnFFRWtvNHljaUo3UTBuQjlBc1c3WkVJR3ExV1BFa25PeVJrblhackVWR29rUWhWRlJZSW1OX21EX3lxekVNSzZEZGs4NFBhWFdybEsxN1g0RGE2cFBIcHRlQk94eng40gHTAUFVX3lxTE5vSm5OYnkwZlNZZjI3QWhPdkM4YnlCNG5GWkFsMjRadks5NVc0QjBhRnpLQ1VTQkpBZVZsR1k3UGg2eEd0a0FKQmcwQzRZWE93T21HeF8zcWNIVm9ZcVZDanZXNk96MnFDNlZxbWJoWGVmaEJmcUVFa280eWNpSjdRMG5COUFzVzdaRUlHcTFXUEVrbk95UmtuWFpyRVZHb2tRaFZGUllJbU5fbURfeXF6RU1LNkRkazg0UGFYV3JsSzE3WDREYTZwUEhwdGVCT3h6eDg?oc=5",
+            "source": "bestmediainfo.com",
+            "category": "Strategy"
+        },
+        {
+            "title": "Xiaomi India appoints Ruchita Sharma as Senior Media Marketing Manager - pitchonnet.com",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ0xIcUxMX0w3VmFZRGdJS1pxaXN5UFZPU1dYZ1BXRFdicy1KcjNjWG5jNmNLUFY0aUdSb2ZPd3NaNGNtYXozTzREcHdYNFVaQlBfQkdxWnF2dDJkNFhLTUlDUGJqMjB4Z2kweE5qbDljN3N0Z1hMN0JXNEItcmVVUV9qdDVlN0RFaHJLRUZjUVJfMW4tdUY2dHZLVHFsSi1MOTYwSUZLdGlqZmhFdGtra3Jmb3RGZEhaMV9ScQ?oc=5",
+            "source": "pitchonnet.com",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
