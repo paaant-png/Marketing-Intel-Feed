@@ -1,13 +1,19 @@
 {
-    "date": "Friday, 25 September 2026",
+    "date": "Saturday, 26 September 2026",
     "story": {
-        "brand": "Liquid Death",
-        "campaign": "Murder Your Thirst",
-        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
-        "lesson": "Packaging and attitude can differentiate a pure commodity.",
-        "seed": "liquid5"
+        "brand": "Oatly",
+        "campaign": "The Meta-Billboard",
+        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
+        "lesson": "Self-referential transparency builds instant trust.",
+        "seed": "oatly6"
     },
     "news": [
+        {
+            "title": "Cilicant appoints Prabhsharan Kaur to lead marketing in India and global markets - bestmediainfo.com",
+            "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWFHV3p0Tms3MUpUeDFOSDVBYWVvdEhmZGxZMmZtZVdRbzVROHpGYWZYZkRlYnptUHQ0MjV6OXlQYnE2RmR1NElWNmRWeEQ4aFJwZmh6bzhiS21PSzRPb2VrUlhyLXZHYmdzNnFaRWhmSTJqRGQ4MGk2X1hSUmNEdkZkT1hwN1I3UVRKQ1lTRl9FLVB3R2hMLUNNWFc1d3VSUkxCNWRqbFFTcmZRTmZETUVVMXJPRnJOMWF0dGVKWFc4QXdoZE05d1RFdU1GaVpreUVjS044T09ON0U3QmfSAd4BQVVfeXFMTVlhR1d6dE5rNzFKVHgxTkg1QWFlb3RIZmRsWTJmbWVXUW81UTh6RmFmWGZEZWJ6bVB0NDI1ejl5UGJxNkZkdTRJVjZkVnhEOGhScGZoem84YkttT0s0T29la1JYci12R2JnczZxWkVoZkkyakRkODBpNl9YUlJjRHZGZE9YcDdSN1FUSkNZU0ZfRS1Qd0doTC1DTVhXNXd1UlJMQjVkamxRU3JmUU5mRE1FVTFyT0ZyTjFhdHRlSlhXOEF3aGRNOXdURXVNRmlaa3lFY0tOOE9PTjdFN0Jn?oc=5",
+            "source": "bestmediainfo.com",
+            "category": "Strategy"
+        },
         {
             "title": "Xiaomi India ropes in Ruchita Sharma as Senior Media Marketing Manager - Exchange4Media",
             "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2FNZ3EwMkxPUlRHVUQ0NDRTQ3dxZ09fSVYxQjh3MkpIY0t5SXZDb25VR2tNZDBCZkJhQWU0SjN4NnA0LWJKTk5FOVdCSVppdk14dl9FVkVJYXdTU2k5Ty1DLUN1NHNUTmlDZFY4UHRWUUsxYlZIZXIxZ1pLbjg0TUVsblVVb3VJWC1TR0NOWEJtMjlUVFgyTlR5ZllUTlZfel90cUJ2THdqQW92MXZhTzFzMnIyLUF0bzRRMEw5TXdRMVlkWDRkNjdhUVY3LVE?oc=5",
@@ -15,21 +21,15 @@
             "category": "Strategy"
         },
         {
-            "title": "Publicis Groupe India names Shiv Acharjee VP \u2013 Strategy - IMPACT Magazine",
-            "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNDZHdWJTYnR2YXhGeWZjUjZjSFEyc194QUpwTjM0S3JJd2tZZzZWbUdCTlplcjlxQVpoWDJTbVA0a1NEYld0UHltOG5wdDEyTW5sUGNHcTMtTmFPMXo2NW90LTJfSEY2MWc4WWRsbU5FTUNZX29nYWVKQ19KM295RDc5c0t1YTBLYlBhLTBiWk8zWjdwd3hvUnlMTFg1QS1CSHZjVnY2bGdlTFNvRkE?oc=5",
-            "source": "IMPACT Magazine",
+            "title": "Amorepacific India Creates New Premium Division, Appoints Vidushi Goyal as Business Head - Passionate In Marketing",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUV9SR2FnaWdHbXRNVUdETVVmN2EwYURZNWFmZ3RRdDJERTRVSUZ1TnNxSnFBeHdvY05qNFBQR25pMDJrQ25PVkIzdkpic2tUVU1XSDU3Qlp1VG1MZWllOHMxUTRRNjZvVWNHbEF4cnZXWEdVaVFmWm5UVXc5dnpMVGdOQTdUYmViWWxLUEl4cTB2MlBPN2JMbGxZem4zcUNla2QxeW55bV9jX0ZxcWdGdE1LVnJLVk9vc3EyYmo5cS1iUWt5?oc=5",
+            "source": "Passionate In Marketing",
             "category": "Strategy"
         },
         {
-            "title": "DailyObjects appoints Zeenah Vilcassim as Global Chief Marketing Officer - bestmediainfo.com",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb0puTmJ5MGZTWWYyN0FoT3ZDOGJ5QjRuRlpBbDI0WnZLOTVXNEIwYUZ6S0NVU0JKQWVWbEdZN1BoNnhHdGtBSkJnMEM0WVhPd09tR3hfM3FjSFZvWXFWQ2p2VzZPejJxQzZWcW1iaFhlZmhCZnFFRWtvNHljaUo3UTBuQjlBc1c3WkVJR3ExV1BFa25PeVJrblhackVWR29rUWhWRlJZSW1OX21EX3lxekVNSzZEZGs4NFBhWFdybEsxN1g0RGE2cFBIcHRlQk94eng40gHTAUFVX3lxTE5vSm5OYnkwZlNZZjI3QWhPdkM4YnlCNG5GWkFsMjRadks5NVc0QjBhRnpLQ1VTQkpBZVZsR1k3UGg2eEd0a0FKQmcwQzRZWE93T21HeF8zcWNIVm9ZcVZDanZXNk96MnFDNlZxbWJoWGVmaEJmcUVFa280eWNpSjdRMG5COUFzVzdaRUlHcTFXUEVrbk95UmtuWFpyRVZHb2tRaFZGUllJbU5fbURfeXF6RU1LNkRkazg0UGFYV3JsSzE3WDREYTZwUEhwdGVCT3h6eDg?oc=5",
-            "source": "bestmediainfo.com",
-            "category": "Strategy"
-        },
-        {
-            "title": "Xiaomi India appoints Ruchita Sharma as Senior Media Marketing Manager - pitchonnet.com",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ0xIcUxMX0w3VmFZRGdJS1pxaXN5UFZPU1dYZ1BXRFdicy1KcjNjWG5jNmNLUFY0aUdSb2ZPd3NaNGNtYXozTzREcHdYNFVaQlBfQkdxWnF2dDJkNFhLTUlDUGJqMjB4Z2kweE5qbDljN3N0Z1hMN0JXNEItcmVVUV9qdDVlN0RFaHJLRUZjUVJfMW4tdUY2dHZLVHFsSi1MOTYwSUZLdGlqZmhFdGtra3Jmb3RGZEhaMV9ScQ?oc=5",
-            "source": "pitchonnet.com",
+            "title": "Prabhsharan Kaur Appointed Director, Marketing, India & Global Markets at CILICANT - hrtoday.in",
+            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2FVbENjTTZHTW1RQi16Y0lSR3RVLTlZYXlVdExSeEdHYzI0Y2NPaHpoSlkyVEROWEZ0UEh6cWppc3pPT1ZjTVFvWUF1LVJocElONk91MTZCQUxqaFFsUXhsaFlDdV9HQzZTOFZYTHpJQnptc18wOEREOGxZQWhlakJuRVhPS054akxNX3hhVzVESEl1Y09Kd2hVQnp4YVU?oc=5",
+            "source": "hrtoday.in",
             "category": "Strategy"
         },
         {
@@ -39,9 +39,9 @@
             "category": "Retail"
         },
         {
-            "title": "India's festive season promises strong show as quick commerce reshapes online shopping battle - The Economic Times",
+            "title": "India's festive season promises strong show as quick commerce reshapes online shopping battle - economictimes.com",
             "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMHpOZDU2bzBhRzFkd0Y4MzNfeW5Jb0kyOTRHbS1DYWt5M3RYSjBOSVdRZUptRHV1MWE5UVllYVdHWTN3NVJQSmFrb3J1VFNrRkZEdU5JWDZiWV9RdmJJa0VoczdPNVl5UXVYd19YTVktc280Mjhhbm9obGRMMDRKVHJRY2NMVFVvU1pHTzJxVE9VWjRxcno1dEdRWFdGVzhrV1NzOGtQY043dW02TjRoV3hDYm02VTVVZW5aelRmeXB5czhhU0JmNXEzTHdseWtSQjlTMHlCMUJKOFBhOFN5WWpfTzVlTW0tOGlSdmFaQTQ1RW9TZ0hRS2NlbHBhSUJS0gGGAkFVX3lxTE9pVXc5djQ3eG1qSmJ2T1lPZWUwZFA0b1hGZnNndllrdHdRM1dVeVB4VFR6UkNGd1pPMDlNb2tWblFpUWh3NHJZTDRZaGp4SVBIVDAwdFZ3MWRIWHBWcWNJblloVFlxOUlvZGw0RTg2Q0JUVUNXOEtuNHpWdXZ4aXhjMUo0MjRBdkV2Q2owNTByLXpJNHRKOERJcDQ1NjdUMUFRYkZOWmxHaHRfN2tXTXhWOFdzX2hfOFZFV3pYZ3FCSVVGeEpzMGcyckpNLTBQTEpsbmFhZjU1MHdRSzZyUkxMbEhMMzNrZU5WbmJsTXc2bmpCNGpqTlZiellYYWhKX216anRFZEE?oc=5",
-            "source": "The Economic Times",
+            "source": "economictimes.com",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
