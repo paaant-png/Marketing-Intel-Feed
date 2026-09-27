@@ -1,13 +1,19 @@
 {
-    "date": "Saturday, 26 September 2026",
+    "date": "Sunday, 27 September 2026",
     "story": {
-        "brand": "Oatly",
-        "campaign": "The Meta-Billboard",
-        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
-        "lesson": "Self-referential transparency builds instant trust.",
-        "seed": "oatly6"
+        "brand": "Zepto",
+        "campaign": "The 10-Minute Claim",
+        "story": "Instead of vague promises like 'fast delivery', Zepto built their entire brand around a specific, measurable number (10 minutes) and backed it with a countdown timer.",
+        "lesson": "Specific promises always outperform generalized claims.",
+        "seed": "zepto7"
     },
     "news": [
+        {
+            "title": "Xiaomi India elevates Ruchita Sharma to Senior Media Marketing Manager - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2FNZ3EwMkxPUlRHVUQ0NDRTQ3dxZ09fSVYxQjh3MkpIY0t5SXZDb25VR2tNZDBCZkJhQWU0SjN4NnA0LWJKTk5FOVdCSVppdk14dl9FVkVJYXdTU2k5Ty1DLUN1NHNUTmlDZFY4UHRWUUsxYlZIZXIxZ1pLbjg0TUVsblVVb3VJWC1TR0NOWEJtMjlUVFgyTlR5ZllUTlZfel90cUJ2THdqQW92MXZhTzFzMnIyLUF0bzRRMEw5TXdRMVlkWDRkNjdhUVY3LVE?oc=5",
+            "source": "Exchange4Media",
+            "category": "Strategy"
+        },
         {
             "title": "Cilicant appoints Prabhsharan Kaur to lead marketing in India and global markets - bestmediainfo.com",
             "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWFHV3p0Tms3MUpUeDFOSDVBYWVvdEhmZGxZMmZtZVdRbzVROHpGYWZYZkRlYnptUHQ0MjV6OXlQYnE2RmR1NElWNmRWeEQ4aFJwZmh6bzhiS21PSzRPb2VrUlhyLXZHYmdzNnFaRWhmSTJqRGQ4MGk2X1hSUmNEdkZkT1hwN1I3UVRKQ1lTRl9FLVB3R2hMLUNNWFc1d3VSUkxCNWRqbFFTcmZRTmZETUVVMXJPRnJOMWF0dGVKWFc4QXdoZE05d1RFdU1GaVpreUVjS044T09ON0U3QmfSAd4BQVVfeXFMTVlhR1d6dE5rNzFKVHgxTkg1QWFlb3RIZmRsWTJmbWVXUW81UTh6RmFmWGZEZWJ6bVB0NDI1ejl5UGJxNkZkdTRJVjZkVnhEOGhScGZoem84YkttT0s0T29la1JYci12R2JnczZxWkVoZkkyakRkODBpNl9YUlJjRHZGZE9YcDdSN1FUSkNZU0ZfRS1Qd0doTC1DTVhXNXd1UlJMQjVkamxRU3JmUU5mRE1FVTFyT0ZyTjFhdHRlSlhXOEF3aGRNOXdURXVNRmlaa3lFY0tOOE9PTjdFN0Jn?oc=5",
@@ -15,21 +21,15 @@
             "category": "Strategy"
         },
         {
-            "title": "Xiaomi India ropes in Ruchita Sharma as Senior Media Marketing Manager - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2FNZ3EwMkxPUlRHVUQ0NDRTQ3dxZ09fSVYxQjh3MkpIY0t5SXZDb25VR2tNZDBCZkJhQWU0SjN4NnA0LWJKTk5FOVdCSVppdk14dl9FVkVJYXdTU2k5Ty1DLUN1NHNUTmlDZFY4UHRWUUsxYlZIZXIxZ1pLbjg0TUVsblVVb3VJWC1TR0NOWEJtMjlUVFgyTlR5ZllUTlZfel90cUJ2THdqQW92MXZhTzFzMnIyLUF0bzRRMEw5TXdRMVlkWDRkNjdhUVY3LVE?oc=5",
-            "source": "Exchange4Media",
+            "title": "India emerges as a test bed for Unilever\u2019s climate strategy, with AI driving factory efficiency - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ2NrQTVTczdpV3NPZXBrNUp0STRoVmFpSFFoV0dsY3hqLXhwbG5uQzcyb3UyMkJBRGo1WGFBYlZUcHpFSUdXaXl4cEtuQ0o0QVFLUGoyX0RHcnBRRU9PLWF0Y091ajE4S051OU9RSFVxXzVZOXVtSkg5bmc5OTNjLXdPMVlxN21GN2ZPcGplQl91UlFOTXJ2TFBDdFZIZ0RfZHg0NG5ESDFuRTdJMENONmlPQjM1VXFOYmVSaWZyTklZM2tkVXIwV1dQYWZxYUE4MThhUDJUMk5tZ2ZrT1ZkRXM2RdIB6AFBVV95cUxOSWFQN3FIcGIwaGlfeDU5SVk4UTN0ZXl2TV9XYUdsZkFKZGl3Ui0zU3Voc1lfRVpVcE4xZHE4NzF0QW53YU5kYXBVNXhaajBuM29tTW9vaGFrcl9PVlJMVlZPckY5Q2E3UFRfSXBoVUlYRUhrSjlZOGd3REZnTUpybGQ0RHdzcUQ3aEJYT0FuX2xITjI3Q1FVNmZXN0JaM2FaLXBYLXJycm9MTE9ZMXVhU1BJMHRmeTR6cHNVQnQxSlpJSGlpSjlDM0JBbWVYcmNGZC1UMWowSFRjRVlDeGNhTmN3VXVDdml1?oc=5",
+            "source": "Storyboard18",
             "category": "Strategy"
         },
         {
-            "title": "Amorepacific India Creates New Premium Division, Appoints Vidushi Goyal as Business Head - Passionate In Marketing",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUV9SR2FnaWdHbXRNVUdETVVmN2EwYURZNWFmZ3RRdDJERTRVSUZ1TnNxSnFBeHdvY05qNFBQR25pMDJrQ25PVkIzdkpic2tUVU1XSDU3Qlp1VG1MZWllOHMxUTRRNjZvVWNHbEF4cnZXWEdVaVFmWm5UVXc5dnpMVGdOQTdUYmViWWxLUEl4cTB2MlBPN2JMbGxZem4zcUNla2QxeW55bV9jX0ZxcWdGdE1LVnJLVk9vc3EyYmo5cS1iUWt5?oc=5",
-            "source": "Passionate In Marketing",
-            "category": "Strategy"
-        },
-        {
-            "title": "Prabhsharan Kaur Appointed Director, Marketing, India & Global Markets at CILICANT - hrtoday.in",
-            "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa2FVbENjTTZHTW1RQi16Y0lSR3RVLTlZYXlVdExSeEdHYzI0Y2NPaHpoSlkyVEROWEZ0UEh6cWppc3pPT1ZjTVFvWUF1LVJocElONk91MTZCQUxqaFFsUXhsaFlDdV9HQzZTOFZYTHpJQnptc18wOEREOGxZQWhlakJuRVhPS054akxNX3hhVzVESEl1Y09Kd2hVQnp4YVU?oc=5",
-            "source": "hrtoday.in",
+            "title": "\u0160koda Auto India Unveils New Marketing Campaign for Kylaq Sportline SUV - Indian Retailer",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYXlFb2FnV29ZUzhra0NtTmdRTHRDMkxKV05EVFJkcUFpRHFDV0xMTTVJcTd3TzdFbzJEVThjNlZzMUo2ZDhZTTB3N0c3WWhVcmZyMEhKSlVjenRJZjdPNzVnLU5ZQ3l2bDU4QlJqT0RCZnJCNlRDZUJ6d21RZ3Q0aF9LTGlWclEzd0xsWDZGakN0UkRydUxSS1RUSHRNU2hNWE5HZVljLVk4MGJUMDlqY1dCWHRRUDFZY2UwbV9OMkhscGtYYU9NdmIxRQ?oc=5",
+            "source": "Indian Retailer",
             "category": "Strategy"
         },
         {
@@ -39,40 +39,40 @@
             "category": "Retail"
         },
         {
-            "title": "India's festive season promises strong show as quick commerce reshapes online shopping battle - economictimes.com",
-            "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMHpOZDU2bzBhRzFkd0Y4MzNfeW5Jb0kyOTRHbS1DYWt5M3RYSjBOSVdRZUptRHV1MWE5UVllYVdHWTN3NVJQSmFrb3J1VFNrRkZEdU5JWDZiWV9RdmJJa0VoczdPNVl5UXVYd19YTVktc280Mjhhbm9obGRMMDRKVHJRY2NMVFVvU1pHTzJxVE9VWjRxcno1dEdRWFdGVzhrV1NzOGtQY043dW02TjRoV3hDYm02VTVVZW5aelRmeXB5czhhU0JmNXEzTHdseWtSQjlTMHlCMUJKOFBhOFN5WWpfTzVlTW0tOGlSdmFaQTQ1RW9TZ0hRS2NlbHBhSUJS0gGGAkFVX3lxTE9pVXc5djQ3eG1qSmJ2T1lPZWUwZFA0b1hGZnNndllrdHdRM1dVeVB4VFR6UkNGd1pPMDlNb2tWblFpUWh3NHJZTDRZaGp4SVBIVDAwdFZ3MWRIWHBWcWNJblloVFlxOUlvZGw0RTg2Q0JUVUNXOEtuNHpWdXZ4aXhjMUo0MjRBdkV2Q2owNTByLXpJNHRKOERJcDQ1NjdUMUFRYkZOWmxHaHRfN2tXTXhWOFdzX2hfOFZFV3pYZ3FCSVVGeEpzMGcyckpNLTBQTEpsbmFhZjU1MHdRSzZyUkxMbEhMMzNrZU5WbmJsTXc2bmpCNGpqTlZiellYYWhKX216anRFZEE?oc=5",
-            "source": "economictimes.com",
-            "category": "Retail"
-        },
-        {
             "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops - meta.com",
             "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpCOGtyclF1d1cwYThramZmbWFocTVTdlFramYzNUdMdW5tb0ktMUpnMldoMTBuYU9zV3hTbnMxcGlBLWJHMVllLUNOTFBFeGc5Zm1vb0txRWpLaW9tM3JJTXRPU0ZMcHROUG5TRTJnWUFpYmdndGoySlhGbDFnU3RCOTNPUW9Fejd2ZkZ1bEEzaHNqamZ4SXd5ONIBoAFBVV95cUxNN1ppbDVOYlhkRjg4NDdIWHF0UGVVcDE2azJpNUFVeGk0cXFEZ0V2eFBQQUNFUDFvX3c5V2NMRkJnQXNVb0xzLW52cDkzYmhaVXZWQl9URFVibnl0TzM1Z3VRYWoxM3I0RjdETXlTU1doTWZtWE9hNnJSZUJYWWI3OVFCZ2tjR1hoT0lBbHRxc1lsSUNjVHFfazNmcUFrbTBV?oc=5",
             "source": "meta.com",
             "category": "Retail"
         },
         {
-            "title": "India B2C E-Commerce Market Size to Attain USD 2008.83 Million by 2035 - Precedence Research",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQkpLbEpaOEUyUTgxWkE4R3NIS0lUT3VubmpEQjh1NmhSNmhQYy1fTFZ3TzRMTWNweXhVTjZsZ2Q4Mko4bk1yX29PZ1Zzd3VaUWlzZjNPNkhjSUNtQ3ZHbEFMTVBnVmpQTHNIdU1oYw?oc=5",
-            "source": "Precedence Research",
+            "title": "Shopping Trends in India: Insights, Categories & Growth - Shiprocket",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94Skk2MUxyYnAxQ1ZhZmxUU3pTM1RuaVdWYXlPRk43SWYxLXBqY2pCdEROS3lmMXhmd2JQTFMtWWR0a3UzcnRSTXl0UHY0bjN0a1RaMUpvYkJqR1ZUN1BmUC1LUndmUTjSAWxBVV95cUxQM1hZODhqUnBncFdzMlZFcWdsS181OE52YkY5YzBKaG5fSU1pRWktb0c5ckc5a3YxaHJlS3Q3WUFkTDNOdVR2OWZocjZWWEIxMzB5RzJoMDlnLVJaU2w0ajdGVU5hbjlnbEFWNHo?oc=5",
+            "source": "Shiprocket",
+            "category": "Retail"
+        },
+        {
+            "title": "How Will AI Transform India's E-commerce Market by 2030? - analyticsindiamag.com",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
+            "source": "analyticsindiamag.com",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
