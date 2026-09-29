@@ -1,23 +1,17 @@
 {
-    "date": "Monday, 28 September 2026",
+    "date": "Tuesday, 29 September 2026",
     "story": {
-        "brand": "Dove",
-        "campaign": "Reverse Digital Distortion",
-        "story": "Dove actively campaigned against the 'Bold Glamour' AI filter on TikTok, urging users to turn their backs to the camera to protest synthetic beauty standards.",
-        "lesson": "Taking a stand against a platform trend can win immense loyalty.",
-        "seed": "dove8"
+        "brand": "Patagonia",
+        "campaign": "Don't Buy This Jacket",
+        "story": "On Black Friday, Patagonia ran a full-page ad telling people NOT to buy their products unless absolutely necessary, highlighting the environmental cost of consumerism.",
+        "lesson": "Anti-marketing is the ultimate form of brand authenticity.",
+        "seed": "patagonia9"
     },
     "news": [
         {
             "title": "Xiaomi India elevates Ruchita Sharma to Senior Media Marketing Manager - Exchange4Media",
             "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2FNZ3EwMkxPUlRHVUQ0NDRTQ3dxZ09fSVYxQjh3MkpIY0t5SXZDb25VR2tNZDBCZkJhQWU0SjN4NnA0LWJKTk5FOVdCSVppdk14dl9FVkVJYXdTU2k5Ty1DLUN1NHNUTmlDZFY4UHRWUUsxYlZIZXIxZ1pLbjg0TUVsblVVb3VJWC1TR0NOWEJtMjlUVFgyTlR5ZllUTlZfel90cUJ2THdqQW92MXZhTzFzMnIyLUF0bzRRMEw5TXdRMVlkWDRkNjdhUVY3LVE?oc=5",
             "source": "Exchange4Media",
-            "category": "Strategy"
-        },
-        {
-            "title": "\u0160koda Auto India Unveils New Marketing Campaign for Kylaq Sportline SUV - Indian Retailer",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYXlFb2FnV29ZUzhra0NtTmdRTHRDMkxKV05EVFJkcUFpRHFDV0xMTTVJcTd3TzdFbzJEVThjNlZzMUo2ZDhZTTB3N0c3WWhVcmZyMEhKSlVjenRJZjdPNzVnLU5ZQ3l2bDU4QlJqT0RCZnJCNlRDZUJ6d21RZ3Q0aF9LTGlWclEzd0xsWDZGakN0UkRydUxSS1RUSHRNU2hNWE5HZVljLVk4MGJUMDlqY1dCWHRRUDFZY2UwbV9OMkhscGtYYU9NdmIxRQ?oc=5",
-            "source": "Indian Retailer",
             "category": "Strategy"
         },
         {
@@ -30,6 +24,12 @@
             "title": "Turtle Wax elevates Dibya Swarup Panigrahi to lead Marketing & Growth Strategy across ASEAN - Social Samosa",
             "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjU3WVl4cGtFZDlnSDh0bDZGR1JCNWZ6eGV6dzNFdXpyRFF3U0hPZEllZWp4eGhhczhQVW5nRDIzODFhcUZlZF9mQkVfcDlmdWtqa1RjbjhtRlFleDNtWHg3V1VzaXI4aFItQ2Itb09BNTFqNG1mOWZVaGNkRm9BUGJGTDhubEdHWVBvMms0NWZBRkJ4Z1lfYi1Na01jM09IQnlmaFUxX0MyME56LWs0b2ZVRzV1SGNRZ3BCSFBvMFVkaDTSAcMBQVVfeXFMUFY1N1lZeHBrRWQ5Z0g4dGw2RkdSQjVmenhlenczRXV6ckRRd1NIT2RJZWVqeHhoYXM4UFVuZ0QyMzgxYXFGZWRfZkJFX3A5ZnVramtUY244bUZRZXgzbVh4N1dVc2lyOGhSLUNiLW9PQTUxajRtZjlmVWhjZEZvQVBiRkw4bmxHR1lQbzJrNDVmQUZCeGdZX2ItTWtNYzNPSEJ5ZmhVMV9DMjBOei1rNG9mVUc1dUhjUWdwQkhQbzBVZGg0?oc=5",
             "source": "Social Samosa",
+            "category": "Strategy"
+        },
+        {
+            "title": "CMO Lakshmi Narayanan B on CEAT\u2019s Marketing Strategy: Storytelling, Sports, AI, and More - IMPACT Magazine",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY2ctQzJJbUZqZ2FOTFBiMHIwcWlXME1BSVRmM2dlekJ4MHhCTmZ5ZTNtNFIwdHVsMFBVNFhsS0VXYU5IYTdfMTNCQS16U28zTVN6blB6bGtYYThEMGxrT1NLUEp1WkM2ZE1OalFmWF9qVlZNNkZ1TExBLW1ySm4wTTluMzFEaTBFR2xrd25VNDJaR25UVEtrSGdkNXhhVnhYcFZfa3FIdnc1a3F4Y1o2UWhyd0ZzOEllMWMzbFhGUTUwbW9lNkE?oc=5",
+            "source": "IMPACT Magazine",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
