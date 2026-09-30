@@ -1,23 +1,17 @@
 {
-    "date": "Tuesday, 29 September 2026",
+    "date": "Wednesday, 30 September 2026",
     "story": {
-        "brand": "Patagonia",
-        "campaign": "Don't Buy This Jacket",
-        "story": "On Black Friday, Patagonia ran a full-page ad telling people NOT to buy their products unless absolutely necessary, highlighting the environmental cost of consumerism.",
-        "lesson": "Anti-marketing is the ultimate form of brand authenticity.",
-        "seed": "patagonia9"
+        "brand": "Burger King",
+        "campaign": "The Moldy Whopper",
+        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
+        "lesson": "Ugly truths are more memorable than pretty lies.",
+        "seed": "bk10"
     },
     "news": [
         {
-            "title": "Xiaomi India elevates Ruchita Sharma to Senior Media Marketing Manager - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2FNZ3EwMkxPUlRHVUQ0NDRTQ3dxZ09fSVYxQjh3MkpIY0t5SXZDb25VR2tNZDBCZkJhQWU0SjN4NnA0LWJKTk5FOVdCSVppdk14dl9FVkVJYXdTU2k5Ty1DLUN1NHNUTmlDZFY4UHRWUUsxYlZIZXIxZ1pLbjg0TUVsblVVb3VJWC1TR0NOWEJtMjlUVFgyTlR5ZllUTlZfel90cUJ2THdqQW92MXZhTzFzMnIyLUF0bzRRMEw5TXdRMVlkWDRkNjdhUVY3LVE?oc=5",
+            "title": "MongoDB ropes in Komal Puri to lead marketing for India - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcEZ2bVY1Z0NnZndwTnBZVUVXVUJDVUEwNlpfYXI4UWJzTXpleUZqV2plaVlmOHpYekJoczV3c2hZTkNwdDlGejNGYldlX2g0a1J1TkVpOWRMbjVOY3dHV3pXY1hpVnFtN2xGWGYzQWlZLVlkaW9DSDFKMDQtWm9VYVdJTTVHOHFDSG4yakN1QXVzbFEtZ1lNbFBHVnJ0bDBsVTNPcFdlUEU3LWEyVkRtV0xnWWt3ZmM?oc=5",
             "source": "Exchange4Media",
-            "category": "Strategy"
-        },
-        {
-            "title": "9 Top Marketing Trends of 2026 - Coursera",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kaWVqd3NtQndNcXNZNGdSVF9lUWdfZmJ6RHQ4VXhmc1F1V05qSDR1UUEweXc3V1V1VV9KSDI4dFplRWNaVDY5aDh1b05Wa3NMZWpiTUJuMzh0bHpTdUJZ?oc=5",
-            "source": "Coursera",
             "category": "Strategy"
         },
         {
@@ -27,9 +21,15 @@
             "category": "Strategy"
         },
         {
-            "title": "CMO Lakshmi Narayanan B on CEAT\u2019s Marketing Strategy: Storytelling, Sports, AI, and More - IMPACT Magazine",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY2ctQzJJbUZqZ2FOTFBiMHIwcWlXME1BSVRmM2dlekJ4MHhCTmZ5ZTNtNFIwdHVsMFBVNFhsS0VXYU5IYTdfMTNCQS16U28zTVN6blB6bGtYYThEMGxrT1NLUEp1WkM2ZE1OalFmWF9qVlZNNkZ1TExBLW1ySm4wTTluMzFEaTBFR2xrd25VNDJaR25UVEtrSGdkNXhhVnhYcFZfa3FIdnc1a3F4Y1o2UWhyd0ZzOEllMWMzbFhGUTUwbW9lNkE?oc=5",
-            "source": "IMPACT Magazine",
+            "title": "\u0160koda Auto India Unveils New Marketing Campaign for Kylaq Sportline SUV - Indian Retailer",
+            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYXlFb2FnV29ZUzhra0NtTmdRTHRDMkxKV05EVFJkcUFpRHFDV0xMTTVJcTd3TzdFbzJEVThjNlZzMUo2ZDhZTTB3N0c3WWhVcmZyMEhKSlVjenRJZjdPNzVnLU5ZQ3l2bDU4QlJqT0RCZnJCNlRDZUJ6d21RZ3Q0aF9LTGlWclEzd0xsWDZGakN0UkRydUxSS1RUSHRNU2hNWE5HZVljLVk4MGJUMDlqY1dCWHRRUDFZY2UwbV9OMkhscGtYYU9NdmIxRQ?oc=5",
+            "source": "Indian Retailer",
+            "category": "Strategy"
+        },
+        {
+            "title": "Xiaomi India elevates Ruchita Sharma to Senior Media Marketing Manager - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2FNZ3EwMkxPUlRHVUQ0NDRTQ3dxZ09fSVYxQjh3MkpIY0t5SXZDb25VR2tNZDBCZkJhQWU0SjN4NnA0LWJKTk5FOVdCSVppdk14dl9FVkVJYXdTU2k5Ty1DLUN1NHNUTmlDZFY4UHRWUUsxYlZIZXIxZ1pLbjg0TUVsblVVb3VJWC1TR0NOWEJtMjlUVFgyTlR5ZllUTlZfel90cUJ2THdqQW92MXZhTzFzMnIyLUF0bzRRMEw5TXdRMVlkWDRkNjdhUVY3LVE?oc=5",
+            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
@@ -39,9 +39,9 @@
             "category": "Retail"
         },
         {
-            "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops - meta.com",
+            "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops - about.fb.com",
             "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpCOGtyclF1d1cwYThramZmbWFocTVTdlFramYzNUdMdW5tb0ktMUpnMldoMTBuYU9zV3hTbnMxcGlBLWJHMVllLUNOTFBFeGc5Zm1vb0txRWpLaW9tM3JJTXRPU0ZMcHROUG5TRTJnWUFpYmdndGoySlhGbDFnU3RCOTNPUW9Fejd2ZkZ1bEEzaHNqamZ4SXd5ONIBoAFBVV95cUxNN1ppbDVOYlhkRjg4NDdIWHF0UGVVcDE2azJpNUFVeGk0cXFEZ0V2eFBQQUNFUDFvX3c5V2NMRkJnQXNVb0xzLW52cDkzYmhaVXZWQl9URFVibnl0TzM1Z3VRYWoxM3I0RjdETXlTU1doTWZtWE9hNnJSZUJYWWI3OVFCZ2tjR1hoT0lBbHRxc1lsSUNjVHFfazNmcUFrbTBV?oc=5",
-            "source": "meta.com",
+            "source": "about.fb.com",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
