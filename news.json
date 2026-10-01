@@ -1,28 +1,22 @@
 {
-    "date": "Wednesday, 30 September 2026",
+    "date": "Thursday, 01 October 2026",
     "story": {
-        "brand": "Burger King",
-        "campaign": "The Moldy Whopper",
-        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
-        "lesson": "Ugly truths are more memorable than pretty lies.",
-        "seed": "bk10"
+        "brand": "Duolingo",
+        "campaign": "Unhinged Mascot Marketing",
+        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
+        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
+        "seed": "duo11"
     },
     "news": [
         {
-            "title": "MongoDB ropes in Komal Puri to lead marketing for India - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcEZ2bVY1Z0NnZndwTnBZVUVXVUJDVUEwNlpfYXI4UWJzTXpleUZqV2plaVlmOHpYekJoczV3c2hZTkNwdDlGejNGYldlX2g0a1J1TkVpOWRMbjVOY3dHV3pXY1hpVnFtN2xGWGYzQWlZLVlkaW9DSDFKMDQtWm9VYVdJTTVHOHFDSG4yakN1QXVzbFEtZ1lNbFBHVnJ0bDBsVTNPcFdlUEU3LWEyVkRtV0xnWWt3ZmM?oc=5",
-            "source": "Exchange4Media",
+            "title": "Top 100 Marketing Leaders Driving Jewellery Brands in India \u2013 Edition 2026 - Indian Startup Times",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2ZkWHRPTkxicXpMZEs0SzhRZUlqbDBnZ1ZhcW5xVUZsOXRZb1ZzNzRjRjdqbHpyR0MxRldnWUk0aVpEYVd4enNmbFloMnNSUlp3SlNKREdVU1BBa01uTHBnRkY5Q0hRcjR1ZVQ4cEdOc29SNGg0d1BQTlhWTlhybHBCVzJLNEw3VnotNkVlUC1zZlpheGt1N1FxUGNsN3cyUWFGZEV6dGo?oc=5",
+            "source": "Indian Startup Times",
             "category": "Strategy"
         },
         {
-            "title": "Turtle Wax elevates Dibya Swarup Panigrahi to lead Marketing & Growth Strategy across ASEAN - Social Samosa",
-            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjU3WVl4cGtFZDlnSDh0bDZGR1JCNWZ6eGV6dzNFdXpyRFF3U0hPZEllZWp4eGhhczhQVW5nRDIzODFhcUZlZF9mQkVfcDlmdWtqa1RjbjhtRlFleDNtWHg3V1VzaXI4aFItQ2Itb09BNTFqNG1mOWZVaGNkRm9BUGJGTDhubEdHWVBvMms0NWZBRkJ4Z1lfYi1Na01jM09IQnlmaFUxX0MyME56LWs0b2ZVRzV1SGNRZ3BCSFBvMFVkaDTSAcMBQVVfeXFMUFY1N1lZeHBrRWQ5Z0g4dGw2RkdSQjVmenhlenczRXV6ckRRd1NIT2RJZWVqeHhoYXM4UFVuZ0QyMzgxYXFGZWRfZkJFX3A5ZnVramtUY244bUZRZXgzbVh4N1dVc2lyOGhSLUNiLW9PQTUxajRtZjlmVWhjZEZvQVBiRkw4bmxHR1lQbzJrNDVmQUZCeGdZX2ItTWtNYzNPSEJ5ZmhVMV9DMjBOei1rNG9mVUc1dUhjUWdwQkhQbzBVZGg0?oc=5",
-            "source": "Social Samosa",
-            "category": "Strategy"
-        },
-        {
-            "title": "\u0160koda Auto India Unveils New Marketing Campaign for Kylaq Sportline SUV - Indian Retailer",
-            "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYXlFb2FnV29ZUzhra0NtTmdRTHRDMkxKV05EVFJkcUFpRHFDV0xMTTVJcTd3TzdFbzJEVThjNlZzMUo2ZDhZTTB3N0c3WWhVcmZyMEhKSlVjenRJZjdPNzVnLU5ZQ3l2bDU4QlJqT0RCZnJCNlRDZUJ6d21RZ3Q0aF9LTGlWclEzd0xsWDZGakN0UkRydUxSS1RUSHRNU2hNWE5HZVljLVk4MGJUMDlqY1dCWHRRUDFZY2UwbV9OMkhscGtYYU9NdmIxRQ?oc=5",
+            "title": "Doraemon Film Rolls Out Multi-Platform Marketing Campaign Before India Debut - Indian Retailer",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQUhRcUlmRGJfbGFoMW4tNFFMV0o2ZDhaaHUzM0czanh6cXNEQ2o0MnQ5cldobEVaQWtJT0JGUjVGRjBuN09pMW9sVjFfU1Q0d0VVUzBUcHlEbFN3ZFE2VEFaMFFUNWNqRWZOeWhwUWluQTdVSWxfUnh2Y0s1QWdMYkFXM1Z2TC00SVdpVlBWVjVyVXpwVDVKQzVsZWI1RWRIOWFYT2s5MUZzb21TbDBGMjRMQXFJSjRoLW93cjhUQW4zZHhqLWphd1g5VU1Mdw?oc=5",
             "source": "Indian Retailer",
             "category": "Strategy"
         },
@@ -33,15 +27,21 @@
             "category": "Strategy"
         },
         {
+            "title": "Turtle Wax elevates Dibya Swarup Panigrahi to lead Marketing & Growth Strategy across ASEAN - Social Samosa",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjU3WVl4cGtFZDlnSDh0bDZGR1JCNWZ6eGV6dzNFdXpyRFF3U0hPZEllZWp4eGhhczhQVW5nRDIzODFhcUZlZF9mQkVfcDlmdWtqa1RjbjhtRlFleDNtWHg3V1VzaXI4aFItQ2Itb09BNTFqNG1mOWZVaGNkRm9BUGJGTDhubEdHWVBvMms0NWZBRkJ4Z1lfYi1Na01jM09IQnlmaFUxX0MyME56LWs0b2ZVRzV1SGNRZ3BCSFBvMFVkaDTSAcMBQVVfeXFMUFY1N1lZeHBrRWQ5Z0g4dGw2RkdSQjVmenhlenczRXV6ckRRd1NIT2RJZWVqeHhoYXM4UFVuZ0QyMzgxYXFGZWRfZkJFX3A5ZnVramtUY244bUZRZXgzbVh4N1dVc2lyOGhSLUNiLW9PQTUxajRtZjlmVWhjZEZvQVBiRkw4bmxHR1lQbzJrNDVmQUZCeGdZX2ItTWtNYzNPSEJ5ZmhVMV9DMjBOei1rNG9mVUc1dUhjUWdwQkhQbzBVZGg0?oc=5",
+            "source": "Social Samosa",
+            "category": "Strategy"
+        },
+        {
             "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
             "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
             "source": "NIQ",
             "category": "Retail"
         },
         {
-            "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops - about.fb.com",
+            "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops - meta.com",
             "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpCOGtyclF1d1cwYThramZmbWFocTVTdlFramYzNUdMdW5tb0ktMUpnMldoMTBuYU9zV3hTbnMxcGlBLWJHMVllLUNOTFBFeGc5Zm1vb0txRWpLaW9tM3JJTXRPU0ZMcHROUG5TRTJnWUFpYmdndGoySlhGbDFnU3RCOTNPUW9Fejd2ZkZ1bEEzaHNqamZ4SXd5ONIBoAFBVV95cUxNN1ppbDVOYlhkRjg4NDdIWHF0UGVVcDE2azJpNUFVeGk0cXFEZ0V2eFBQQUNFUDFvX3c5V2NMRkJnQXNVb0xzLW52cDkzYmhaVXZWQl9URFVibnl0TzM1Z3VRYWoxM3I0RjdETXlTU1doTWZtWE9hNnJSZUJYWWI3OVFCZ2tjR1hoT0lBbHRxc1lsSUNjVHFfazNmcUFrbTBV?oc=5",
-            "source": "about.fb.com",
+            "source": "meta.com",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
