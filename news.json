@@ -1,17 +1,17 @@
 {
-    "date": "Friday, 02 October 2026",
+    "date": "Saturday, 03 October 2026",
     "story": {
-        "brand": "Airbnb",
-        "campaign": "Belong Anywhere",
-        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
-        "lesson": "Sell the transformation, not the transaction.",
-        "seed": "airbnb12"
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization.",
+        "seed": "zomato1"
     },
     "news": [
         {
-            "title": "SAP Concur India Names Sanjay Chaudhary Marketing Head - APAC Media",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeFZ2bTcwU05KeEZka1NJcFd0WU9QOGRKUzZXeXVEY0xJUEJ1U0s4S0tzay1xaWJvaS1XTFZKQi1qRDk3Zmt5Ym5yR1JYMUxlR1hZTmxuazlMbkotMXBvVnc0amtjUnpMQU9yNHQ2c0Z2dGtiWUxMaURpMkRXY3RIdVFyN0xyclVFOUhaN2Q1UnRaNXVEckE?oc=5",
-            "source": "APAC Media",
+            "title": "Top 100 Marketing Leaders Driving Jewellery Brands in India \u2013 Edition 2026 - Indian Startup Times",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2ZkWHRPTkxicXpMZEs0SzhRZUlqbDBnZ1ZhcW5xVUZsOXRZb1ZzNzRjRjdqbHpyR0MxRldnWUk0aVpEYVd4enNmbFloMnNSUlp3SlNKREdVU1BBa01uTHBnRkY5Q0hRcjR1ZVQ4cEdOc29SNGg0d1BQTlhWTlhybHBCVzJLNEw3VnotNkVlUC1zZlpheGt1N1FxUGNsN3cyUWFGZEV6dGo?oc=5",
+            "source": "Indian Startup Times",
             "category": "Strategy"
         },
         {
@@ -21,15 +21,15 @@
             "category": "Strategy"
         },
         {
-            "title": "Top 100 Marketing Leaders Driving Jewellery Brands in India \u2013 Edition 2026 - Indian Startup Times",
-            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2ZkWHRPTkxicXpMZEs0SzhRZUlqbDBnZ1ZhcW5xVUZsOXRZb1ZzNzRjRjdqbHpyR0MxRldnWUk0aVpEYVd4enNmbFloMnNSUlp3SlNKREdVU1BBa01uTHBnRkY5Q0hRcjR1ZVQ4cEdOc29SNGg0d1BQTlhWTlhybHBCVzJLNEw3VnotNkVlUC1zZlpheGt1N1FxUGNsN3cyUWFGZEV6dGo?oc=5",
-            "source": "Indian Startup Times",
-            "category": "Strategy"
-        },
-        {
             "title": "9 Top Marketing Trends of 2026 - Coursera",
             "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kaWVqd3NtQndNcXNZNGdSVF9lUWdfZmJ6RHQ4VXhmc1F1V05qSDR1UUEweXc3V1V1VV9KSDI4dFplRWNaVDY5aDh1b05Wa3NMZWpiTUJuMzh0bHpTdUJZ?oc=5",
             "source": "Coursera",
+            "category": "Strategy"
+        },
+        {
+            "title": "Xiaomi India elevates Ruchita Sharma to Senior Media Marketing Manager - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2FNZ3EwMkxPUlRHVUQ0NDRTQ3dxZ09fSVYxQjh3MkpIY0t5SXZDb25VR2tNZDBCZkJhQWU0SjN4NnA0LWJKTk5FOVdCSVppdk14dl9FVkVJYXdTU2k5Ty1DLUN1NHNUTmlDZFY4UHRWUUsxYlZIZXIxZ1pLbjg0TUVsblVVb3VJWC1TR0NOWEJtMjlUVFgyTlR5ZllUTlZfel90cUJ2THdqQW92MXZhTzFzMnIyLUF0bzRRMEw5TXdRMVlkWDRkNjdhUVY3LVE?oc=5",
+            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
