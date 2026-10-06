@@ -1,16 +1,22 @@
 {
-    "date": "Monday, 05 October 2026",
+    "date": "Tuesday, 06 October 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the ruthless obsession required to win, alienating some to deeply delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging.",
-        "seed": "nike3"
+        "brand": "Spotify",
+        "campaign": "Wrapped: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They playfully roasted users, gamifying data to make sharing a cultural status symbol.",
+        "lesson": "Data is boring. Data identity is viral.",
+        "seed": "spotify4"
     },
     "news": [
         {
-            "title": "Amit Kumar Singh rejoins Indofil Industries as Head, Strategic Marketing - India & Global - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaFRKVzZqYURwNE5WdVZ6T1FIc0h6bDl6ZlZRQlQ2VmFjWmxYcl9fcmFIcm1mSkdNTnJQRmViZDJCTTdIX1dYT1VjMnNaSEQxaVVSWkhHcFhOMXVtYS1yWFg4Tks2eE84cUlXWDlyTHdqcWJMUDBGQk92WDd4SWpQbWlhLXlJTndWNHNfei1JWEtmYXozbmZRNW1OUzJUclBCMnh1SWtFQ1BmVVMxN3pZcHBjWTRKTDRPR1pZOHlGbzFvNWNYaW5DSE9CQm9wX3NUWmxFN0J0ZWRLMXR0MWYxRWdn?oc=5",
+            "title": "How Full-Funnel Marketing Is Reshaping D2C Marketing Strategy - ANI News",
+            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEVvbm04dDFKS3pvRDRabV9HcXZWbTZONnNUbHJqVzQ3b1BKSW9vQW9aUk9iRkFFRjlST2VuLUR6RlVNaUdLOVBrLWNxdEdoTGR0WUFuVVBjWUNMRk1FN1pIZjVlaXpTOUxWVmZLbV9nN0JVVWptS0psV3RFclRac1Q0cURtYlRXYldQOVFRRjIwTU5ZVXE4Nng1bVdEQjlLUkFYd1laNE9GOXRmQUQ4VDlB?oc=5",
+            "source": "ANI News",
+            "category": "Strategy"
+        },
+        {
+            "title": "Mohit Cherian elevated to Vice President \u2013 Customer Marketing at Diageo India - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWjQzY3c5ajJYRUd0TGEzR2NoV181S0dwR3F4MHdDNzhFYXk0OU1Jam03ajZrekNMNm1iczd4THNwRVR2aHJFaUtDU0V5dEVOd093VWpwTkRjd080LTJ0c0hfME44WDRTb3lhUHNjVmphQUFkUWxIWnFpZlhoWjRNV050S1doTDlzVldWRG55NnJHWEJRajd5SXYwVVo4ZHJaTFZFWFJqb1E1WHVKX2JuVE5ZZTNOMGp6TktzcnA2RXh6eEN3NU9HUlNhMkF3YU5XY3M2QWpR?oc=5",
             "source": "Exchange4Media",
             "category": "Strategy"
         },
@@ -18,12 +24,6 @@
             "title": "Nivedeeta Moirangthem on how IKEA India is rethinking its approach to consumers, creators and home - Social Samosa",
             "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXJiTTF3VjRBYmhIdUNqMy1CeGI3MDBuTGZ3T2hTcEREUTB2bWpma0FrTTJ2bUFaVjJyUTNZY3pzZ2VhdXctOHo5cVA1TTJxbHFubno4eW5vekh3UkE2cjdqMVVnNTRxUllnQkVFSVkzQXpodGsyZkVIVXJVTzVRYW5BWFJNYUs5TWRwSHQ0a05BRk9LMmMwWVRCS056UVRJd1ZFRUlzRG5iZTDSAasBQVVfeXFMUElyYk0xd1Y0QWJoSHVDajMtQnhiNzAwbkxmd09oU3BERFEwdm1qZmtBa00ydm1BWlYyclEzWWN6c2dlYXV3LTh6OXFQNU0ycWxxbm56OHlub3pId1JBNnI3ajFVZzU0cVJZZ0JFRUlZM0F6aHRrMmZFSFVyVU81UWFuQVhSTWFLOU1kcEh0NGtOQUZPSzJjMFlUQktOelFUSXdWRUVJc0RuYmUw?oc=5",
             "source": "Social Samosa",
-            "category": "Strategy"
-        },
-        {
-            "title": "How Full-Funnel Marketing Is Reshaping D2C Marketing Strategy - aninews.in",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEVvbm04dDFKS3pvRDRabV9HcXZWbTZONnNUbHJqVzQ3b1BKSW9vQW9aUk9iRkFFRjlST2VuLUR6RlVNaUdLOVBrLWNxdEdoTGR0WUFuVVBjWUNMRk1FN1pIZjVlaXpTOUxWVmZLbV9nN0JVVWptS0psV3RFclRac1Q0cURtYlRXYldQOVFRRjIwTU5ZVXE4Nng1bVdEQjlLUkFYd1laNE9GOXRmQUQ4VDlB?oc=5",
-            "source": "aninews.in",
             "category": "Strategy"
         },
         {
@@ -45,34 +45,34 @@
             "category": "Retail"
         },
         {
-            "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops - meta.com",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpCOGtyclF1d1cwYThramZmbWFocTVTdlFramYzNUdMdW5tb0ktMUpnMldoMTBuYU9zV3hTbnMxcGlBLWJHMVllLUNOTFBFeGc5Zm1vb0txRWpLaW9tM3JJTXRPU0ZMcHROUG5TRTJnWUFpYmdndGoySlhGbDFnU3RCOTNPUW9Fejd2ZkZ1bEEzaHNqamZ4SXd5ONIBoAFBVV95cUxNN1ppbDVOYlhkRjg4NDdIWHF0UGVVcDE2azJpNUFVeGk0cXFEZ0V2eFBQQUNFUDFvX3c5V2NMRkJnQXNVb0xzLW52cDkzYmhaVXZWQl9URFVibnl0TzM1Z3VRYWoxM3I0RjdETXlTU1doTWZtWE9hNnJSZUJYWWI3OVFCZ2tjR1hoT0lBbHRxc1lsSUNjVHFfazNmcUFrbTBV?oc=5",
-            "source": "meta.com",
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
+            "source": "NIQ",
             "category": "Retail"
         },
         {
-            "title": "India B2C E-Commerce Market Size to Attain USD 2008.83 Million by 2035 - precedenceresearch.com",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQkpLbEpaOEUyUTgxWkE4R3NIS0lUT3VubmpEQjh1NmhSNmhQYy1fTFZ3TzRMTWNweXhVTjZsZ2Q4Mko4bk1yX29PZ1Zzd3VaUWlzZjNPNkhjSUNtQ3ZHbEFMTVBnVmpQTHNIdU1oYw?oc=5",
-            "source": "precedenceresearch.com",
+            "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops - meta.com",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpCOGtyclF1d1cwYThramZmbWFocTVTdlFramYzNUdMdW5tb0ktMUpnMldoMTBuYU9zV3hTbnMxcGlBLWJHMVllLUNOTFBFeGc5Zm1vb0txRWpLaW9tM3JJTXRPU0ZMcHROUG5TRTJnWUFpYmdndGoySlhGbDFnU3RCOTNPUW9Fejd2ZkZ1bEEzaHNqamZ4SXd5ONIBoAFBVV95cUxNN1ppbDVOYlhkRjg4NDdIWHF0UGVVcDE2azJpNUFVeGk0cXFEZ0V2eFBQQUNFUDFvX3c5V2NMRkJnQXNVb0xzLW52cDkzYmhaVXZWQl9URFVibnl0TzM1Z3VRYWoxM3I0RjdETXlTU1doTWZtWE9hNnJSZUJYWWI3OVFCZ2tjR1hoT0lBbHRxc1lsSUNjVHFfazNmcUFrbTBV?oc=5",
+            "source": "meta.com",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
