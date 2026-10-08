@@ -1,13 +1,25 @@
 {
-    "date": "Wednesday, 07 October 2026",
+    "date": "Thursday, 08 October 2026",
     "story": {
-        "brand": "Liquid Death",
-        "campaign": "Murder Your Thirst",
-        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
-        "lesson": "Packaging and attitude can differentiate a pure commodity.",
-        "seed": "liquid5"
+        "brand": "Oatly",
+        "campaign": "The Meta-Billboard",
+        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
+        "lesson": "Self-referential transparency builds instant trust.",
+        "seed": "oatly6"
     },
     "news": [
+        {
+            "title": "California Pistachios launches \"The Better Snack\" marketing campaign in India - Adgully.com",
+            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnNkWnlhMUFHcmpRajVJUDB2RF9PaV9waUIzWVlVdVFCcmRqUl9CdTN2R0tZUFFaOTMwcmxXaDdiT2tiZTQ0R1UzRTdRRFBKZDgxMk4tek9JU3VPTm9VQzNXWDFrOVR0N1pxWDFuT19YY05DRndyTFQxNUxYWTI2czlURGJac0dRMjEzeXpWeHZLQTZHZ0liU0FsWVI1aDA1NDZHLTd5djhvalp0bHZj?oc=5",
+            "source": "Adgully.com",
+            "category": "Strategy"
+        },
+        {
+            "title": "Amit B. Joins Aon as Head of Regional Marketing and Events, GCC - https://hrtoday.in/",
+            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWdKYVZCdDdPSjJHNXFyZzhES0ljcFdxci1TTExiRW9aU0RnVHZ4QXRhNmUwNzl1MUt4US1paDNjaG1ibl9LYXU3a3FIQ0ZnZFNGS1FvRkZwbnhYVWNKSEZpSFRLbGxxWGc5cV8zQmJiT3YyMVhNSXFSNUVuYTVyOGlSckowdXll?oc=5",
+            "source": "https://hrtoday.in/",
+            "category": "Strategy"
+        },
         {
             "title": "Building a Customer-Centric Marketing Strategy with AI and Data - varindia",
             "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzFETThRX2V2OGRpWGJVbWR4UUZFUFNJODU2WXdOYm9zbHpNOVFxWnljcjhsYU1TN2h5QW9kc3gtRVhQQWY4YW9TZlI3dV9lblNGLU5VLTJqSklDUFRIYUNsMmJyYmlJcWtfWHVhX3REbmV3cFRMem4yWF9KN25KRjFLRmpkY3NOSWNtREVZNzN3MGl1Z2NOcQ?oc=5",
@@ -18,18 +30,6 @@
             "title": "How Full-Funnel Marketing Is Reshaping D2C Marketing Strategy - ANI News",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEVvbm04dDFKS3pvRDRabV9HcXZWbTZONnNUbHJqVzQ3b1BKSW9vQW9aUk9iRkFFRjlST2VuLUR6RlVNaUdLOVBrLWNxdEdoTGR0WUFuVVBjWUNMRk1FN1pIZjVlaXpTOUxWVmZLbV9nN0JVVWptS0psV3RFclRac1Q0cURtYlRXYldQOVFRRjIwTU5ZVXE4Nng1bVdEQjlLUkFYd1laNE9GOXRmQUQ4VDlB?oc=5",
             "source": "ANI News",
-            "category": "Strategy"
-        },
-        {
-            "title": "Mohit Cherian elevated to Vice President \u2013 Customer Marketing at Diageo India - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWjQzY3c5ajJYRUd0TGEzR2NoV181S0dwR3F4MHdDNzhFYXk0OU1Jam03ajZrekNMNm1iczd4THNwRVR2aHJFaUtDU0V5dEVOd093VWpwTkRjd080LTJ0c0hfME44WDRTb3lhUHNjVmphQUFkUWxIWnFpZlhoWjRNV050S1doTDlzVldWRG55NnJHWEJRajd5SXYwVVo4ZHJaTFZFWFJqb1E1WHVKX2JuVE5ZZTNOMGp6TktzcnA2RXh6eEN3NU9HUlNhMkF3YU5XY3M2QWpR?oc=5",
-            "source": "Exchange4Media",
-            "category": "Strategy"
-        },
-        {
-            "title": "Nivedeeta Moirangthem on how IKEA India is rethinking its approach to consumers, creators and home - Social Samosa",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSXJiTTF3VjRBYmhIdUNqMy1CeGI3MDBuTGZ3T2hTcEREUTB2bWpma0FrTTJ2bUFaVjJyUTNZY3pzZ2VhdXctOHo5cVA1TTJxbHFubno4eW5vekh3UkE2cjdqMVVnNTRxUllnQkVFSVkzQXpodGsyZkVIVXJVTzVRYW5BWFJNYUs5TWRwSHQ0a05BRk9LMmMwWVRCS056UVRJd1ZFRUlzRG5iZTDSAasBQVVfeXFMUElyYk0xd1Y0QWJoSHVDajMtQnhiNzAwbkxmd09oU3BERFEwdm1qZmtBa00ydm1BWlYyclEzWWN6c2dlYXV3LTh6OXFQNU0ycWxxbm56OHlub3pId1JBNnI3ajFVZzU0cVJZZ0JFRUlZM0F6aHRrMmZFSFVyVU81UWFuQVhSTWFLOU1kcEh0NGtOQUZPSzJjMFlUQktOelFUSXdWRUVJc0RuYmUw?oc=5",
-            "source": "Social Samosa",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
