@@ -1,13 +1,25 @@
 {
-    "date": "Thursday, 08 October 2026",
+    "date": "Friday, 09 October 2026",
     "story": {
-        "brand": "Oatly",
-        "campaign": "The Meta-Billboard",
-        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
-        "lesson": "Self-referential transparency builds instant trust.",
-        "seed": "oatly6"
+        "brand": "Zepto",
+        "campaign": "The 10-Minute Claim",
+        "story": "Instead of vague promises like 'fast delivery', Zepto built their entire brand around a specific, measurable number (10 minutes) and backed it with a countdown timer.",
+        "lesson": "Specific promises always outperform generalized claims.",
+        "seed": "zepto7"
     },
     "news": [
+        {
+            "title": "Marketing Campaign ROI: How Much Should Brands Spend to Win Customers in South India? - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQb28wSWxLQlZxYzYyX3k5T2ZJU0w1WENmb1hzbVhfTnhXSjAxUE5PQjVqUjRtdUhDaFctaHRGb25SN0tJMC1RdHZzNnN6SnNha3hEZ0d2SVUwQXZXSlI3RWxGb3F2ejFZS3ZXaDlQeWxZZVRYSVNmLWhsYXdwR21SaGF5OENrQkZPYUY2UzR5QlZya1lYMlNVYV9sNzZXSjdIVW9pYmFKWHZMT1RvY0tDQWtRMnczc09XNC1NZzhmOXpLUU1MOFp2NDZQVEpxZmNWbUx5ZUdFdm04bDRFVk5fZWsyUnRjMjhxaDBFNWN6V3pOd9IB8gFBVV95cUxQb28wSWxLQlZxYzYyX3k5T2ZJU0w1WENmb1hzbVhfTnhXSjAxUE5PQjVqUjRtdUhDaFctaHRGb25SN0tJMC1RdHZzNnN6SnNha3hEZ0d2SVUwQXZXSlI3RWxGb3F2ejFZS3ZXaDlQeWxZZVRYSVNmLWhsYXdwR21SaGF5OENrQkZPYUY2UzR5QlZya1lYMlNVYV9sNzZXSjdIVW9pYmFKWHZMT1RvY0tDQWtRMnczc09XNC1NZzhmOXpLUU1MOFp2NDZQVEpxZmNWbUx5ZUdFdm04bDRFVk5fZWsyUnRjMjhxaDBFNWN6V3pOdw?oc=5",
+            "source": "ET BrandEquity",
+            "category": "Strategy"
+        },
+        {
+            "title": "How Audi India is using communications to drive its next phase of growth? - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTDE1ZDlhbExCd3VEMHp2RzdJVmpEWF9ibEgySXZIcGx2TkhodFZyUEluRlN4X1hQbDRJUGRWUThPNi1WaXJjUE9iUjhOdTdWczlFRmhXaFZmV1p1ZlF5eEFxTy1tUTFzRnVxdUJSZWhTSGZFU3pVYTlqNDNSOVJXUG5oS0w0RHNmN3R6VlZpT2tZQnZ5UjhHcV9ndS1PVHNFSHZWaUJ1QzNUZU12Tnp6WU9tSE9maEdBaV9tUTlOUi1qQ2wzWUt3V2lUWlJsQXBvWFZRcEJoVEF0NUlHZXlGMzFQaUR1dw?oc=5",
+            "source": "Exchange4Media",
+            "category": "Strategy"
+        },
         {
             "title": "California Pistachios launches \"The Better Snack\" marketing campaign in India - Adgully.com",
             "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUnNkWnlhMUFHcmpRajVJUDB2RF9PaV9waUIzWVlVdVFCcmRqUl9CdTN2R0tZUFFaOTMwcmxXaDdiT2tiZTQ0R1UzRTdRRFBKZDgxMk4tek9JU3VPTm9VQzNXWDFrOVR0N1pxWDFuT19YY05DRndyTFQxNUxYWTI2czlURGJac0dRMjEzeXpWeHZLQTZHZ0liU0FsWVI1aDA1NDZHLTd5djhvalp0bHZj?oc=5",
@@ -15,28 +27,10 @@
             "category": "Strategy"
         },
         {
-            "title": "Amit B. Joins Aon as Head of Regional Marketing and Events, GCC - https://hrtoday.in/",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWdKYVZCdDdPSjJHNXFyZzhES0ljcFdxci1TTExiRW9aU0RnVHZ4QXRhNmUwNzl1MUt4US1paDNjaG1ibl9LYXU3a3FIQ0ZnZFNGS1FvRkZwbnhYVWNKSEZpSFRLbGxxWGc5cV8zQmJiT3YyMVhNSXFSNUVuYTVyOGlSckowdXll?oc=5",
-            "source": "https://hrtoday.in/",
-            "category": "Strategy"
-        },
-        {
             "title": "Building a Customer-Centric Marketing Strategy with AI and Data - varindia",
             "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzFETThRX2V2OGRpWGJVbWR4UUZFUFNJODU2WXdOYm9zbHpNOVFxWnljcjhsYU1TN2h5QW9kc3gtRVhQQWY4YW9TZlI3dV9lblNGLU5VLTJqSklDUFRIYUNsMmJyYmlJcWtfWHVhX3REbmV3cFRMem4yWF9KN25KRjFLRmpkY3NOSWNtREVZNzN3MGl1Z2NOcQ?oc=5",
             "source": "varindia",
             "category": "Strategy"
-        },
-        {
-            "title": "How Full-Funnel Marketing Is Reshaping D2C Marketing Strategy - ANI News",
-            "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbEVvbm04dDFKS3pvRDRabV9HcXZWbTZONnNUbHJqVzQ3b1BKSW9vQW9aUk9iRkFFRjlST2VuLUR6RlVNaUdLOVBrLWNxdEdoTGR0WUFuVVBjWUNMRk1FN1pIZjVlaXpTOUxWVmZLbV9nN0JVVWptS0psV3RFclRac1Q0cURtYlRXYldQOVFRRjIwTU5ZVXE4Nng1bVdEQjlLUkFYd1laNE9GOXRmQUQ4VDlB?oc=5",
-            "source": "ANI News",
-            "category": "Strategy"
-        },
-        {
-            "title": "#e4mXplains: Why India is a stress test for agentic commerce - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVdwU3VBVlJVaHcyUlVGYkNtb2RKLUVDaWxwRkVyajlMWXBzMnctVGxkTlh4eXJYMDRHVG5OR2ZVaTZ1Sm1mOHFSZ0xnTFNlQ1lxQW92QS1xMnlZb29Vd1BHMW52SUE4RENmQXdYcWJKSjBCVzFsQXFjRGhfSk9EMV9Ta084QTR2TldMd2lETmtMMTY2UkFXRUNFV3NWYzA4MGsxa0RR?oc=5",
-            "source": "Exchange4Media",
-            "category": "Retail"
         },
         {
             "title": "How India Shops Online 2026 - Bain",
@@ -51,6 +45,12 @@
             "category": "Retail"
         },
         {
+            "title": "#e4mXplains: Why India is a stress test for agentic commerce - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVdwU3VBVlJVaHcyUlVGYkNtb2RKLUVDaWxwRkVyajlMWXBzMnctVGxkTlh4eXJYMDRHVG5OR2ZVaTZ1Sm1mOHFSZ0xnTFNlQ1lxQW92QS1xMnlZb29Vd1BHMW52SUE4RENmQXdYcWJKSjBCVzFsQXFjRGhfSk9EMV9Ta084QTR2TldMd2lETmtMMTY2UkFXRUNFV3NWYzA4MGsxa0RR?oc=5",
+            "source": "Exchange4Media",
+            "category": "Retail"
+        },
+        {
             "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops - Facebook",
             "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkpCOGtyclF1d1cwYThramZmbWFocTVTdlFramYzNUdMdW5tb0ktMUpnMldoMTBuYU9zV3hTbnMxcGlBLWJHMVllLUNOTFBFeGc5Zm1vb0txRWpLaW9tM3JJTXRPU0ZMcHROUG5TRTJnWUFpYmdndGoySlhGbDFnU3RCOTNPUW9Fejd2ZkZ1bEEzaHNqamZ4SXd5ONIBoAFBVV95cUxNN1ppbDVOYlhkRjg4NDdIWHF0UGVVcDE2azJpNUFVeGk0cXFEZ0V2eFBQQUNFUDFvX3c5V2NMRkJnQXNVb0xzLW52cDkzYmhaVXZWQl9URFVibnl0TzM1Z3VRYWoxM3I0RjdETXlTU1doTWZtWE9hNnJSZUJYWWI3OVFCZ2tjR1hoT0lBbHRxc1lsSUNjVHFfazNmcUFrbTBV?oc=5",
             "source": "Facebook",
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
