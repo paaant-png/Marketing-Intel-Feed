@@ -1,11 +1,11 @@
 {
-    "date": "Sunday, 11 October 2026",
+    "date": "Monday, 12 October 2026",
     "story": {
-        "brand": "Patagonia",
-        "campaign": "Don't Buy This Jacket",
-        "story": "On Black Friday, Patagonia ran a full-page ad telling people NOT to buy their products unless absolutely necessary, highlighting the environmental cost of consumerism.",
-        "lesson": "Anti-marketing is the ultimate form of brand authenticity.",
-        "seed": "patagonia9"
+        "brand": "Burger King",
+        "campaign": "The Moldy Whopper",
+        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
+        "lesson": "Ugly truths are more memorable than pretty lies.",
+        "seed": "bk10"
     },
     "news": [
         {
@@ -27,9 +27,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Building a Customer-Centric Marketing Strategy with AI and Data - varindia",
+            "title": "Building a Customer-Centric Marketing Strategy with AI and Data - VARIndia",
             "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzFETThRX2V2OGRpWGJVbWR4UUZFUFNJODU2WXdOYm9zbHpNOVFxWnljcjhsYU1TN2h5QW9kc3gtRVhQQWY4YW9TZlI3dV9lblNGLU5VLTJqSklDUFRIYUNsMmJyYmlJcWtfWHVhX3REbmV3cFRMem4yWF9KN25KRjFLRmpkY3NOSWNtREVZNzN3MGl1Z2NOcQ?oc=5",
-            "source": "varindia",
+            "source": "VARIndia",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
