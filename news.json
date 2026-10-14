@@ -1,13 +1,19 @@
 {
-    "date": "Tuesday, 13 October 2026",
+    "date": "Wednesday, 14 October 2026",
     "story": {
-        "brand": "Duolingo",
-        "campaign": "Unhinged Mascot Marketing",
-        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
-        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
-        "seed": "duo11"
+        "brand": "Airbnb",
+        "campaign": "Belong Anywhere",
+        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
+        "lesson": "Sell the transformation, not the transaction.",
+        "seed": "airbnb12"
     },
     "news": [
+        {
+            "title": "Why Eastern India is becoming a strategic festive marketing battleground - Adgully.com",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdHJMUlhtQkRhWkxITGNzSmRZZWZ5Z0VQUEFfUVdOMFlvbnNFQUdmYklPSHNPOWNxM1hvbWxCVjdWVDZQbnlwUEEtbmNkSnhNandqeEc3Z0NVNWVWNHpYZm9JWW5ma09GQWxWUmI5d1J5V2NRcGR0SkIyaXdWeVlkazJoZ0Nsem9FbUFYV0hhLUlUUTZTcHVUcmJwcXM1UGdGUjVJUjc1VkI2UFU?oc=5",
+            "source": "Adgully.com",
+            "category": "Strategy"
+        },
         {
             "title": "Marketing Campaign ROI: How Much Should Brands Spend to Win Customers in South India? - ET BrandEquity",
             "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS0VSRFdISjRTY1doVk5iMy1FSWI2ekt6cEs4TEhvTXpUeTdPUE9UUFpZcHdxVXNQVGFsdV9kbEQ5cmhHWG1SRTJOclhIUjJsempoemFvYVVrc0YwWDRKUFo2d3VsT0RFSGNQb3REemk5dTd1QzVTZHQ5cHJRdS0weWZOc1p5MHFZcFRmVVJrdGxtWFFKV2JTSlRaOU1SRG5KT3h0VlVGUHZIYjBfd3lDVER2SlhOMVNEckJUSHIxQmxQZXNlU1dvVnZxSnJQM1Zzc1pQT2JGWFNBTENKSEZDNkVkaVJNYlBrSHV4eNIB8gFBVV95cUxQb28wSWxLQlZxYzYyX3k5T2ZJU0w1WENmb1hzbVhfTnhXSjAxUE5PQjVqUjRtdUhDaFctaHRGb25SN0tJMC1RdHZzNnN6SnNha3hEZ0d2SVUwQXZXSlI3RWxGb3F2ejFZS3ZXaDlQeWxZZVRYSVNmLWhsYXdwR21SaGF5OENrQkZPYUY2UzR5QlZya1lYMlNVYV9sNzZXSjdIVW9pYmFKWHZMT1RvY0tDQWtRMnczc09XNC1NZzhmOXpLUU1MOFp2NDZQVEpxZmNWbUx5ZUdFdm04bDRFVk5fZWsyUnRjMjhxaDBFNWN6V3pOdw?oc=5",
@@ -15,21 +21,15 @@
             "category": "Strategy"
         },
         {
+            "title": "Quantum\u2019s Siddharth Kapur launches \u2018InsynQ\u2019 to help businesses turn strategy into action - marketech apac",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUZvSlhNQUtzdGp1Q0p2dXRNSkp0MTAwS2VyVk5yb2RTZ1FwR1plWTB4UjQ0S3hfWXZwZ2R2ZU1nWlNSaG93anFlN25BZ1ZrUHhtdUowZjEwa2U0MFZmQkR6NXB2dTNwQ3hsaTJTaUo1c3RqYUlyLWNIX01Qa0lkOHFPY1dYVjI3X2c1Nm1yWnRid1J1djJyU1B0N2s5RHhwUEwweUpzR21iN0VjWWQ0WFA4Zw?oc=5",
+            "source": "marketech apac",
+            "category": "Strategy"
+        },
+        {
             "title": "Spectrum Digital Appoints Narin Shetty as Group President \u2013 Marketing & Growth Mumbai, India #Ad - MediaNama",
             "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQkZPNDI5VXpyRkQtcDNuWUU1WDhNX1JPYmJPb1Zmc1dnenE2aWEwaHZiQ25UOFJpYUVrbE5jbU9IUER3NjJ5NlFWU292akg3OWhyMkgwTGl4MzZHVERCQmVFTEJQcTJZNzl3ZExtd3dQZHNoaVdhVmgyZi10ZVhzeXpuMzM5ek5QY3hVcWpKN2x6eHVXR1hWTGFkNnN5RjFfbWNoNi0zck9WY2Y3dEI1bzlGZ1IwNDhVb20wRzFjeFFDZU1yY293cg?oc=5",
             "source": "MediaNama",
-            "category": "Strategy"
-        },
-        {
-            "title": "Top 10 NEET coaching centres in India and their unique marketing strategies - Adgully.com",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzJrMDl2Qi1JdjE3amVpeHlvdnlpekxPRlhRb3ZON3YzZXlaUjd0emxhVmRGOEZPd1M4SHBhMzdkUHJWd2tnTlIzVndHRmE3UTUtYXk0SHpWdThnbjdBUlRVc0ZidjNmNVZEdW80ekpOZUtKZEVPQzlKdW85R3pfTE9SRnlvbkxjSFdCQnFZdnJrS1FtZk5aS01ZOTJzNGViX2hsRk1iSjlJb3Zyb3Zv?oc=5",
-            "source": "Adgully.com",
-            "category": "Strategy"
-        },
-        {
-            "title": "Building a Customer-Centric Marketing Strategy with AI and Data - VARIndia",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzFETThRX2V2OGRpWGJVbWR4UUZFUFNJODU2WXdOYm9zbHpNOVFxWnljcjhsYU1TN2h5QW9kc3gtRVhQQWY4YW9TZlI3dV9lblNGLU5VLTJqSklDUFRIYUNsMmJyYmlJcWtfWHVhX3REbmV3cFRMem4yWF9KN25KRjFLRmpkY3NOSWNtREVZNzN3MGl1Z2NOcQ?oc=5",
-            "source": "VARIndia",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
