@@ -1,13 +1,25 @@
 {
-    "date": "Monday, 19 October 2026",
+    "date": "Tuesday, 20 October 2026",
     "story": {
-        "brand": "Liquid Death",
-        "campaign": "Murder Your Thirst",
-        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
-        "lesson": "Packaging and attitude can differentiate a pure commodity.",
-        "seed": "liquid5"
+        "brand": "Oatly",
+        "campaign": "The Meta-Billboard",
+        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
+        "lesson": "Self-referential transparency builds instant trust.",
+        "seed": "oatly6"
     },
     "news": [
+        {
+            "title": "Destination Canada, Air Canada and Lufthansa Group Launch New Strategic Marketing Partnership in India - PR Newswire Canada",
+            "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSklQcTZDMkNRd2hoUVh5dXB4bFFHSFMxVEZoVGVQWnkya1ltaUs0WDUyTnRuS09XM0RWdDFLVFVoWnplS1lrYkppb3MxbGZfci1tdkxFUHNLQzRVS3hGWTE1UVRzZ0Q3Ylo4QVNHRHFpT0Q3SzNYc25BbHVMMVpMWEh6cVBub2NMdTJWSFdFM1huekVQX0ZJSUZ5NjNGYkpXZkdfTHJ1R1M0RnNDR3p3bHpfZE1MWkV3UzJTTlFFLXQyZWI3b2tRTFpta3p4VGZieGJmTS12U0ppRk0xaUxMdTh2T25FaU9fVWc?oc=5",
+            "source": "PR Newswire Canada",
+            "category": "Strategy"
+        },
+        {
+            "title": "Marketing Campaign ROI: How Much Should Brands Spend to Win Customers in South India? - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS0VSRFdISjRTY1doVk5iMy1FSWI2ekt6cEs4TEhvTXpUeTdPUE9UUFpZcHdxVXNQVGFsdV9kbEQ5cmhHWG1SRTJOclhIUjJsempoemFvYVVrc0YwWDRKUFo2d3VsT0RFSGNQb3REemk5dTd1QzVTZHQ5cHJRdS0weWZOc1p5MHFZcFRmVVJrdGxtWFFKV2JTSlRaOU1SRG5KT3h0VlVGUHZIYjBfd3lDVER2SlhOMVNEckJUSHIxQmxQZXNlU1dvVnZxSnJQM1Zzc1pQT2JGWFNBTENKSEZDNkVkaVJNYlBrSHV4eNIB8gFBVV95cUxQb28wSWxLQlZxYzYyX3k5T2ZJU0w1WENmb1hzbVhfTnhXSjAxUE5PQjVqUjRtdUhDaFctaHRGb25SN0tJMC1RdHZzNnN6SnNha3hEZ0d2SVUwQXZXSlI3RWxGb3F2ejFZS3ZXaDlQeWxZZVRYSVNmLWhsYXdwR21SaGF5OENrQkZPYUY2UzR5QlZya1lYMlNVYV9sNzZXSjdIVW9pYmFKWHZMT1RvY0tDQWtRMnczc09XNC1NZzhmOXpLUU1MOFp2NDZQVEpxZmNWbUx5ZUdFdm04bDRFVk5fZWsyUnRjMjhxaDBFNWN6V3pOdw?oc=5",
+            "source": "ET BrandEquity",
+            "category": "Strategy"
+        },
         {
             "title": "Top 10 NEET coaching centres in India and their unique marketing strategies - Adgully",
             "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzJrMDl2Qi1JdjE3amVpeHlvdnlpekxPRlhRb3ZON3YzZXlaUjd0emxhVmRGOEZPd1M4SHBhMzdkUHJWd2tnTlIzVndHRmE3UTUtYXk0SHpWdThnbjdBUlRVc0ZidjNmNVZEdW80ekpOZUtKZEVPQzlKdW85R3pfTE9SRnlvbkxjSFdCQnFZdnJrS1FtZk5aS01ZOTJzNGViX2hsRk1iSjlJb3Zyb3Zv?oc=5",
@@ -15,21 +27,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Building a Customer-Centric Marketing Strategy with AI and Data - VARIndia",
-            "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzFETThRX2V2OGRpWGJVbWR4UUZFUFNJODU2WXdOYm9zbHpNOVFxWnljcjhsYU1TN2h5QW9kc3gtRVhQQWY4YW9TZlI3dV9lblNGLU5VLTJqSklDUFRIYUNsMmJyYmlJcWtfWHVhX3REbmV3cFRMem4yWF9KN25KRjFLRmpkY3NOSWNtREVZNzN3MGl1Z2NOcQ?oc=5",
-            "source": "VARIndia",
-            "category": "Strategy"
-        },
-        {
-            "title": "9 Top Marketing Trends of 2026 - Coursera",
-            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kaWVqd3NtQndNcXNZNGdSVF9lUWdfZmJ6RHQ4VXhmc1F1V05qSDR1UUEweXc3V1V1VV9KSDI4dFplRWNaVDY5aDh1b05Wa3NMZWpiTUJuMzh0bHpTdUJZ?oc=5",
-            "source": "Coursera",
-            "category": "Strategy"
-        },
-        {
-            "title": "Experiential marketing for Indian brands - EY",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZjZMemJOcjNOU2V4M3JlQlZqaGNiZzY2RE5PUloxSkpRb2U3b2gtSzd5MjRDY1hqdGJqcTlvQjZYQklNS3d6bkU3VU0xMHEzUm04SU4xUHhvaTc3eDlGc0FIcGtsclRncS1iYWpjWjNSVnlmMDhlSE9ZSVN5ckktRnNRWDV5RTZoN2k4WU4zTDg2cHp5d2JOQXlmXzIyOTg2VFhzWHB6VzJDSHhRZVJwNw?oc=5",
-            "source": "EY",
+            "title": "Rajesh Khanna Appointed President \u2013 India Business at Icon Life Sciences - https://hrtoday.in/",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUpiNThLRDNfRllnSFRPY3h4bkx0NUplTUVrQTVRbkcyT05aZ2U4LVlTT01TSWN2SDRnV0ZVRnRieHJFeDQzdWhyVHQ5TE05ZzU3SW5UQy1KU2J2RTFWY09WN0MzbnlJTTA3cTFEU3BIMFc3UWVSeGNKdUZQc1JwdUN5NVNHa2lWN2trY2twd1ZXWWhu?oc=5",
+            "source": "https://hrtoday.in/",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
