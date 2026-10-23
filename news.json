@@ -1,35 +1,35 @@
 {
-    "date": "Thursday, 22 October 2026",
+    "date": "Friday, 23 October 2026",
     "story": {
-        "brand": "Dove",
-        "campaign": "Reverse Digital Distortion",
-        "story": "Dove actively campaigned against the 'Bold Glamour' AI filter on TikTok, urging users to turn their backs to the camera to protest synthetic beauty standards.",
-        "lesson": "Taking a stand against a platform trend can win immense loyalty.",
-        "seed": "dove8"
+        "brand": "Patagonia",
+        "campaign": "Don't Buy This Jacket",
+        "story": "On Black Friday, Patagonia ran a full-page ad telling people NOT to buy their products unless absolutely necessary, highlighting the environmental cost of consumerism.",
+        "lesson": "Anti-marketing is the ultimate form of brand authenticity.",
+        "seed": "patagonia9"
     },
     "news": [
         {
-            "title": "Atish Bhatia To Spearhead Marketing Strategy And Fashion Brand Development At IVS Group - IFAB MEDIA",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aYjAyOGNjMlZ0ZDRrZUdTbXY1NFMwRjBLT0R2aE54d3FzT2xvenM0WkZRRXhpSlJIcEcwZTdZTEVkbGpkcGRLenk1MVlIbWRMTWhKOWdtNjJNVWFWdXJxZ29B?oc=5",
-            "source": "IFAB MEDIA",
+            "title": "Figma\u2019s emotional marketing strategy faces AI\u2019s challenge to design collaboration - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWJBc05idzl2b0hydFJYdHI2NWVBUlNPZTFveHlQRC1iYWZGQ1phT0RKYzdqellLbEctMHBaVkdUbE1PamJtelQ5bjJVeHlyRWVkbl81Qk9pYjl0SnhlclhvZHQtdmhVdG16dUJ1VWdLcHZQV0pqOFN1S285Q0NjNnRHdzluNkhSMThwUU1XM2tIdm14M1gwRGpvY0NFNDdGcDloejA5RUljRGRWbW0zRllxMi1IQjI0Y3RZ?oc=5",
+            "source": "Campaign India",
             "category": "Strategy"
         },
         {
-            "title": "Marketing Campaign ROI: How Much Should Brands Spend to Win Customers in South India? - ET BrandEquity",
-            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS0VSRFdISjRTY1doVk5iMy1FSWI2ekt6cEs4TEhvTXpUeTdPUE9UUFpZcHdxVXNQVGFsdV9kbEQ5cmhHWG1SRTJOclhIUjJsempoemFvYVVrc0YwWDRKUFo2d3VsT0RFSGNQb3REemk5dTd1QzVTZHQ5cHJRdS0weWZOc1p5MHFZcFRmVVJrdGxtWFFKV2JTSlRaOU1SRG5KT3h0VlVGUHZIYjBfd3lDVER2SlhOMVNEckJUSHIxQmxQZXNlU1dvVnZxSnJQM1Zzc1pQT2JGWFNBTENKSEZDNkVkaVJNYlBrSHV4eNIB8gFBVV95cUxQb28wSWxLQlZxYzYyX3k5T2ZJU0w1WENmb1hzbVhfTnhXSjAxUE5PQjVqUjRtdUhDaFctaHRGb25SN0tJMC1RdHZzNnN6SnNha3hEZ0d2SVUwQXZXSlI3RWxGb3F2ejFZS3ZXaDlQeWxZZVRYSVNmLWhsYXdwR21SaGF5OENrQkZPYUY2UzR5QlZya1lYMlNVYV9sNzZXSjdIVW9pYmFKWHZMT1RvY0tDQWtRMnczc09XNC1NZzhmOXpLUU1MOFp2NDZQVEpxZmNWbUx5ZUdFdm04bDRFVk5fZWsyUnRjMjhxaDBFNWN6V3pOdw?oc=5",
-            "source": "ET BrandEquity",
+            "title": "Gunjit Jain steps down as Executive Vice President, Marketing, at Colgate-Palmolive India - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlF3NmZKd0I4cUJxSUMwS2JoX3d4WXg4QWtOUERsWUlPX3hYbjVsLWJxaTNWai1oaTRuV05LZHo0WW9majdwTE9uNnVud2l0UWxpQy1memYtbk55ci1CcXRCOU1NUmxIR0x3X2ZXZEhCZ1U1Tks4NTBRN184dWF6dlhHdlc4M3lfbnU2X0NWUHp1cXoxNFQ0RmdRNS14M21TUmNzNnJHNC1JMlZHcVdTRWpIZkhZdUU1MjBuampXM2FXSDg2SHhoaDJKSTlUUXZvcU56Z0M4QWtQNWU3V2huUC1kWW12dw?oc=5",
+            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
-            "title": "Thermocool Announces Strategic Partnership with Bollywood Movie \u201cNayyi Naveli\u201d for All-India Advertisement - MediaNews4U",
-            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObU1wOGpGdFRKb1l0N2R4Q2pBS0Y1V2NwODRDVkVjWHg0TWRib1hXZ0FTSGtHbHJ4aVRuc0oxcmZNU2ZRc2dDMER5N05nZThZSklCanFkU2E2RTBLbTBYMGFJRFdqc2h6dEVOQlFCbkZwOXFmdXN5c0dBSF9Xam0wRWVnZ2t6WkwyY1BHdUgwYkhCNmNWNmpNOXkxWEtmb1JjVThzbEU2RTVkbElUdlBOelpaWkc4N3JMRGdaX1ZKZTZQVGNoNXMzZEhrMU1Xdw?oc=5",
-            "source": "MediaNews4U",
+            "title": "Mrinalini Agarwal Singh: Building Social Brands Builders at the Intersection of Digital Marketing, AI and Brand Strategy - India CSR",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fbkZZeFVOSEp1NVJXa2pCNmptT0lBMzVzMV9QWDkzZElsbXQ5NXBKNWNZUEFDbUs4U3VqZlBHS3dpck0xSDZUREZRdGRoWmhpOVBQYVkyemhVUWlqYnIxUW1GWGtLbkE0cVJHOFlnRmxYN1F4czZfQmpn?oc=5",
+            "source": "India CSR",
             "category": "Strategy"
         },
         {
-            "title": "Top 10 NEET coaching centres in India and their unique marketing strategies - Adgully",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbzJrMDl2Qi1JdjE3amVpeHlvdnlpekxPRlhRb3ZON3YzZXlaUjd0emxhVmRGOEZPd1M4SHBhMzdkUHJWd2tnTlIzVndHRmE3UTUtYXk0SHpWdThnbjdBUlRVc0ZidjNmNVZEdW80ekpOZUtKZEVPQzlKdW85R3pfTE9SRnlvbkxjSFdCQnFZdnJrS1FtZk5aS01ZOTJzNGViX2hsRk1iSjlJb3Zyb3Zv?oc=5",
-            "source": "Adgully",
+            "title": "Gunjit Jain resigns as Colgate-Palmolive India's EVP, Marketing, after 18 years - BMI",
+            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzVTNkVJUld2VjZfTUdmdWhqT0xVSlVjMmkxTXRwYzJQUDIzbU9LWWh6cVF3Q2xHMk9nZk80Z3huMk1sSndQVFVDV1lRVmdMQnJ5MGVLcGxTZTlNQm82bDhQclhxcUlQeW1FYWUyMGtZWGI0bVRsWkxpejd0N1VJUUZrYlBJbWFvYjBlQzNLczlxZEsxSzlacndXVmhuX1JsZkIxUjZsa0YwRnlxelNuMkpWZXhGOWlvN3FUekM5VVY2Q0ozb216Q0N5Umtjbi1OMGVZT3BYeDbSAdgBQVVfeXFMUDc1UzZFSVJXdlY2X01HZnVoak9MVUpVYzJpMU10cGMyUFAyM21PS1loenFRd0NsRzJPZ2ZPNGd4bjJNbEp3UFRVQ1dZUVZnTEJyeTBlS3BsU2U5TUJvNmw4UHJYcXFJUHltRWFlMjBrWVhiNG1UbFpMaXo3dDdVSVFGa2JQSW1hb2IwZUMzS3M5cWRLMUs5WnJ3V1Zobl9SbGZCMVI2bGtGMEZ5cXpTbjJKVmV4RjlpbzdxVHpDOVVWNkNKM29tekNDeVJrY24tTjBlWU9wWHg2?oc=5",
+            "source": "BMI",
             "category": "Strategy"
         },
         {
@@ -45,34 +45,34 @@
             "category": "Retail"
         },
         {
-            "title": "How Will AI Transform India's E-commerce Market by 2030? - Analytics India Magazine",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
-            "source": "Analytics India Magazine",
+            "title": "India B2C E-Commerce Market Size to Attain USD 2008.83 Million by 2035 - Precedence Research",
+            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tQkpLbEpaOEUyUTgxWkE4R3NIS0lUT3VubmpEQjh1NmhSNmhQYy1fTFZ3TzRMTWNweXhVTjZsZ2Q4Mko4bk1yX29PZ1Zzd3VaUWlzZjNPNkhjSUNtQ3ZHbEFMTVBnVmpQTHNIdU1oYw?oc=5",
+            "source": "Precedence Research",
             "category": "Retail"
         },
         {
-            "title": "2025 Social Commerce Trends - DHL",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORG42VHhiRlpBeTRCdFY1aC1tXy14Z0VmQTZIR2tQbjNlQzB4OE8tZEkwcnlfZWh0a0NrLUVnWEpvT1JGd3llTlJPa1lnNTQxX1plbjloX044NzkxcDBULWRqM2xRZGhWTEpCYkNmTHd4LTQ3akUyUTFXLVhRM1BTNHVDbnppamt6eklpbXNEdUtLeGlUcnQxVk83dnBLZVYxVGs3dnE2UC1JUW8?oc=5",
-            "source": "DHL",
+            "title": "How Will AI Transform India's E-commerce Market by 2030? - Analytics India Magazine",
+            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
+            "source": "Analytics India Magazine",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
