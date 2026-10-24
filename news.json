@@ -1,11 +1,11 @@
 {
-    "date": "Friday, 23 October 2026",
+    "date": "Saturday, 24 October 2026",
     "story": {
-        "brand": "Patagonia",
-        "campaign": "Don't Buy This Jacket",
-        "story": "On Black Friday, Patagonia ran a full-page ad telling people NOT to buy their products unless absolutely necessary, highlighting the environmental cost of consumerism.",
-        "lesson": "Anti-marketing is the ultimate form of brand authenticity.",
-        "seed": "patagonia9"
+        "brand": "Burger King",
+        "campaign": "The Moldy Whopper",
+        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
+        "lesson": "Ugly truths are more memorable than pretty lies.",
+        "seed": "bk10"
     },
     "news": [
         {
@@ -15,9 +15,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Gunjit Jain steps down as Executive Vice President, Marketing, at Colgate-Palmolive India - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlF3NmZKd0I4cUJxSUMwS2JoX3d4WXg4QWtOUERsWUlPX3hYbjVsLWJxaTNWai1oaTRuV05LZHo0WW9majdwTE9uNnVud2l0UWxpQy1memYtbk55ci1CcXRCOU1NUmxIR0x3X2ZXZEhCZ1U1Tks4NTBRN184dWF6dlhHdlc4M3lfbnU2X0NWUHp1cXoxNFQ0RmdRNS14M21TUmNzNnJHNC1JMlZHcVdTRWpIZkhZdUU1MjBuampXM2FXSDg2SHhoaDJKSTlUUXZvcU56Z0M4QWtQNWU3V2huUC1kWW12dw?oc=5",
-            "source": "Exchange4Media",
+            "title": "Kuldeep Sehrawat Joins Wipro India as Director and Head of Marketing - CXO Digitalpulse",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWJ0OHVlSkNGOU11ajg2SVlpMHhNd2F3T2x5UHRHaWswc3FjZ0pPZjVwMWYzeDR3R29KSE9BLWx5ZC1JZXR0QmpCMkVUamlxYTdRSnlmVk8zdHcydWRMVHBFUzVTR1RnYy1WM2oxTXY0dXNpcmF6LWRfelFrMTdCRFZoRkI5bENJRmE1OXUxQ25RZUpRY2ZKSXlGS05nbW1yMEhB?oc=5",
+            "source": "CXO Digitalpulse",
             "category": "Strategy"
         },
         {
@@ -27,15 +27,15 @@
             "category": "Strategy"
         },
         {
-            "title": "Gunjit Jain resigns as Colgate-Palmolive India's EVP, Marketing, after 18 years - BMI",
-            "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNzVTNkVJUld2VjZfTUdmdWhqT0xVSlVjMmkxTXRwYzJQUDIzbU9LWWh6cVF3Q2xHMk9nZk80Z3huMk1sSndQVFVDV1lRVmdMQnJ5MGVLcGxTZTlNQm82bDhQclhxcUlQeW1FYWUyMGtZWGI0bVRsWkxpejd0N1VJUUZrYlBJbWFvYjBlQzNLczlxZEsxSzlacndXVmhuX1JsZkIxUjZsa0YwRnlxelNuMkpWZXhGOWlvN3FUekM5VVY2Q0ozb216Q0N5Umtjbi1OMGVZT3BYeDbSAdgBQVVfeXFMUDc1UzZFSVJXdlY2X01HZnVoak9MVUpVYzJpMU10cGMyUFAyM21PS1loenFRd0NsRzJPZ2ZPNGd4bjJNbEp3UFRVQ1dZUVZnTEJyeTBlS3BsU2U5TUJvNmw4UHJYcXFJUHltRWFlMjBrWVhiNG1UbFpMaXo3dDdVSVFGa2JQSW1hb2IwZUMzS3M5cWRLMUs5WnJ3V1Zobl9SbGZCMVI2bGtGMEZ5cXpTbjJKVmV4RjlpbzdxVHpDOVVWNkNKM29tekNDeVJrY24tTjBlWU9wWHg2?oc=5",
-            "source": "BMI",
+            "title": "Kshitij Kaul Appointed Associate Vice President \u2013 Business at TukTuki Entertainment - https://hrtoday.in/",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFc2M2RjZmo5ZFU3RWs5Y0NiWkVYZExRUThKSS12Y3ZUS19zWlRMOGJIV29mUV9mblNDektSSTlyUV81alRJd1ktLWVHV0FNaC1uNUdwbF9tN3JIaUFsNGw4UGNBVkl2LUQ2c3NMdm91VjhDUXBZTUI4UEs0STBYVnZ4aU9Ba1V5RDU4VnA0eHRkam8tUnJoVnhXdWVVZTF5Y0R3?oc=5",
+            "source": "https://hrtoday.in/",
             "category": "Strategy"
         },
         {
-            "title": "How India Shops Online 2026 - Bain",
+            "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
-            "source": "Bain",
+            "source": "Bain & Company",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
