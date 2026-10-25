@@ -1,17 +1,23 @@
 {
-    "date": "Saturday, 24 October 2026",
+    "date": "Sunday, 25 October 2026",
     "story": {
-        "brand": "Burger King",
-        "campaign": "The Moldy Whopper",
-        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
-        "lesson": "Ugly truths are more memorable than pretty lies.",
-        "seed": "bk10"
+        "brand": "Duolingo",
+        "campaign": "Unhinged Mascot Marketing",
+        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
+        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
+        "seed": "duo11"
     },
     "news": [
         {
-            "title": "Figma\u2019s emotional marketing strategy faces AI\u2019s challenge to design collaboration - Campaign India",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWJBc05idzl2b0hydFJYdHI2NWVBUlNPZTFveHlQRC1iYWZGQ1phT0RKYzdqellLbEctMHBaVkdUbE1PamJtelQ5bjJVeHlyRWVkbl81Qk9pYjl0SnhlclhvZHQtdmhVdG16dUJ1VWdLcHZQV0pqOFN1S285Q0NjNnRHdzluNkhSMThwUU1XM2tIdm14M1gwRGpvY0NFNDdGcDloejA5RUljRGRWbW0zRllxMi1IQjI0Y3RZ?oc=5",
-            "source": "Campaign India",
+            "title": "Mrinalini Agarwal Singh: Building Social Brands Builders at the Intersection of Digital Marketing, AI and Brand Strategy - India CSR",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fbkZZeFVOSEp1NVJXa2pCNmptT0lBMzVzMV9QWDkzZElsbXQ5NXBKNWNZUEFDbUs4U3VqZlBHS3dpck0xSDZUREZRdGRoWmhpOVBQYVkyemhVUWlqYnIxUW1GWGtLbkE0cVJHOFlnRmxYN1F4czZfQmpn?oc=5",
+            "source": "India CSR",
+            "category": "Strategy"
+        },
+        {
+            "title": "Gunjit Jain steps down as Executive Vice President, Marketing, at Colgate-Palmolive India - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlF3NmZKd0I4cUJxSUMwS2JoX3d4WXg4QWtOUERsWUlPX3hYbjVsLWJxaTNWai1oaTRuV05LZHo0WW9majdwTE9uNnVud2l0UWxpQy1memYtbk55ci1CcXRCOU1NUmxIR0x3X2ZXZEhCZ1U1Tks4NTBRN184dWF6dlhHdlc4M3lfbnU2X0NWUHp1cXoxNFQ0RmdRNS14M21TUmNzNnJHNC1JMlZHcVdTRWpIZkhZdUU1MjBuampXM2FXSDg2SHhoaDJKSTlUUXZvcU56Z0M4QWtQNWU3V2huUC1kWW12dw?oc=5",
+            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
@@ -21,15 +27,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Mrinalini Agarwal Singh: Building Social Brands Builders at the Intersection of Digital Marketing, AI and Brand Strategy - India CSR",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fbkZZeFVOSEp1NVJXa2pCNmptT0lBMzVzMV9QWDkzZElsbXQ5NXBKNWNZUEFDbUs4U3VqZlBHS3dpck0xSDZUREZRdGRoWmhpOVBQYVkyemhVUWlqYnIxUW1GWGtLbkE0cVJHOFlnRmxYN1F4czZfQmpn?oc=5",
-            "source": "India CSR",
-            "category": "Strategy"
-        },
-        {
-            "title": "Kshitij Kaul Appointed Associate Vice President \u2013 Business at TukTuki Entertainment - https://hrtoday.in/",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFc2M2RjZmo5ZFU3RWs5Y0NiWkVYZExRUThKSS12Y3ZUS19zWlRMOGJIV29mUV9mblNDektSSTlyUV81alRJd1ktLWVHV0FNaC1uNUdwbF9tN3JIaUFsNGw4UGNBVkl2LUQ2c3NMdm91VjhDUXBZTUI4UEs0STBYVnZ4aU9Ba1V5RDU4VnA0eHRkam8tUnJoVnhXdWVVZTF5Y0R3?oc=5",
-            "source": "https://hrtoday.in/",
+            "title": "Gunjit Jain To Exit Colgate-Palmolive India As EVP - Marketing - BW Marketing World",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbTVWZHdaakNQTG11MUdXbUJzZDZOdkM1dU92WnU5aHQ3anNneHFXSElFUUd6b0ZfRmxqeHRac003QVBURVJrTm1xa01qMmVCMmN2cHlDNDlSWEdoXzVWa3liakVmM0dOOXktMlJZcjZmY0FIempOY2hpZnMtMUV4S2t4ZThfaFNnTkJmd2Q2S0hiS2hpb05oMlRveFA5NEVHOGZ6cTg0WXQ5eUVC?oc=5",
+            "source": "BW Marketing World",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
