@@ -1,19 +1,13 @@
 {
-    "date": "Monday, 26 October 2026",
+    "date": "Tuesday, 27 October 2026",
     "story": {
-        "brand": "Airbnb",
-        "campaign": "Belong Anywhere",
-        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
-        "lesson": "Sell the transformation, not the transaction.",
-        "seed": "airbnb12"
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization.",
+        "seed": "zomato1"
     },
     "news": [
-        {
-            "title": "Deven Deshpande takes on Lead - Sports Marketing role at PUMA India - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmJrZkkwSVd6Tkc3dFFPbXljYTdtNzU5a2s5STBoMVRBREZJYnpBdnhwRGNFR1JnRWkxNEZuU3dnY2hLNjlnMDJvSFAxZVg4VnRZSHlOOUV2NFc0RkRjMnowdjZLa3JDdlZWQ1N3R0VDbnV1MVlvclAwRk8zZHVtNnB1aWJBU29pMUN0TDFRMURFWnI3YlBSWHlQZkZwWVlwZzdqTjBtZVQxNEJUR1FuZENZMklKdlZHRF9YZk9pWldJS1pBdFVvVA?oc=5",
-            "source": "Exchange4Media",
-            "category": "Strategy"
-        },
         {
             "title": "Figma\u2019s emotional marketing strategy faces AI\u2019s challenge to design collaboration - Campaign India",
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWJBc05idzl2b0hydFJYdHI2NWVBUlNPZTFveHlQRC1iYWZGQ1phT0RKYzdqellLbEctMHBaVkdUbE1PamJtelQ5bjJVeHlyRWVkbl81Qk9pYjl0SnhlclhvZHQtdmhVdG16dUJ1VWdLcHZQV0pqOFN1S285Q0NjNnRHdzluNkhSMThwUU1XM2tIdm14M1gwRGpvY0NFNDdGcDloejA5RUljRGRWbW0zRllxMi1IQjI0Y3RZ?oc=5",
@@ -21,15 +15,21 @@
             "category": "Strategy"
         },
         {
-            "title": "Kuldeep Sehrawat Joins Wipro India as Director and Head of Marketing - CXO Digitalpulse",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWJ0OHVlSkNGOU11ajg2SVlpMHhNd2F3T2x5UHRHaWswc3FjZ0pPZjVwMWYzeDR3R29KSE9BLWx5ZC1JZXR0QmpCMkVUamlxYTdRSnlmVk8zdHcydWRMVHBFUzVTR1RnYy1WM2oxTXY0dXNpcmF6LWRfelFrMTdCRFZoRkI5bENJRmE1OXUxQ25RZUpRY2ZKSXlGS05nbW1yMEhB?oc=5",
-            "source": "CXO Digitalpulse",
+            "title": "Marketing Campaign ROI: How Much Should Brands Spend to Win Customers in South India? - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS0VSRFdISjRTY1doVk5iMy1FSWI2ekt6cEs4TEhvTXpUeTdPUE9UUFpZcHdxVXNQVGFsdV9kbEQ5cmhHWG1SRTJOclhIUjJsempoemFvYVVrc0YwWDRKUFo2d3VsT0RFSGNQb3REemk5dTd1QzVTZHQ5cHJRdS0weWZOc1p5MHFZcFRmVVJrdGxtWFFKV2JTSlRaOU1SRG5KT3h0VlVGUHZIYjBfd3lDVER2SlhOMVNEckJUSHIxQmxQZXNlU1dvVnZxSnJQM1Zzc1pQT2JGWFNBTENKSEZDNkVkaVJNYlBrSHV4eNIB8gFBVV95cUxQb28wSWxLQlZxYzYyX3k5T2ZJU0w1WENmb1hzbVhfTnhXSjAxUE5PQjVqUjRtdUhDaFctaHRGb25SN0tJMC1RdHZzNnN6SnNha3hEZ0d2SVUwQXZXSlI3RWxGb3F2ejFZS3ZXaDlQeWxZZVRYSVNmLWhsYXdwR21SaGF5OENrQkZPYUY2UzR5QlZya1lYMlNVYV9sNzZXSjdIVW9pYmFKWHZMT1RvY0tDQWtRMnczc09XNC1NZzhmOXpLUU1MOFp2NDZQVEpxZmNWbUx5ZUdFdm04bDRFVk5fZWsyUnRjMjhxaDBFNWN6V3pOdw?oc=5",
+            "source": "ET BrandEquity",
             "category": "Strategy"
         },
         {
-            "title": "Gunjit Jain To Exit Colgate-Palmolive India As EVP - Marketing - BW Marketing World",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbTVWZHdaakNQTG11MUdXbUJzZDZOdkM1dU92WnU5aHQ3anNneHFXSElFUUd6b0ZfRmxqeHRac003QVBURVJrTm1xa01qMmVCMmN2cHlDNDlSWEdoXzVWa3liakVmM0dOOXktMlJZcjZmY0FIempOY2hpZnMtMUV4S2t4ZThfaFNnTkJmd2Q2S0hiS2hpb05oMlRveFA5NEVHOGZ6cTg0WXQ5eUVC?oc=5",
+            "title": "Puma India Elevates Deven Deshpande To Lead \u2013 Sports Marketing - BW Marketing World",
+            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPakJQN3djdWhac2ZEbEwyRk96bFpfWFpzMUhzZ0EwcnFaMXdvZjB6dUVVTGhNOTZmOUFtY2wzZjVKUzlOeGo3bUtxOURaTHNSbkpQTFprY0tOV05ILWVWbDdkM05tQzJJN2ZyMVhxVVhhYmR1eW9aMnpXbWJldGkwZGtISV9qZ1Z1TVpHZ0xGb3p2SDhlWTVfN1hQZlM1TDQzZzBvN2hDbDhhS1Y2?oc=5",
             "source": "BW Marketing World",
+            "category": "Strategy"
+        },
+        {
+            "title": "Kuldeep Sehrawat Joins Wipro India as Director and Head of Marketing - CXO Digitalpulse",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWJ0OHVlSkNGOU11ajg2SVlpMHhNd2F3T2x5UHRHaWswc3FjZ0pPZjVwMWYzeDR3R29KSE9BLWx5ZC1JZXR0QmpCMkVUamlxYTdRSnlmVk8zdHcydWRMVHBFUzVTR1RnYy1WM2oxTXY0dXNpcmF6LWRfelFrMTdCRFZoRkI5bENJRmE1OXUxQ25RZUpRY2ZKSXlGS05nbW1yMEhB?oc=5",
+            "source": "CXO Digitalpulse",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
