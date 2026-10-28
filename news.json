@@ -1,13 +1,19 @@
 {
-    "date": "Tuesday, 27 October 2026",
+    "date": "Wednesday, 28 October 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization.",
-        "seed": "zomato1"
+        "brand": "Cred",
+        "campaign": "Indiranagar Ka Gunda",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting a historically calm celebrity (Rahul Dravid) in an angry, chaotic role. This contrast created instant, viral meme material.",
+        "lesson": "Disruption happens when you break an established archetype.",
+        "seed": "cred2"
     },
     "news": [
+        {
+            "title": "Shoonya by Finvasia appoints Basant Dhawan as Chief Marketing Officer - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMG15UTVwZ1A3OGhaZi1HQTNOSko4OGk2RHM4NmRfSUQzdmQwa0MwV2R6anRfaGFlQnpLU3luc0h2Z2NOMjE1S2xIX0NCZnNXLUNTVUpva0VJZmtrQ2prM3N3RV81UDQ2eVg4M3loYWNIZGtSYk9GRERSbk85TU56WFhHQkdhUVpYZEFnRnpqemV3R1NnVzB3bG9PTTREUzdPTmtaRmVoZGhDSi0zOUdERml0ZWJ2QzlKc0pnZHBNSmdxZTZNbk8wMXpfaFE3dzZTd0NIZ3dRM2pPeHJPNS1hSF9UTUU0ZUNyYmcw0gHrAUFVX3lxTE0wbXlRNXBnUDc4aFpmLUdBM05KSjg4aTZEczg2ZF9JRDN2ZDBrQzBXZHpqdF9oYWVCektTeW5zSHZnY04yMTVLbEhfQ0Jmc1ctQ1NVSm9rRUlma2tDamszc3dFXzVQNDZ5WDgzeWhhY0hka1JiT0ZERFJuTzlNTnpYWEdCR2FRWlhkQWdGemp6ZXdHU2dXMHdsb09NNERTN09Oa1pGZWhkaENKLTM5R0RGaXRlYnZDOUpzSmdkcE1KZ3FlNk1uTzAxel9oUTd3NlN3Q0hnd1Ezak94ck81LWFIX1RNRTRlQ3JiZzA?oc=5",
+            "source": "ET BrandEquity",
+            "category": "Strategy"
+        },
         {
             "title": "Figma\u2019s emotional marketing strategy faces AI\u2019s challenge to design collaboration - Campaign India",
             "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWJBc05idzl2b0hydFJYdHI2NWVBUlNPZTFveHlQRC1iYWZGQ1phT0RKYzdqellLbEctMHBaVkdUbE1PamJtelQ5bjJVeHlyRWVkbl81Qk9pYjl0SnhlclhvZHQtdmhVdG16dUJ1VWdLcHZQV0pqOFN1S285Q0NjNnRHdzluNkhSMThwUU1XM2tIdm14M1gwRGpvY0NFNDdGcDloejA5RUljRGRWbW0zRllxMi1IQjI0Y3RZ?oc=5",
@@ -15,15 +21,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Marketing Campaign ROI: How Much Should Brands Spend to Win Customers in South India? - ET BrandEquity",
-            "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS0VSRFdISjRTY1doVk5iMy1FSWI2ekt6cEs4TEhvTXpUeTdPUE9UUFpZcHdxVXNQVGFsdV9kbEQ5cmhHWG1SRTJOclhIUjJsempoemFvYVVrc0YwWDRKUFo2d3VsT0RFSGNQb3REemk5dTd1QzVTZHQ5cHJRdS0weWZOc1p5MHFZcFRmVVJrdGxtWFFKV2JTSlRaOU1SRG5KT3h0VlVGUHZIYjBfd3lDVER2SlhOMVNEckJUSHIxQmxQZXNlU1dvVnZxSnJQM1Zzc1pQT2JGWFNBTENKSEZDNkVkaVJNYlBrSHV4eNIB8gFBVV95cUxQb28wSWxLQlZxYzYyX3k5T2ZJU0w1WENmb1hzbVhfTnhXSjAxUE5PQjVqUjRtdUhDaFctaHRGb25SN0tJMC1RdHZzNnN6SnNha3hEZ0d2SVUwQXZXSlI3RWxGb3F2ejFZS3ZXaDlQeWxZZVRYSVNmLWhsYXdwR21SaGF5OENrQkZPYUY2UzR5QlZya1lYMlNVYV9sNzZXSjdIVW9pYmFKWHZMT1RvY0tDQWtRMnczc09XNC1NZzhmOXpLUU1MOFp2NDZQVEpxZmNWbUx5ZUdFdm04bDRFVk5fZWsyUnRjMjhxaDBFNWN6V3pOdw?oc=5",
-            "source": "ET BrandEquity",
-            "category": "Strategy"
-        },
-        {
-            "title": "Puma India Elevates Deven Deshpande To Lead \u2013 Sports Marketing - BW Marketing World",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPakJQN3djdWhac2ZEbEwyRk96bFpfWFpzMUhzZ0EwcnFaMXdvZjB6dUVVTGhNOTZmOUFtY2wzZjVKUzlOeGo3bUtxOURaTHNSbkpQTFprY0tOV05ILWVWbDdkM05tQzJJN2ZyMVhxVVhhYmR1eW9aMnpXbWJldGkwZGtISV9qZ1Z1TVpHZ0xGb3p2SDhlWTVfN1hQZlM1TDQzZzBvN2hDbDhhS1Y2?oc=5",
-            "source": "BW Marketing World",
+            "title": "e4m News Confirmed: Cheil India onboards Reckitt's Geetika Chadha - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQXZmd0RQLVJueV9sZVNjdFdEMVExOXlzWm1STEJkTDhxdUY1WVJFTWxKRmtkNzFUcTJEUWVzLTFRLXQxRTczTVVEVzRLMW1RQ1NqWVJ4VzVXVklhTUtidThSMGtBNHp0VlYwRXgteXdzTVlnQWE2R3BnTUJHZ01mS29WT0tlbXNJY1Y1UnVjUWZTc3poMkdTQ1BOd1BXc1FvQVZxcGRZOGh5b2ZVdVR6eWpKejZVZnpoRmhycnhiTkFlMEJsQWc?oc=5",
+            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
@@ -33,9 +33,15 @@
             "category": "Strategy"
         },
         {
-            "title": "How India Shops Online 2026 - Bain & Company",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
-            "source": "Bain & Company",
+            "title": "B2B Ecommerce: Models, Trends, and Strategy (2026) - Shopify",
+            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZRnhpejFQUll6TlVoSGJjaTFZRnBtZTFXZGIxQXVLXzlUQi1SaTNQR013RjFyQU9pTEl1X2lzQ2dtQm5SWDdyblU2SkY0SDhJNW5qYWJBaVdVZ2lZQTYxbm5icmxDTEE?oc=5",
+            "source": "Shopify",
+            "category": "Retail"
+        },
+        {
+            "title": "#e4mXplains: Why India is a stress test for agentic commerce - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVdwU3VBVlJVaHcyUlVGYkNtb2RKLUVDaWxwRkVyajlMWXBzMnctVGxkTlh4eXJYMDRHVG5OR2ZVaTZ1Sm1mOHFSZ0xnTFNlQ1lxQW92QS1xMnlZb29Vd1BHMW52SUE4RENmQXdYcWJKSjBCVzFsQXFjRGhfSk9EMV9Ta084QTR2TldMd2lETmtMMTY2UkFXRUNFV3NWYzA4MGsxa0RR?oc=5",
+            "source": "Exchange4Media",
             "category": "Retail"
         },
         {
@@ -45,34 +51,28 @@
             "category": "Retail"
         },
         {
-            "title": "How Will AI Transform India's E-commerce Market by 2030? - Analytics India Magazine",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlrQmpDZUpwcWQ5QXgtLWpFWFVLaUx4Y0E1a3dFMGp0SmozU3dhd1NZeTRTOG5YSkoyZFJaeG94QUFkNkxHWVQ3UjdLa1ZTOGM3dHJrSElfdGctR19kallaVnd2XzhvUjRXY2NSWHB1aHZKWHZoSnJUOGdtWXAyam1UX214VTc0NEJEcDNrX19hTWZjLVhHSk1wZ0Y3b3lEaUJSQXotcHIwMzZabFl2YmFleXBGNTVLSmIwdw?oc=5",
-            "source": "Analytics India Magazine",
-            "category": "Retail"
-        },
-        {
-            "title": "Top Fashion eCommerce Trends & Strategies for 2025 - Salesforce",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KdVNod0tNVWFnWXVmVC1jcm1fMnpZblpEZ1dtUEMwOHNyYnJjQ29RQVc0NUppNk1rbGhkek9uREhUQkloUWpVQU13c09sTHhDVjRqbE5UUDJheDRiMlpDQTM0M3JmTG12bDYwRFc1UXl3bkhkUlY4WTZ3?oc=5",
-            "source": "Salesforce",
+            "title": "India's festive season promises strong show as quick commerce reshapes online shopping battle - The Economic Times",
+            "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMHpOZDU2bzBhRzFkd0Y4MzNfeW5Jb0kyOTRHbS1DYWt5M3RYSjBOSVdRZUptRHV1MWE5UVllYVdHWTN3NVJQSmFrb3J1VFNrRkZEdU5JWDZiWV9RdmJJa0VoczdPNVl5UXVYd19YTVktc280Mjhhbm9obGRMMDRKVHJRY2NMVFVvU1pHTzJxVE9VWjRxcno1dEdRWFdGVzhrV1NzOGtQY043dW02TjRoV3hDYm02VTVVZW5aelRmeXB5czhhU0JmNXEzTHdseWtSQjlTMHlCMUJKOFBhOFN5WWpfTzVlTW0tOGlSdmFaQTQ1RW9TZ0hRS2NlbHBhSUJS0gGGAkFVX3lxTE9pVXc5djQ3eG1qSmJ2T1lPZWUwZFA0b1hGZnNndllrdHdRM1dVeVB4VFR6UkNGd1pPMDlNb2tWblFpUWh3NHJZTDRZaGp4SVBIVDAwdFZ3MWRIWHBWcWNJblloVFlxOUlvZGw0RTg2Q0JUVUNXOEtuNHpWdXZ4aXhjMUo0MjRBdkV2Q2owNTByLXpJNHRKOERJcDQ1NjdUMUFRYkZOWmxHaHRfN2tXTXhWOFdzX2hfOFZFV3pYZ3FCSVVGeEpzMGcyckpNLTBQTEpsbmFhZjU1MHdRSzZyUkxMbEhMMzNrZU5WbmJsTXc2bmpCNGpqTlZiellYYWhKX216anRFZEE?oc=5",
+            "source": "The Economic Times",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
