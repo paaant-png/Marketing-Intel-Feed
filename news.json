@@ -1,29 +1,29 @@
 {
-    "date": "Wednesday, 28 October 2026",
+    "date": "Thursday, 29 October 2026",
     "story": {
-        "brand": "Cred",
-        "campaign": "Indiranagar Ka Gunda",
-        "story": "Cred purposefully used 'anti-casting'\u2014putting a historically calm celebrity (Rahul Dravid) in an angry, chaotic role. This contrast created instant, viral meme material.",
-        "lesson": "Disruption happens when you break an established archetype.",
-        "seed": "cred2"
+        "brand": "Nike",
+        "campaign": "Winning Isn't For Everyone",
+        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the ruthless obsession required to win, alienating some to deeply delight their core athletes.",
+        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging.",
+        "seed": "nike3"
     },
     "news": [
+        {
+            "title": "India\u2019s Top 100 Consumer Tech Marketing Trailblazers: Edition 2026 - Indian Startup Times",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1p6eTBXNGdCRzY1bDBxcVlHMTAwNGsyTk8wX09JeFhFQmlGaDlUekNxUjJNNnNBWEFMWnlkTXJNU3dvejhoZHUtanRNN3J6WGRpbUtGa3JNUjVOU3hxenhnSjVsQ21sWGhscTc1RDB6T2pnbmc3aUxNVWZEcEh5bmdGR0FVZ01iLXRUZ1JWbmlRMm40bVlCbE9NUzZsMzQtaTRsOHV0dmU?oc=5",
+            "source": "Indian Startup Times",
+            "category": "Strategy"
+        },
+        {
+            "title": "Deven Deshpande takes on Lead - Sports Marketing role at PUMA India - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmJrZkkwSVd6Tkc3dFFPbXljYTdtNzU5a2s5STBoMVRBREZJYnpBdnhwRGNFR1JnRWkxNEZuU3dnY2hLNjlnMDJvSFAxZVg4VnRZSHlOOUV2NFc0RkRjMnowdjZLa3JDdlZWQ1N3R0VDbnV1MVlvclAwRk8zZHVtNnB1aWJBU29pMUN0TDFRMURFWnI3YlBSWHlQZkZwWVlwZzdqTjBtZVQxNEJUR1FuZENZMklKdlZHRF9YZk9pWldJS1pBdFVvVA?oc=5",
+            "source": "Exchange4Media",
+            "category": "Strategy"
+        },
         {
             "title": "Shoonya by Finvasia appoints Basant Dhawan as Chief Marketing Officer - ET BrandEquity",
             "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMG15UTVwZ1A3OGhaZi1HQTNOSko4OGk2RHM4NmRfSUQzdmQwa0MwV2R6anRfaGFlQnpLU3luc0h2Z2NOMjE1S2xIX0NCZnNXLUNTVUpva0VJZmtrQ2prM3N3RV81UDQ2eVg4M3loYWNIZGtSYk9GRERSbk85TU56WFhHQkdhUVpYZEFnRnpqemV3R1NnVzB3bG9PTTREUzdPTmtaRmVoZGhDSi0zOUdERml0ZWJ2QzlKc0pnZHBNSmdxZTZNbk8wMXpfaFE3dzZTd0NIZ3dRM2pPeHJPNS1hSF9UTUU0ZUNyYmcw0gHrAUFVX3lxTE0wbXlRNXBnUDc4aFpmLUdBM05KSjg4aTZEczg2ZF9JRDN2ZDBrQzBXZHpqdF9oYWVCektTeW5zSHZnY04yMTVLbEhfQ0Jmc1ctQ1NVSm9rRUlma2tDamszc3dFXzVQNDZ5WDgzeWhhY0hka1JiT0ZERFJuTzlNTnpYWEdCR2FRWlhkQWdGemp6ZXdHU2dXMHdsb09NNERTN09Oa1pGZWhkaENKLTM5R0RGaXRlYnZDOUpzSmdkcE1KZ3FlNk1uTzAxel9oUTd3NlN3Q0hnd1Ezak94ck81LWFIX1RNRTRlQ3JiZzA?oc=5",
             "source": "ET BrandEquity",
-            "category": "Strategy"
-        },
-        {
-            "title": "Figma\u2019s emotional marketing strategy faces AI\u2019s challenge to design collaboration - Campaign India",
-            "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWJBc05idzl2b0hydFJYdHI2NWVBUlNPZTFveHlQRC1iYWZGQ1phT0RKYzdqellLbEctMHBaVkdUbE1PamJtelQ5bjJVeHlyRWVkbl81Qk9pYjl0SnhlclhvZHQtdmhVdG16dUJ1VWdLcHZQV0pqOFN1S285Q0NjNnRHdzluNkhSMThwUU1XM2tIdm14M1gwRGpvY0NFNDdGcDloejA5RUljRGRWbW0zRllxMi1IQjI0Y3RZ?oc=5",
-            "source": "Campaign India",
-            "category": "Strategy"
-        },
-        {
-            "title": "e4m News Confirmed: Cheil India onboards Reckitt's Geetika Chadha - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQXZmd0RQLVJueV9sZVNjdFdEMVExOXlzWm1STEJkTDhxdUY1WVJFTWxKRmtkNzFUcTJEUWVzLTFRLXQxRTczTVVEVzRLMW1RQ1NqWVJ4VzVXVklhTUtidThSMGtBNHp0VlYwRXgteXdzTVlnQWE2R3BnTUJHZ01mS29WT0tlbXNJY1Y1UnVjUWZTc3poMkdTQ1BOd1BXc1FvQVZxcGRZOGh5b2ZVdVR6eWpKejZVZnpoRmhycnhiTkFlMEJsQWc?oc=5",
-            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
@@ -33,46 +33,46 @@
             "category": "Strategy"
         },
         {
-            "title": "B2B Ecommerce: Models, Trends, and Strategy (2026) - Shopify",
-            "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZRnhpejFQUll6TlVoSGJjaTFZRnBtZTFXZGIxQXVLXzlUQi1SaTNQR013RjFyQU9pTEl1X2lzQ2dtQm5SWDdyblU2SkY0SDhJNW5qYWJBaVdVZ2lZQTYxbm5icmxDTEE?oc=5",
-            "source": "Shopify",
+            "title": "How India Shops Online 2026 - Bain & Company",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
+            "source": "Bain & Company",
             "category": "Retail"
         },
         {
-            "title": "#e4mXplains: Why India is a stress test for agentic commerce - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWVdwU3VBVlJVaHcyUlVGYkNtb2RKLUVDaWxwRkVyajlMWXBzMnctVGxkTlh4eXJYMDRHVG5OR2ZVaTZ1Sm1mOHFSZ0xnTFNlQ1lxQW92QS1xMnlZb29Vd1BHMW52SUE4RENmQXdYcWJKSjBCVzFsQXFjRGhfSk9EMV9Ta084QTR2TldMd2lETmtMMTY2UkFXRUNFV3NWYzA4MGsxa0RR?oc=5",
-            "source": "Exchange4Media",
+            "title": "2025 Social Commerce Trends - DHL",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORG42VHhiRlpBeTRCdFY1aC1tXy14Z0VmQTZIR2tQbjNlQzB4OE8tZEkwcnlfZWh0a0NrLUVnWEpvT1JGd3llTlJPa1lnNTQxX1plbjloX044NzkxcDBULWRqM2xRZGhWTEpCYkNmTHd4LTQ3akUyUTFXLVhRM1BTNHVDbnppamt6eklpbXNEdUtLeGlUcnQxVk83dnBLZVYxVGs3dnE2UC1JUW8?oc=5",
+            "source": "DHL",
             "category": "Retail"
         },
         {
-            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
-            "source": "NIQ",
+            "title": "India\u2019s e-commerce market to grow 12.4% in 2026, forecasts GlobalData - FashionNetwork - The World's Fashion Business News",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzBZTTdTT01MOTU4eGtEOUZwQ1RIampwUXdOYlE2WFJTYlNlYU5uNkxnTjNJUUpqd0Uxd2xEN3FBYmcwM2Y4VU9oNHFrODdEOTdsNjlFY0cyQzVURnJ1OURTcWx4UmhJTGhyYlRzVXlqeVJydFhFaFM1d1BMN3pnSnUwSHB6LUE2ck5hNWRsdGpTd1RJa052MmRRbi1yODV0TTlNRUtONm5rUFpzeVByZGgyQUVmQQ?oc=5",
+            "source": "FashionNetwork - The World's Fashion Business News",
             "category": "Retail"
         },
         {
-            "title": "India's festive season promises strong show as quick commerce reshapes online shopping battle - The Economic Times",
-            "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMHpOZDU2bzBhRzFkd0Y4MzNfeW5Jb0kyOTRHbS1DYWt5M3RYSjBOSVdRZUptRHV1MWE5UVllYVdHWTN3NVJQSmFrb3J1VFNrRkZEdU5JWDZiWV9RdmJJa0VoczdPNVl5UXVYd19YTVktc280Mjhhbm9obGRMMDRKVHJRY2NMVFVvU1pHTzJxVE9VWjRxcno1dEdRWFdGVzhrV1NzOGtQY043dW02TjRoV3hDYm02VTVVZW5aelRmeXB5czhhU0JmNXEzTHdseWtSQjlTMHlCMUJKOFBhOFN5WWpfTzVlTW0tOGlSdmFaQTQ1RW9TZ0hRS2NlbHBhSUJS0gGGAkFVX3lxTE9pVXc5djQ3eG1qSmJ2T1lPZWUwZFA0b1hGZnNndllrdHdRM1dVeVB4VFR6UkNGd1pPMDlNb2tWblFpUWh3NHJZTDRZaGp4SVBIVDAwdFZ3MWRIWHBWcWNJblloVFlxOUlvZGw0RTg2Q0JUVUNXOEtuNHpWdXZ4aXhjMUo0MjRBdkV2Q2owNTByLXpJNHRKOERJcDQ1NjdUMUFRYkZOWmxHaHRfN2tXTXhWOFdzX2hfOFZFV3pYZ3FCSVVGeEpzMGcyckpNLTBQTEpsbmFhZjU1MHdRSzZyUkxMbEhMMzNrZU5WbmJsTXc2bmpCNGpqTlZiellYYWhKX216anRFZEE?oc=5",
-            "source": "The Economic Times",
+            "title": "Top Selling Products in Quick Commerce in India - Shiprocket",
+            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBBY1hxOEM2czRPQmNweFhORXBfZVJITnR4SXdta0xVNGh6YTFkUW5JZFZNaURCY2lpbVh1TVhfR194UWN5dW9VR01ZSDB3OXBTcFoycURHVHlCSDhGVl81cUV1aDNsTWp2eVBCOV92VjFtRkltVERQalBQcw?oc=5",
+            "source": "Shiprocket",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
