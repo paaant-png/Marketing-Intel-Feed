@@ -1,11 +1,11 @@
 {
-    "date": "Friday, 30 October 2026",
+    "date": "Saturday, 31 October 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They playfully roasted users, gamifying data to make sharing a cultural status symbol.",
-        "lesson": "Data is boring. Data identity is viral.",
-        "seed": "spotify4"
+        "brand": "Liquid Death",
+        "campaign": "Murder Your Thirst",
+        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
+        "lesson": "Packaging and attitude can differentiate a pure commodity.",
+        "seed": "liquid5"
     },
     "news": [
         {
@@ -15,9 +15,15 @@
             "category": "Strategy"
         },
         {
-            "title": "Pranav Kapur elevated to Senior Vice President at McCann India - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLXVDUm45SUNFT3A4SWFXcF9PWUlXQUczaGlKRC01MHc3d0Nwd2pxaWExb3ZOM1dreUphNmdUMFVnVlZQeGJCUlVpcUZxQWtFbmRmNzJLZWNieW8waWZxczNyYXNjWlV0Q2JuTGdpd05NS2ZVd0xUQ05welR1R1BmQkZVV29TZzc4djRWaUNKWXlsei1oRmxKVlZSWGt5MmpkZ2RVM016LTdaQzg4VjhCWjlFRk84aGFiaHJ5Z0dFdXNFZ2F2?oc=5",
-            "source": "Exchange4Media",
+            "title": "From Campaigns to AI-Powered Growth: How AI Is Redefining Modern Marketing - https://www.indiagazette.com/",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVY1NGx3ZzRxVzNuMWZlU1dPNUFFb0l1S2NHMnlISlhMN3hmVWNtZjZISDJMbXFyOHVjSDRqTjIyQkd5a3llUUx3TWtIOGw0akJzMFZKTDlxVzZmMWF6MThySTl3ci1LaTdaYXdlWlFsaEl0VmlqclN5akx5N3VsMktnY1BVRVJhd3F4bVB1RWdVMkF1SE01M2ItR0ZfaTZUSWRyMHBuYXdIVk9qMEVTX25OZ3hFeGps?oc=5",
+            "source": "https://www.indiagazette.com/",
+            "category": "Strategy"
+        },
+        {
+            "title": "How jewellery brands are selling the festive dream amid high gold prices - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY20zYmZxY1FXN0NucFVHb1J3WXlwLWRHTUVkSDJxOUE4N0lTMkRJRldWUnp5SzBBVmRUUE1VbnJ0a2N1eHIyZmJvOU5OdkpjSEZnNFpHTzZFYkFtSENlNU1CTEhPTjJqT21Qa2hha1BWQjZxaFhPdWtWS3lhYVl5VlJ4TllleXhFNjk1ejg3TnQ4YlYzdlAzNnFXNVh6TVJ5dTRMejlCZ28zYUM3VmZZSkNZaGtYck1tTl9kYTJwQmYwdEFnNzVydkgyZTJLeUdzQjZ2RzltUVZVRlNZVWlz0gHkAUFVX3lxTE55cFNLMVlpUEZhd1Zkdkxxb0xaTzBnOUxsSGNjTTgzY0tBaHhmR0JHTHJubmE4cUd5SVVuUWxrRE9XX09tTVhPMmFYT1BaUW1SazhQaWY5MXhXQTJ6ZGZLUGhfYjVYWUU3MmZiRWRla1YyY0JYeDVBWWRhcHprRTNiOC14dUVFcU1QWkJiZUxMNHg2QUVxR2FfM25kc2FIVEJLVGZod3BTVU13dWlrVU8ybHhYdmFvWkFTZEVVYWVjUXRfYkpGdWlCMng1bzFBeVJvR285cGw1dUk2dzd4ckwyMkwxTw?oc=5",
+            "source": "ET BrandEquity",
             "category": "Strategy"
         },
         {
@@ -27,10 +33,10 @@
             "category": "Strategy"
         },
         {
-            "title": "Top 10 Best Account-Based Marketing Agencies In India In 2027 - Inventiva",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1hnTDhTcnMxbE4xanZCVXVsVG8wVUZKUDNIN00xUEtQSU5mMXlWZ0dza1M4NmJ5dFFxcFJMUm4yRENNR2ZiMWp4aWtIb0ZjS1lMWEEzaXpwOWNsaXFZd2JtQmRvd1hIQzlNc0tuXzM5bFpwRHJHeldDRXI5c0RjYUpBWFFDblBiSXFXaU1MTmpfWS11NFY0QzRNSEpsdw?oc=5",
-            "source": "Inventiva",
-            "category": "Strategy"
+            "title": "India Ecommerce Platform Market Size, Share,Trends, Growth Analysis Report, 2030 - MarketsandMarkets",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY3hjUDdFYVZyNzYzWDFwOVp2a3ZhbVg3SDFVbEJsZV9FYXR1RFdGVHhUTGtuQTE0c1BoenItTVpUMlU3VUh4RFA2cm5NQXRMcXVhUnVpbEVPRnVhYXZIMDdTYTllSkNQV2NrN0VzZTdvaUlOTmtteVQxX2pMNUMzekdkYjBCVGtVeVNQSHlQMGR5R0Fk?oc=5",
+            "source": "MarketsandMarkets",
+            "category": "Retail"
         },
         {
             "title": "How India Shops Online 2026 - Bain & Company",
@@ -39,40 +45,34 @@
             "category": "Retail"
         },
         {
-            "title": "2025 Social Commerce Trends - DHL",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORG42VHhiRlpBeTRCdFY1aC1tXy14Z0VmQTZIR2tQbjNlQzB4OE8tZEkwcnlfZWh0a0NrLUVnWEpvT1JGd3llTlJPa1lnNTQxX1plbjloX044NzkxcDBULWRqM2xRZGhWTEpCYkNmTHd4LTQ3akUyUTFXLVhRM1BTNHVDbnppamt6eklpbXNEdUtLeGlUcnQxVk83dnBLZVYxVGs3dnE2UC1JUW8?oc=5",
-            "source": "DHL",
+            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
+            "source": "NIQ",
             "category": "Retail"
         },
         {
-            "title": "Evolution of Quick Commerce in India: Key Insights - IBEF",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZm5sY3ZTcThRRFpxdXlFNVMxcU9obzdVUnY5dWxBZUs1U1dFRkxpcEVSR0lVVUFxT1JVS1JWejdzOVR2UHZnTVE3UE1wVVMxWlVjQTlfUWVhVHlkREtnM0h1STZlRldkSGpIWnRCQjFFcWlwd1Y1TVNlOUFaZ1dWVUFrUXk5OWpISDJlNXFyb1hhQUtnQllrREJsSTNFWG5qeUc0?oc=5",
-            "source": "IBEF",
-            "category": "Retail"
-        },
-        {
-            "title": "India\u2019s e-commerce market to grow 12.4% in 2026, forecasts GlobalData - FashionNetwork - The World's Fashion Business News",
-            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzBZTTdTT01MOTU4eGtEOUZwQ1RIampwUXdOYlE2WFJTYlNlYU5uNkxnTjNJUUpqd0Uxd2xEN3FBYmcwM2Y4VU9oNHFrODdEOTdsNjlFY0cyQzVURnJ1OURTcWx4UmhJTGhyYlRzVXlqeVJydFhFaFM1d1BMN3pnSnUwSHB6LUE2ck5hNWRsdGpTd1RJa052MmRRbi1yODV0TTlNRUtONm5rUFpzeVByZGgyQUVmQQ?oc=5",
-            "source": "FashionNetwork - The World's Fashion Business News",
+            "title": "10 Ecommerce trends shaping online shopping in 2026 - Salesforce",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0NEVuNVByM2d6MzVLdG5BUEhsZS11VGJGSEgwaXZteG5DU1RoV1BoUzBubGI1d0lWVlVwWUtoVXlERFFSUWZCNTJWLWRLaVA5Wkx2M3hrUFh4WE5mNnJlWnp3?oc=5",
+            "source": "Salesforce",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
