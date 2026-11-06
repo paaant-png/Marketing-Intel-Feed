@@ -1,11 +1,11 @@
 {
-    "date": "Thursday, 05 November 2026",
+    "date": "Friday, 06 November 2026",
     "story": {
-        "brand": "Burger King",
-        "campaign": "The Moldy Whopper",
-        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
-        "lesson": "Ugly truths are more memorable than pretty lies.",
-        "seed": "bk10"
+        "brand": "Duolingo",
+        "campaign": "Unhinged Mascot Marketing",
+        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
+        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
+        "seed": "duo11"
     },
     "news": [
         {
@@ -15,21 +15,21 @@
             "category": "Strategy"
         },
         {
-            "title": "Jasleen Kaur G takes charge as Head of Marketing at Bata India - MediaNews4U",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlZtZWl1SlBXUVhoM3l2T05RNHdrRXlITzJHdlZMd0Z0TGtfYno4Q3hPcV9xcm9WcGhUZjdqUlYzdmtFcm9KWHppY3E1eC1SMUJkUGZzOG9EODBlOUl1U1NjTHU4T1k1aUJOSnFselVydC1vTUZPOEZZSDJCaUxoYUZpWjk1Ym0tZzZ3SlA5QVhMWTNscGc?oc=5",
-            "source": "MediaNews4U",
-            "category": "Strategy"
-        },
-        {
             "title": "Zee Live names Neha Malhotra as SVP to advance its marketing strategy - marketech apac",
             "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2djMGc3b1FPa3RvWElFUVZyLURyMDV1c3U3a0ZtQ0dBb2ROT2ZUUFV5SFhzNnFXSEhGRUpneGFIRFNOYUVWNThyQVhlSHZZUUdNYV9ZZ2VKNzM1Z2oyc0JBZjFETmZnRHBJZmFhTUVjVUlUVXVaX0Q4dmIzMHkwNTJIam1zQTg4c082Y1VoSGM2S3FuSVNmdjFpRHlGUQ?oc=5",
             "source": "marketech apac",
             "category": "Strategy"
         },
         {
-            "title": "Top 10 Best Amazon Marketing Agencies In India In 2027 - Inventiva",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcG5sWHM2aGVLWG5NaFU0WHlENjZuMkdCeG8wWmplM3J6N003WHdVTmRYSDZwSXB1V1NHbVlmTUJ2V2o2UTBhaU1lZDVka1hIODc2V1hlU293Vy1QVUtQNTBSSGhTa2Y5R2tVa1JqVEV1NUNqeDhBZVJxVmw0S0VSOUJLMGdWSTI5QWlmcjZicUxJRzhr?oc=5",
-            "source": "Inventiva",
+            "title": "Jasleen Kaur G takes charge as Head of Marketing at Bata India - MediaNews4U",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlZtZWl1SlBXUVhoM3l2T05RNHdrRXlITzJHdlZMd0Z0TGtfYno4Q3hPcV9xcm9WcGhUZjdqUlYzdmtFcm9KWHppY3E1eC1SMUJkUGZzOG9EODBlOUl1U1NjTHU4T1k1aUJOSnFselVydC1vTUZPOEZZSDJCaUxoYUZpWjk1Ym0tZzZ3SlA5QVhMWTNscGc?oc=5",
+            "source": "MediaNews4U",
+            "category": "Strategy"
+        },
+        {
+            "title": "Kanika Juneja joins Apollo Tyres as Head of Marketing for India & South-East Asia - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGF6MWk3MEYxS3d2LXdnRGRhNW5UX0ZUQmF1RFlYOFA5REtZWUxTWUwtaklVY0RGQlJXdlZLZHpTc1U0ZGpyMFdkaF9VTl8yUk9OOTVjUFg5dVNkclFsZC1JaHRFdHIySXl1YVVOYk9QekpLb2J2a3l1TzZ6amNxaXZZWHE5YTBpNlZ5Zzh6WlpWcUdhcE80d29PeXJ4ZHE4ZTF6RE03bnRRRWhsV185LXVmdkptdjFEXzhvQy02WUNTeDZEdVRIR3BZVGFGbTFnVUV0c0d4cUtFZ0U?oc=5",
+            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
