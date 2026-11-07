@@ -1,11 +1,11 @@
 {
-    "date": "Friday, 06 November 2026",
+    "date": "Saturday, 07 November 2026",
     "story": {
-        "brand": "Duolingo",
-        "campaign": "Unhinged Mascot Marketing",
-        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
-        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
-        "seed": "duo11"
+        "brand": "Airbnb",
+        "campaign": "Belong Anywhere",
+        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
+        "lesson": "Sell the transformation, not the transaction.",
+        "seed": "airbnb12"
     },
     "news": [
         {
@@ -15,21 +15,21 @@
             "category": "Strategy"
         },
         {
-            "title": "Zee Live names Neha Malhotra as SVP to advance its marketing strategy - marketech apac",
-            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2djMGc3b1FPa3RvWElFUVZyLURyMDV1c3U3a0ZtQ0dBb2ROT2ZUUFV5SFhzNnFXSEhGRUpneGFIRFNOYUVWNThyQVhlSHZZUUdNYV9ZZ2VKNzM1Z2oyc0JBZjFETmZnRHBJZmFhTUVjVUlUVXVaX0Q4dmIzMHkwNTJIam1zQTg4c082Y1VoSGM2S3FuSVNmdjFpRHlGUQ?oc=5",
-            "source": "marketech apac",
+            "title": "\"Hyper-personalisation Remains At The Core Of Visa's Marketing Strategy\", Says Gaurav Ramdev - BW Marketing World",
+            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNk9CSUlKYjk1cDdoczJQY3FfbG1wQmJwbmxsWHZGWDV5V0dKdHdRQ04wZEN2ZWZ5dEFVSW9sTnk3ZTViTjZmVmQxMFdzang1eUtESjdfWnlBNkhaY0U1VlpXNFF6YlJaMkFGT1dMYXkxSGxpLVV6ZjhhQ3c4M1Jna21qWDVsLTBzb1UzZ2FicnRWQlFBeGFja2NOcEpmWFd1S21mRWJHN1ZtOW1WaHdIV3hsSVB1V0FvQmxJN1NKNVQ4bU5Bbi1JenBIY3BZc2I5RVBr?oc=5",
+            "source": "BW Marketing World",
+            "category": "Strategy"
+        },
+        {
+            "title": "Myntra Online Shopping For Men's Shoes - Myntra Marketing Strategy 2025 Bold Moves That Work - auroradesio.it",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXWUhKWGc2M1lTUFpLU0hTVlhxUkVuUkZxMWdzTEl5UmxMMDhrSW1EekFhSW90R2tDRExBYW5EclZmWnNWeEZBZ2tTTVVkUWlwZjJN?oc=5",
+            "source": "auroradesio.it",
             "category": "Strategy"
         },
         {
             "title": "Jasleen Kaur G takes charge as Head of Marketing at Bata India - MediaNews4U",
             "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlZtZWl1SlBXUVhoM3l2T05RNHdrRXlITzJHdlZMd0Z0TGtfYno4Q3hPcV9xcm9WcGhUZjdqUlYzdmtFcm9KWHppY3E1eC1SMUJkUGZzOG9EODBlOUl1U1NjTHU4T1k1aUJOSnFselVydC1vTUZPOEZZSDJCaUxoYUZpWjk1Ym0tZzZ3SlA5QVhMWTNscGc?oc=5",
             "source": "MediaNews4U",
-            "category": "Strategy"
-        },
-        {
-            "title": "Kanika Juneja joins Apollo Tyres as Head of Marketing for India & South-East Asia - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZGF6MWk3MEYxS3d2LXdnRGRhNW5UX0ZUQmF1RFlYOFA5REtZWUxTWUwtaklVY0RGQlJXdlZLZHpTc1U0ZGpyMFdkaF9VTl8yUk9OOTVjUFg5dVNkclFsZC1JaHRFdHIySXl1YVVOYk9QekpLb2J2a3l1TzZ6amNxaXZZWHE5YTBpNlZ5Zzh6WlpWcUdhcE80d29PeXJ4ZHE4ZTF6RE03bnRRRWhsV185LXVmdkptdjFEXzhvQy02WUNTeDZEdVRIR3BZVGFGbTFnVUV0c0d4cUtFZ0U?oc=5",
-            "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
