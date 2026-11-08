@@ -1,11 +1,11 @@
 {
-    "date": "Saturday, 07 November 2026",
+    "date": "Sunday, 08 November 2026",
     "story": {
-        "brand": "Airbnb",
-        "campaign": "Belong Anywhere",
-        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
-        "lesson": "Sell the transformation, not the transaction.",
-        "seed": "airbnb12"
+        "brand": "Zomato",
+        "campaign": "The 'Mood' Notification",
+        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
+        "lesson": "Hyper-contextual triggers beat generic personalization.",
+        "seed": "zomato1"
     },
     "news": [
         {
@@ -15,21 +15,21 @@
             "category": "Strategy"
         },
         {
-            "title": "\"Hyper-personalisation Remains At The Core Of Visa's Marketing Strategy\", Says Gaurav Ramdev - BW Marketing World",
-            "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNk9CSUlKYjk1cDdoczJQY3FfbG1wQmJwbmxsWHZGWDV5V0dKdHdRQ04wZEN2ZWZ5dEFVSW9sTnk3ZTViTjZmVmQxMFdzang1eUtESjdfWnlBNkhaY0U1VlpXNFF6YlJaMkFGT1dMYXkxSGxpLVV6ZjhhQ3c4M1Jna21qWDVsLTBzb1UzZ2FicnRWQlFBeGFja2NOcEpmWFd1S21mRWJHN1ZtOW1WaHdIV3hsSVB1V0FvQmxJN1NKNVQ4bU5Bbi1JenBIY3BZc2I5RVBr?oc=5",
-            "source": "BW Marketing World",
-            "category": "Strategy"
-        },
-        {
-            "title": "Myntra Online Shopping For Men's Shoes - Myntra Marketing Strategy 2025 Bold Moves That Work - auroradesio.it",
-            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXWUhKWGc2M1lTUFpLU0hTVlhxUkVuUkZxMWdzTEl5UmxMMDhrSW1EekFhSW90R2tDRExBYW5EclZmWnNWeEZBZ2tTTVVkUWlwZjJN?oc=5",
+            "title": "Myntra First Time User Coupon - Myntra Marketing Strategy 2025 Bold Moves That Work - auroradesio.it",
+            "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1N1BxVnVFd2l2THh1emluRFlUREpJbUtGYXFmc19LTVVINFNpbnhpdE9hV2ltaFgzYUNhaU9VN2Nrc2NIT1g3WHN0NEtpa2NpQTMw?oc=5",
             "source": "auroradesio.it",
             "category": "Strategy"
         },
         {
-            "title": "Jasleen Kaur G takes charge as Head of Marketing at Bata India - MediaNews4U",
-            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWlZtZWl1SlBXUVhoM3l2T05RNHdrRXlITzJHdlZMd0Z0TGtfYno4Q3hPcV9xcm9WcGhUZjdqUlYzdmtFcm9KWHppY3E1eC1SMUJkUGZzOG9EODBlOUl1U1NjTHU4T1k1aUJOSnFselVydC1vTUZPOEZZSDJCaUxoYUZpWjk1Ym0tZzZ3SlA5QVhMWTNscGc?oc=5",
-            "source": "MediaNews4U",
+            "title": "Petco & Ovative\u2019s retail marketing strategy - Think with Google India - Google Business Profile",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWo5eC1DTUxwTHJHWjI1ZEZETlhYa0JvV3hyYTdLaUNzTklGc2lJX3JEaFJmajBqV0ZTZk9GdDdlNlJVTzVfcmZMeGJqZ3NFYk1ZcVFtY1p6N2ZpQ3dCaTFqVTh3Wm01QjdKWVk5VnhKQ05TTmdfVnRnZHc2eVJ1WTNEQXg1X1BCa3JVTW96Wmwtc3J4b1JsWjF5Z2pJMU5lWUhUc2hILVNzUQ?oc=5",
+            "source": "Google Business Profile",
+            "category": "Strategy"
+        },
+        {
+            "title": "Ikea Marketing Strategy: A Case Study - Simplilearn.com",
+            "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWDd4dDMxWUZsREExdHFIYWY3eXF2d3hJa1VidzV5amdQTElrTzJKZ0p6MDI3dEJaNDJHUHZCTFR5Z25iRjVmb2Fzek5tZTg1bnpIRGR4dDBReGdvLW0zc2F4dTNvaXVuT2pQMmp3SV9jVjVsTXNsY0RhTmZGUThHTmE3eXE0V212U2RDQUpyaHhHa0x1OXZNLTJiOXBNbzJ3cmljVTRyQQ?oc=5",
+            "source": "Simplilearn.com",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
