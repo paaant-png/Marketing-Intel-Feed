@@ -1,11 +1,11 @@
 {
-    "date": "Sunday, 08 November 2026",
+    "date": "Monday, 09 November 2026",
     "story": {
-        "brand": "Zomato",
-        "campaign": "The 'Mood' Notification",
-        "story": "Instead of generic 'Hungry?' notifications, Zomato used AI to predict user mood based on weather and time. A rainy Tuesday automatically triggered 'Chai & Pakoda' prompts.",
-        "lesson": "Hyper-contextual triggers beat generic personalization.",
-        "seed": "zomato1"
+        "brand": "Cred",
+        "campaign": "Indiranagar Ka Gunda",
+        "story": "Cred purposefully used 'anti-casting'\u2014putting a historically calm celebrity (Rahul Dravid) in an angry, chaotic role. This contrast created instant, viral meme material.",
+        "lesson": "Disruption happens when you break an established archetype.",
+        "seed": "cred2"
     },
     "news": [
         {
@@ -21,8 +21,8 @@
             "category": "Strategy"
         },
         {
-            "title": "Petco & Ovative\u2019s retail marketing strategy - Think with Google India - Google Business Profile",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWo5eC1DTUxwTHJHWjI1ZEZETlhYa0JvV3hyYTdLaUNzTklGc2lJX3JEaFJmajBqV0ZTZk9GdDdlNlJVTzVfcmZMeGJqZ3NFYk1ZcVFtY1p6N2ZpQ3dCaTFqVTh3Wm01QjdKWVk5VnhKQ05TTmdfVnRnZHc2eVJ1WTNEQXg1X1BCa3JVTW96Wmwtc3J4b1JsWjF5Z2pJMU5lWUhUc2hILVNzUQ?oc=5",
+            "title": "Brand strategy is marketing\u2019s most urgent AI problem - Google Business Profile",
+            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSUZkRE02TGhESGMwbGhiUUdFaXNFOVB0WDFLZFFFTDBhUWR0ZS1UYnlKZDRQV0xDUjMyUWxrYS1IOVNRT1dqUkI0bTc5T011dEcta2JNdEg2bnJGdldPQThuYW5RQzFDRnZjMXR2czlIUGRQSlZfTGpKMVM4TVN1LTcwYUdRUVQxQzJJSUFNVFVXU0ZUanl3S3ZpeDU?oc=5",
             "source": "Google Business Profile",
             "category": "Strategy"
         },
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
