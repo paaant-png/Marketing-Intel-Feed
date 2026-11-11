@@ -1,23 +1,23 @@
 {
-    "date": "Tuesday, 10 November 2026",
+    "date": "Wednesday, 11 November 2026",
     "story": {
-        "brand": "Nike",
-        "campaign": "Winning Isn't For Everyone",
-        "story": "In 2025, Nike moved away from 'inclusive' messaging back to 'exclusive' grit. They celebrated the ruthless obsession required to win, alienating some to deeply delight their core athletes.",
-        "lesson": "Polarizing messaging builds stronger tribes than neutral messaging.",
-        "seed": "nike3"
+        "brand": "Spotify",
+        "campaign": "Wrapped: The 'Roast'",
+        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They playfully roasted users, gamifying data to make sharing a cultural status symbol.",
+        "lesson": "Data is boring. Data identity is viral.",
+        "seed": "spotify4"
     },
     "news": [
+        {
+            "title": "Swati Gusain Joins Envu As Head Of Marketing & Growth Strategy For India - BW Marketing World",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVo5aHhBS3pyR2xORWhfQUY2ZmMxQkZtZHl6OEdHWjRDclV4LXdFcGwzY200OERfX1BsQ2ZYTkRkSDJWWUV5c21KVGZWd1VROVNYazBDbjd0U3Jpd0lDbi1KU0VvVThoMjFjOVh2WWJsUFE3V2N5TkpSeFhMNXhnOW44MjFnV0o0a20zeGRLNHRtM0xzRzRGNVM0c1lqMjNaMm1PSTBINGV3TVFEdnVqWnNlTFllUEJtYnc?oc=5",
+            "source": "BW Marketing World",
+            "category": "Strategy"
+        },
         {
             "title": "Swati Gusain joins Envu as Head of Marketing & Growth Strategy \u2013 India - Exchange4Media",
             "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNUdMb0Q5bUFkY2U4NUI5VUQ0N0VOQ2hBbmRhRzVDb1ItdV9nRU1mLU9iR2k2OXdSaDltRnAxMjI2UmktOFI1eGxSN29CZW9CRTZhdWNBS0FIYjFzMXNBYUlVNmVlTFVxN3kzUHB1SzRkTjZFT3RDT0sxX201N1QySGk5bVVrU3YzbndoNEpDTWpvblN5Qmc2NEJpVmNpMVdmYnFqd0RuY0lLMjNfajExcjhOSEFISlJITGdINkxMdjFCWThDZ0Z3U1pR?oc=5",
             "source": "Exchange4Media",
-            "category": "Strategy"
-        },
-        {
-            "title": "Envu names Swati Gusain as Head of Marketing & Growth Strategy, India - IMPACT Magazine",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd043OTB4cVhUT05XTlMxWXotUVNiR05zeEhMZXZhZUYxWEQyTzloanlkd2JoUFczRVJMVE1PbUh4WkYydjMtdlNjNzhTVnUwa0hnSklyQXQyZXZrUFN0bFpFdlQybEF1ckNUQnpKUFloOXF1QjZtekFXb040d2lNcUFybzVtOVBTSjBGX2Rfb3A2dlBobjB2VV9UMFkxV2NyLVZIdW15cnlOTE9MNmJDNzFCenZqRFN2RDQ3Rmp2aw?oc=5",
-            "source": "IMPACT Magazine",
             "category": "Strategy"
         },
         {
@@ -27,9 +27,9 @@
             "category": "Strategy"
         },
         {
-            "title": "The Marketing Strategy Behind India's Quick Commerce Revolution - MarkHub24",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JIWGRoaEMzblRySS10WEhwS2NlWFVESXlhZ3lLWnNHQTZVMkF4ekNxelVLNFEtMmZFQ21UYVpZaWZaSXVnMlpSY2M4a3hGcW8wQ3ZuUjM5ckhyek9UOHFHMWluT3dqWHFPNC1jVVIzZ1BRdG40XzB3a3FmTHEzODFNcHluaG1QNTZuVTRiR21uTzVmem13TXhB?oc=5",
-            "source": "MarkHub24",
+            "title": "Envu names Swati Gusain as Head of Marketing & Growth Strategy, India - IMPACT Magazine",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd043OTB4cVhUT05XTlMxWXotUVNiR05zeEhMZXZhZUYxWEQyTzloanlkd2JoUFczRVJMVE1PbUh4WkYydjMtdlNjNzhTVnUwa0hnSklyQXQyZXZrUFN0bFpFdlQybEF1ckNUQnpKUFloOXF1QjZtekFXb040d2lNcUFybzVtOVBTSjBGX2Rfb3A2dlBobjB2VV9UMFkxV2NyLVZIdW15cnlOTE9MNmJDNzFCenZqRFN2RDQ3Rmp2aw?oc=5",
+            "source": "IMPACT Magazine",
             "category": "Strategy"
         },
         {
@@ -45,34 +45,34 @@
             "category": "Retail"
         },
         {
-            "title": "How India Shops Online 2026 - Bain & Company",
-            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
-            "source": "Bain & Company",
+            "title": "Navigating Global Ecommerce Sales Trends - Small Business Trends",
+            "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40QXMwb3B5Qm9RQjFpTGJjMWJxWjNXeDRMSW1rLWg4NTc0NkRhSnNaT3lCSV9mTFJyaDJGWWtpS0NTTk41WHVOMGJIdnR1X1E3blpVOVBEdm5ZR0FSdnhJ?oc=5",
+            "source": "Small Business Trends",
             "category": "Retail"
         },
         {
-            "title": "The Festive Commerce Playbook: 12 Trends Driving E\u2011commerce Growth in India - NIQ",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlAxX0Q1dVU0Y2VHSHZfSThWZWg0bmtnTnFMbkYtVmd1aWs1ZGZDSHJyNEpNVF91RmlSZmcwaUhUZXhwbFdFenJScDdTX1ZNaFZEVS1QVGgtaWNkeXpEeEhNdnItSjhXU09QSzQyZnAxVkJGQnlOUG9uRzVtTWpJSTVTV3lsdUxYbjM0MXpKY1Vqb09NX3BtUUVmVmRyNXYyOUhUZ3U5LV92ZjYxcFRmaWdvUllyNE1ZWmZSTUtYaU1JMEpZeGc0?oc=5",
-            "source": "NIQ",
+            "title": "How India Shops Online 2026 - Bain & Company",
+            "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
+            "source": "Bain & Company",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
