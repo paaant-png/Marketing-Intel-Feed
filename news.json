@@ -1,29 +1,29 @@
 {
-    "date": "Friday, 13 November 2026",
+    "date": "Saturday, 14 November 2026",
     "story": {
-        "brand": "Oatly",
-        "campaign": "The Meta-Billboard",
-        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
-        "lesson": "Self-referential transparency builds instant trust.",
-        "seed": "oatly6"
+        "brand": "Zepto",
+        "campaign": "The 10-Minute Claim",
+        "story": "Instead of vague promises like 'fast delivery', Zepto built their entire brand around a specific, measurable number (10 minutes) and backed it with a countdown timer.",
+        "lesson": "Specific promises always outperform generalized claims.",
+        "seed": "zepto7"
     },
     "news": [
         {
-            "title": "Lenovo Appoints Shilpa Marodia as Marketing Director for India and South Asia - CXO Digitalpulse",
-            "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXljWWRPREhSU1d2NUVyNFFMZFdqNW5RS1JaRnQ2eGpIWm5wMFR1b1pYWFVQajlaNW5IZk0xdzB2RXVEZFRnX210VDBDTHBfZzk0Si13c3ZVMU41ZlN3RGU5NlBzb1hOZnhscDNFdXYzcGtGRS1Ca050U1FqaGQ5NUJRSV8tLXJONzd3bjZrN1BlWV9fSGd6d0xYWWJpU1ZwREFvbjVkeFkzMTNYalVn?oc=5",
-            "source": "CXO Digitalpulse",
+            "title": "Jubilant FoodWorks sees headroom for online delivery growth in India, sharpens digital marketing - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUXdfeU5xaUJldXNVMXhfWWxSUXlCWFo5cTRaeUJFS3NCWThSQkZyNW5uX2JTMjBJSXpoeWVqVGxSZVNIbmtfekJvNm9rclp0blZqWDg0MHJpejJDVWgzczQ1RHFiRDVFSWlQckM4VXdwNGlRanVzUXRtTnRjeTlFT3gtQzJtakx5THE4WHlrdzlPcU1Ic0gtZFcxLWNqLXVmaVkzLVgzcHU2cy1KYUxDM0RXdDRrYTVLWU9xbmstek1xZHZfZV9oQVJwTS03NC0wNW5McExqeUJxNTBHR2gzc2UwcWQzd9IB6wFBVV95cUxPRk4wRlVzZHBMX0YyVlBtUjEzaUFObUVtUVdsXzdWcVdHOXdvbEx1Um11U2VvdjRqWHpJZGRWOG5wcTN4YnQ0VjBrdWlFVGprVnVnbEE1dnpabkxEY2Y0N1lPenZFLWlkR2ktdmtPaG1vbzVBV1NYd3pGZVRFU2ZMWWkwdGRBQ3BxVXdrbEZXMDlaZERwNDdLN1RxVjgtQkk3SEREcWdnTXpzQ1hCWUlyYlRvaW5hLS1FcXBjX20xQmhSWVlvRkw2V0VaUjc4enZjV3NiQnRCNWZtTGNzTVc0NUtPYjRfN1VlTkFr?oc=5",
+            "source": "Storyboard18",
+            "category": "Strategy"
+        },
+        {
+            "title": "BDO India appoints Radhika Shah as associate director, brand, marketing and communications - Indian Television Dot Com",
+            "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbFc1MWM2TlpQQWpQVHkwaTFsRVcxNGVhczdBLUdBRmdpRWxVNkpINnNPUE5SUk53Z2tWblBFZWNwVjZsQ1pVcVFoR0lHRzY1Tk5tRGoxY0N1djhrc0oyS1huTXlld28zS2lFR1dqM1pORE9KWF9HcXNFaDJMYXhPQXNTVWpCMHI1NFBSWjFNM090ME1RS3E1OU5xbFNpZFVvOHRfa3NtSGRpaXFtX1E1elZib3V5ZUtJUEJqaEprazBPZGthQ1E?oc=5",
+            "source": "Indian Television Dot Com",
             "category": "Strategy"
         },
         {
             "title": "aha appoints Megha Soni to lead marketing strategy - Campaign India",
             "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjk1WUdvdTFKQkp4MzVQX05sNkdwNUNib0RUNlBHUE45dmw3Sy1CV1NYc25LalItSTJvX3RZRWt1UmVhano1NUpDc2JhZXdDd1FtWmlNelJmRFZIT0ExMlcxUFoxMUtJRlNvRjl0d2J1NEdtUVE4V0Q1YlhJMi1nNzl6VXFOdGExY1Fkdkl3VWFKX0ZRTE4zSTV0eDlYN0M0MlJHSWd4dl94LUt2NUVoYWtXODI?oc=5",
             "source": "Campaign India",
-            "category": "Strategy"
-        },
-        {
-            "title": "Lenovo appoints Shilpa Marodia as Marketing Director for India and South Asia - EventFAQs",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRmxtakMwSDhnc3ByR1I0YlhydFh2Yy1uZU1nd2dWc2RlNHloekVSaFFreEljMy1oVi1MVkJMU3NqenlldFJmb3lkQk9iaF9VQlZwZUNqVGNtcGQ3Q2otZTRwaThaX0JTYXJvY3V3N1hIU2ZBYldhNnFhUEk3OEYxbWw2eTdBZ2pDLS1BUUthM1N5d2FSQ0x5aklScHYwZ0o1VTFMZEFxMDRJemYyTjZGMmROaTA?oc=5",
-            "source": "EventFAQs",
             "category": "Strategy"
         },
         {
@@ -39,15 +39,15 @@
             "category": "Retail"
         },
         {
-            "title": "India\u2019s e-commerce map is expanding, but where does value lie? - SME Futures",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQajZOTmJBTC1wdlRhU000WTNvVnRfOFJOdDdVRXYxRHprckJiLU1PMGZabzR4aXo4WE5lVTRfZ0I1TEFuR1NzZXlvUmNtelg5bnRqLWduSS13aGcxUWRGcUZCbFloT0hoNzdBS3NPeFppT2NGYmtaRENTdV9LcDF1V3NPV0xRUWM5dG53?oc=5",
-            "source": "SME Futures",
-            "category": "Retail"
-        },
-        {
             "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
             "source": "Bain & Company",
+            "category": "Retail"
+        },
+        {
+            "title": "India\u2019s e-commerce map is expanding, but where does value lie? - SME Futures",
+            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQajZOTmJBTC1wdlRhU000WTNvVnRfOFJOdDdVRXYxRHprckJiLU1PMGZabzR4aXo4WE5lVTRfZ0I1TEFuR1NzZXlvUmNtelg5bnRqLWduSS13aGcxUWRGcUZCbFloT0hoNzdBS3NPeFppT2NGYmtaRENTdV9LcDF1V3NPV0xRUWM5dG53?oc=5",
+            "source": "SME Futures",
             "category": "Retail"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Zero-Party Data",
-            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
+            "topic": "De-Influencing",
+            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
         },
         "ecom": {
-            "topic": "Returnless Refunds",
-            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
+            "topic": "Visual Search",
+            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
         }
     },
     "quiz": {
-        "q": "What is a 'Dark Post'?",
+        "q": "What is 'Share of Voice' (SOV)?",
         "options": [
-            "Unpublished targeted social ad",
-            "Negative brand review",
-            "Night-mode content"
+            "Brand visibility vs competitors",
+            "Total social shares",
+            "Volume of audio ads"
         ],
         "a": 0
     }
