@@ -1,13 +1,37 @@
 {
-    "date": "Tuesday, 17 November 2026",
+    "date": "Wednesday, 18 November 2026",
     "story": {
-        "brand": "Burger King",
-        "campaign": "The Moldy Whopper",
-        "story": "To prove they removed artificial preservatives, Burger King launched an ad campaign showing their flagship burger rotting and covered in mold over 34 days.",
-        "lesson": "Ugly truths are more memorable than pretty lies.",
-        "seed": "bk10"
+        "brand": "Duolingo",
+        "campaign": "Unhinged Mascot Marketing",
+        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
+        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
+        "seed": "duo11"
     },
     "news": [
+        {
+            "title": "IndiGo appoints Vijay Nair as Head of Brand Marketing - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSkI3OUdGeHNfSGRrazJSYm9ZYzZPTXpVeDl2dERVTDYtbUR1VVdlaWZLdm9ybkl1aHpuMmoyTFBfUkhyMFFucWM1RGpiNFBmTTBBS3FON3FBXzJaZ3BDTDZndVpacFRCOE5NY0R6eXRTSHF2d21FWEkxYXJDODh5Q004d2piTDZMSjJVcUlFbzFqLUhmeENwS19YVjlPRE1qTVBkWVZ4bUFPeFRVd1dGY0RpSmhxYlVm?oc=5",
+            "source": "Exchange4Media",
+            "category": "Strategy"
+        },
+        {
+            "title": "The Marketing Strategy Behind India's Quick Commerce Revolution - MarkHub24",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JIWGRoaEMzblRySS10WEhwS2NlWFVESXlhZ3lLWnNHQTZVMkF4ekNxelVLNFEtMmZFQ21UYVpZaWZaSXVnMlpSY2M4a3hGcW8wQ3ZuUjM5ckhyek9UOHFHMWluT3dqWHFPNC1jVVIzZ1BRdG40XzB3a3FmTHEzODFNcHluaG1QNTZuVTRiR21uTzVmem13TXhB?oc=5",
+            "source": "MarkHub24",
+            "category": "Strategy"
+        },
+        {
+            "title": "aha appoints Megha Soni to lead marketing strategy - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjk1WUdvdTFKQkp4MzVQX05sNkdwNUNib0RUNlBHUE45dmw3Sy1CV1NYc25LalItSTJvX3RZRWt1UmVhano1NUpDc2JhZXdDd1FtWmlNelJmRFZIT0ExMlcxUFoxMUtJRlNvRjl0d2J1NEdtUVE4V0Q1YlhJMi1nNzl6VXFOdGExY1Fkdkl3VWFKX0ZRTE4zSTV0eDlYN0M0MlJHSWd4dl94LUt2NUVoYWtXODI?oc=5",
+            "source": "Campaign India",
+            "category": "Strategy"
+        },
+        {
+            "title": "Amazon Marketing Strategy: A Case Study - Simplilearn.com",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDFUd3o3cWM3dTJ0d3prMllYa0p3dU1vMU9EYUQwLTdTbzd1UGZ6UFdxaHBGd252UU82SjN5LXYydG9fUHI4YUlCTHhLZWZHQzZ5b2pBVVBld3ZhRTJxaFB5b1NwU1dXZzE1OEhuTTkwNFVBM2lJUUhmZWZianlWWmxxMjM2RVJXWjdlUENWWTlIeDVoZlNLdV93cw?oc=5",
+            "source": "Simplilearn.com",
+            "category": "Strategy"
+        },
         {
             "title": "How India Shops Online 2026 - Bain",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
@@ -35,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
