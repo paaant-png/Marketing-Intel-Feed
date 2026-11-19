@@ -1,11 +1,11 @@
 {
-    "date": "Wednesday, 18 November 2026",
+    "date": "Thursday, 19 November 2026",
     "story": {
-        "brand": "Duolingo",
-        "campaign": "Unhinged Mascot Marketing",
-        "story": "Instead of polishing their corporate image, Duolingo let their owl mascot trend on TikTok by participating in pop-culture drama and playfully threatening users to do their lessons.",
-        "lesson": "Gen Z prefers corporate self-awareness over corporate professionalism.",
-        "seed": "duo11"
+        "brand": "Airbnb",
+        "campaign": "Belong Anywhere",
+        "story": "Airbnb stopped marketing 'cheap places to stay' and started marketing 'living like a local'. They shifted the focus from the utility of the room to the identity of the traveler.",
+        "lesson": "Sell the transformation, not the transaction.",
+        "seed": "airbnb12"
     },
     "news": [
         {
@@ -27,9 +27,9 @@
             "category": "Strategy"
         },
         {
-            "title": "Amazon Marketing Strategy: A Case Study - Simplilearn.com",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDFUd3o3cWM3dTJ0d3prMllYa0p3dU1vMU9EYUQwLTdTbzd1UGZ6UFdxaHBGd252UU82SjN5LXYydG9fUHI4YUlCTHhLZWZHQzZ5b2pBVVBld3ZhRTJxaFB5b1NwU1dXZzE1OEhuTTkwNFVBM2lJUUhmZWZianlWWmxxMjM2RVJXWjdlUENWWTlIeDVoZlNLdV93cw?oc=5",
-            "source": "Simplilearn.com",
+            "title": "Petco & Ovative\u2019s retail marketing strategy - Think with Google India - Google Business Profile",
+            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdWo5eC1DTUxwTHJHWjI1ZEZETlhYa0JvV3hyYTdLaUNzTklGc2lJX3JEaFJmajBqV0ZTZk9GdDdlNlJVTzVfcmZMeGJqZ3NFYk1ZcVFtY1p6N2ZpQ3dCaTFqVTh3Wm01QjdKWVk5VnhKQ05TTmdfVnRnZHc2eVJ1WTNEQXg1X1BCa3JVTW96Wmwtc3J4b1JsWjF5Z2pJMU5lWUhUc2hILVNzUQ?oc=5",
+            "source": "Google Business Profile",
             "category": "Strategy"
         },
         {
@@ -59,20 +59,20 @@
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
