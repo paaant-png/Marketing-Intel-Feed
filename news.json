@@ -1,13 +1,19 @@
 {
-    "date": "Monday, 23 November 2026",
+    "date": "Tuesday, 24 November 2026",
     "story": {
-        "brand": "Spotify",
-        "campaign": "Wrapped: The 'Roast'",
-        "story": "Spotify didn't just show data; they assigned a 'Sound Town' and 'Vampire' persona. They playfully roasted users, gamifying data to make sharing a cultural status symbol.",
-        "lesson": "Data is boring. Data identity is viral.",
-        "seed": "spotify4"
+        "brand": "Liquid Death",
+        "campaign": "Murder Your Thirst",
+        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
+        "lesson": "Packaging and attitude can differentiate a pure commodity.",
+        "seed": "liquid5"
     },
     "news": [
+        {
+            "title": "India Shelter Finance elevates Ankita Mahajan to SVP - Marketing - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUEhYQTJtbUgyNFdhdnBwQ0MtdEtZWFpMQTQ0Z25vTHBneG1MUi15WjZhblBHdmpvTW9CZ1RXcXljdU95U3RwWUsxdGZkZ0Q5N2xkbXlub0J5RFhvak9nOEszTUo2WlFiZXJEU0VfaDR3NHpZRFlYekpuclViTTUxeklOTzFFUWtxeUJ5TzV6UWJIYjhDcWMxWVNnODhESGZqOUp6NHFvSWR3ZWZnTkRlMWtncXYwRXNRU2pIMUZsRzF1cG5M?oc=5",
+            "source": "Exchange4Media",
+            "category": "Strategy"
+        },
         {
             "title": "The Marketing Strategy Behind India's Quick Commerce Revolution - MarkHub24",
             "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JIWGRoaEMzblRySS10WEhwS2NlWFVESXlhZ3lLWnNHQTZVMkF4ekNxelVLNFEtMmZFQ21UYVpZaWZaSXVnMlpSY2M4a3hGcW8wQ3ZuUjM5ckhyek9UOHFHMWluT3dqWHFPNC1jVVIzZ1BRdG40XzB3a3FmTHEzODFNcHluaG1QNTZuVTRiR21uTzVmem13TXhB?oc=5",
@@ -27,12 +33,6 @@
             "category": "Strategy"
         },
         {
-            "title": "India is a \u2018country of countries\u2019 \u2013 NZ business needs a regional strategy to make the trade deal work - The Conversation",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQektIS3RmSGcwODJXZk1LUUFaajB6SFpHdzAtSGN6VXNuLVhrR0ZWNXJ6Uml2TmtIcE1DLTZFLS1VbGc4Rm15cVNfOEVqYmdUSVJKTzQ2RDVyNjVTM3FGY1MzNzYwTUZSbkptSU01WHZkMTNZc1VSUVpqYnJPVHQ0YmtvenZWQmN6UUdCMlpYMVpxUmNQdTZTSlpKTW9icDl5ZUhobjZaSjd3ODhGbTVnN0Y5dDRlM3BpMzFzZFdXcGhORnFNMGhiNmZyWG0?oc=5",
-            "source": "The Conversation",
-            "category": "Strategy"
-        },
-        {
             "title": "How India Shops Online 2026 - Bain & Company",
             "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1saVlLYy16V25zV0pGam0wU2ozVkZEUmRQVElScWszaTlqV3M0MjlKUEd3bjVEX2owd2VWcHdBQnhPWEViaGc4ZFJabnN5eGk4a3dydFBjRnZheVBFM1QtWWYzZjFiYUNNb3c?oc=5",
             "source": "Bain & Company",
@@ -45,34 +45,34 @@
             "category": "Retail"
         },
         {
-            "title": "Global Ecommerce Statistics and Trends (2027) - Shopify",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiamtTbGdvd2hYYm4tVVJOMWV3RktMRk51WDFLVExTTmhiSFUtQUVtc01ac3NHWGRDTFlNNWxkNzB2TF9wSExXc01CeEwtaEtzSEFJNjRqUmZxb3FaWEotcmV1ZjhITGlxakRzbVktZFdRamNDME90TUhB?oc=5",
-            "source": "Shopify",
-            "category": "Retail"
-        },
-        {
             "title": "India\u2019s e-commerce map is expanding, but where does value lie? - SME Futures",
             "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQajZOTmJBTC1wdlRhU000WTNvVnRfOFJOdDdVRXYxRHprckJiLU1PMGZabzR4aXo4WE5lVTRfZ0I1TEFuR1NzZXlvUmNtelg5bnRqLWduSS13aGcxUWRGcUZCbFloT0hoNzdBS3NPeFppT2NGYmtaRENTdV9LcDF1V3NPV0xRUWM5dG53?oc=5",
             "source": "SME Futures",
+            "category": "Retail"
+        },
+        {
+            "title": "2025 Social Commerce Trends - DHL",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORG42VHhiRlpBeTRCdFY1aC1tXy14Z0VmQTZIR2tQbjNlQzB4OE8tZEkwcnlfZWh0a0NrLUVnWEpvT1JGd3llTlJPa1lnNTQxX1plbjloX044NzkxcDBULWRqM2xRZGhWTEpCYkNmTHd4LTQ3akUyUTFXLVhRM1BTNHVDbnppamt6eklpbXNEdUtLeGlUcnQxVk83dnBLZVYxVGs3dnE2UC1JUW8?oc=5",
+            "source": "DHL",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
