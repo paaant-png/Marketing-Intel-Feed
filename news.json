@@ -1,36 +1,42 @@
 {
-    "date": "Tuesday, 24 November 2026",
+    "date": "Wednesday, 25 November 2026",
     "story": {
-        "brand": "Liquid Death",
-        "campaign": "Murder Your Thirst",
-        "story": "They took the world's most boring product (water), put it in an aluminum tallboy can that looks like craft beer, and used heavy-metal marketing to make hydration cool.",
-        "lesson": "Packaging and attitude can differentiate a pure commodity.",
-        "seed": "liquid5"
+        "brand": "Oatly",
+        "campaign": "The Meta-Billboard",
+        "story": "Oatly ran billboards saying 'We spent a lot of money on this billboard to tell you about oat milk.' It broke the fourth wall of advertising, treating the consumer like an insider.",
+        "lesson": "Self-referential transparency builds instant trust.",
+        "seed": "oatly6"
     },
     "news": [
         {
-            "title": "India Shelter Finance elevates Ankita Mahajan to SVP - Marketing - Exchange4Media",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUEhYQTJtbUgyNFdhdnBwQ0MtdEtZWFpMQTQ0Z25vTHBneG1MUi15WjZhblBHdmpvTW9CZ1RXcXljdU95U3RwWUsxdGZkZ0Q5N2xkbXlub0J5RFhvak9nOEszTUo2WlFiZXJEU0VfaDR3NHpZRFlYekpuclViTTUxeklOTzFFUWtxeUJ5TzV6UWJIYjhDcWMxWVNnODhESGZqOUp6NHFvSWR3ZWZnTkRlMWtncXYwRXNRU2pIMUZsRzF1cG5M?oc=5",
+            "title": "#e4mExclusive: Omnicom Media India wins L\u2019Or\u00e9al\u2019s influencer marketing mandate - Exchange4Media",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV0R2d09DM3BOSlF0cGczTEMxOEF1MmdmelBCRktVLTBaMEd5ZTlFN3dqakd3QnF6eE1ZRk9IMjBVSEw1dFA5ZG9JNDlPa0xLY0pvQnFXRU5UYmJ4b2RaVmh5cXMwTEVPTE1fWm5MNC0tcFN4M0ZfWTh3c28tLUVBdld2c0V2eTA4aGxfSkg3RC0yT21mQlF6Q1VmVnJqQ05VLWo2MnpZNE16R0ZxY2U3SkJoMWRfM1hSTldvcUZR?oc=5",
             "source": "Exchange4Media",
             "category": "Strategy"
         },
         {
-            "title": "The Marketing Strategy Behind India's Quick Commerce Revolution - MarkHub24",
-            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JIWGRoaEMzblRySS10WEhwS2NlWFVESXlhZ3lLWnNHQTZVMkF4ekNxelVLNFEtMmZFQ21UYVpZaWZaSXVnMlpSY2M4a3hGcW8wQ3ZuUjM5ckhyek9UOHFHMWluT3dqWHFPNC1jVVIzZ1BRdG40XzB3a3FmTHEzODFNcHluaG1QNTZuVTRiR21uTzVmem13TXhB?oc=5",
-            "source": "MarkHub24",
+            "title": "L\u2019Or\u00e9al India awards influencer marketing mandate to Omnicom Media - MediaNews4U",
+            "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2txVzhoblpUWWR3U2tadVdid25vZEo4Y2tTX2dTMkFhU3dvQWhkeFBPY0tkSlVXLWYtbUNnWGR1R1RNS0htWkhhV2NOY2dGSE1FYWliUHZuazlvLWtUdWpjVWRHbDA3WXdiSjJQZlo1bnNpY3pvTDM5d09qMFBnNDJOS0w3WnBieG1CU2c2U3JoS2M1RmJpcWpn?oc=5",
+            "source": "MediaNews4U",
             "category": "Strategy"
         },
         {
-            "title": "aha appoints Megha Soni to lead marketing strategy - Campaign India",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdjk1WUdvdTFKQkp4MzVQX05sNkdwNUNib0RUNlBHUE45dmw3Sy1CV1NYc25LalItSTJvX3RZRWt1UmVhano1NUpDc2JhZXdDd1FtWmlNelJmRFZIT0ExMlcxUFoxMUtJRlNvRjl0d2J1NEdtUVE4V0Q1YlhJMi1nNzl6VXFOdGExY1Fkdkl3VWFKX0ZRTE4zSTV0eDlYN0M0MlJHSWd4dl94LUt2NUVoYWtXODI?oc=5",
-            "source": "Campaign India",
+            "title": "The Great Correction: How RMG Ban Flipped India's Influencer Market - ET BrandEquity",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT25rWnpCMGZtZG9Lb25iWDdKQnJGdXZEbnNIX2locnFCV3NGelB6RTR2UnRUdW9LYXJLbHVqOFJHMk9lS1ZDeUlVeVppVTB5M2tiSlpncTBDeldNRWx4djRZY1lSSzdLQk01dV93ZHVjdjhIRWhFRDMtNHE4dXFQSUROal9waEt4Q0xEdWRqZkZnamlhZzMxRGNUc0hsckhoVnRqTEw5ZU5oSUZwOGVYZmp6MEZHeVBVZVpXZmhYcHh2TXg1WDhyQXdHNTBMU00yd3p4VUJR0gHbAUFVX3lxTE95akZEU1poUE90akxSRV9BUlNOU1cyc3VEY1cwUVJ4dVBrMXlOODNSM3FiVC1jaUc3VGhKYlJwU1N5cUFCcEkzcVMyaUE0eWVpNDhSVWU5ZnhPMElSRExuR1pNUjlYUG0tVHJiSVI0aWpDbDNMMHpaY2JicXJxWk5CUm1yOVBrNmpoWVZrWGZpaGxNYnd3eTNmTTdjSDMtYVMzcmYtdDQ4SjZrNlM0azN6SjlnazBkcG9jcXlGOTkyTElyOVpldHhhTUNnMk85Sm1Ub2E0Nl9hcUNNTQ?oc=5",
+            "source": "ET BrandEquity",
             "category": "Strategy"
         },
         {
-            "title": "Yokohama India to Rely on Digital-First, Hyper-Local Strategy for Growth, Says Marketing Head - Autocar Professional",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeWhUOTN3T2dURDZZb2Y3X1gyRjVSM3N4VWVUNmJKdFFGRXVMRFJSckxfbjVIc0pLUWwxeFJ2YWU1dXlidjByYUNEZS04TlFSWFNrSkhjNHV1OFVyQXpOaE9ZN1MxYzVOVkFvYnc5YmZnaXdZbzFNcXV6LV85NER4NnJ4R1BxRG1lcWpuajd1TE52LXlFUnRSWUN4ZWY5VnBtSmhEemNoV3dSYzhDUGNYSTlMSzBobE9kQ2lfTTkzWlBmdDJyZG42YtIB0AFBVV95cUxNa0t1bF91QjFwZkloLVY2VzFTT2l1OTl4M3ZVMmVYNzM4alEtZjhPc0x5bjFjR1ROelBzVVIzd0NWMHp6cmhjOGZBU3E4cGhqSDQyUVZ2bzBna3MxRWZOZURFUTdpUTc2cjQ5a3M0NmdRVHZEcEpWeERQaTV5X2h2MWQxUkVmVk5ZSHkxVklQUThudzhoV0E2UXR5MGRaZW1wd05jUklSRVNoa2JxWC1UWU5CZ2U3b3RCbVJXRzVhaFZfMGdqcFhtNDN4eGhwWnhD?oc=5",
-            "source": "Autocar Professional",
+            "title": "Dhruv Dhawan joins Amazon Ads India as Head of Amazon DSP business - MediaNews4U",
+            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSFdrQ0thTXBFaXJwSmZTR195RzQwSFZBYjJCSkVYY0ZhbXpuRjFZMngzWDd1WFJhZlF1X0xtZU9pWXVrRFFsRzRNS25wcEplZnJZcGtGVk4xeTNjYS1MTW1fUEpWMWZTMUNiZEhtZmVVNE5ZeUc4U3NfN055clRuZ1FBY2UyNE5ZVl92TW90cU5ibUd5VXFubnlJSQ?oc=5",
+            "source": "MediaNews4U",
             "category": "Strategy"
+        },
+        {
+            "title": "Small Carts, Big Business: How India Shopped This Diwali - Open Magazine",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSURQNm9HTDk2cGRRaE5fNkZaT2NnclZ2NDVxS3pXc2lmTDd0aHNyNUhsbVRXQVEtS3lWTllZcVVJRVJPWDV6WW5sdXFyVkZHX202ajYxQnluY1hnSThtVnpDWUdVSVYzZnhERC1wS1VJZGhXbnBQRmhtdFJZOGs2aF9XbkpqYVctUTdELUpVT0xHbkFSV1E?oc=5",
+            "source": "Open Magazine",
+            "category": "Retail"
         },
         {
             "title": "How India Shops Online 2026 - Bain & Company",
@@ -49,30 +55,24 @@
             "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQajZOTmJBTC1wdlRhU000WTNvVnRfOFJOdDdVRXYxRHprckJiLU1PMGZabzR4aXo4WE5lVTRfZ0I1TEFuR1NzZXlvUmNtelg5bnRqLWduSS13aGcxUWRGcUZCbFloT0hoNzdBS3NPeFppT2NGYmtaRENTdV9LcDF1V3NPV0xRUWM5dG53?oc=5",
             "source": "SME Futures",
             "category": "Retail"
-        },
-        {
-            "title": "2025 Social Commerce Trends - DHL",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORG42VHhiRlpBeTRCdFY1aC1tXy14Z0VmQTZIR2tQbjNlQzB4OE8tZEkwcnlfZWh0a0NrLUVnWEpvT1JGd3llTlJPa1lnNTQxX1plbjloX044NzkxcDBULWRqM2xRZGhWTEpCYkNmTHd4LTQ3akUyUTFXLVhRM1BTNHVDbnppamt6eklpbXNEdUtLeGlUcnQxVk83dnBLZVYxVGs3dnE2UC1JUW8?oc=5",
-            "source": "DHL",
-            "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
