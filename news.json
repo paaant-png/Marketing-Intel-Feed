@@ -1,17 +1,17 @@
 {
-    "date": "Thursday, 26 November 2026",
+    "date": "Friday, 27 November 2026",
     "story": {
-        "brand": "Zepto",
-        "campaign": "The 10-Minute Claim",
-        "story": "Instead of vague promises like 'fast delivery', Zepto built their entire brand around a specific, measurable number (10 minutes) and backed it with a countdown timer.",
-        "lesson": "Specific promises always outperform generalized claims.",
-        "seed": "zepto7"
+        "brand": "Dove",
+        "campaign": "Reverse Digital Distortion",
+        "story": "Dove actively campaigned against the 'Bold Glamour' AI filter on TikTok, urging users to turn their backs to the camera to protest synthetic beauty standards.",
+        "lesson": "Taking a stand against a platform trend can win immense loyalty.",
+        "seed": "dove8"
     },
     "news": [
         {
-            "title": "L\u2019Or\u00e9al India awards influencer marketing mandate to Omnicom Media India - marketech apac",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjdXTlR5b0c0amg1WWpOZmdSUVVRSnc1VHR2ZlphUEczMnFrWUFKVlN6VXpqNWhqOHdJZ3h4YjZxbE9aRFB1R19BRmR2Z0dCX0x5cGQ2UzFBUFJFdlhIbTdkTV9PTzZoZE9vTVEzRXZvT1RvMU0yNlFoNXpGZ3BKMHRHSnFKN0luSVB5UUFLNGRRWGJVSUZGd0JHTjN0bEJN?oc=5",
-            "source": "marketech apac",
+            "title": "The Creativity Gap: Why Brands Need a Unified Marketing Strategy | Publicis Groupe's Anupriya Achary - Storyboard18",
+            "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSXFmdGZQaC1PQmVnR2FXTkR2UXEyUXotTFVYSF9pNzJ6cWEzT2NfMUxCMlEwQlF5by1Fc2hKb0FWYkN0SnZyLW5NbWdaVGt4U1RnZ0hReGphWUg1SHBPa3pFbnlHcDVTRVVDMFpwaUVaNmVlMFRXTkJKdkNiREV0UWZSbHJ4TzZBc2dOM1BTWGp0TWxMbDRFbDRQNnJuNVJxSG94eGJRM1RFX1dTRmFYa1JpVVFzQ0x4THpNTXdza3BoYnVfYzFIVFRyRVhDc0NOcHM5YXpzS2JpTTZUSFZ5V0tRNy15RGJHZW04Z1lQaFQ?oc=5",
+            "source": "Storyboard18",
             "category": "Strategy"
         },
         {
@@ -27,10 +27,16 @@
             "category": "Strategy"
         },
         {
-            "title": "Anupriya Dohare Joins Deepsea Technologies as Vice President, Global Strategic Marketing - https://hrtoday.in/",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONG16NTFSUVRjUlV2WEoxS0FZNTFDVVQtVC1LcEZPajlxVGJFQ2ZEOWk4ZmlZb1g2SVF1ckRGM0tNSzRmNWdCeGo4Q3lHeXh2TU5feV9HZkRLNHNqajJNRHZsZ2lVUUgxSWxvMVZ2UDdzUkI1eGlhelFxQlZQemg1UnNldW4tWUE2TlppOXotSGhQWGtLX2owRGFQRGdvSWJhTlFITENYdTJtLUE?oc=5",
-            "source": "https://hrtoday.in/",
+            "title": "L\u2019Or\u00e9al India awards influencer marketing mandate to Omnicom Media India - marketech apac",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjdXTlR5b0c0amg1WWpOZmdSUVVRSnc1VHR2ZlphUEczMnFrWUFKVlN6VXpqNWhqOHdJZ3h4YjZxbE9aRFB1R19BRmR2Z0dCX0x5cGQ2UzFBUFJFdlhIbTdkTV9PTzZoZE9vTVEzRXZvT1RvMU0yNlFoNXpGZ3BKMHRHSnFKN0luSVB5UUFLNGRRWGJVSUZGd0JHTjN0bEJN?oc=5",
+            "source": "marketech apac",
             "category": "Strategy"
+        },
+        {
+            "title": "Small Carts, Big Business: How India Shopped This Diwali - Open Magazine",
+            "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSURQNm9HTDk2cGRRaE5fNkZaT2NnclZ2NDVxS3pXc2lmTDd0aHNyNUhsbVRXQVEtS3lWTllZcVVJRVJPWDV6WW5sdXFyVkZHX202ajYxQnluY1hnSThtVnpDWUdVSVYzZnhERC1wS1VJZGhXbnBQRmhtdFJZOGs2aF9XbkpqYVctUTdELUpVT0xHbkFSV1E?oc=5",
+            "source": "Open Magazine",
+            "category": "Retail"
         },
         {
             "title": "How India Shops Online 2026 - Bain & Company",
@@ -45,34 +51,28 @@
             "category": "Retail"
         },
         {
-            "title": "India\u2019s e-commerce map is expanding, but where does value lie? - SME Futures",
-            "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQajZOTmJBTC1wdlRhU000WTNvVnRfOFJOdDdVRXYxRHprckJiLU1PMGZabzR4aXo4WE5lVTRfZ0I1TEFuR1NzZXlvUmNtelg5bnRqLWduSS13aGcxUWRGcUZCbFloT0hoNzdBS3NPeFppT2NGYmtaRENTdV9LcDF1V3NPV0xRUWM5dG53?oc=5",
-            "source": "SME Futures",
-            "category": "Retail"
-        },
-        {
-            "title": "2025 Social Commerce Trends - DHL",
-            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORG42VHhiRlpBeTRCdFY1aC1tXy14Z0VmQTZIR2tQbjNlQzB4OE8tZEkwcnlfZWh0a0NrLUVnWEpvT1JGd3llTlJPa1lnNTQxX1plbjloX044NzkxcDBULWRqM2xRZGhWTEpCYkNmTHd4LTQ3akUyUTFXLVhRM1BTNHVDbnppamt6eklpbXNEdUtLeGlUcnQxVk83dnBLZVYxVGs3dnE2UC1JUW8?oc=5",
-            "source": "DHL",
+            "title": "10 Ecommerce trends shaping online shopping in 2026 - Salesforce",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0NEVuNVByM2d6MzVLdG5BUEhsZS11VGJGSEgwaXZteG5DU1RoV1BoUzBubGI1d0lWVlVwWUtoVXlERFFSUWZCNTJWLWRLaVA5Wkx2M3hrUFh4WE5mNnJlWnp3?oc=5",
+            "source": "Salesforce",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "De-Influencing",
-            "desc": "The trend where creators tell followers what *not* to buy. Brands must focus on product durability over hype."
+            "topic": "Sonic Branding",
+            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
         },
         "ecom": {
-            "topic": "Visual Search",
-            "desc": "Gen Z is searching with images (Google Lens), not text. SEO now requires high-res, labeled product photography."
+            "topic": "Agentic Commerce",
+            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
         }
     },
     "quiz": {
-        "q": "What is 'Share of Voice' (SOV)?",
+        "q": "What does 'ROAS' stand for?",
         "options": [
-            "Brand visibility vs competitors",
-            "Total social shares",
-            "Volume of audio ads"
+            "Return on Ad Spend",
+            "Rate of Active Sales",
+            "Revenue on Asset Shares"
         ],
         "a": 0
     }
