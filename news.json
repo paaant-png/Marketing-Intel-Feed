@@ -1,17 +1,23 @@
 {
-    "date": "Friday, 27 November 2026",
+    "date": "Saturday, 28 November 2026",
     "story": {
-        "brand": "Dove",
-        "campaign": "Reverse Digital Distortion",
-        "story": "Dove actively campaigned against the 'Bold Glamour' AI filter on TikTok, urging users to turn their backs to the camera to protest synthetic beauty standards.",
-        "lesson": "Taking a stand against a platform trend can win immense loyalty.",
-        "seed": "dove8"
+        "brand": "Patagonia",
+        "campaign": "Don't Buy This Jacket",
+        "story": "On Black Friday, Patagonia ran a full-page ad telling people NOT to buy their products unless absolutely necessary, highlighting the environmental cost of consumerism.",
+        "lesson": "Anti-marketing is the ultimate form of brand authenticity.",
+        "seed": "patagonia9"
     },
     "news": [
         {
             "title": "The Creativity Gap: Why Brands Need a Unified Marketing Strategy | Publicis Groupe's Anupriya Achary - Storyboard18",
             "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSXFmdGZQaC1PQmVnR2FXTkR2UXEyUXotTFVYSF9pNzJ6cWEzT2NfMUxCMlEwQlF5by1Fc2hKb0FWYkN0SnZyLW5NbWdaVGt4U1RnZ0hReGphWUg1SHBPa3pFbnlHcDVTRVVDMFpwaUVaNmVlMFRXTkJKdkNiREV0UWZSbHJ4TzZBc2dOM1BTWGp0TWxMbDRFbDRQNnJuNVJxSG94eGJRM1RFX1dTRmFYa1JpVVFzQ0x4THpNTXdza3BoYnVfYzFIVFRyRVhDc0NOcHM5YXpzS2JpTTZUSFZ5V0tRNy15RGJHZW04Z1lQaFQ?oc=5",
             "source": "Storyboard18",
+            "category": "Strategy"
+        },
+        {
+            "title": "Omnicom Media India wins L\u2019Or\u00e9al India\u2019s influencer marketing mandate - Campaign India",
+            "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbkRpYnBVTDVPSFN4YThpVG12MnJYS0duX0RISFBqVE93OWRGWUZFSlNFaDVKVDFTZkJ6YnJ3NFRFQndLZzR5Z0pmc3hfRjJYaEVrYzNKV29ZV3N1TjUtbjZpN3R2OTRPX1Q4Tkp5WVJMaVYyeTJ3Q2VNYVNkLWlkY252MzRVSTBMX2RXNWFiZlJyYlc4OTFOcXZ3TmtDZjVkQTJNZk5BdWgxN25mNmtzZUQwWjNLWm42V2J1Y2VMMm1YUkJNcGRBV09GdFlQUQ?oc=5",
+            "source": "Campaign India",
             "category": "Strategy"
         },
         {
@@ -24,12 +30,6 @@
             "title": "L\u2019Or\u00e9al's influencer marketing mandate awarded to Omnicom Media estimated at Rs 350-400 crore - ET BrandEquity",
             "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRlE1Nm1ZUUQyMTQ3ZXU0NWpzdnhhRjd1TDRKRmg3WnZoQzZiWGdFN3FhMjJrbkdZOUVJQ2hKY3ptVHVYR0kzNFk2eHpIV0xWcVBjR05QcEhfNTdOVHplZGdWMElFdGs0aVcyRlpXc0NFOWw4SjdvcjZlWUJCaXIyY3VSckt2WEpFNkwwd09IbkV0V1lfUVVjemtyRUtZdnp0TW41eUtUekN4YWtRSmtoTTRWcEJlZVVqemZwN1J4V3hSTTZEM1pzeW1pbC03VDBTUThfaTVDcVoxS1FxaGl1YkV6bXpibWNWSnFraWdFR0hWUGh0b0NnaGZUaE5qbEt40gGGAkFVX3lxTE9BUjcwRnZncnBONndvQUdXUmpUcTloWE1leVlMaXNIbHpRTHdfalJuRXpOX0U1dEllX1YzNGlJSE1oc3pPRE4tRS15THFTb0J0WC1QanR4blBETml4azBhcXN1dTVFX3J2bmNoTmd4bUtfZzNhVE1KeWZzVm1UZ0xzSUREODJ4akt2czlDWXRaZy1UOFkwWDhXRlhxT0JFY3ptNUtNS0F4My02U3o5RWl4VjZWX2lwcmwxLWtRSERiSDFWY1AzMmZQWG1YVHVlanhJOTEzZzNXTkhUV1QzRVFfaFAzMTZsTWZ3UTRBRFkwanRlNmtZVlRRRXJVd2lSZmFfVEREN0E?oc=5",
             "source": "ET BrandEquity",
-            "category": "Strategy"
-        },
-        {
-            "title": "L\u2019Or\u00e9al India awards influencer marketing mandate to Omnicom Media India - marketech apac",
-            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjdXTlR5b0c0amg1WWpOZmdSUVVRSnc1VHR2ZlphUEczMnFrWUFKVlN6VXpqNWhqOHdJZ3h4YjZxbE9aRFB1R19BRmR2Z0dCX0x5cGQ2UzFBUFJFdlhIbTdkTV9PTzZoZE9vTVEzRXZvT1RvMU0yNlFoNXpGZ3BKMHRHSnFKN0luSVB5UUFLNGRRWGJVSUZGd0JHTjN0bEJN?oc=5",
-            "source": "marketech apac",
             "category": "Strategy"
         },
         {
@@ -51,28 +51,28 @@
             "category": "Retail"
         },
         {
-            "title": "10 Ecommerce trends shaping online shopping in 2026 - Salesforce",
-            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0NEVuNVByM2d6MzVLdG5BUEhsZS11VGJGSEgwaXZteG5DU1RoV1BoUzBubGI1d0lWVlVwWUtoVXlERFFSUWZCNTJWLWRLaVA5Wkx2M3hrUFh4WE5mNnJlWnp3?oc=5",
-            "source": "Salesforce",
+            "title": "2025 Social Commerce Trends - DHL",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORG42VHhiRlpBeTRCdFY1aC1tXy14Z0VmQTZIR2tQbjNlQzB4OE8tZEkwcnlfZWh0a0NrLUVnWEpvT1JGd3llTlJPa1lnNTQxX1plbjloX044NzkxcDBULWRqM2xRZGhWTEpCYkNmTHd4LTQ3akUyUTFXLVhRM1BTNHVDbnppamt6eklpbXNEdUtLeGlUcnQxVk83dnBLZVYxVGs3dnE2UC1JUW8?oc=5",
+            "source": "DHL",
             "category": "Retail"
         }
     ],
     "learning": {
         "brand": {
-            "topic": "Sonic Branding",
-            "desc": "Netflix's 'Ta-dum' is worth millions. Brands are now trademarking 3-second audio cues for a screenless future."
+            "topic": "Zero-Party Data",
+            "desc": "Data a customer intentionally shares with a brand (e.g., via a quiz) is replacing cookies as the gold standard of targeting."
         },
         "ecom": {
-            "topic": "Agentic Commerce",
-            "desc": "AI bots are starting to negotiate and buy items on behalf of humans. Marketers must optimize for AI buyers."
+            "topic": "Returnless Refunds",
+            "desc": "Amazon/Walmart now refund cheap items without asking for a return to save shipping costs. A logic shift for logistics."
         }
     },
     "quiz": {
-        "q": "What does 'ROAS' stand for?",
+        "q": "What is a 'Dark Post'?",
         "options": [
-            "Return on Ad Spend",
-            "Rate of Active Sales",
-            "Revenue on Asset Shares"
+            "Unpublished targeted social ad",
+            "Negative brand review",
+            "Night-mode content"
         ],
         "a": 0
     }
